@@ -1,0 +1,9 @@
+tb0124
+
+total_actions: 4477
+right_actions: 1780
+tag_actions: 3776
+recall: 0.397588
+precision: 0.471398
+f_measure: 0.431358
+Time cost 11s

@@ -1,0 +1,2472 @@
+actionDB: tag_actions1
+
+text_num: 0 total sentences: 15  total words: 169
+
+Sentence 0: Accept that your computer is slow
+
+Sentence 1: Don't click anything too fast or try to refresh the page
+dobj:  click ( anything )
+dobj:  refresh ( page )
+
+Sentence 2: Don't overreact
+
+Sentence 3: just leave the computer alone don't click anything the best thing to do is just to let it load.
+Clear your computer of all unnecessary documents
+dobj:  click ( anything )
+
+Sentence 4: Clear your computer of all unnecessary documents
+dobj:  Clear ( computer )
+
+Sentence 5: Clear your recycle bin every once in a while to delete unnecessary files
+dobj:  Clear ( computer )
+
+Sentence 6: Avoid opening up several tabs at once
+dobj:  Clear ( bin )
+dobj:  delete ( files )
+
+Sentence 7: Clicking back and forth between several tabs probably won't happen either
+dobj:  opening ( tabs )
+
+Sentence 8: Save everything you work on several times
+
+Sentence 9: The last thing you want is to have your computer crash as you top off that 10-page essay
+dobj:  Save ( everything )
+
+Sentence 10: Consider using the internet when everyone in your household is asleep or essentially not using the internet
+dobj:  have ( crash )
+dobj:  top ( essay )
+
+Sentence 11: Forget videos
+dobj:  using ( internet )
+dobj:  using ( internet )
+
+Sentence 12: If you have dial-up internet it can take up to half an hour to load one to two-minute video
+dobj:  Forget ( videos )
+
+Sentence 13: Unless you can leave your computer alone for hours to let it load just forget about it
+dobj:  have ( internet )
+dobj:  load ( one )
+
+Sentence 14: You can live without online videos
+dobj:  leave ( computer )
+
+text_num: 1 total sentences: 15  total words: 166
+
+Sentence 0: Adapt a mouse to click with your foot
+dobj:  Adapt ( mouse )
+
+Sentence 1: Obtain a second usb mouse
+dobj:  Obtain ( mouse )
+
+Sentence 2: Use one for moving the cursor
+dobj:  Use ( one )
+dobj:  moving ( cursor )
+
+Sentence 3: Cut 2 short pieces of plastic tubing such as 1.9 cm plastic conduit
+
+Sentence 4: Drill a hole in one side
+dobj:  Drill ( hole )
+
+Sentence 5: Insert a small bit in the drill and drill a small hole on the side opposite the large hole
+dobj:  Insert ( bit )
+dobj:  drill ( hole )
+
+Sentence 6: Repeat for each of the two pieces
+
+Sentence 7: Drill a small pilot hole in each of the two mouse buttons
+dobj:  Drill ( hole )
+
+Sentence 8: Put a bit of glue on the piece of tubing around the small hole
+dobj:  Put ( bit )
+
+Sentence 9: Insert a screw through the hole from inside the tubing
+dobj:  Insert ( screw )
+
+Sentence 10: Using the large hole for screwdriver access screw the piece of tubing onto a mouse button
+dobj:  Using ( hole )
+
+Sentence 11: Repeat for each of the two buttons
+
+Sentence 12: For best ease of use take a piece of Styrofoam insulation board and cut it to around a 1 foot square
+dobj:  take ( piece )
+dobj:  cut ( it )
+
+Sentence 13: Cut a notch in one edge to fit the mouse
+dobj:  Cut ( notch )
+
+Sentence 14: Optionally put foam weatherstripping on top of the tubing to pad it
+dobj:  put ( weatherstripping )
+
+text_num: 2 total sentences: 15  total words: 97
+
+Sentence 0: Clean a cassette deck
+
+Sentence 1: Remove the tape from the deck
+dobj:  Remove ( tape )
+
+Sentence 2: Open up the tape compartment
+dobj:  Open ( compartment )
+
+Sentence 3: Gather Isopropyl alcohol 70-80%
+
+Sentence 4: Soak the Q-tip in the alcohol
+dobj:  Soak ( Q-tip )
+
+Sentence 5: Clean the heads
+
+Sentence 6: Press fast forward and rewind so that the heads move
+
+Sentence 7: Clean the pinch roller
+
+Sentence 8: Press play so the roller is moving when you clean it
+dobj:  clean ( it )
+
+Sentence 9: Clean the capstan
+
+Sentence 10: Using the lens cloth wipe out any other areas that appear dusty or dirty
+dobj:  wipe ( areas )
+dobj:  appear ( dusty )
+
+Sentence 11: Insert your tape
+dobj:  Insert ( tape )
+
+Sentence 12: Rewind the tape to the start then fast forward to the end
+dobj:  Rewind ( tape )
+
+Sentence 13: Rewind and fast forward until the tape plays smoothly
+
+Sentence 14: Enjoy your music
+
+text_num: 3 total sentences: 11  total words: 102
+
+Sentence 0: Change your verizon number online
+dobj:  Change ( number )
+
+Sentence 1: Go to VerizonWireless.com
+
+Sentence 2: Log in as the account owner
+
+Sentence 3: Use your username and password to access your account information
+dobj:  Use ( username )
+dobj:  access ( information )
+
+Sentence 4: If someone else deals with the account you'll need to get the log-in info from them
+dobj:  get ( info )
+
+Sentence 5: Look for the MyPhone actions column
+
+Sentence 6: After you click MyPhone the column will be to the left
+dobj:  click ( MyPhone )
+
+Sentence 7: Below you'll see a link to change your cell phone number
+dobj:  see ( link )
+dobj:  change ( number )
+
+Sentence 8: Walk through the steps
+
+Sentence 9: The steps will guide you through the process of changing your number
+dobj:  guide ( you )
+dobj:  changing ( number )
+
+Sentence 10: Once you've finished the process you'll need to dial *228 and select option 1 to reprogram your phone
+dobj:  finished ( process )
+dobj:  dial ( 228 )
+dobj:  select ( option )
+dobj:  reprogram ( phone )
+
+text_num: 4 total sentences: 15  total words: 163
+
+Sentence 0: Backup and restore from nas with aomei backupper
+
+Sentence 1: Backup to nas with aomei Backupper
+
+Sentence 2: Run aomei Backupper to backup to nas we need to select our nas device as the destination first
+dobj:  select ( device )
+
+Sentence 3: Click the Step2 as the following picture
+dobj:  Click ( Step2 )
+
+Sentence 4: In the pop-up window click Share/NAS Device from the left-bottom panel
+
+Sentence 5: Add our nas device to aomei Backupper
+dobj:  Add ( device )
+
+Sentence 6: Click Add share or nas device button in the lower-left corner
+dobj:  Add ( button )
+
+Sentence 7: Enter the ip address of your nas
+dobj:  Enter ( address )
+
+Sentence 8: You can also input a display name for this nas device
+dobj:  input ( name )
+
+Sentence 9: Now you can find the destination folder in the right-hand side column
+dobj:  find ( folder )
+
+Sentence 10: Check it and then click ok at the bottom to start the back-upping process
+dobj:  Check ( it )
+dobj:  click ( ok )
+dobj:  start ( process )
+
+Sentence 11: Restore from nas with aomei Backupper
+
+Sentence 12: First we need to locate the backup image by clicking on ¡°Restore¡± button in the main interface select the image shown in the list box then click Next
+dobj:  locate ( image )
+dobj:  select ( image )
+
+Sentence 13: Choose a backup point to restore
+dobj:  Choose ( point )
+
+Sentence 14: Select a destination partition to restore then click ¡°Next¡± to commit
+dobj:  Select ( partition )
+dobj:  click ( ± )
+
+text_num: 5 total sentences: 18  total words: 190
+
+Sentence 0: Connect a dvd player to projector
+dobj:  Connect ( player )
+
+Sentence 1: Plug the power cable to the movie projector
+dobj:  Plug ( cable )
+
+Sentence 2: Then plug the cable to an electrical source to wall
+dobj:  plug ( cable )
+
+Sentence 3: Leave this turned off for now
+
+Sentence 4: Plug the dvd player into the power source in the wall as well
+dobj:  Plug ( player )
+
+Sentence 5: Again leave it turned off for now
+
+Sentence 6: Connect the rca cable to the back of the dvd player
+dobj:  Connect ( cable )
+
+Sentence 7: Then connect it to the back of the projector
+dobj:  connect ( it )
+
+Sentence 8: Add speakers if wished
+dobj:  Add ( speakers )
+
+Sentence 9: If you want to use speakers connect your speaker cable usually green to the back of the projector where it says Audio Out
+
+Sentence 10: Turn on the speakers
+
+Sentence 11: Turn on the projector then turn on the dvd player
+dobj:  Turn ( projector )
+
+Sentence 12: Turn the power on at the wall socket first then turn on the actual devices
+dobj:  Turn ( power )
+
+Sentence 13: Troubleshoot if needed
+
+Sentence 14: If you can't see picture on the screen or it says No signal check the rca Cable connection or press the Source button and select Video
+dobj:  see ( picture )
+dobj:  check ( connection )
+dobj:  press ( button )
+dobj:  select ( Video )
+
+Sentence 15: If your projector has a button that says Source Search push that button and it will search for signal itself
+dobj:  has ( button )
+dobj:  push ( button )
+
+Sentence 16: Sit back and enjoy the movie
+dobj:  enjoy ( movie )
+
+Sentence 17: You should be ready to watch your film now
+dobj:  watch ( film )
+
+text_num: 6 total sentences: 16  total words: 152
+
+Sentence 0: Add stationery to Yahoo email
+dobj:  Add ( stationery )
+
+Sentence 1: Visit Yahoo Mail
+
+Sentence 2: Open your preferred browser and go to the Yahoo Mail page
+dobj:  Open ( browser )
+
+Sentence 3: Sign into your Yahoo account
+
+Sentence 4: Enter your Yahoo id or username and password on their respective fields and click the ¡°Sign In¡± button
+dobj:  Enter ( id )
+
+Sentence 5: You will be signed into your Yahoo Mail
+nsubjpass:  signed ( You )
+
+Sentence 6: Compose a new email
+dobj:  Compose ( email )
+
+Sentence 7: Click on the ¡°Compose¡± button at the top left side above ¡°Inbox,¡± to start writing a new email
+dobj:  Click ( ± )
+dobj:  writing ( email )
+
+Sentence 8: Click on the frame icon at the bottom toolbar
+
+Sentence 9: Browse stationeries
+
+Sentence 10: Use the categories to filter the stationeries and use the left and right arrow heads to move through them
+dobj:  Use ( categories )
+dobj:  filter ( stationeries )
+dobj:  use ( arrow )
+
+Sentence 11: Previews of the stationeries make your selection easier
+
+Sentence 12: Click on a stationery to select and use it
+dobj:  select ( it )
+
+Sentence 13: Write your email
+dobj:  Write ( email )
+
+Sentence 14: Continue writing your message on the stationery and click on ¡°Send¡± once you¡¯re done
+dobj:  writing ( message )
+dobj:  ¡ ( re )
+
+Sentence 15: Once your recipient opens the message he or she will view it with your chosen stationery
+dobj:  opens ( message )
+dobj:  view ( it )
+
+text_num: 7 total sentences: 15  total words: 159
+
+Sentence 0: Delete files directly without sending them to Recycle Bin
+dobj:  Delete ( files )
+dobj:  sending ( them )
+
+Sentence 1: Pick your method
+dobj:  Pick ( method )
+
+Sentence 2: There are two methods to directly deleting files in Windows
+dobj:  deleting ( files )
+
+Sentence 3: Changing the Right-Click Deletion Option
+dobj:  Changing ( Option )
+
+Sentence 4: Right click the Recycle Bin and select Properties
+dobj:  click ( Bin )
+dobj:  select ( Properties )
+
+Sentence 5: In the Recycle Bin Properties box choose the Do not move the files to the Recycle Bin option
+dobj:  move ( files )
+
+Sentence 6: Click the ok button
+dobj:  Click ( button )
+
+Sentence 7: After you have completed this the actions that will usually send files to the Recycle Bin will permanently delete them
+dobj:  completed ( this )
+dobj:  send ( files )
+dobj:  delete ( them )
+
+Sentence 8: You can reverse this by choosing the option Custom Size in Recycle Bin Properties
+dobj:  reverse ( this )
+dobj:  choosing ( Size )
+
+Sentence 9: Untick the option Do not move the files to the Recycle Bin in Windows xp
+dobj:  move ( files )
+
+Sentence 10: Deleting Just One File at a Time
+dobj:  Deleting ( File )
+
+Sentence 11: Right click the file that you want to delete permanently
+dobj:  click ( file )
+
+Sentence 12: Hold down the Shift key on your keyboard
+dobj:  Hold ( key )
+
+Sentence 13: While holding the Shift key click Delete or press the Delete or Del button on you keyboard
+dobj:  Delete ( button )
+
+Sentence 14: Confirm the file deletion and the file will be deleted permanently
+nsubjpass:  deleted ( deletion )
+
+text_num: 8 total sentences: 19  total words: 189
+
+Sentence 0: Connect a Camera to a pc
+dobj:  Connect ( Camera )
+
+Sentence 1: Connecting Your Devices Power on your pc
+dobj:  Connecting ( Power )
+
+Sentence 2: Switch your pc on by pressing the Power button
+dobj:  Switch ( pc )
+dobj:  pressing ( button )
+
+Sentence 3: Power on your camera
+
+Sentence 4: Do this by pressing your camera¡¯s Power button until the digital screen lights up
+dobj:  Do ( this )
+dobj:  pressing ( camera )
+
+Sentence 5: Plug in your camera to your pc
+
+Sentence 6: Grab your camera¡¯s usb cable which should come with the camera when you purchased it
+dobj:  Grab ( camera )
+dobj:  purchased ( it )
+
+Sentence 7: Plug in the little end into the camera¡¯s port
+
+Sentence 8: Grab the other end and plug it into a vacant usb port on your computer
+dobj:  Grab ( end )
+dobj:  plug ( it )
+
+Sentence 9: If your computer is a desktop plug it into the rear usb port to ensure the best connection
+dobj:  plug ( it )
+dobj:  ensure ( connection )
+
+Sentence 10: Read the user¡¯s manual if you aren¡¯t sure which cable to use as cameras sometimes come with their own proprietary jack
+dobj:  Read ( user )
+dobj:  use ( which )
+
+Sentence 11: Transferring photos
+
+Sentence 12: Check if a connection has been made
+nsubjpass:  made ( connection )
+
+Sentence 13: Head to My Computer
+
+Sentence 14: You should see a camera icon among the accessible storage devices you can use
+dobj:  see ( icon )
+
+Sentence 15: Click on it
+
+Sentence 16: Click on the dcim folder
+
+Sentence 17: Transfer photos to your pc
+dobj:  Transfer ( photos )
+
+Sentence 18: If you wish to transfer photos to your pc just copy them from your camera and paste them to a place in your pc
+dobj:  transfer ( photos )
+dobj:  transfer ( them )
+dobj:  paste ( them )
+
+text_num: 9 total sentences: 19  total words: 209
+
+Sentence 0: Clean a biometric scanner
+
+Sentence 1: Disconnect the unit from the power source
+dobj:  Disconnect ( unit )
+
+Sentence 2: Keep a soft cloth handy when you are about to start cleaning the scanning area
+dobj:  cleaning ( area )
+
+Sentence 3: Take care while lifting up and removing the front layer of the scanning area
+dobj:  Take ( care )
+dobj:  removing ( layer )
+
+Sentence 4: Remove the part where the finger is placed for scanning
+dobj:  Remove ( part )
+nsubjpass:  placed ( finger )
+
+Sentence 5: Clean the area using a soft piece of cloth
+dobj:  Clean ( area )
+dobj:  using ( piece )
+
+Sentence 6: If there are bigger dirt particles try removing them using a light blower
+dobj:  using ( blower )
+
+Sentence 7: Moisten a lint-free cloth with acetone
+
+Sentence 8: You can also use a cotton swab as an alternative
+dobj:  use ( swab )
+
+Sentence 9: Very gently rub the cloth over the sensor surface in all directions
+dobj:  rub ( cloth )
+
+Sentence 10: Repeat the process twice or thrice until completely clean
+dobj:  Repeat ( process )
+
+Sentence 11: Once the surface is dry cover the area of the sensor
+dobj:  cover ( area )
+
+Sentence 12: Make sure there is no residual solution left over the sensor
+
+Sentence 13: If the scanning area appears cloudy or something gets spilled on it use ammonia based cleaner and clean it with a soft cloth
+nsubjpass:  spilled ( cloudy )
+dobj:  use ( ammonia )
+dobj:  clean ( it )
+
+Sentence 14: Blot the surface dry
+
+Sentence 15: If there¡¯s a sticky residue or underlying oiliness you may scotch tape to get rid of it
+dobj:  scotch ( tape )
+
+Sentence 16: Place it down and then peel it off
+dobj:  Place ( it )
+dobj:  peel ( it )
+
+Sentence 17: Reconnect the terminal after the cleaning process is complete
+dobj:  Reconnect ( terminal )
+
+Sentence 18: Industry solvents may hamper the capturing sensitivity and the device can sometimes fail to recognize the user
+dobj:  hamper ( sensitivity )
+dobj:  recognize ( user )
+
+text_num: 10 total sentences: 17  total words: 230
+
+Sentence 0: Backup your iPhone photos with Google
+dobj:  Backup ( photos )
+
+Sentence 1: Download the Google+ app
+dobj:  Download ( app )
+
+Sentence 2: Open the App Store from your iPhone¡¯s home screen and search for the Google+ app for iOS
+dobj:  Open ( Store )
+
+Sentence 3: Tap ¡°Install¡± beside the application¡¯s name to download and install it on your device
+dobj:  download ( it )
+
+Sentence 4: Launch the Google+ app
+dobj:  Launch ( app )
+
+Sentence 5: Once the installation is complete tap the red ¡°g¡± icon from the homescreen of your iPhone to open the Google+ mobile app
+dobj:  tap ( icon )
+dobj:  open ( app )
+
+Sentence 6: Log into your Google account
+
+Sentence 7: Enter your username and password on the allocated text fields and tap the ¡°Sign In¡± button to log into your Google account
+dobj:  Enter ( username )
+dobj:  tap ( Sign )
+
+Sentence 8: If you don¡¯t have a Google account yet simply tap the ¡°Create an account¡± link at the bottom center of the app screen and enter your full name username of choice and password to get an account instantly
+dobj:  reate ( link )
+dobj:  enter ( username )
+dobj:  get ( account )
+
+Sentence 9: Open the app menu
+dobj:  Open ( menu )
+
+Sentence 10: Tap the menu button on the top left corner and the app menu panel will slide out from the left-hand side of your device screen
+
+Sentence 11: View the Google+ app settings
+
+Sentence 12: Tap the gear icon on the top right corner of the menu to view Google+ application settings
+dobj:  Tap ( icon )
+dobj:  view ( settings )
+
+Sentence 13: Access the Camera and Photos settings
+dobj:  Access ( settings )
+
+Sentence 14: Scroll down the Settings menu and tap ¡°Camera and Photos¡± to open a list of customizable options for managing your Google+ photos and videos
+dobj:  Scroll ( menu )
+dobj:  tap ( amera )
+dobj:  open ( list )
+dobj:  managing ( photos )
+
+Sentence 15: Back up your photos
+
+Sentence 16: Tap the ¡°Auto Backup¡± toggle switch and set it green to enable it
+dobj:  toggle ( switch )
+dobj:  enable ( it )
+
+text_num: 11 total sentences: 15  total words: 211
+
+Sentence 0: Add programs to an os installation disc with UltraISO
+dobj:  Add ( programs )
+
+Sentence 1: Open UltraISO
+
+Sentence 2: In the bottom left of the window find the folder where you saved your installation image to
+dobj:  saved ( image )
+
+Sentence 3: Locate the iso in the folder you have just selected in the section on the right hand side
+dobj:  Locate ( iso )
+
+Sentence 4: Double click this to open it in the section above
+dobj:  click ( this )
+dobj:  open ( it )
+
+Sentence 5: You can now add files in two different ways with the same results
+dobj:  add ( files )
+
+Sentence 6: You can go to Actions in the UltraISO menubar
+
+Sentence 7: Then press either Add Files Or press f3 on your keyboard to add individual files one by one
+dobj:  Add ( f3 )
+dobj:  add ( files )
+
+Sentence 8: Or press Add Directory to add an entire folder
+dobj:  press ( Directory )
+dobj:  add ( folder )
+
+Sentence 9: You can also simply click and drag the folders from Explorer into the UltraISO window where it displays your installation image
+dobj:  click ( folders )
+dobj:  displays ( image )
+
+Sentence 10: You can save files in two different ways with the same results
+dobj:  save ( files )
+
+Sentence 11: Go to File and press Save or you can press Control+S if you want it to be saved in the same file
+dobj:  press ( S )
+dobj:  want ( it )
+
+Sentence 12: Or click Save As if you want to save the iso with the programs separate to the original
+dobj:  save ( iso )
+
+Sentence 13: This can also be done by pressing the small disk buttons on the toolbar below the menu bar
+nsubjpass:  done ( This )
+dobj:  pressing ( buttons )
+
+Sentence 14: Congratulations you have now created your own installation image with your desired programs or drivers
+dobj:  created ( image )
+
+text_num: 12 total sentences: 20  total words: 237
+
+Sentence 0: Close a dialog box
+dobj:  Close ( box )
+
+Sentence 1: Realize that dialog boxes are displayed when there could be a liability issue that could ensue
+nsubjpass:  displayed ( boxes )
+
+Sentence 2: Respond to the dialog box
+
+Sentence 3: Click the Ok or Cancel/Close buttons from the dialog box
+dobj:  Click ( buttons )
+
+Sentence 4: Traditionally closing them could take a click of one of the boxes
+dobj:  take ( click )
+
+Sentence 5: Close the dialog box from the alternate buttons
+dobj:  Close ( box )
+
+Sentence 6: Click the x button from the top right corner of the dialog box that you'd like to close
+dobj:  Click ( button )
+
+Sentence 7: clicking this button should close the box and make it vanish
+dobj:  close ( box )
+
+Sentence 8: however this could sometimes make alternate other boxes open up instead
+
+Sentence 9: use a context-Close task from the taskbar listing for the dialog box that appears
+dobj:  use ( task )
+
+Sentence 10: right-click the icon referring to the dialog box from the Windows taskbar and click Close
+dobj:  right-click ( icon )
+
+Sentence 11: again you might end up with others by doing so but that dialog box will vanish
+
+Sentence 12: utilize the Task Manager in Windows
+dobj:  utilize ( Manager )
+
+Sentence 13: open the Task Manager in Windows single click the line to the dialog box and click End task
+dobj:  open ( Manager )
+
+Sentence 14: if the dialog box is stubborn you might have to do this several times
+dobj:  do ( times )
+
+Sentence 15: close the entire program and any other programs that are open
+dobj:  close ( program )
+
+Sentence 16: do this if no other ideas are successful in closing the problematic dialog box
+dobj:  do ( this )
+dobj:  closing ( box )
+
+Sentence 17: save your work and restart the entire system from scratch
+dobj:  save ( work )
+dobj:  restart ( system )
+
+Sentence 18: hold in the power button for 30 seconds
+
+Sentence 19: let go allow the computer to cool off and restart the computer after 30-60 slowly-counted seconds
+dobj:  allow ( computer )
+
+text_num: 13 total sentences: 18  total words: 168
+
+Sentence 0: connect a Headset to PC
+dobj:  connect ( Headset )
+
+Sentence 1: connecting Your Headset to Your PC
+dobj:  connecting ( Headset )
+
+Sentence 2: insert the headset audio jack into the computer soundboard's audio port
+dobj:  insert ( jack )
+
+Sentence 3: if there isn¡¯t you¡¯ll have to plug it into the rear port
+dobj:  plug ( it )
+
+Sentence 4: for laptops look around the edges to find the port
+dobj:  look ( edges )
+dobj:  find ( port )
+
+Sentence 5: configuring Your Computer¡¯s Sound Output
+dobj:  configuring ( Output )
+
+Sentence 6: head to the Control Panel
+
+Sentence 7: click the Start button in the bottom left hand corner of the screen then enter Control Panel in the search box
+dobj:  click ( button )
+dobj:  enter ( Panel )
+
+Sentence 8: click on Hardware and Sound
+
+Sentence 9: click on Sound
+
+Sentence 10: select the playback device you want to use
+dobj:  select ( device )
+
+Sentence 11: usually you won¡¯t have to change this but this panel is where you test the headset
+dobj:  change ( this )
+dobj:  test ( headset )
+
+Sentence 12: select High-Definition Audio Device
+dobj:  select ( Device )
+
+Sentence 13: right-click on it and click Test
+
+Sentence 14: adjust the volume
+dobj:  adjust ( volume )
+
+Sentence 15: do this by manipulating the volume knobs on your headset
+dobj:  do ( this )
+dobj:  manipulating ( knobs )
+
+Sentence 16: if your headset doesn¡¯t come with knobs head to the bottom right of your taskbar and click on the volume icon signified by a speaker
+
+Sentence 17: you should now be able to enjoy music and sounds through your headset
+dobj:  enjoy ( music )
+
+text_num: 14 total sentences: 16  total words: 159
+
+Sentence 0: choose devices for testing your mobile App
+dobj:  choose ( devices )
+dobj:  testing ( App )
+
+Sentence 1: define your app¡¯s specifications
+dobj:  define ( app )
+
+Sentence 2: include only the devices that support these features
+dobj:  include ( devices )
+dobj:  support ( features )
+
+Sentence 3: make a list of the most popular devices among your app¡¯s users
+dobj:  make ( list )
+
+Sentence 4: evaluate the global market
+dobj:  evaluate ( market )
+
+Sentence 5: also consider region and market statistics
+dobj:  consider ( statistics )
+
+Sentence 6: look for trends and announcements from the leading vendors
+
+Sentence 7: understanding the current trends will help you to predict which brands are likely to become the new leaders in the market as well as specific devices
+dobj:  help ( you )
+dobj:  become ( which )
+
+Sentence 8: build a device coverage matrix
+dobj:  build ( matrix )
+
+Sentence 9: compare and compile all the lists from the above
+dobj:  compare ( lists )
+
+Sentence 10: if some specific devices haven¡¯t been mentioned yet consider adding them too
+dobj:  adding ( them )
+
+Sentence 11: find devices with similar properties
+dobj:  find ( devices )
+
+Sentence 12: check if all the OS versions screens and hardware characteristics are covered and skip the unnecessary devices with similar characteristics
+nsubjpass:  covered ( characteristics )
+dobj:  skip ( devices )
+
+Sentence 13: check device availability in your lab
+dobj:  check ( availability )
+
+Sentence 14: if some are still missing consider renting or buying used models from an online auction or trading site
+dobj:  renting ( models )
+
+Sentence 15: use emulators to extend the coverage of testing
+dobj:  use ( emulators )
+dobj:  extend ( coverage )
+
+text_num: 15 total sentences: 22  total words: 216
+
+Sentence 0: add vector features to an OpenLayers-3-Map
+dobj:  add ( features )
+
+Sentence 1: adding Point and Line String Features
+dobj:  adding ( Point )
+
+Sentence 2: create a point feature
+dobj:  create ( feature )
+
+Sentence 3: simply copy the following line of code into your element
+dobj:  copy ( line )
+
+Sentence 4: set the point's geometry
+dobj:  set ( geometry )
+
+Sentence 5: to tell OpenLayers where to place the point you need to create a geometry and give it a set of coordinates
+dobj:  tell ( OpenLayers )
+dobj:  place ( point )
+dobj:  create ( geometry )
+dobj:  give ( set )
+
+Sentence 6: create a line string feature
+dobj:  create ( feature )
+
+Sentence 7: add the features to a vector layer
+dobj:  add ( features )
+
+Sentence 8: to add the features to the map you need to add them to a source which you add to a vector layer and then add to the map
+dobj:  add ( features )
+dobj:  add ( them )
+dobj:  add ( which )
+
+Sentence 9: transforming the features¡¯ geometries to use coordinates
+dobj:  transforming ( features )
+dobj:  use ( coordinates )
+
+Sentence 10: put the features into an array
+dobj:  put ( features )
+
+Sentence 11: we start by putting the features we want to transform together into an array that we can iterative through
+dobj:  putting ( features )
+
+Sentence 12: write the transform function
+dobj:  write ( function )
+
+Sentence 13: put this transform code into a function that we can call later
+dobj:  put ( code )
+
+Sentence 14: call the transform function on the features
+dobj:  call ( function )
+
+Sentence 15: now simply iterate through the array
+
+Sentence 16: setting the vector layer's style
+dobj:  setting ( style )
+
+Sentence 17: create the fill and stoke
+dobj:  create ( fill )
+
+Sentence 18: create a fill style object and a semi-transparent red colour and a stroke line style that is a solid red line
+dobj:  create ( object )
+
+Sentence 19: create the style and apply it to the layer
+dobj:  create ( style )
+dobj:  apply ( it )
+
+Sentence 20: the OpenLayers style object is quite powerful but we're only going to set the fill and stroke for now
+dobj:  set ( fill )
+
+Sentence 21: check out the finished map
+dobj:  check ( map )
+
+text_num: 16 total sentences: 21  total words: 170
+
+Sentence 0: add TV Shows to iTV Shows on iOS
+dobj:  iTV ( Shows )
+
+Sentence 1: adding TV Shows Directly on the App
+dobj:  adding ( Directly )
+
+Sentence 2: launch iTV Shows
+
+Sentence 3: look for the app icon on your iPad or iPhone and tap on it
+
+Sentence 4: tap ¡°My Shows¡± from the bottom menu to see your shows
+dobj:  tap ( ± )
+dobj:  see ( shows )
+
+Sentence 5: search for a show
+
+Sentence 6: type the name of the show you¡¯d like to add
+dobj:  type ( name )
+
+Sentence 7: a list of matches will appear right under it
+
+Sentence 8: add the show
+dobj:  add ( show )
+
+Sentence 9: do this by tapping on the show from the results
+dobj:  do ( this )
+
+Sentence 10: adding Shows by Syncing TV Shows from trakt.tv
+dobj:  adding ( Shows )
+
+Sentence 11: launch iTV Shows
+
+Sentence 12: look for the app on your iPad or iPhone and tap on it
+
+Sentence 13: enable trakt.tv sync
+dobj:  enable ( sync )
+
+Sentence 14: tap the gear button on the bottom menu for Settings
+dobj:  tap ( button )
+
+Sentence 15: under ¡°Synchronization¡± tap ¡°trakt.tv.¡± Tap the toggle button to green to enable it
+dobj:  Tap ( button )
+dobj:  enable ( it )
+
+Sentence 16: authorize trakt.tv
+dobj:  authorize ( trakt.tv )
+
+Sentence 17: sign in with your trakt.tv account using your registered username and password
+dobj:  using ( username )
+
+Sentence 18: you can also use your Twitter Facebook or Google+ account to sign in
+dobj:  use ( Facebook )
+
+Sentence 19: view your shows
+dobj:  view ( shows )
+
+Sentence 20: tap ¡°My Shows¡± from the bottom menu to see your shows
+dobj:  tap ( ± )
+dobj:  see ( shows )
+
+text_num: 17 total sentences: 22  total words: 163
+
+Sentence 0: start a brotherhood
+dobj:  start ( brotherhood )
+
+Sentence 1: first off you need someone to start a brotherhood with
+dobj:  need ( someone )
+dobj:  start ( brotherhood )
+
+Sentence 2: find people who have the same interests and values as you
+dobj:  find ( people )
+dobj:  have ( interests )
+
+Sentence 3: preferably someone you get along with really well
+
+Sentence 4: find the values and ethics of the brotherhood
+dobj:  find ( values )
+
+Sentence 5: sit down with the soon-to-be members and discuss what you want the brotherhood to focus on
+dobj:  want ( what )
+dobj:  want ( brotherhood )
+
+Sentence 6: hear everyone out
+dobj:  hear ( everyone )
+
+Sentence 7: find a leader
+dobj:  find ( leader )
+
+Sentence 8: if the brotherhood needs a leader you need to discuss who
+dobj:  needs ( leader )
+dobj:  discuss ( who )
+
+Sentence 9: what defines a leader
+dobj:  defines ( leader )
+
+Sentence 10: and Why will this particular person make a good leader
+dobj:  make ( leader )
+
+Sentence 11: you will need an emblem
+dobj:  need ( emblem )
+
+Sentence 12: have everyone get together and talk about what they want the emblem to portray
+dobj:  want ( what )
+dobj:  want ( emblem )
+
+Sentence 13: again let everyone be heard
+dobj:  let ( everyone )
+
+Sentence 14: let the members go home to design a suggestion
+dobj:  go ( home )
+dobj:  design ( suggestion )
+
+Sentence 15: then vote for the suggestions
+
+Sentence 16: best one wins
+
+Sentence 17: start planning
+dobj:  start ( planning )
+
+Sentence 18: find out when you are going to meet
+
+Sentence 19: having a plan really helps the brotherhood to get together rather than fall apart
+dobj:  having ( plan )
+
+Sentence 20: keep in touch
+
+Sentence 21: contact each other over phone Email and Skype.
+
+text_num: 18 total sentences: 17  total words: 198
+
+Sentence 0: become one with yourself
+
+Sentence 1: do some positive thinking
+
+Sentence 2: thinking the best out of every situation is a great way to be happy and be one with yourself
+
+Sentence 3: look for happiness and do things that bring out your best
+dobj:  do ( things )
+dobj:  bring ( best )
+
+Sentence 4: do things that you enjoy
+dobj:  do ( things )
+
+Sentence 5: go out tree- climbing walking jogging and try new things
+dobj:  go ( tree )
+dobj:  climbing ( jogging )
+dobj:  try ( things )
+
+Sentence 6: you will find that when you try new things you can build on them and make it a talent
+dobj:  try ( things )
+dobj:  make ( it )
+dobj:  build ( talent )
+
+Sentence 7: all great famous people started off with hobbies and turned them into something great
+dobj:  turned ( them )
+
+Sentence 8: clear your mind
+dobj:  clear ( mind )
+
+Sentence 9: doing meditation is a great way to clear your mind and become one with yourself
+dobj:  clear ( mind )
+
+Sentence 10: make it a mission to do around 15-30 min meditation a day to help you relax and find your true inner self
+dobj:  relax ( self )
+
+Sentence 11: meditation not only helps you mentally but it also has physical health benefits in your life
+dobj:  has ( benefits )
+
+Sentence 12: love yourself
+dobj:  love ( yourself )
+
+Sentence 13: everyday list good things you do to help others and reflect back on them
+dobj:  help ( others )
+
+Sentence 14: you will learn to respect yourself and others will also respect you
+dobj:  respect ( you )
+
+Sentence 15: doings acts of kindness will help you become a better person and will make you live a happy lifestyle
+dobj:  live ( lifestyle )
+
+Sentence 16: so change today and you will see the benefits.
+dobj:  see ( benefits )
+
+text_num: 19 total sentences: 22  total words: 247
+
+Sentence 0: produce inner peace
+dobj:  produce ( peace )
+
+Sentence 1: try to be alone for some time
+
+Sentence 2: stay in a quiet place
+
+Sentence 3: think about yourself your life your beliefs your values your passions your feelings
+dobj:  yourself ( values )
+
+Sentence 4: and evaluate every area of your life
+dobj:  evaluate ( area )
+
+Sentence 5: find out your qualities and your defaults
+dobj:  find ( qualities )
+
+Sentence 6: invest your qualities and transform your defaults into qualities to boost your personality
+dobj:  invest ( qualities )
+dobj:  transform ( defaults )
+dobj:  boost ( personality )
+
+Sentence 7: try to immerse yourself in new activities and new cultures
+dobj:  immerse ( yourself )
+
+Sentence 8: by doing that you'll be in search for your ego you'll surely find a peace of your puzzle in each culture or activity
+dobj:  find ( peace )
+
+Sentence 9: meditation will provide you an extreme inner silence and self knowledge
+dobj:  provide ( silence )
+
+Sentence 10: love yourself for who you are love the world love people be in alignment with nature and creatures
+dobj:  love ( yourself )
+dobj:  love ( who )
+nsubjpass:  alignment ( people )
+
+Sentence 11: try to love unconditionally and don't look at the world critically
+
+Sentence 12: enjoy your presence enjoy the NOW
+dobj:  enjoy ( NOW )
+
+Sentence 13: look around you look at the objects smell the air feel it listen to every sound
+
+Sentence 14: deprive yourself from your past forget your story
+dobj:  deprive ( yourself )
+dobj:  forget ( story )
+
+Sentence 15: deprive yourself from your future focus on your present you're in the NOW
+dobj:  deprive ( yourself )
+
+Sentence 16: forgive yourself forgive people forgive the universe
+dobj:  forgive ( universe )
+
+Sentence 17: this sounds a little bit uphill but just try it
+dobj:  sounds ( bit )
+dobj:  try ( it )
+
+Sentence 18: every night before you go bed dust off your heart from grief and envies format your mind from all the destroying viruses
+dobj:  go ( dust )
+dobj:  format ( mind )
+
+Sentence 19: be grateful for your precious life your family your loved ones
+
+Sentence 20: be grateful for the air you breathe the water you drink and the health you're enjoying
+dobj:  breathe ( water )
+
+Sentence 21: just remember the nice things you have and BE GRATEFUL!
+dobj:  remember ( things )
+
+text_num: 20 total sentences: 11  total words: 141
+
+Sentence 0: know which side of the car the gas tank is located
+dobj:  located ( side )
+nsubjpass:  located ( tank )
+
+Sentence 1: survey the vehicle¡¯s dashboard
+dobj:  survey ( vehicle )
+
+Sentence 2: identify the gauges and indicators which should always be done anyway when driving a new vehicle
+dobj:  identify ( gauges )
+nsubjpass:  done ( which )
+dobj:  driving ( vehicle )
+
+Sentence 3: look for the fuel gauge in particular to determine if a visit to the gas station should be in order
+
+Sentence 4: focus on the vehicle¡¯s fuel gauge and look for the gas pump icon
+
+Sentence 5: the icon should be located within the circle that contains the gas fill rate
+nsubjpass:  located ( icon )
+dobj:  fill ( rate )
+
+Sentence 6: locate a small arrow situated next to the gas pump icon
+dobj:  locate ( arrow )
+
+Sentence 7: identify the direction in which the triangle is pointing
+dobj:  identify ( direction )
+
+Sentence 8: the top of the triangle will indicate either left or right
+
+Sentence 9: follow the triangle directional to determine the gas tank side
+dobj:  follow ( directional )
+dobj:  determine ( side )
+
+Sentence 10: for example if the top of the triangle is pointing right your gas tank is on the right side of your vehicle.
+
+text_num: 21 total sentences: 17  total words: 211
+
+Sentence 0: move a car
+dobj:  move ( car )
+
+Sentence 1: select an Auto Transport Company
+dobj:  select ( Auto )
+
+Sentence 2: if you have decided to move your car through car shipping companies then all you have to do is choose the best car shipping company
+dobj:  move ( car )
+dobj:  have ( all )
+dobj:  choose ( company )
+
+Sentence 3: visit auto transport review sites check out the auto transport company reviews and rankings and make a list of best car shipping companies
+dobj:  visit ( check )
+dobj:  transport ( reviews )
+dobj:  make ( list )
+
+Sentence 4: choose the Car Transport Services
+dobj:  choose ( Services )
+
+Sentence 5: you can choose among many options
+
+Sentence 6: based on your requirements select any service as you prefer Get Auto Transport Quotes
+dobj:  select ( service )
+dobj:  Get ( Auto )
+
+Sentence 7: then get quotes from the companies you have selected
+dobj:  get ( quotes )
+
+Sentence 8: compare the quotes received and find the company that suits your budget and other requirements
+dobj:  compare ( quotes )
+dobj:  find ( company )
+dobj:  suits ( budget )
+
+Sentence 9: it also depends on various factors like shipping distance car model fuel price Prepare Your Car
+
+Sentence 10: wash your car properly and remove all the extra fittings especially the loose parts and personal items from car
+dobj:  wash ( car )
+dobj:  remove ( fittings )
+
+Sentence 11: don't forget to disable the car alarm Be on time in the mentioned spots both during car pickup and delivery
+dobj:  disable ( Be )
+
+Sentence 12: make a list of already existing damages in your car
+dobj:  make ( list )
+
+Sentence 13: when the car is delivered check out the car condition
+nsubjpass:  delivered ( car )
+dobj:  check ( condition )
+
+Sentence 14: always receive your car
+dobj:  receive ( car )
+
+Sentence 15: in the daytime so that you can check the car thoroughly
+dobj:  check ( car )
+
+Sentence 16: if you find any damages other than already existing damages then you can claim for insurance.
+dobj:  existing ( damages )
+
+text_num: 22 total sentences: 17  total words: 261
+
+Sentence 0: use a laserwash
+dobj:  use ( laserwash )
+
+Sentence 1: pull up to the payment station
+
+Sentence 2: either make a payment and select a wash or enter your wash code to redeem a prepaid wash
+dobj:  make ( payment )
+dobj:  select ( wash )
+dobj:  enter ( code )
+dobj:  redeem ( wash )
+
+Sentence 3: drive forward slowly when instructed to enter the wash bay
+dobj:  enter ( bay )
+
+Sentence 4: some wash packages include an underbody spray which helps clean the underside of your vehicle and the lower side panels
+dobj:  include ( spray )
+dobj:  clean ( underside )
+
+Sentence 5: pull forward slowly until instructed to stop by the audible beep and the in-bay signs
+
+Sentence 6: place your vehicle in Park if automatic or Neutral with the hand brake applied if manual
+dobj:  place ( vehicle )
+
+Sentence 7: if using a LaserWash 4000 you may have to navigate your vehicle's tire on to a treadle a large metal plate on the ground to activate the wash process
+dobj:  navigate ( tire )
+dobj:  activate ( process )
+
+Sentence 8: for all other LaserWash models and some LaserWash 4000 models ultrasonic sensors are used to determine your vehicle's position within the wash bay and monitor your position as you pull in
+nsubjpass:  used ( sensors )
+dobj:  determine ( position )
+dobj:  monitor ( position )
+
+Sentence 9: once you have pulled far enough forward with your front bumper underneath the overhead wash bridge the wash process will begin
+
+Sentence 10: sit tight as the LaserWash process begins
+
+Sentence 11: typically various detergents will be applied followed by high pressure 1000-1200PSI cleaning followed by a spot free rinse
+
+Sentence 12: dry the car
+dobj:  dry ( car )
+
+Sentence 13: after the LaserWash process if a dryer service is available
+
+Sentence 14: you will either remain in place while the dryer moves over your vehicle docking dryer on the LaserWash 4000 on-board or integrated dryer on all other models
+
+Sentence 15: you will pull forward for the dryer service located at the end of the wash bay called a stand-alone dryer
+dobj:  called ( dryer )
+
+Sentence 16: drive slowly when exiting the wash bay
+dobj:  exiting ( bay )
+
+text_num: 23 total sentences: 15  total words: 166
+
+Sentence 0: drive an E-Rickshaw
+dobj:  drive ( E-Rickshaw )
+
+Sentence 1: read the manufacturer's manual before starting
+dobj:  read ( manual )
+
+Sentence 2: it is important to be aware of what all of the controls do to read and understand warnings from the manufacturer and to be able to make full use of emergency procedures if needed
+dobj:  do ( what )
+dobj:  read ( warnings )
+dobj:  make ( use )
+
+Sentence 3: start the vehicle by switching or turning the key
+dobj:  start ( vehicle )
+dobj:  switching ( key )
+
+Sentence 4: start driving
+dobj:  start ( driving )
+
+Sentence 5: just as with a motorcycle or scooter turn the throttle to drive
+dobj:  turn ( throttle )
+
+Sentence 6: since there are no gears to switch you don't need any complex instructions or practice on how to drive
+dobj:  need ( instructions )
+
+Sentence 7: go forward and steer
+
+Sentence 8: be sure to familiarize yourself with this
+dobj:  familiarize ( yourself )
+
+Sentence 9: learn to take corners with care
+dobj:  take ( corners )
+
+Sentence 10: the vehicle does not need to balance but care must be taken while turning most low quality vehicles would just turn over at higher speeds
+nsubjpass:  taken ( care )
+dobj:  turning ( vehicles )
+
+Sentence 11: learn to brake
+
+Sentence 12: press the front brake situated in right hand grip
+dobj:  press ( brake )
+
+Sentence 13: however note that it is not as effective and will not even work in most low quality vehicles
+
+Sentence 14: to turn off the vehicle just turn the key
+dobj:  turn ( vehicle )
+dobj:  turn ( key )
+
+text_num: 24 total sentences: 19  total words: 270
+
+Sentence 0: hook up a trailer
+dobj:  hook ( trailer )
+
+Sentence 1: raise your trailer tongue ball socket or coupler to a height to clear the ball
+dobj:  raise ( socket )
+dobj:  clear ( ball )
+
+Sentence 2: line up the center of your vehicle with the center of your trailer
+dobj:  line ( center )
+
+Sentence 3: use a jack attached to the tongue
+dobj:  use ( jack )
+
+Sentence 4: be sure to jack up enough so you have enough clearance so you do not hit the trailer
+dobj:  have ( clearance )
+dobj:  hit ( trailer )
+
+Sentence 5: stop the vehicle once the tongue coupler is over the ball
+dobj:  stop ( vehicle )
+
+Sentence 6: put the vehicle in park
+dobj:  put ( vehicle )
+
+Sentence 7: turn off the engine
+dobj:  turn ( engine )
+
+Sentence 8: set the emergency brake
+dobj:  set ( brake )
+
+Sentence 9: lower the tongue coupler socket onto the trailer hitch ball until the full weight of the trailer is on the ball
+dobj:  lower ( socket )
+
+Sentence 10: close the coupler clamp securing the ball in the coupler
+dobj:  close ( clamp )
+dobj:  securing ( ball )
+
+Sentence 11: lock the coupler on the ball using a hitch pin or hitch coupler lock
+dobj:  lock ( coupler )
+dobj:  using ( pin )
+
+Sentence 12: run the safety chains under the tongue so they cross one another
+dobj:  run ( chains )
+dobj:  cross ( one )
+
+Sentence 13: plug in the electrical connections for the trailer lights and if applicable plug in the electrical brake on the trailer to the tow vehicle
+
+Sentence 14: you should check to make sure the hitch ball and coupler are firmly attached
+
+Sentence 15: use the tongue jack to rise on the tongue to make sure the tongue coupler does not come off the ball
+dobj:  use ( jack )
+dobj:  come ( ball )
+
+Sentence 16: retract the tongue jack extension and swinging it up and out of the way securing or removing it so it will not fall down while moving
+dobj:  retract ( extension )
+dobj:  securing ( it )
+
+Sentence 17: pull your tow vehicle forward a few feet
+dobj:  pull ( vehicle )
+
+Sentence 18: stop the vehicle put it in park set the emergency brake and turn on the vehicle lights Check and make sure the lights and the stoplights are working on the trailer and nothing has worked loose at the hitch
+dobj:  put ( it )
+dobj:  set ( brake )
+
+text_num: 25 total sentences: 21  total words: 249
+
+Sentence 0: change an Alternator
+dobj:  change ( Alternator )
+
+Sentence 1: disconnect the positive battery cable
+dobj:  disconnect ( cable )
+
+Sentence 2: please take note the positive battery cable is red an not black
+dobj:  take ( note )
+
+Sentence 3: locate the alternator on your particular vehicle
+dobj:  locate ( alternator )
+
+Sentence 4: use a serpentine belt tool to loosen the belt and move it off the pulley of the alternator
+dobj:  use ( tool )
+dobj:  loosen ( belt )
+dobj:  move ( it )
+
+Sentence 5: put back the bolts that hold the alternator in place
+dobj:  put ( bolts )
+dobj:  hold ( alternator )
+
+Sentence 6: employ a socket and ratchet to loosen and remove the bolts
+dobj:  employ ( socket )
+dobj:  loosen ( bolts )
+
+Sentence 7: pull out the alternator then unplug and remove the nut for any electrical connections
+dobj:  pull ( alternator )
+dobj:  pull ( nut )
+
+Sentence 8: remove the alternator from the engine and take it to the parts house in order to get a new or rebuilt one
+dobj:  remove ( alternator )
+dobj:  take ( it )
+dobj:  get ( one )
+
+Sentence 9: inspect the new alternator while still at the parts house comparing it to the old one
+dobj:  inspect ( while )
+dobj:  comparing ( it )
+
+Sentence 10: make sure the voltage regulator and pulley match up to the old one
+dobj:  make ( regulator )
+
+Sentence 11: if it does not get the parts house to put the old pulley assembly on the new one
+dobj:  get ( house )
+dobj:  put ( assembly )
+
+Sentence 12: reverse the process to install the new alternator
+dobj:  reverse ( process )
+dobj:  install ( alternator )
+
+Sentence 13: connect the electrical plugs and wires onto the new alternator
+dobj:  connect ( plugs )
+
+Sentence 14: slide the alternator into place and begin threading the old bolts in the right position
+dobj:  slide ( alternator )
+dobj:  threading ( bolts )
+
+Sentence 15: put the alternator pulley back into place bolting it down
+dobj:  put ( pulley )
+dobj:  bolting ( it )
+
+Sentence 16: be sure to check the alignment with the belt tensioner pulley
+dobj:  check ( alignment )
+
+Sentence 17: use the serpentine belt tool to get the slack you need and slip the belt back over the alternator pulley
+dobj:  use ( tool )
+dobj:  get ( slack )
+
+Sentence 18: now release the tool by putting tension on the belt
+dobj:  release ( tool )
+dobj:  putting ( tension )
+
+Sentence 19: reconnect the positive battery cable
+dobj:  reconnect ( cable )
+
+Sentence 20: start up your car and make sure the alternator is charging
+dobj:  start ( car )
+
+text_num: 26 total sentences: 5  total words: 68
+
+Sentence 0: buy computer speakers
+dobj:  buy ( speakers )
+
+Sentence 1: make sure you have enough room in your budget to afford a new pair of speakers
+dobj:  have ( room )
+dobj:  afford ( pair )
+
+Sentence 2: go to a store that sells speakers
+dobj:  sells ( speakers )
+
+Sentence 3: consider the brand you wish to purchase
+dobj:  consider ( brand )
+
+Sentence 4: make sure you put some substantial research in before making a choice because you do not want to spend a lot of money and end up with a system that does not fit your needs.
+dobj:  put ( research )
+dobj:  making ( choice )
+dobj:  spend ( lot )
+dobj:  fit ( needs )
+
+text_num: 27 total sentences: 9  total words: 92
+
+Sentence 0: charge a mophie juice pack
+dobj:  charge ( pack )
+
+Sentence 1: get the included USB cable
+dobj:  get ( cable )
+
+Sentence 2: take it and inspect for damage as this might cause the device not to charge
+dobj:  take ( it )
+dobj:  cause ( device )
+
+Sentence 3: find a compatible power source
+dobj:  find ( source )
+
+Sentence 4: plug in the USB cable into the Juice Pack
+
+Sentence 5: insert the smaller end of the USB cable into the Juice Pack's charging port
+dobj:  insert ( end )
+
+Sentence 6: you do not need to charge the devices separately as the iPhone will charge first then the Juice Pack
+dobj:  charge ( devices )
+
+Sentence 7: plug the power source into a wall outlet
+dobj:  plug ( source )
+
+Sentence 8: grab the wall charger and insert it into a vacant wall outlet
+dobj:  grab ( charger )
+dobj:  insert ( it )
+
+text_num: 28 total sentences: 12  total words: 105
+
+Sentence 0: avoid duplicate images on your computer
+dobj:  avoid ( images )
+
+Sentence 1: develop a folder system
+dobj:  develop ( system )
+
+Sentence 2: you can use folder upon folder if needed
+dobj:  use ( folder )
+
+Sentence 3: consistently follow an offload method
+dobj:  follow ( method )
+
+Sentence 4: by this save them in the same general folder while deleting the originals off of the camera
+dobj:  save ( them )
+dobj:  deleting ( originals )
+
+Sentence 5: be sure that you do delete the originals so that you don't download them again
+dobj:  delete ( originals )
+dobj:  download ( them )
+
+Sentence 6: be prepared to name them
+dobj:  name ( them )
+
+Sentence 7: you will need to do this because some cameras start over from 'DigiPic001' each time
+dobj:  do ( this )
+dobj:  need ( time )
+
+Sentence 8: organize them
+dobj:  organize ( them )
+
+Sentence 9: when organizing them be sure to move the originals
+dobj:  move ( originals )
+
+Sentence 10: windows should do that automatically unless you are moving them off of the computer
+dobj:  do ( that )
+dobj:  moving ( them )
+
+Sentence 11: find a duplicate file finder
+dobj:  find ( finder )
+
+text_num: 29 total sentences: 12  total words: 159
+
+Sentence 0: build an everyday use desktop PC for under
+dobj:  build ( PC )
+
+Sentence 1: choose your parts
+dobj:  choose ( parts )
+
+Sentence 2: order parts from retailers that are well known and have a good reputation such as Newegg and Amazon
+dobj:  order ( parts )
+nsubjpass:  known ( that )
+dobj:  have ( reputation )
+
+Sentence 3: figure out your budget
+dobj:  figure ( budget )
+
+Sentence 4: you do not have to stick to my $600 budget play around with it if you want as long as it suits your needs and you can afford it by all means go ahead
+dobj:  suits ( needs )
+dobj:  afford ( it )
+
+Sentence 5: check the reviews on products and watch product reviews
+dobj:  check ( reviews )
+dobj:  watch ( reviews )
+
+Sentence 6: makes sure all your parts have good reviews and ratings read all of the reviews some people post thoughtless and meaningless reviews whether they are good or bad
+dobj:  read ( all )
+
+Sentence 7: you do not want to end up with a part that fails or does not work properly
+
+Sentence 8: choose an operating system
+dobj:  choose ( system )
+
+Sentence 9: installing Mac OS X on a custom PC aka Hackintosh is illegal
+dobj:  installing ( X )
+
+Sentence 10: make sure all parts are compatible with each other and your operating system
+
+Sentence 11: buy a case and monitor and assemble your computer.
+dobj:  buy ( case )
+dobj:  monitor ( computer )
+
+text_num: 30 total sentences: 8  total words: 123
+
+Sentence 0: choose a computer brand
+dobj:  choose ( brand )
+
+Sentence 1: assess how the computer will be used
+nsubjpass:  used ( computer )
+
+Sentence 2: once the above step has been established it would be necessary to consider your budget
+nsubjpass:  established ( step )
+dobj:  consider ( budget )
+
+Sentence 3: choose a brand that meets your needs and is reliable
+dobj:  choose ( brand )
+dobj:  meets ( needs )
+
+Sentence 4: choose a computer that uses high quality components
+dobj:  choose ( computer )
+dobj:  uses ( components )
+
+Sentence 5: always do your research on the hardfloppy and CD drivesand video network and sound cards of the computer
+dobj:  do ( research )
+
+Sentence 6: it is important to keep this in mind so if your computer has a problem and needs to be repaired as long as the problem arises within a year after the computer was purchasedany repair can be done for free
+dobj:  keep ( this )
+dobj:  has ( problem )
+
+Sentence 7: it is important to have a warranty for this reason because otherwise it would be expensive to keep paying for repairs
+dobj:  have ( warranty )
+
+text_num: 31 total sentences: 10  total words: 171
+
+Sentence 0: buy electronics online
+dobj:  buy ( electronics )
+
+Sentence 1: identify different websites that offer your desired product
+dobj:  identify ( websites )
+dobj:  offer ( product )
+
+Sentence 2: you can do this by entering the full name of desired product on your favorite search engine and check the lists of the websites that appear
+dobj:  do ( this )
+dobj:  entering ( name )
+dobj:  check ( lists )
+
+Sentence 3: you can clearly differentiate between online retail stores and review sites by simply looking at the domain name of the websites or you could also open each link individually and check
+dobj:  review ( sites )
+dobj:  open ( link )
+
+Sentence 4: compare the prices for that product on all websites and identify the one that is offering the lowest price
+dobj:  compare ( prices )
+dobj:  identify ( one )
+dobj:  offering ( price )
+
+Sentence 5: identify which website has more information on that particular product
+dobj:  has ( which )
+dobj:  has ( information )
+
+Sentence 6: read all the details about that product on the website that was identified in the previous step
+dobj:  read ( details )
+nsubjpass:  identified ( that )
+
+Sentence 7: if it is an affiliate website check which company it is affiliated with
+nsubjpass:  affiliated ( it )
+
+Sentence 8: if it is affiliated with a famous online retail store and does not ask you for your personal or credit card information that means you can trust that affiliate website
+nsubjpass:  affiliated ( it )
+dobj:  ask ( you )
+dobj:  trust ( website )
+
+Sentence 9: purchase the product from the website that you think is the most credible one
+dobj:  purchase ( product )
+
+text_num: 32 total sentences: 12  total words: 202
+
+Sentence 0: adjust to a new computer or new OS
+
+Sentence 1: migrate your files
+dobj:  migrate ( files )
+
+Sentence 2: it is important to back these up and to transfer them to your new computer
+dobj:  back ( these )
+dobj:  transfer ( them )
+
+Sentence 3: import your bookmarks apps and extensions
+dobj:  import ( bookmarks )
+
+Sentence 4: if you use the Chrome browser on another computer sign in to Chrome to save your bookmarks apps and extensions to your account
+dobj:  use ( browser )
+dobj:  save ( apps )
+
+Sentence 5: if you use another browser however you will have to manually sync these by searching the folders were the bookmarks are stored
+dobj:  use ( browser )
+dobj:  sync ( these )
+
+Sentence 6: get familiar with the screens and User Interface layout on your new computer
+dobj:  get ( layout )
+
+Sentence 7: it's crucial to learn the cuts and edges of your new OS before you start using it to the full
+dobj:  learn ( cuts )
+dobj:  using ( it )
+
+Sentence 8: take some time to try those hot new features and write them down if you need to
+dobj:  take ( time )
+dobj:  try ( features )
+
+Sentence 9: find new apps that enhance your computer usage
+dobj:  find ( apps )
+dobj:  enhance ( usage )
+
+Sentence 10: there are thousands of free and paid applications out there try something new whether it's a work app or a game to distract you from office duties
+dobj:  try ( something )
+dobj:  distract ( you )
+
+Sentence 11: don't complicate too much an OS change isn't the changing point of your life or a reason for a Mid-Life Crisis just sit back and enjoy your computer because its job is to simplify your life not to complicate it.
+dobj:  enjoy ( computer )
+dobj:  simplify ( life )
+dobj:  complicate ( it )
+
+text_num: 33 total sentences: 12  total words: 173
+
+Sentence 0: be a computer genius
+
+Sentence 1: first you should learn the basics of computer hardware
+dobj:  learn ( basics )
+
+Sentence 2: open up your PC and check out the internals
+dobj:  open ( PC )
+dobj:  check ( internals )
+
+Sentence 3: next you should learn about computer operating systems
+
+Sentence 4: if you have a friend who is good with computers feel free to ask him/her for tips or explanations on certain components on the computer or operating system that you are wondering about
+dobj:  have ( friend )
+dobj:  ask ( him/her )
+
+Sentence 5: go to the Internet and type in something on Google like computers for beginners or go to the store and buy the book Computers for Dummies
+dobj:  buy ( Computers )
+
+Sentence 6: if you can't find your answer on Google try consulting online forums or social networking websites such as StackOverFlow
+dobj:  try ( forums )
+
+Sentence 7: experiment with what you know and thus learn what you don't know
+dobj:  know ( what )
+dobj:  know ( what )
+
+Sentence 8: study programming languages such as HTML JavaScript PHP SQLVisual basic and Java
+dobj:  study ( languages )
+
+Sentence 9: and at the very least you should know HTML
+dobj:  know ( HTML )
+
+Sentence 10: take computer classes at your high school community college or university
+dobj:  take ( classes )
+
+Sentence 11: explore everything with your computer and make an effort to learn something new every time that you get behind the computer
+dobj:  explore ( everything )
+dobj:  make ( effort )
+dobj:  learn ( something )
+
+text_num: 34 total sentences: 9  total words: 81
+
+Sentence 0: care for a VHS tape
+
+Sentence 1: keep your tape in its box when not being used
+dobj:  keep ( tape )
+
+Sentence 2: store the tape facing upright in a cool dry dark place
+dobj:  store ( tape )
+dobj:  facing ( upright )
+
+Sentence 3: be careful when handling a tape
+dobj:  handling ( tape )
+
+Sentence 4: don't drop it or touch the film part of the tape
+dobj:  drop ( it )
+dobj:  touch ( part )
+
+Sentence 5: always rewind your tapes before storing it
+dobj:  rewind ( tapes )
+
+Sentence 6: always store your tapes away from direct sunlight and heat
+dobj:  store ( tapes )
+
+Sentence 7: keep your VHS tapes away from speakers and Magnets
+dobj:  keep ( tapes )
+
+Sentence 8: never leave the tape in the VCR when you're not watching it
+dobj:  leave ( tape )
+dobj:  watching ( it )
+
+text_num: 35 total sentences: 10  total words: 195
+
+Sentence 0: bring your desktop computer to a foreign country
+dobj:  bring ( computer )
+
+Sentence 1: check the installation guide that came with your computer
+dobj:  check ( guide )
+
+Sentence 2: if your manual says it does run on both or if you cannot find your manual look on the back of your computer
+dobj:  find ( look )
+
+Sentence 3: attached to this tab is a small orange switch that can be moved with a pen or small screwdriver
+nsubjpass:  attached ( switch )
+nsubjpass:  moved ( that )
+
+Sentence 4: you can confirm this by completely disconnecting the power supply and then sliding the switch to one side toward the 115
+dobj:  confirm ( this )
+dobj:  disconnecting ( supply )
+dobj:  sliding ( switch )
+
+Sentence 5: you will still need a plug adapter to convert it to a type C or E plug
+dobj:  need ( adapter )
+dobj:  convert ( it )
+
+Sentence 6: this however will not change the frequency of the current from 50Hz to 60 Hz so you may experience a reduced life expectancy on your computer due to heat build up
+dobj:  change ( frequency )
+
+Sentence 7: if your computer does not have this capability built in you will need to purchase a 230&lt-&gt115 step down transformer to power your computer
+dobj:  have ( capability )
+dobj:  purchase ( 230 )
+dobj:  purchase ( computer )
+
+Sentence 8: you will need the step down transformer to power most other peripherals such as your monitor or printer unless your CPU has outlets on the back that these connect to
+dobj:  need ( step )
+dobj:  has ( outlets )
+
+Sentence 9: i suggest the somewhat higher priced ones with a built in power converter
+dobj:  suggest ( ones )
+
+text_num: 36 total sentences: 14  total words: 157
+
+Sentence 0: clean your electronics
+dobj:  clean ( electronics )
+
+Sentence 1: clean the dust and dirt
+dobj:  clean ( dust )
+
+Sentence 2: when cleaning avoid using a paper towel as it may scratch your equipment
+dobj:  using ( towel )
+dobj:  scratch ( equipment )
+
+Sentence 3: instead use a microfiber cloth for best results
+dobj:  use ( cloth )
+
+Sentence 4: keep cotton swabs or a small art brush handy for reaching small spaces
+dobj:  reaching ( spaces )
+
+Sentence 5: another alternative is to use a can of compressed air to dislodge dust and dirt from small areas like keyboards
+dobj:  use ( can )
+dobj:  dislodge ( dust )
+
+Sentence 6: spray cleaning solution on cloth instead of directly on to gadgets
+dobj:  cleaning ( solution )
+
+Sentence 7: never directly spray cleaning agents on your electronics
+
+Sentence 8: gadgets have various entry points and ventilation holes that might get damaged if you spray directly on the equipment
+dobj:  have ( points )
+
+Sentence 9: spray your cleaning cloth first and then wipe the item down
+dobj:  spray ( cloth )
+dobj:  wipe ( item )
+
+Sentence 10: seal the surface
+dobj:  seal ( surface )
+
+Sentence 11: one of the best things you can do for electronic products with a screen is seal the display surface
+dobj:  seal ( surface )
+
+Sentence 12: invest in protective cases
+
+Sentence 13: keep small electronics like cell phones eReaders and MP3 players in a protective case to help avoid scratches or breakage
+dobj:  keep ( electronics )
+dobj:  avoid ( scratches )
+
+text_num: 37 total sentences: 16  total words: 210
+
+Sentence 0: block Internet Control Message Protocol
+dobj:  block ( Protocol )
+
+Sentence 1: navigate to the Start screen by either clicking the Start icon in the bottom left corner of the screen or pressing the Windows key on your keyboard Type ¡°Windows Firewall¡±
+dobj:  clicking ( icon )
+dobj:  pressing ( key )
+
+Sentence 2: click Windows Firewall once you see it appear on the right-hand side of the screen
+dobj:  click ( Firewall )
+
+Sentence 3: on the left pane of the Windows Firewall menu click ¡°Advanced settings¡± and allow access if asked
+dobj:  allow ( access )
+
+Sentence 4: on the left pane of the Windows Firewall with Advanced Security menu click ¡°Inbound Rules¡±
+
+Sentence 5: under ¡°Actions¡± on the right select ¡°New Rule¡­¡±
+
+Sentence 6: click ¡°Custom¡± then ¡°Next¡±
+dobj:  click ( ± )
+
+Sentence 7: leave ¡°All programs¡± selected then click ¡°Next¡±
+dobj:  leave ( programs )
+
+Sentence 8: on the ¡°Protocol type¡± dropdown menu select ¡°ICMPv4¡± then click ¡°Customize¡±
+
+Sentence 9: research the security advantages of blocking ICMP connections and weigh them against the network implications
+dobj:  research ( advantages )
+dobj:  blocking ( connections )
+dobj:  weigh ( them )
+
+Sentence 10: once you have selected the specific types you would like to block click ¡°OK
+dobj:  selected ( types )
+
+Sentence 11: ¡± For the Scope you can configure whether the rule applies to traffic from certain IP addresses or for all traffic on the network
+
+Sentence 12: on the Action page select ¡±Block the connection¡± then click ¡°Next
+dobj:  select ( connection )
+
+Sentence 13: ¡± Select which profile you want the rule to apply to and click ¡°Next
+dobj:  profile ( you )
+dobj:  want ( rule )
+dobj:  click ( Next )
+
+Sentence 14: give the rule a name and click Finish
+dobj:  give ( Finish )
+
+Sentence 15: you have now created a host-based firewall rule for blocking ICMP traffic
+dobj:  created ( rule )
+dobj:  blocking ( traffic )
+
+text_num: 38 total sentences: 22  total words: 207
+
+Sentence 0: be an awesome player in Growtopia
+
+Sentence 1: share your items with others
+dobj:  share ( items )
+
+Sentence 2: even if you only have a few items because you just started your worldlock give away stuff that you don't need anymore but that other players need
+dobj:  have ( items )
+dobj:  give ( stuff )
+
+Sentence 3: don't let greed take control
+dobj:  take ( control )
+
+Sentence 4: think of others not just yourself
+
+Sentence 5: what you can do is to support others
+dobj:  do ( what )
+dobj:  support ( others )
+
+Sentence 6: like for example if a player's farm in GT is scammed give the player a little pep talk
+dobj:  give ( talk )
+
+Sentence 7: and after you give the pep talk go to their farm and help them for a bit
+dobj:  help ( them )
+
+Sentence 8: help others
+dobj:  help ( others )
+
+Sentence 9: try to tell other players what you know about what they need to know or how to do stuff that they think are impossible to do
+dobj:  tell ( players )
+dobj:  know ( what )
+dobj:  need ( what )
+dobj:  do ( stuff )
+
+Sentence 10: compliment others
+
+Sentence 11: for example tell them that they did a great job or maybe if they start on something new tell them something like nice house man
+dobj:  tell ( them )
+dobj:  did ( job )
+dobj:  tell ( them )
+
+Sentence 12: teach others
+dobj:  teach ( others )
+
+Sentence 13: even if you are a beginner teach others what you know
+dobj:  teach ( others )
+dobj:  know ( what )
+
+Sentence 14: help a new player to learn what that another player has taught you
+dobj:  help ( player )
+dobj:  learn ( what )
+dobj:  taught ( you )
+
+Sentence 15: don't scam or play drop games
+dobj:  scam ( games )
+
+Sentence 16: be polite to others
+
+Sentence 17: don't act badly toward them
+
+Sentence 18: remember you're just starting a new life in Growtopia
+dobj:  starting ( life )
+
+Sentence 19: just tell them something like
+dobj:  tell ( something )
+
+Sentence 20: stop that
+dobj:  stop ( that )
+
+Sentence 21: then ignore them
+dobj:  ignore ( them )
+
+text_num: 39 total sentences: 13  total words: 147
+
+Sentence 0: change advanced features of an OpenLayers-3-Map
+dobj:  change ( features )
+
+Sentence 1: include the OpenLayers CSS file
+
+Sentence 2: openlayers provides a CSS file that sets the appearance of controls really nicely so we should import that first
+dobj:  provides ( file )
+dobj:  sets ( appearance )
+dobj:  import ( first )
+
+Sentence 3: add fullscreen and zoom slider controls
+dobj:  add ( fullscreen )
+dobj:  zoom ( controls )
+
+Sentence 4: zoom in and out buttons and an ¡®i¡¯ button for showing map attributions
+dobj:  zoom ( buttons )
+dobj:  showing ( attributions )
+
+Sentence 5: we'll also add 2 controls of our own which don't require any configuring their default settings are fine
+dobj:  add ( controls )
+dobj:  require ( configuring )
+
+Sentence 6: remove an interaction
+dobj:  remove ( interaction )
+
+Sentence 7: they are invisible and an OpenLayers map will already have several interactions when you create it
+dobj:  have ( interactions )
+dobj:  create ( it )
+
+Sentence 8: one interaction that is sometimes a bother 'zooms the map when you use your mouse wheel'
+dobj:  use ( wheel )
+
+Sentence 9: to remove it iterate through the interactions and remove any that have the same type as ¡®MouseWheelZoom¡¯
+dobj:  remove ( any )
+dobj:  have ( type )
+
+Sentence 10: add a popup overlay
+dobj:  add ( overlay )
+
+Sentence 11: also note that if you'd like to add interactivity
+dobj:  note ( that )
+
+Sentence 12: such as the popup only appearing when you click something that must be added separately
+dobj:  click ( something )
+nsubjpass:  added ( that )
+
+text_num: 40 total sentences: 10  total words: 127
+
+Sentence 0: buy a DVD System with Dual Monitors for a car or minivan
+dobj:  buy ( System )
+
+Sentence 1: determine where you want to install your monitors
+dobj:  install ( monitors )
+
+Sentence 2: depending on your space you have a few options
+dobj:  have ( options )
+
+Sentence 3: you can mount the monitors in the front seat headrests have them mounted into a recess in the back of the front seats or hang them from the ceiling
+dobj:  hang ( them )
+
+Sentence 4: decide which features you would like your DVD system to have
+dobj:  like ( system )
+
+Sentence 5: optimize your viewing experience with a surround sound speaker installation
+dobj:  optimize ( experience )
+
+Sentence 6: conduct an online search for DVD system manufacturers
+dobj:  conduct ( search )
+
+Sentence 7: request brochures from each manufacturer on their line of products and use those brochures to decide which products best match your wants and needs
+dobj:  request ( brochures )
+dobj:  use ( brochures )
+dobj:  match ( which )
+
+Sentence 8: shop around for your product and compare prices
+dobj:  compare ( prices )
+
+Sentence 9: be sure to explore all of the following
+dobj:  explore ( all )
+
+text_num: 41 total sentences: 11  total words: 210
+
+Sentence 0: build a computer using tangible acoustic interfaces
+dobj:  build ( computer )
+dobj:  using ( interfaces )
+
+Sentence 1: first thing you¡¯re going to need is motherboard
+nsubjpass:  motherboard ( thing )
+dobj:  ¡ ( re )
+
+Sentence 2: it is the heart and soul of any computer and this should really be your first consideration when you begin thinking of assembling your own system
+dobj:  assembling ( system )
+
+Sentence 3: you do not need to spend a fortune to purchase a good quality motherboard that will combine with additional components to make a high specification computing device that¡¯s been configured with your demands in mind
+dobj:  spend ( fortune )
+dobj:  purchase ( motherboard )
+dobj:  make ( device )
+nsubjpass:  configured ( ¯ )
+
+Sentence 4: if you need your CPU board to support graphics card then this will apparently have an effect on your final decision
+dobj:  need ( board )
+dobj:  support ( card )
+dobj:  have ( effect )
+
+Sentence 5: you'll also need to consider the speed of the processor and it is truly up to you whether you choose on the C.P.U
+dobj:  consider ( speed )
+
+Sentence 6: or the motherboard 1st - just make certain that they are well-matched
+
+Sentence 7: if you need a number of different USB ports you should as well check this out when picking out your motherboard
+dobj:  need ( number )
+dobj:  check ( this )
+dobj:  picking ( motherboard )
+
+Sentence 8: whilst most of them support numerous USBs these days it is always best to make certain
+
+Sentence 9: folks frequently assume that this comes as standards but that is by no means the case
+
+Sentence 10: it is a good idea to have a list of requirements that you can then cross-index versus each motherboard ahead arriving at your final decision
+dobj:  have ( list )
+
+text_num: 42 total sentences: 10  total words: 109
+
+Sentence 0: understand agnosticism
+dobj:  understand ( agnosticism )
+
+Sentence 1: read the tips in this wikiHow article
+dobj:  read ( tips )
+
+Sentence 2: as our goal is to understand agnosticism we have to gather information about this worldview
+dobj:  understand ( agnosticism )
+dobj:  gather ( information )
+
+Sentence 3: read the Wikipedia article about agnosticism
+dobj:  read ( article )
+
+Sentence 4: search Facebook or other social media websites for groups of agnostics and join them
+dobj:  search ( Facebook )
+dobj:  join ( them )
+
+Sentence 5: you will also make new like-minded friends
+dobj:  make ( friends )
+
+Sentence 6: if you live in a progressive community seek out agnostic groups that gather in your local community
+dobj:  seek ( groups )
+
+Sentence 7: you may be able to find them through the local listings or by searching online at event sites like Meetup
+dobj:  find ( them )
+
+Sentence 8: keep an open mind when learning about agnosticism
+dobj:  keep ( mind )
+
+Sentence 9: talk about the different views and have varied discussions with your fellow agnostics
+dobj:  have ( discussions )
+
+text_num: 43 total sentences: 14  total words: 157
+
+Sentence 0: create the thoughts you want
+dobj:  create ( thoughts )
+
+Sentence 1: be conscious
+
+Sentence 2: you should be conscious of your thoughts
+
+Sentence 3: don¡¯t try to control them in this phase as that may lead to stress
+dobj:  control ( them )
+
+Sentence 4: just be conscious Pause
+
+Sentence 5: whenever you become conscious of a negative thought passing through your brain just pause that thought
+
+Sentence 6: you can even visualize as if there is a ¡®pause¡¯ button somewhere near to your right ear and just press that button and pause the thought
+dobj:  press ( button )
+dobj:  pause ( thought )
+
+Sentence 7: replay
+
+Sentence 8: replay that thought in your mind
+
+Sentence 9: here also you can visualize a ¡®Play ¡® button next to the ¡®pause¡¯ button
+dobj:  visualize ( button )
+
+Sentence 10: ask
+
+Sentence 11: reframe the need statement in the present tense as mind operates in the present
+dobj:  reframe ( statement )
+
+Sentence 12: now you press the 'Play' button and hear the sound ¡°I am winning the contract come what may.¡± Replay this statement again and again and again
+dobj:  press ( button )
+dobj:  hear ( ° )
+dobj:  winning ( contract )
+
+Sentence 13: while you are driving to the client's office to sign that contract let this statement be played continuously in your brain.
+dobj:  sign ( contract )
+nsubjpass:  played ( statement )
+
+text_num: 44 total sentences: 13  total words: 210
+
+Sentence 0: choose a crystal that works for you
+dobj:  choose ( crystal )
+
+Sentence 1: open your mind to the idea that each crystal has an exclusive 'energy medicine' that can assist you in your life right now
+dobj:  open ( mind )
+dobj:  has ( medicine )
+dobj:  assist ( you )
+
+Sentence 2: remember the Ancients have known about the power of crystals for centuries
+
+Sentence 3: allow yourself to be intuitive to the process of choosing a crystal instead of thinking too much about it
+dobj:  allow ( yourself )
+dobj:  choosing ( crystal )
+
+Sentence 4: so 'think less and feel more'
+dobj:  think ( less )
+dobj:  think ( more )
+
+Sentence 5: be specific about your issue before choosing a crystal
+dobj:  choosing ( crystal )
+
+Sentence 6: so take some time to write down the problem that you want some healing energy assistance with
+dobj:  take ( time )
+dobj:  write ( problem )
+dobj:  want ( assistance )
+
+Sentence 7: ask the Universe just before you are about to pick a crystal 'reveal to me directly which crystal I need right now to help me
+dobj:  ask ( Universe )
+dobj:  pick ( crystal )
+dobj:  need ( crystal )
+dobj:  help ( me )
+
+Sentence 8: let the crystal reveal itself to you
+dobj:  reveal ( itself )
+
+Sentence 9: use your hands to feel the energy of the crystals to know which ones you are more sensitive to
+dobj:  use ( hands )
+dobj:  feel ( energy )
+
+Sentence 10: if you are buying crystals online and can't have the hands-on experience of feeling the energy of a crystal you might want to work with simply write the name of several crystals you are interested in on pieces of paper
+dobj:  have ( experience )
+dobj:  feeling ( energy )
+dobj:  write ( name )
+
+Sentence 11: put these in a box and pull out a paper at random
+dobj:  put ( these )
+dobj:  pull ( paper )
+
+Sentence 12: whatever the crystal is you select this is the one you will use first.
+dobj:  is ( whatever )
+
+text_num: 45 total sentences: 6  total words: 93
+
+Sentence 0: check for Diagnostic Trouble Codes
+
+Sentence 1: get into your vehicle and make sure the hood rear tailgate and all doors on your vehicle are shut
+nsubjpass:  shut ( tailgate )
+
+Sentence 2: insert your key into the ignition slot and turn it from 'Off' to 'On' 3-5 times until 'DTC REPORT' appears in the odometer display for 2005-2010 models or the DTC's start displaying on 1999-2004 models
+dobj:  insert ( key )
+dobj:  turn ( it )
+
+Sentence 3: write down all codes starting with the letter 'P' and ending with 4 numbers 0-9
+dobj:  write ( codes )
+
+Sentence 4: shut your vehicle off
+dobj:  shut ( vehicle )
+
+Sentence 5: search online for your DTC code it is generic for all vehicles made after 1997
+
+text_num: 46 total sentences: 7  total words: 115
+
+Sentence 0: wash and wax a car with waterless carwash
+dobj:  wash ( car )
+
+Sentence 1: all you need is waterless carwash 1 or 2 microfiber cloths and a little bit of shade
+
+Sentence 2: of course you might want to wash your car with water and soap if it's very dirty before proceeding with the waterless carwash-wax
+dobj:  wash ( car )
+
+Sentence 3: lightly cover a section or the entire microfiber cloth with few sprays of waterless carwash - wax or spray product 3 or 4 times directly on the car
+dobj:  cover ( section )
+
+Sentence 4: wipe in circular motion until product is completely and evenly applied
+nsubjpass:  applied ( product )
+
+Sentence 5: use a dry part of the same microfiber cloth or use a new dry one to wax by rubbing gently always in a circular motion until dry
+dobj:  use ( part )
+dobj:  use ( one )
+
+Sentence 6: finished
+
+text_num: 47 total sentences: 10  total words: 117
+
+Sentence 0: register your vehicle in California
+dobj:  register ( vehicle )
+
+Sentence 1: ensure that you have the title or pink slip for the vehicle from the other state
+dobj:  have ( slip )
+
+Sentence 2: get a smog check
+dobj:  get ( check )
+
+Sentence 3: if your vehicle is diesel the smog check is required for only those vehicles manufactured from 1996 and newer
+nsubjpass:  required ( check )
+
+Sentence 4: obtain a VIN verification
+dobj:  obtain ( verification )
+
+Sentence 5: get this from either law enforcement CA DMV or a private licensed VIN verifier
+dobj:  get ( this )
+
+Sentence 6: visit your local DMV and deposit the registration fees
+dobj:  visit ( DMV )
+dobj:  deposit ( fees )
+
+Sentence 7: you may wish to seek the advice of a professional registration service before going to the DMV
+dobj:  seek ( advice )
+
+Sentence 8: obtain a copy of your out of state registration or vehicle record from the other state
+dobj:  obtain ( copy )
+
+Sentence 9: complete the smog check VIN verification and weight certificate trucks only as well
+dobj:  check ( verification )
+
+text_num: 48 total sentences: 12  total words: 138
+
+Sentence 0: remove a steering wheel from a tractor
+dobj:  remove ( wheel )
+
+Sentence 1: assemble the items needed
+dobj:  assemble ( items )
+
+Sentence 2: park the tractor somewhere safe and ensure that it is completely turned off and it is sitting where it cannot move
+dobj:  park ( tractor )
+nsubjpass:  turned ( it )
+
+Sentence 3: slacken the centre nut first by backing it off by a few turns but leaving it in place
+dobj:  slacken ( nut )
+dobj:  backing ( it )
+dobj:  leaving ( it )
+
+Sentence 4: place the puller on the steering wheel
+dobj:  place ( puller )
+
+Sentence 5: to avoid damaging the centering tip of the puller place a few washers under the screw
+dobj:  place ( washers )
+
+Sentence 6: once the steering wheel has moved the retaining centre nut should be removed
+nsubjpass:  removed ( nut )
+
+Sentence 7: insert the ratchet as shown in the image
+dobj:  insert ( ratchet )
+
+Sentence 8: apply just the minimum amount of force to the ratchet while the puller is firmly seated
+dobj:  apply ( amount )
+nsubjpass:  seated ( puller )
+
+Sentence 9: you will note that this begins to break the steering wheel free
+
+Sentence 10: remove the wheel
+dobj:  remove ( wheel )
+
+Sentence 11: perform any maintenance tasks required and either restore the wheel or replace it.
+dobj:  perform ( tasks )
+dobj:  restore ( wheel )
+dobj:  replace ( it )
+
+text_num: 49 total sentences: 11  total words: 113
+
+Sentence 0: start free pilot training online with AOPA
+dobj:  start ( training )
+
+Sentence 1: go to AOPA's website and click on Login then scroll down to Create an Account
+dobj:  Create ( Account )
+
+Sentence 2: however you still need to open an account to take any of the online courses
+dobj:  open ( account )
+dobj:  take ( any )
+
+Sentence 3: hover over Training and Safety
+
+Sentence 4: then scroll down to select On Line Learning then Online Courses
+
+Sentence 5: look through the pilot training courses
+
+Sentence 6: you can take any listed course at no cost to you
+dobj:  take ( course )
+
+Sentence 7: start with one of the recommended beginning classes
+
+Sentence 8: verify that your progress is being recorded as you finish courses
+nsubjpass:  recorded ( progress )
+dobj:  finish ( courses )
+
+Sentence 9: just click on Air Safety Institute then ASI Transcript
+
+Sentence 10: if you want to take a quick test click On Line Courses and select Quizzes
+dobj:  take ( click )
+
+text_num: 50 total sentences: 20  total words: 227
+
+Sentence 0: stay safe in a parking garage
+
+Sentence 1: when entering store park next to the nearest lit spot
+dobj:  entering ( park )
+
+Sentence 2: even parking next to a little of light is better then no light at all
+
+Sentence 3: avoid parking next to a van
+dobj:  avoid ( parking )
+
+Sentence 4: while in the car write down on a piece of paper the spot of where you've parked
+dobj:  write ( spot )
+
+Sentence 5: try to memorize where you've parked
+
+Sentence 6: lock your car doors and windows thoroughly
+dobj:  lock ( doors )
+
+Sentence 7: keep easy weapons such as pepper spray or other easy self defense tools
+dobj:  keep ( weapons )
+
+Sentence 8: if you feel unsafe in the parking garage put one of your self defense items in your purse of jacket pocket where you can quickly get to it if needed
+dobj:  put ( one )
+
+Sentence 9: immediately exit your car
+dobj:  exit ( car )
+
+Sentence 10: do not spend time in your car fumbling through your purse
+dobj:  spend ( time )
+
+Sentence 11: walk confidently
+
+Sentence 12: stand straight and look around your surroundings
+dobj:  look ( surroundings )
+
+Sentence 13: avoid looking meek or unaware as this will increase your risk of getting mugged or abducted
+dobj:  looking ( meek )
+dobj:  increase ( risk )
+dobj:  getting ( mugged )
+
+Sentence 14: do not stop or look back until you have safely reached the store
+
+Sentence 15: walk briskly but don't run
+
+Sentence 16: also most importantly do not spend a lot of time in the parking garage
+
+Sentence 17: when leaving store walk confidently to your vehicle
+dobj:  leaving ( store )
+
+Sentence 18: if you have shopping bags in your hand walk very briskly but again don't run
+dobj:  have ( bags )
+
+Sentence 19: once you have loaded your bags in your car then immediately get into your car and drive out of the parking garage.
+dobj:  loaded ( bags )
+
+text_num: 51 total sentences: 9  total words: 129
+
+Sentence 0: stock a car trunk with necessities
+
+Sentence 1: add emergency supplies and vehicle maintenance tools
+dobj:  add ( supplies )
+
+Sentence 2: use a container to hold groceries
+dobj:  use ( container )
+dobj:  hold ( groceries )
+
+Sentence 3: a crate can be useful for groceries so that they don't roll and tumble when you drive home and if you live a good distance from the grocery store you can put a cooler in the truck
+dobj:  drive ( home )
+dobj:  live ( distance )
+dobj:  put ( cooler )
+
+Sentence 4: just remember to buy ice when you are at the check out
+dobj:  buy ( ice )
+
+Sentence 5: add rain gear for those days when you get caught out
+dobj:  add ( gear )
+nsubjpass:  caught ( you )
+
+Sentence 6: leave a pair of good walking shoes in the back of the car if you live in an area prone to natural hazard events
+dobj:  leave ( pair )
+
+Sentence 7: leave the rest of the space free for storing things
+dobj:  storing ( things )
+
+Sentence 8: the rest of the space could be completely free space that you could use when needed

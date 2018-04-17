@@ -1,0 +1,182 @@
+ Connecting two computers directly to each other allows you to transfer files faster than any other method, and can also let you share one computer's internet connection with the other. 
+The process varies depending on whether you are sharing files or an internet connection, as well as what operating system(s) you are using. 
+
+  Steps  
+ Sharing Files (Windows to Windows) 
+ Disable the wireless adapters on the computers (optional). 
+ If either computer has the wireless network adapter, turn it off when connecting the computers. 
+This will help prevent network conflicts.
+ 
+ Click the Start menu, type  ncpa.cpl , and press Enter. 
+
+ Right-click on your wireless connection and select "Disable". 
+
+ Connect the two computers using an Ethernet cable. 
+ Newer computers can use a standard Ethernet cable, as the network adapter will automatically detect that you are connecting two computers. 
+Older computers may need to  use a crossover cable , which is a standard Ethernet cable with the connection reversed on one end.
+ Return to the computer that you want to share something from. 
+ While you will be able to share files back and forth between both computers, it is usually easiest to set up sharing on your most modern computer.
+ Right-click on the network connection icon in the System Tray. 
+ Select "Open Network and Sharing Center".
+ Click the "Local Area Connection" link next to "Unidentified network". 
+ This will open the details of the new connection between the two computers.
+ Click  . 
+   Properties   . 
+ Select "Internet Protocol Version 4" and click   Properties  .
+ Select "Use the following IP address". 
+ This will allow you to manually enter an IP address.
+ Enter an IP address. 
+ Since you aren't using the internet, the IP address can actually be anything. 
+For ease of explanation, set the IP address to  192.168.1.10 .
+ Press Tab to automatically set the subnet mask. 
+ Click   OK  .
+ Go to the second computer. 
+ Open the Network and Sharing Center like you did on the first PC.
+ Click the "Local Area Connection" link next to "Unidentified network". 
+ This will open the details of the new connection between the two computers.
+ Click  . 
+   Properties   . 
+ Select "Internet Protocol Version 4" and click   Properties  .
+ Select "Use the following IP address". 
+ This will allow you to manually enter an IP address for the second computer.
+ Enter in an IP address with a different set of last digits. 
+ Since we used  192.168.1.10  for the first computer, enter  192.168.1.11  for the second one.
+ Press Tab to automatically set the subnet mask. 
+ Click   OK  . 
+The two computers are now on a private network between the two of them.
+ Return to the computer you want to share something from. 
+ Locate the drive, file, or folder that you want to share with the second computer.
+ Right-click on the object you want to share and click "Properties". 
+ Click the  Sharing  tab.
+ Click  . 
+   Advanced Sharing    and check the "Share this folder" box. 
+
+ Click the  . 
+   Permissions    button and check the "Allow" box next to "Full Control". 
+ This allows the second computer to read and write to the shared folder. 
+Click   Apply  .
+ Return to the objects Properties window and select the  . 
+  Security   tab. 
+ Ensure that "Everyone" is listed in the list of users. 
+If not, click the   Add... 
+  button and follow the prompts to add "Everyone".
+ Click the Start menu on the computer that is accessing the shared folder. 
+ In our example this is the second computer.
+ Type  . 
+  \\ IP address    and press Enter . 
+Using the IP addresses we entered above, you would type  \\192.168.1.10 .
+ Navigate the shared files. 
+ You will now see all of the folders that you have shared on the first computer. 
+If your permissions were set correctly, you can copy, delete, and add files to these shared folders.
+ Sharing Files (Windows to Mac) 
+ Open the Control Panel on your Windows computer. 
+ You will need to enable your Guest account for the easiest connection.
+ Click "User Accounts" and then click "Manage another account". 
+ This will allow you to add the Guest account to your computer. 
+you can remove it later when you're done transferring files.
+ Click the "Guest Account" and then click  . 
+   Turn On   . 
+ This will enable the Guest account.
+ Return to the Control Panel and select "Network and Sharing Center". 
+ There is one more change you will need to make before connecting the computers.
+ Click "Change advanced sharing settings". 
+ Scroll down and select "Turn off password protected sharing".
+ Connect the two computers using an Ethernet cable. 
+ Nearly all modern computers can use a standard Ethernet cable. 
+If you cannot make the connection, you may need to use a  crossover Ethernet cable .
+ Click the Start menu on the Windows computer. 
+ Type  ncpa.cpl  and press Enter.
+ Double-click on the Local Area Connection. 
+ This will let you change the settings for your new connection between the two computers.
+ Click the  . 
+   Details... 
+   button and note the "Auto-configuration IPv4 Address". 
+
+ Locate the drive, file, or folder that you want to share with the Mac. 
+ If you want to share everything on your computer, select your hard drive to share.
+ Right-click on the object you want to share. 
+ Select "Share With" and click "Specific people".
+ Type "Guest" and click  . 
+   Add   . 
+ Make sure that "Guest" is spelled with a capital "G".
+ Click "Read" in the "Permission Level" column next to the "Guest" entry. 
+ Select "Read/Write".
+ Click  . 
+   Share   . 
+ Click   Next   to share the folder.
+ Open a Finder window on your Mac. 
+ Press Command + K to open the "Connect to Server" window.
+ Type  . 
+  smb:// IP address   . 
+ Use the IP address that you found in Step 9. 
+Click   Connect  .
+ Select "Guest" as your login. 
+ Click   Connect   to make the connection.
+ Select the shared folder and click  . 
+   OK   . 
+ Depending on what you shared on your Windows PC, you may have one or more folders available here.
+ Navigate the shared files. 
+ Now that a connection has been established, you can share files back and forth using the shared folder you set on your Windows computer. 
+You can use your Mac to pull files from this folder, or add files from your Mac to be accessed on your Windows computer.
+ Sharing Files (Mac to Mac) 
+ Obtain a Thunderbolt cable. 
+ Thunderbolt offers the fastest and easiest way to connect two Macs for file sharing. 
+Nearly all modern Macs support Thunderbolt connections.
+ Power down the computer you want to access files from. 
+ The Thunderbolt connection essentially turns the second Mac into an external hard drive, so you won't actually be booting it into the operating system.
+ Connect the two Macs using the Thunderbolt cable. 
+ There is only one way that a Thunderbolt cable can be connected.
+ Turn on the second Mac while holding down its T key. 
+ This will boot the Mac into Target Disk mode.
+ Wait for the Thunderbolt logo to appear. 
+ It should show up after a few seconds. 
+You can now release T.
+ Access the hard drive on your first Mac. 
+ Your second Mac's hard drive will appear as an external hard drive on your first Mac. 
+You can open it to access and transfer any files you'd like. 
+Thunderbolt offers one of the fastest connections available, so files will transfer very quickly. 
+ [1]  
+ Sharing Internet (Windows) 
+ Connect the two computers using an Ethernet cable. 
+ Newer computers can use a standard Ethernet cable, as the network adapter will automatically detect that you are connecting two computers. 
+Older computers may need to  use a crossover cable , which is a standard Ethernet cable with the connection reversed on one end.
+ 
+ You can use internet connection sharing to share your internet connection with any computer that can connect via Ethernet, regardless of operating system. 
+
+ Click the Start menu on the Windows computer that has internet access. 
+ Type  ncpa.cpl  and press Enter.
+ Right-click on the connection you use to get internet. 
+ Select "Properties".
+ Click the "Sharing" tab. 
+ This will allow you to share that connection's internet access.
+ Check the "Allow other network users to connect through this computer's Internet connection" box. 
+ Click   OK  .
+ Browse the internet on the second computer. 
+ Once internet connection sharing has been activated on the first computer, the second computer should immediately have access to the internet. 
+ [2]  
+ Sharing Internet (Mac) 
+ Connect the two computers using an Ethernet cable. 
+ Newer computers can use a standard Ethernet cable, as the network adapter will automatically detect that you are connecting two computers. 
+Older computers may need to  use a crossover cable , which is a standard Ethernet cable with the connection reversed on one end.
+ 
+ You can use internet connection sharing to share your internet connection with any computer that can connect via Ethernet, regardless of operating system. 
+
+ Click the Apple menu on your Mac that has internet access and select System Preferences. 
+ Select "Sharing" from the System Preferences menu.
+ Click the "Internet Sharing" option in the left frame. 
+ Do not check the box yet.
+ Select your Mac's internet connection from the drop-down menu. 
+ If you are connecting two computer's via Ethernet, you'll usually be sharing your Wi-Fi connection
+ 
+ Older Macs will display "Airport" instead of "Wi-Fi". 
+
+ Check the "Ethernet" option in the "To computers using" list. 
+ This will share the connection with any computer connected via Ethernet.
+ Check the "Internet Sharing" box. 
+ Click   Start   if prompted.
+ Browse the internet on the second computer. 
+ Once internet connection sharing has been activated on the first computer, the second computer should immediately have access to the internet.
+ 
+ It may take a moment for the second computer to retrieve a new IP address. 
+ [3]  
+ 

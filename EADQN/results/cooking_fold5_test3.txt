@@ -1,0 +1,115 @@
+word_dim: 50
+object_rate: 0.05
+words_num: 500
+load_replay: 0
+train_frequency: 1
+start_epoch: 0
+save_replay: 0
+load_weights: 
+discount_rate: 0.9
+word2vec: <gensim.models.keyedvectors.KeyedVectors object at 0x7f94cc8c2210>
+nchars: 93
+epochs: 5
+max_char_len: 20
+use_k_max_pool: 0
+emb_dim: 100
+exploration_rate_test: 0.0
+computer_id: 1
+exploration_rate_start: 1
+max_text_num: 52
+exploration_decay_steps: 1000
+train_steps: 43500
+priority: 1
+decay_rate: 0.88
+replay_size: 35000
+model_dir: /home/fengwf/Documents/mymodel-new-5-50
+fold_id: 5
+result_dir: results/cooking_fold5
+target_steps: 5
+train_repeat: 1
+add_linear: 1
+momentum: 0.8
+optimizer: rmsprop
+exploration_rate_end: 0.1
+action_label: 2
+epsilon: 1e-06
+learning_rate: 0.0025
+save_replay_name: saved_replay_memory.pkl
+multi_cnn: 0
+reward_assign: 1.0
+char_dim: 30
+non_action_label: 1
+context_len: 50
+test_text_num: 9
+batch_size: 32
+num_actions: 1000
+valid_steps: 4500
+is_test: 1
+tag_dim: 50
+char_emb_flag: 0
+save_replay_size: 1000
+num_k: 2
+ten_fold_valid: 1
+max_replay_size: [100000, 35000, 100000]
+action_rate: 0.15
+positive_rate: 0.75
+actionDB: tag_actions1
+test_one_flag: 0
+gpu_rate: 0.24
+save_weights_prefix: 
+ten_fold_indices: data/cooking-10-fold-indices.pkl
+target_output: 2
+time_step_batch: 0
+random_play: 0
+
+Text: 0
+total words: 175
+total: 18	right: 14	tagged: 16
+acc: 0.965714	rec: 0.777778	pre: 0.875000	f1: 0.823529
+
+Text: 1
+total words: 352
+total: 33	right: 26	tagged: 33
+acc: 0.960227	rec: 0.787879	pre: 0.787879	f1: 0.787879
+
+Text: 2
+total words: 365
+total: 43	right: 18	tagged: 20
+acc: 0.926027	rec: 0.418605	pre: 0.900000	f1: 0.571429
+
+Text: 3
+total words: 248
+total: 23	right: 16	tagged: 19
+acc: 0.959677	rec: 0.695652	pre: 0.842105	f1: 0.761905
+
+Text: 4
+total words: 152
+total: 16	right: 7	tagged: 8
+acc: 0.934211	rec: 0.437500	pre: 0.875000	f1: 0.583333
+
+Text: 5
+total words: 364
+total: 22	right: 3	tagged: 5
+acc: 0.942308	rec: 0.136364	pre: 0.600000	f1: 0.222222
+
+Text: 6
+total words: 241
+total: 29	right: 29	tagged: 63
+acc: 0.858921	rec: 1.000000	pre: 0.460317	f1: 0.630435
+
+Text: 7
+total words: 163
+total: 20	right: 19	tagged: 24
+acc: 0.963190	rec: 0.950000	pre: 0.791667	f1: 0.863636
+
+Text: 8
+total words: 242
+total: 35	right: 18	tagged: 22
+acc: 0.913223	rec: 0.514286	pre: 0.818182	f1: 0.631579
+
+
+Summary:
+total: 239	right: 150	tagged: 210
+acc: 0.935274	rec: 0.627615	pre: 0.714286	f1: 0.668151
+
+Total time cost of epoch 3 is: 1417s

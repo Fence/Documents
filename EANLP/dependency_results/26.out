@@ -1,0 +1,469 @@
+text_num: 25 total sentences: 155  total words: 1567
+
+Sentence 0: Connecting two computers directly to each other allows you to transfer files faster than any other method and can also let you share one computer s internet connection with the other
+dobj:  Connecting ( computers )
+dobj:  allows ( you )
+dobj:  transfer ( files )
+dobj:  let ( you )
+
+Sentence 1: The process varies depending on whether you are sharing files or an internet connection as well as what operating system s you are using
+dobj:  depending ( sharing )
+dobj:  sharing ( files )
+dobj:  s ( what )
+
+Sentence 2: Sharing Files Windows to Windows
+dobj:  Sharing ( Windows )
+
+Sentence 3: Disable the wireless adapters on the computers optional
+dobj:  Disable ( adapters )
+
+Sentence 4: If either computer has the wireless network adapter turn it off when connecting the computers
+dobj:  turn ( it )
+dobj:  connecting ( computers )
+
+Sentence 5: This will help prevent network conflicts
+dobj:  prevent ( conflicts )
+
+Sentence 6: Click the Start menu type ncpa.cpl and press Enter
+dobj:  Click ( Start menu )
+type ( ncpa.cl )
+press ( Enter )
+
+Sentence 7: Right-click on your wireless connection and select Disable
+dobj:  select ( Disable )
+
+Sentence 8: Connect the two computers using an Ethernet cable
+dobj:  using ( cable )
+
+Sentence 9: Newer computers can use a standard Ethernet cable as the network adapter will automatically detect that you are connecting two computers
+dobj:  use ( cable )
+dobj:  connecting ( computers )
+
+Sentence 10: Older computers may need to use a crossover cable which is a standard Ethernet cable with the connection reversed on one end
+dobj:  use ( cable )
+
+Sentence 11: Return to the computer that you want to share something from
+dobj:  share ( something )
+
+Sentence 12: While you will be able to share files back and forth between both computers it is usually easiest to set up sharing on your most modern computer
+dobj:  share ( files )
+
+Sentence 13: Right-click on the network connection icon in the System Tray
+
+Sentence 14: Select Open Network and Sharing Center
+
+Sentence 15: Click the Local Area Connection link next to Unidentified network
+dobj:  Click ( link )
+
+Sentence 16: This will open the details of the new connection between the two computers
+dobj:  open ( details )
+
+Sentence 17: Select Internet Protocol Version 4 and click Properties
+
+Sentence 18: Select Use the following IP address
+
+Sentence 19: This will allow you to manually enter an IP address
+dobj:  allow ( you )
+dobj:  enter ( address )
+
+Sentence 20: Enter an IP address
+dobj:  Enter ( address )
+
+Sentence 21: Since you aren t using the internet the IP address can actually be anything
+dobj:  using ( internet )
+
+Sentence 22: For ease of explanation set the IP address to 192 168 1 10
+dobj:  set ( address )
+
+Sentence 23: Press Tab to automatically set the subnet mask
+dobj:  set ( mask )
+
+Sentence 24: Click OK
+
+Sentence 25: Go to the second computer
+
+Sentence 26: Open the Network and Sharing Center like you did on the first PC
+dobj:  Open ( Center )
+
+Sentence 27: Click the Local Area Connection link next to Unidentified network
+dobj:  Click ( link )
+
+Sentence 28: This will open the details of the new connection between the two computers
+dobj:  open ( details )
+
+Sentence 29: Select Internet Protocol Version 4 and click Properties
+
+Sentence 30: Select Use the following IP address
+
+Sentence 31: This will allow you to manually enter an IP address for the second computer
+dobj:  allow ( you )
+dobj:  enter ( address )
+
+Sentence 32: Enter in an IP address with a different set of last digits
+
+Sentence 33: Since we used 192 168 1 10 for the first computer enter 192 168 1 11 for the second one
+dobj:  enter ( 11 )
+
+Sentence 34: Press Tab to automatically set the subnet mask
+dobj:  set ( mask )
+
+Sentence 35: Click OK
+
+Sentence 36: The two computers are now on a private network between the two of them
+
+Sentence 37: Return to the computer you want to share something from
+dobj:  share ( something )
+
+Sentence 38: Locate the drive file or folder that you want to share with the second computer
+dobj:  Locate ( file )
+
+Sentence 39: Right-click on the object you want to share and click Properties
+dobj:  share ( Properties )
+
+Sentence 40: Click the Sharing tab
+dobj:  Click ( tab )
+
+Sentence 41: Advanced Sharing and check the Share this folder box
+
+Sentence 42: -----LONG_TEXT_SEPARATOR-----
+
+Sentence 43: Click the
+dobj:  Click ( the )
+
+Sentence 44: Permissions button and check the Allow box next to Full Control
+dobj:  Permissions ( button )
+dobj:  check ( box )
+
+Sentence 45: This allows the second computer to read and write to the shared folder
+dobj:  allows ( computer )
+
+Sentence 46: Click Apply
+
+Sentence 47: Return to the objects Properties window and select the
+dobj:  select ( the )
+
+Sentence 48: Security tab
+
+Sentence 49: Ensure that Everyone is listed in the list of users
+nsubjpass:  listed ( Everyone )
+
+Sentence 50: If not click the Add
+
+Sentence 51: button and follow the prompts to add Everyone
+dobj:  button ( prompts )
+dobj:  add ( Everyone )
+
+Sentence 52: Click the Start menu on the computer that is accessing the shared folder
+dobj:  Click ( menu )
+dobj:  accessing ( folder )
+
+Sentence 53: In our example this is the second computer
+
+Sentence 54: IP address and press Enter
+dobj:  IP ( Enter )
+
+Sentence 55: Using the IP addresses we entered above you would type 192 168 1 10
+
+Sentence 56: Navigate the shared files
+dobj:  Navigate ( files )
+
+Sentence 57: You will now see all of the folders that you have shared on the first computer
+dobj:  see ( all )
+
+Sentence 58: If your permissions were set correctly you can copy delete and add files to these shared folders
+nsubjpass:  set ( permissions )
+dobj:  copy ( delete )
+dobj:  add ( files )
+
+Sentence 59: Sharing Files Windows to Mac
+dobj:  Sharing ( Windows )
+
+Sentence 60: Open the Control Panel on your Windows computer
+dobj:  Open ( Panel )
+
+Sentence 61: You will need to enable your Guest account for the easiest connection
+dobj:  enable ( account )
+
+Sentence 62: Click User Accounts and then click Manage another account
+dobj:  Click ( Accounts )
+dobj:  click ( account )
+
+Sentence 63: This will allow you to add the Guest account to your computer
+dobj:  allow ( you )
+dobj:  add ( account )
+
+Sentence 64: you can remove it later when you re done transferring files
+dobj:  remove ( it )
+dobj:  transferring ( files )
+
+Sentence 65: Click the Guest Account and then click
+dobj:  Click ( Account )
+
+Sentence 66: Turn On
+
+Sentence 67: This will enable the Guest account
+dobj:  enable ( account )
+
+Sentence 68: Return to the Control Panel and select Network and Sharing Center
+dobj:  Sharing ( Center )
+
+Sentence 69: There is one more change you will need to make before connecting the computers
+dobj:  connecting ( computers )
+
+Sentence 70: Click Change advanced sharing settings
+dobj:  sharing ( settings )
+
+Sentence 71: Scroll down and select Turn off password protected sharing
+dobj:  select ( Turn )
+
+Sentence 72: Connect the two computers using an Ethernet cable
+dobj:  using ( cable )
+
+Sentence 73: Nearly all modern computers can use a standard Ethernet cable
+dobj:  use ( cable )
+
+Sentence 74: If you cannot make the connection you may need to use a crossover Ethernet cable
+dobj:  make ( connection )
+dobj:  use ( cable )
+
+Sentence 75: Click the Start menu on the Windows computer
+dobj:  Click ( menu )
+
+Sentence 76: Type ncpa cpl and press Enter
+dobj:  Type ( cpl )
+
+Sentence 77: Double-click on the Local Area Connection
+
+Sentence 78: This will let you change the settings for your new connection between the two computers
+dobj:  change ( settings )
+
+Sentence 79: Click the
+dobj:  Click ( the )
+
+Sentence 80: button and note the Auto-configuration IPv4 Address
+
+Sentence 81: Locate the drive file or folder that you want to share with the Mac
+dobj:  Locate ( file )
+
+Sentence 82: If you want to share everything on your computer select your hard drive to share
+dobj:  select ( drive )
+
+Sentence 83: Right-click on the object you want to share
+
+Sentence 84: Select Share With and click Specific people
+dobj:  Select ( Share )
+dobj:  click ( people )
+
+Sentence 85: Type Guest and click
+
+Sentence 86: Make sure that Guest is spelled with a capital G
+nsubjpass:  spelled ( Guest )
+
+Sentence 87: Click Read in the Permission Level column next to the Guest entry
+dobj:  Click ( Read )
+
+Sentence 88: Select Read Write
+
+Sentence 89: Click Next to share the folder
+dobj:  Click ( Next )
+dobj:  share ( folder )
+
+Sentence 90: Open a Finder window on your Mac
+dobj:  Open ( window )
+
+Sentence 91: Press Command K to open the Connect to Server window
+dobj:  open ( Connect )
+
+Sentence 92: smb IP address
+
+Sentence 93: Use the IP address that you found in Step 9
+dobj:  Use ( address )
+
+Sentence 94: Click Connect
+
+Sentence 95: Select Guest as your login
+
+Sentence 96: Click Connect to make the connection
+dobj:  make ( connection )
+
+Sentence 97: Select the shared folder and click
+
+Sentence 98: Depending on what you shared on your Windows PC you may have one or more folders available here
+dobj:  shared ( what )
+dobj:  have ( folders )
+
+Sentence 99: Navigate the shared files
+dobj:  Navigate ( files )
+
+Sentence 100: Now that a connection has been established you can share files back and forth using the shared folder you set on your Windows computer
+nsubjpass:  established ( connection )
+dobj:  share ( files )
+dobj:  using ( folder )
+
+Sentence 101: You can use your Mac to pull files from this folder or add files from your Mac to be accessed on your Windows computer
+dobj:  use ( Mac )
+dobj:  pull ( files )
+dobj:  add ( files )
+
+Sentence 102: -----LONG_TEXT_SEPARATOR-----
+
+Sentence 103: Sharing Files Mac to Mac
+dobj:  Sharing ( Mac )
+
+Sentence 104: Obtain a Thunderbolt cable
+dobj:  Obtain ( cable )
+
+Sentence 105: Thunderbolt offers the fastest and easiest way to connect two Macs for file sharing
+dobj:  offers ( fastest )
+dobj:  connect ( Macs )
+
+Sentence 106: Nearly all modern Macs support Thunderbolt connections
+dobj:  support ( connections )
+
+Sentence 107: Power down the computer you want to access files from
+dobj:  access ( files )
+
+Sentence 108: The Thunderbolt connection essentially turns the second Mac into an external hard drive so you won t actually be booting it into the operating system
+dobj:  turns ( Mac )
+dobj:  booting ( it )
+
+Sentence 109: Connect the two Macs using the Thunderbolt cable
+dobj:  using ( cable )
+
+Sentence 110: There is only one way that a Thunderbolt cable can be connected
+nsubjpass:  connected ( cable )
+
+Sentence 111: Turn on the second Mac while holding down its T key
+dobj:  holding ( key )
+
+Sentence 112: This will boot the Mac into Target Disk mode
+dobj:  boot ( Mac )
+
+Sentence 113: Wait for the Thunderbolt logo to appear
+
+Sentence 114: It should show up after a few seconds
+
+Sentence 115: You can now release T
+dobj:  release ( T )
+
+Sentence 116: Access the hard drive on your first Mac
+
+Sentence 117: Your second Mac s hard drive will appear as an external hard drive on your first Mac
+
+Sentence 118: You can open it to access and transfer any files you d like
+dobj:  open ( it )
+dobj:  access ( files )
+
+Sentence 119: Thunderbolt offers one of the fastest connections available so files will transfer very quickly
+
+Sentence 120: Sharing Internet Windows
+
+Sentence 121: Connect the two computers using an Ethernet cable
+dobj:  using ( cable )
+
+Sentence 122: Newer computers can use a standard Ethernet cable as the network adapter will automatically detect that you are connecting two computers
+dobj:  use ( cable )
+dobj:  connecting ( computers )
+
+Sentence 123: Older computers may need to use a crossover cable which is a standard Ethernet cable with the connection reversed on one end
+dobj:  use ( cable )
+
+Sentence 124: You can use internet connection sharing to share your internet connection with any computer that can connect via Ethernet regardless of operating system
+dobj:  use ( connection )
+dobj:  share ( connection )
+
+Sentence 125: Click the Start menu on the Windows computer that has internet access
+dobj:  Click ( menu )
+dobj:  has ( access )
+
+Sentence 126: Type ncpa cpl and press Enter
+dobj:  Type ( cpl )
+
+Sentence 127: Right-click on the connection you use to get internet
+dobj:  get ( internet )
+
+Sentence 128: Select Properties
+
+Sentence 129: Click the Sharing tab
+dobj:  Click ( tab )
+
+Sentence 130: This will allow you to share that connection s internet access
+dobj:  allow ( you )
+
+Sentence 131: Check the Allow other network users to connect through this computer s Internet connection box
+dobj:  Check ( users )
+
+Sentence 132: Click OK
+
+Sentence 133: Browse the internet on the second computer
+dobj:  Browse ( internet )
+
+Sentence 134: Once internet connection sharing has been activated on the first computer the second computer should immediately have access to the internet
+nsubjpass:  activated ( sharing )
+dobj:  have ( access )
+
+Sentence 135: Sharing Internet Mac
+
+Sentence 136: Connect the two computers using an Ethernet cable
+dobj:  using ( cable )
+
+Sentence 137: Newer computers can use a standard Ethernet cable as the network adapter will automatically detect that you are connecting two computers
+dobj:  use ( cable )
+dobj:  connecting ( computers )
+
+Sentence 138: Older computers may need to use a crossover cable which is a standard Ethernet cable with the connection reversed on one end
+dobj:  use ( cable )
+
+Sentence 139: You can use internet connection sharing to share your internet connection with any computer that can connect via Ethernet regardless of operating system
+dobj:  use ( connection )
+dobj:  share ( connection )
+
+Sentence 140: Click the Apple menu on your Mac that has internet access and select System Preferences
+dobj:  Click ( menu )
+dobj:  has ( access )
+dobj:  select ( Preferences )
+
+Sentence 141: Select Sharing from the System Preferences menu
+
+Sentence 142: Click the Internet Sharing option in the left frame
+dobj:  Click ( Internet )
+dobj:  Sharing ( option )
+
+Sentence 143: Do not check the box yet
+dobj:  check ( box )
+
+Sentence 144: Select your Mac s internet connection from the drop-down menu
+
+Sentence 145: If you are connecting two computer s via Ethernet you ll usually be sharing your Wi-Fi connection
+dobj:  connecting ( s )
+dobj:  sharing ( connection )
+
+Sentence 146: Older Macs will display Airport instead of Wi-Fi
+dobj:  display ( Airport )
+
+Sentence 147: -----LONG_TEXT_SEPARATOR-----
+
+Sentence 148: Check the Ethernet option in the To computers using list
+dobj:  Check ( option )
+dobj:  using ( list )
+
+Sentence 149: This will share the connection with any computer connected via Ethernet
+dobj:  share ( connection )
+
+Sentence 150: Check the Internet Sharing box
+dobj:  Check ( Internet )
+dobj:  Sharing ( box )
+
+Sentence 151: Click Start if prompted
+dobj:  Click ( Start )
+
+Sentence 152: Browse the internet on the second computer
+dobj:  Browse ( internet )
+
+Sentence 153: Once internet connection sharing has been activated on the first computer the second computer should immediately have access to the internet
+nsubjpass:  activated ( sharing )
+dobj:  have ( access )
+
+Sentence 154: It may take a moment for the second computer to retrieve a new IP address
+dobj:  take ( moment )
+dobj:  retrieve ( address )

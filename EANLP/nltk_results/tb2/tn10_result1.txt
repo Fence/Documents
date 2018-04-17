@@ -1,0 +1,3477 @@
+Tagging for total 495 sentences with nltk methods
+
+Sentence: 1
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 2
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('view', 'NN'), ('menu', 'NN'), ('click', 'NN'), ('large', 'JJ'), ('icons', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 3
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('view', 'NN'), ('menu', 'NN'), ('click', 'NN'), ('small', 'JJ'), ('icons', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 4
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('regional', 'JJ'), ('options', 'NNS')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', 'click', '', '', '', '', '', '', '']
+
+Sentence: 5
+tagged_sent: [('under', 'IN'), ('language', 'NN'), ('settings', 'NNS'), ('for', 'IN'), ('the', 'DT'), ('system', 'NN'), ('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('japanese', 'JJ'), ('check', 'NN'), ('box', 'NN')]
+myvp: [['select', 'check', 'box']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'select', '', '', '', '']
+
+Sentence: 6
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('your', 'PRP$'), ('locale', 'NN'), ('location', 'NN'), ('list', 'NN'), ('click', 'NN'), ('japanese', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '', '', '', 'click', '']
+
+Sentence: 7
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN'), ('and', 'CC'), ('the', 'DT'), ('double-click', 'JJ'), ('system', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', 'click', '', '', '', '', '', '']
+
+Sentence: 8
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('hardware', 'NN'), ('tab', 'NN'), ('click', 'NN'), ('device', 'NN'), ('manager', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 9
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('display', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', 'click', '', '', '', '', '', '']
+
+Sentence: 10
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('screen', 'NN'), ('saver', 'NN'), ('tab', 'NN'), ('click', 'NN'), ('the', 'DT'), ('channel', 'NN'), ('screen', 'NN'), ('saver', 'NN'), ('in', 'IN'), ('the', 'DT'), ('screen', 'NN'), ('saver', 'NN'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('settings', 'NNS')]
+myvp: [['click', 'settings']]
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 11
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('desired', 'VBN'), ('channel', 'NN'), ('screen', 'NN'), ('savers', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('channels', 'NNS'), ('box', 'VBP'), ('click', 'NN'), ('ok', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['box', 'click', 'ok'], ['click', 'ok']]
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'select', '', 'desired', '', '', '', '', '', '', 'box', 'click', '', '', '', 'click', '']
+
+Sentence: 12
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('internet', 'NN'), ('explorer', 'NN'), ('icon', 'NN'), ('on', 'IN'), ('your', 'PRP$'), ('desktop', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 13
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('security', 'NN'), ('tab', 'NN'), ('click', 'NN'), ('the', 'DT'), ('internet', 'NN'), ('icon', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('custom', 'NN'), ('level', 'NN')]
+myvp: [['click', 'custom', 'level']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', 'click', '', '', '', '', '', 'click', '', '']
+
+Sentence: 14
+tagged_sent: [('change', 'NN'), ('the', 'DT'), ('run', 'NN'), ('activex', 'NN'), ('controls', 'NNS'), ('and', 'CC'), ('plug-ins', 'NNS'), ('option', 'NN'), ('to', 'TO'), ('either', 'DT'), ('enable', 'JJ'), ('or', 'CC'), ('prompt', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 15
+tagged_sent: [('click', 'NN'), ('ok', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'ok']
+
+Sentence: 16
+tagged_sent: [('start', 'NN'), ('internet', 'VBD'), ('explorer', 'NN')]
+myvp: [['internet', 'explorer']]
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'internet', '']
+
+Sentence: 17
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('internet', 'NN'), ('options', 'NNS')]
+myvp: [['menu', 'click', 'internet', 'options']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '']
+
+Sentence: 18
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 19
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('or', 'CC'), ('select', 'VB'), ('the', 'DT'), ('enable', 'JJ'), ('personalized', 'JJ'), ('favorites', 'NNS'), ('menu', 'VBP'), ('check', 'NN'), ('box', 'NN')]
+myvp: [['menu', 'check', 'box']]
+label:    [1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', 'clear', '', 'select', '', '', '', '', 'menu', '', '']
+
+Sentence: 20
+tagged_sent: [('click', 'NN'), ('ok', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'ok']
+
+Sentence: 21
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('folder', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '']
+
+Sentence: 22
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('general', 'JJ'), ('tab', 'NN'), ('click', 'NN'), ('advanced', 'VBD')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', 'advanced']
+
+Sentence: 23
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('for', 'IN'), ('fast', 'NN'), ('searching', 'VBG'), ('allow', 'NN'), ('the', 'DT'), ('index', 'NN'), ('service', 'NN'), ('to', 'TO'), ('index', 'NN'), ('this', 'DT'), ('folder', 'NN'), ('check', 'NN'), ('box', 'NN'), ('click', 'NN'), ('ok', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('apply', 'RB')]
+myvp: [['searching', 'allow']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'select', '', '', '', 'searching', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 24
+tagged_sent: [('when', 'WRB'), ('you', 'PRP'), ('are', 'VBP'), ('prompted', 'VBN'), ('to', 'TO'), ('apply', 'RB'), ('these', 'DT'), ('settings', 'NNS'), ('click', 'VBP'), ('all', 'DT'), ('folders', 'NNS'), ('sub-folders', 'NNS'), ('and', 'CC'), ('files', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'folders', 'sub-folders'], ['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'are', 'prompted', '', '', '', '', 'click', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 25
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('click', 'NN'), ('run', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('open', 'JJ'), ('box', 'NN'), ('type', 'NN'), ('dcomcnfg', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['start', 'click'], ['click', 'ok']]
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', 'click', 'run', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 26
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('default', 'NN'), ('properties', 'NNS'), ('tab', 'VBP'), ('click', 'NN'), ('any', 'DT'), ('setting', 'NN'), ('other', 'JJ'), ('than', 'IN'), ('anonymous', 'JJ'), ('in', 'IN'), ('the', 'DT'), ('default', 'NN'), ('impersonation', 'NN'), ('level', 'NN'), ('box', 'NN'), ('the', 'DT'), ('default', 'NN'), ('setting', 'VBG'), ('is', 'VBZ'), ('identify', 'JJ')]
+myvp: [['tab', 'click']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', 'tab', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'setting', '', '']
+
+Sentence: 27
+tagged_sent: [('start', 'NN'), ('windows', 'VBZ'), ('explorer', 'NN')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 28
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('folder', 'NN'), ('options', 'NNS')]
+myvp: [['menu', 'click', 'folder', 'options']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '']
+
+Sentence: 29
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('file', 'NN'), ('types', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', 'tab']
+
+Sentence: 30
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('registered', 'VBN'), ('file', 'NN'), ('types', 'NNS'), ('box', 'NN'), ('click', 'NN'), ('the', 'DT'), ('htm', 'NN'), ('extension', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('advanced', 'VBN')]
+myvp: [['registered', 'file', 'types', 'box', 'click']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+temp_tag_act: ['', '', 'registered', '', '', '', '', '', '', '', '', '', 'click', 'advanced']
+
+Sentence: 31
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('actions', 'NNS'), ('box', 'VBP'), ('click', 'NN'), ('print', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('edit', 'NN')]
+myvp: [['box', 'click', 'print'], ['click', 'edit']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'box', 'click', '', '', '', 'click', '']
+
+Sentence: 32
+tagged_sent: [('replace', 'NN'), ('the', 'DT'), ('entry', 'NN'), ('in', 'IN'), ('the', 'DT'), ('application', 'NN'), ('used', 'VBD'), ('to', 'TO'), ('perform', 'NN'), ('action', 'NN'), ('box', 'NN'), ('with', 'IN'), ('the', 'DT'), ('following', 'VBG'), ('line', 'NN'), ('type', 'NN'), ('it', 'PRP'), ('as', 'IN'), ('shown', 'JJ'), ('rundll32.exe', 'JJ')]
+myvp: [['following', 'line', 'type']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'used', '', '', '', '', '', '', 'following', '', '', '', '', '', '']
+
+Sentence: 33
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('click', 'NN'), ('ok', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['ok', 'click', 'ok'], ['click', 'ok']]
+label:    [1, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'ok', 'click', '', '', '', 'click', '']
+
+Sentence: 34
+tagged_sent: [('start', 'NN'), ('internet', 'VBD'), ('explorer', 'NN')]
+myvp: [['internet', 'explorer']]
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'internet', '']
+
+Sentence: 35
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('view', 'NN'), ('menu', 'NN'), ('click', 'NN'), ('toolbars', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('customize', 'NN')]
+myvp: [['click', 'customize']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', 'click', '', '', '', 'click', '']
+
+Sentence: 36
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('customize', 'NN'), ('toolbar', 'NN'), ('dialog', 'NN'), ('box', 'NN'), ('click', 'NN'), ('the', 'DT'), ('down', 'NN'), ('arrow', 'NN'), ('in', 'IN'), ('the', 'DT'), ('icon', 'NN'), ('options', 'NNS'), ('box', 'NN'), ('click', 'NN'), ('large', 'JJ'), ('icons', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('close', 'JJ')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 37
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('click', 'NN'), ('run', 'VBN'), ('and', 'CC'), ('then', 'RB'), ('type', 'NN'), ('dcomcnfg', 'NN'), ('in', 'IN'), ('the', 'DT'), ('open', 'JJ'), ('box', 'NN')]
+myvp: [['start', 'click']]
+label:    [1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', 'run', '', '', '', '', '', '', '', '']
+
+Sentence: 38
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('and', 'CC'), ('click', 'NN'), ('the', 'DT'), ('default', 'NN'), ('properties', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', 'ok', '', '', '', '', '', 'tab']
+
+Sentence: 39
+tagged_sent: [('click', 'NN'), ('identify', 'NN'), ('in', 'IN'), ('the', 'DT'), ('default', 'NN'), ('impersonation', 'NN'), ('level', 'NN'), ('box', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 40
+tagged_sent: [('click', 'NN'), ('apply', 'RB'), ('or', 'CC'), ('ok', 'VB')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 1]
+temp_tag_act: ['', '', '', 'ok']
+
+Sentence: 41
+tagged_sent: [('start', 'NN'), ('internet', 'VBD'), ('explorer', 'NN')]
+myvp: [['internet', 'explorer']]
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'internet', '']
+
+Sentence: 42
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('internet', 'NN'), ('options', 'NNS')]
+myvp: [['menu', 'click', 'internet', 'options']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '']
+
+Sentence: 43
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('general', 'JJ'), ('tab', 'NN'), ('click', 'NN'), ('accessibility', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 44
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('ignore', 'NN'), ('font', 'NN'), ('sizes', 'VBZ'), ('specified', 'VBN'), ('on', 'IN'), ('web', 'NN'), ('pages', 'NNS'), ('check', 'VBP'), ('box', 'NN')]
+myvp: [['select', 'ignore'], ['check', 'box']]
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'select', '', '', '', '', 'specified', '', '', '', 'check', '']
+
+Sentence: 45
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('twice', 'NN')]
+myvp: [['ok', 'twice']]
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'ok', '']
+
+Sentence: 46
+tagged_sent: [('double-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 47
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('folder', 'NN'), ('options', 'NNS')]
+myvp: [['menu', 'click', 'folder', 'options']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '']
+
+Sentence: 48
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('file', 'NN'), ('types', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', 'tab']
+
+Sentence: 49
+tagged_sent: [('under', 'IN'), ('registered', 'VBN'), ('file', 'NN'), ('types', 'NNS'), ('click', 'VBP'), ('to', 'TO'), ('select', 'VB'), ('doc', 'NN'), ('microsoft', 'NN'), ('word', 'NN'), ('document', 'NN'), ('or', 'CC'), ('xls', 'NNS'), ('microsoft', 'VBP'), ('excel', 'NN'), ('worksheet', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('advanced', 'VBN')]
+myvp: [['registered', 'file', 'types'], ['select', 'doc', 'microsoft', 'word', 'document'], ['microsoft', 'excel', 'worksheet']]
+label:    [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1]
+temp_tag_act: ['', 'registered', '', '', 'click', '', 'select', '', 'microsoft', '', '', '', '', 'microsoft', '', '', '', '', 'click', 'advanced']
+
+Sentence: 50
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('confirm', 'NN'), ('open', 'JJ'), ('after', 'IN'), ('download', 'NN'), ('check', 'NN'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['clear', 'confirm'], ['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'clear', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 51
+tagged_sent: [('right-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('manage', 'NN')]
+myvp: [['click', 'manage']]
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '']
+
+Sentence: 52
+tagged_sent: [('double-click', 'JJ'), ('system', 'NN'), ('tools', 'NNS')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 53
+tagged_sent: [('double-click', 'JJ'), ('local', 'JJ'), ('users', 'NNS'), ('and', 'CC'), ('groups', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 54
+tagged_sent: [('double-click', 'JJ'), ('users', 'NNS')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 55
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('action', 'NN'), ('menu', 'NN'), ('click', 'NN'), ('new', 'JJ'), ('user', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 56
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 57
+tagged_sent: [('double-click', 'JJ'), ('keyboard', 'NN'), ('click', 'NN'), ('the', 'DT'), ('input', 'NN'), ('locales', 'NNS'), ('tab', 'VBP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('add', 'JJ')]
+myvp: []
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'tab', '', '', 'click', '']
+
+Sentence: 58
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('input', 'NN'), ('locale', 'NN'), ('box', 'NN'), ('click', 'NN'), ('Basque', 'NNP')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 59
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('keyboard', 'NN'), ('layout/ime', 'JJ'), ('box', 'NN'), ('click', 'NN'), ('Spanish', 'NNP'), ('Variation', 'NNP')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 60
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'ok', '', '', 'click', '']
+
+Sentence: 61
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('programs', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('accessories', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('accessability', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('magnifier', 'JJR')]
+myvp: [['start', 'point']]
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 62
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('follow', 'NN'), ('mouse', 'NN'), ('cursor', 'NN'), ('check', 'NN'), ('box', 'NN'), ('to', 'TO'), ('select', 'VB'), ('it', 'PRP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('exit', 'NN')]
+myvp: [['select', 'it'], ['click', 'exit']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'select', '', '', '', 'click', '']
+
+Sentence: 63
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 64
+tagged_sent: [('double-click', 'JJ'), ('power', 'NN'), ('options', 'NNS')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 65
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN'), ('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('prompt', 'NN'), ('for', 'IN'), ('password', 'NN'), ('when', 'WRB'), ('computer', 'NN'), ('goes', 'VBZ'), ('off', 'RP'), ('standby', 'JJ'), ('check', 'NN'), ('box', 'NN')]
+myvp: [['select', 'prompt']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'select', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 66
+tagged_sent: [('click', 'NN'), ('ok', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'ok']
+
+Sentence: 67
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 68
+tagged_sent: [('double-click', 'JJ'), ('users', 'NNS'), ('and', 'CC'), ('passwords', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 69
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN'), ('click', 'NN'), ('advanced', 'VBD')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', 'advanced']
+
+Sentence: 70
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 71
+tagged_sent: [('double-click', 'JJ'), ('users', 'NNS'), ('and', 'CC'), ('passwords', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 72
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('users', 'NNS'), ('must', 'MD'), ('enter', 'VB'), ('a', 'DT'), ('user', 'NN'), ('name', 'NN'), ('and', 'CC'), ('password', 'NN'), ('to', 'TO'), ('use', 'VB'), ('this', 'DT'), ('computer', 'NN'), ('check', 'NN'), ('box', 'NN')]
+myvp: [['select', 'users'], ['enter', 'user', 'name'], ['use', 'computer', 'check', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'select', '', '', '', 'enter', '', '', '', '', '', '', 'use', '', '', '', '']
+
+Sentence: 73
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('run', 'VBN')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 1, 1]
+temp_tag_act: ['', 'start', '', '', 'click', 'run']
+
+Sentence: 74
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('open', 'JJ'), ('box', 'NN'), ('type', 'NN'), ('conf.exe', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 75
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 76
+tagged_sent: [('double-click', 'JJ'), ('system', 'NN')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 77
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN'), ('click', 'NN'), ('startup', 'NN'), ('and', 'CC'), ('recovery', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 78
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('automatically', 'RB'), ('reboot', 'NN'), ('check', 'NN'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', '', 'clear', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 79
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 80
+tagged_sent: [('double-click', 'JJ'), ('accessibility', 'NN'), ('options', 'NNS')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 81
+tagged_sent: [('under', 'IN'), ('filterkeys', 'NNS'), ('click', 'VBP'), ('settings', 'NNS')]
+myvp: [['click', 'settings']]
+label:    [0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0]
+temp_tag_act: ['', '', 'click', '']
+
+Sentence: 82
+tagged_sent: [('under', 'IN'), ('keyboard', 'NN'), ('shortcut', 'NN'), ('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('use', 'NN'), ('shortcut', 'NN'), ('check', 'NN'), ('box', 'NN')]
+myvp: [['clear', 'use', 'shortcut', 'check', 'box']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'clear', '', '', '', '', '']
+
+Sentence: 83
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 84
+tagged_sent: [('double-click', 'JJ'), ('display', 'NN')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 85
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('effects', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 1]
+temp_tag_act: ['', '', '', 'tab']
+
+Sentence: 86
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('show', 'NN'), ('window', 'NN'), ('contents', 'NNS'), ('while', 'IN'), ('dragging', 'VBG'), ('check', 'NN'), ('box', 'NN')]
+myvp: [['clear', 'show', 'window', 'contents'], ['dragging', 'check', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', 'clear', '', '', '', '', '', 'dragging', '', '']
+
+Sentence: 87
+tagged_sent: [('click', 'NN'), ('ok', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'ok']
+
+Sentence: 88
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('start', 'NN'), ('menu', 'NN'), ('click', 'NN'), ('help', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 89
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('search', 'NN'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 90
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('type', 'NN'), ('in', 'IN'), ('the', 'DT'), ('keyword', 'NN'), ('to', 'TO'), ('find', 'VB'), ('box', 'NN'), ('type', 'NN'), ('large', 'NN'), ('fonts', 'NNS')]
+myvp: [['find', 'box', 'type', 'large', 'fonts']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'find', '', '', '', '']
+
+Sentence: 91
+tagged_sent: [('click', 'NN'), ('list', 'NN'), ('topics', 'NNS')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 92
+tagged_sent: [('double-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN'), ('and', 'CC'), ('then', 'RB'), ('right-click', 'JJ'), ('local', 'JJ'), ('disk', 'NN'), ('C:', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 93
+tagged_sent: [('click', 'NN'), ('properties', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('tools', 'NNS')]
+myvp: [['click', 'tools']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', '', '', '', 'click', '']
+
+Sentence: 94
+tagged_sent: [('in', 'IN'), ('error-checking', 'JJ'), ('click', 'NN'), ('check', 'NN'), ('now', 'RB')]
+myvp: []
+label:    [0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 95
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('programs', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('administrative', 'VB'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('local', 'JJ'), ('security', 'NN'), ('policy', 'NN')]
+myvp: [['start', 'point'], ['administrative', 'tools'], ['click', 'security', 'policy']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'administrative', '', '', '', 'click', '', '', '']
+
+Sentence: 96
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('left', 'NN'), ('pane', 'NN'), ('click', 'NN'), ('local', 'JJ'), ('policies', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('in', 'IN'), ('the', 'DT'), ('right', 'NN'), ('pane', 'NN'), ('double-click', 'NN'), ('security', 'NN'), ('options', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 97
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('right', 'NN'), ('pane', 'NN'), ('double-click', 'NN'), ('secure', 'NN'), ('channel:', 'NN'), ('digitally', 'RB'), ('encrypt', 'JJ'), ('or', 'CC'), ('sign', 'NN'), ('secure', 'NN'), ('channel', 'NN'), ('data', 'NNS'), ('always', 'RB')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 98
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('local', 'JJ'), ('security', 'NN'), ('policy', 'NN'), ('setting', 'VBG'), ('dialog', 'NN'), ('box', 'NN'), ('click', 'NN'), ('disabled', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['setting', 'dialog', 'box', 'click'], ['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'setting', '', '', 'click', 'disabled', '', '', 'click', '']
+
+Sentence: 99
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 100
+tagged_sent: [('double-click', 'JJ'), ('administrative', 'JJ'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('event', 'NN'), ('viewer', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 101
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('system', 'NN'), ('log', 'NN'), ('file', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'click', '']
+
+Sentence: 102
+tagged_sent: [('click', 'NN'), ('overwrite', 'VBD'), ('as', 'IN'), ('needed', 'VBN'), ('or', 'CC'), ('set', 'VBN'), ('a', 'DT'), ('larger', 'JJR'), ('maximum', 'NN'), ('log', 'NN'), ('file', 'NN'), ('size', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'overwrite', '', 'needed', '', 'set', '', '', '', '', '', '']
+
+Sentence: 103
+tagged_sent: [('click', 'NN'), ('ok', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'ok']
+
+Sentence: 104
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 105
+tagged_sent: [('double-click', 'JJ'), ('system', 'NN')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 106
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('hardware', 'NN'), ('tab', 'NN'), ('click', 'NN'), ('device', 'NN'), ('manager', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 107
+tagged_sent: [('in', 'IN'), ('device', 'NN'), ('manager', 'NN'), ('click', 'NN'), ('the', 'DT'), ('plus', 'NN'), ('symbol', 'NN'), ('next', 'IN'), ('to', 'TO'), ('dvd/cd-rom', 'NNP'), ('drives', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('your', 'PRP$'), ('cdrw/dvd', 'JJ'), ('drive', 'JJ')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', 'click', '', '', '']
+
+Sentence: 108
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('action', 'NN'), ('menu', 'NN'), ('click', 'NN'), ('properties', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 109
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('properties', 'NNS'), ('tab', 'VBP'), ('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('enable', 'JJ'), ('digital', 'NN'), ('cd', 'NN'), ('audio', 'NN'), ('for', 'IN'), ('this', 'DT'), ('cd-rom', 'NN'), ('device', 'NN')]
+myvp: [['tab', 'click'], ['select', 'digital', 'cd', 'audio']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'tab', '', '', 'select', '', '', '', '', '', '', '', '', '']
+
+Sentence: 110
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('restart', 'VB'), ('your', 'PRP$'), ('computer', 'NN'), ('when', 'WRB'), ('you', 'PRP'), ('are', 'VBP'), ('prompted', 'VBN')]
+myvp: [['restart', 'computer']]
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1]
+temp_tag_act: ['', 'ok', '', '', 'restart', '', '', '', '', 'are', 'prompted']
+
+Sentence: 111
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('network', 'NN'), ('and', 'CC'), ('dial-up', 'JJ'), ('connections', 'NNS')]
+myvp: [['start', 'point'], ['click', 'network']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '', '', '']
+
+Sentence: 112
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('dial-up', 'JJ'), ('adapter', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 113
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('networking', 'NN'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 114
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('type', 'NN'), ('of', 'IN'), ('dial-up', 'JJ'), ('server', 'NN'), ('i', 'PRP'), ('am', 'VBP'), ('calling', 'VBG'), ('box', 'NN'), ('click', 'NN'), ('ppp:', 'NN'), ('windows', 'VBZ'), ('95/98/nt/2000', 'CD'), ('internet', 'NN')]
+myvp: [['calling', 'box', 'click', 'ppp']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'am', 'calling', '', '', '', '', '', '']
+
+Sentence: 115
+tagged_sent: [('click', 'NN'), ('settings', 'NNS')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 116
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('negotiate', 'JJ'), ('multi-link', 'NN'), ('for', 'IN'), ('single', 'JJ'), ('link', 'NN'), ('connections', 'NNS'), ('check', 'VBP'), ('box', 'NN')]
+myvp: [['clear', 'multi-link'], ['check', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'clear', '', '', '', '', '', '', '', 'check', '']
+
+Sentence: 117
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'ok', '', '', 'click', '']
+
+Sentence: 118
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('programs', 'NNS'), ('click', 'VB'), ('administrative', 'JJ'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('local', 'JJ'), ('security', 'NN'), ('policy', 'NN')]
+myvp: [['start', 'point'], ['click', 'tools']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', 'click', '', '', '', '', '', '', '', '']
+
+Sentence: 119
+tagged_sent: [('double-click', 'JJ'), ('local', 'JJ'), ('policies', 'NNS')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 120
+tagged_sent: [('double-click', 'JJ'), ('security', 'NN'), ('options', 'NNS')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 121
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('right', 'NN'), ('pane', 'NN'), ('double-click', 'NN'), ('prevent', 'NN'), ('users', 'NNS'), ('from', 'IN'), ('installing', 'VBG'), ('printer', 'NN'), ('drivers', 'NNS')]
+myvp: [['installing', 'printer', 'drivers']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'installing', '', '']
+
+Sentence: 122
+tagged_sent: [('click', 'NN'), ('disabled', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'disabled', '', '', 'click', '']
+
+Sentence: 123
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('click', 'NN'), ('run', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('open', 'JJ'), ('box', 'NN'), ('type', 'NN'), ('secpol.msc', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['start', 'click'], ['click', 'ok']]
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', 'click', 'run', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 124
+tagged_sent: [('double-click', 'JJ'), ('local', 'JJ'), ('policies', 'NNS')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 125
+tagged_sent: [('double-click', 'JJ'), ('user', 'NN'), ('rights', 'NNS'), ('assignment', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 126
+tagged_sent: [('double-click', 'JJ'), ('back', 'NN'), ('up', 'IN'), ('files', 'NNS'), ('and', 'CC'), ('directories', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 127
+tagged_sent: [('click', 'NN'), ('add', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('the', 'DT'), ('administrators', 'NNS'), ('group', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'add', '', '', '', '', '', '']
+
+Sentence: 128
+tagged_sent: [('click', 'NN'), ('ok', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'ok']
+
+Sentence: 129
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('programs', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('administrative', 'VB'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('local', 'JJ'), ('security', 'NN'), ('policy', 'NN')]
+myvp: [['start', 'point'], ['administrative', 'tools'], ['click', 'security', 'policy']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'administrative', '', '', '', 'click', '', '', '']
+
+Sentence: 130
+tagged_sent: [('under', 'IN'), ('security', 'NN'), ('settings', 'NNS'), ('double-click', 'JJ'), ('local', 'JJ'), ('policies', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('security', 'NN'), ('options', 'NNS')]
+myvp: [['click', 'security', 'options']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '', '']
+
+Sentence: 131
+tagged_sent: [('double-click', 'JJ'), ('additional', 'JJ'), ('restrictions', 'NNS'), ('for', 'IN'), ('anonymous', 'JJ'), ('connections', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('under', 'IN'), ('local', 'JJ'), ('policy', 'NN'), ('setting', 'VBG'), ('click', 'NN'), ('not', 'RB'), ('defined', 'VBN'), ('or', 'CC'), ('none.', 'NNP'), ('rely', 'RB'), ('on', 'IN'), ('default', 'NN'), ('permissions', 'NNS')]
+myvp: [['setting', 'click']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', 'setting', '', '', 'defined', '', '', '', '', '', '']
+
+Sentence: 132
+tagged_sent: [('right-click', 'JJ'), ('start', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('explore', 'NN')]
+myvp: [['click', 'explore']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', 'click', '']
+
+Sentence: 133
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('folder', 'NN'), ('options', 'NNS')]
+myvp: [['menu', 'click', 'folder', 'options']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '']
+
+Sentence: 134
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('view', 'NN'), ('tab', 'NN'), ('and', 'CC'), ('then', 'RB'), ('in', 'IN'), ('the', 'DT'), ('advanced', 'JJ'), ('settings', 'NNS'), ('list', 'VBP'), ('under', 'IN'), ('files', 'NNS'), ('and', 'CC'), ('folders', 'NNS'), ('do', 'VBP'), ('the', 'DT'), ('following', 'VBG')]
+myvp: [['list', 'files']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'list', '', '', '', '', 'do', '', 'following']
+
+Sentence: 135
+tagged_sent: [('under', 'IN'), ('hidden', 'VBN'), ('files', 'NNS'), ('and', 'CC'), ('folders', 'NNS'), ('click', 'VBP'), ('show', 'NN'), ('hidden', 'VBN'), ('files', 'NNS'), ('and', 'CC'), ('folders', 'NNS')]
+myvp: [['hidden', 'files'], ['click', 'show'], ['hidden', 'files']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+temp_tag_act: ['', 'hidden', '', '', '', 'click', '', 'hidden', '', '', '']
+
+Sentence: 136
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('hide', 'NN'), ('file', 'NN'), ('extensions', 'NNS'), ('for', 'IN'), ('known', 'VBN'), ('file', 'NN'), ('types', 'NNS'), ('check', 'VBP'), ('box', 'NN')]
+myvp: [['clear', 'hide', 'file', 'extensions'], ['known', 'file', 'types'], ['check', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'clear', '', '', '', '', '', 'known', '', '', 'check', '']
+
+Sentence: 137
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('help', 'NN')]
+myvp: [['click', 'help']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'start', '', '', 'click', '']
+
+Sentence: 138
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('search', 'NN'), ('tab', 'NN'), ('type', 'NN'), ('internet', 'NN'), ('connection', 'NN'), ('sharing', 'VBG'), ('in', 'IN'), ('the', 'DT'), ('type', 'NN'), ('in', 'IN'), ('the', 'DT'), ('keyword', 'NN'), ('to', 'TO'), ('find', 'VB'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('list', 'NN'), ('topics', 'NNS')]
+myvp: [['sharing', 'type'], ['find', 'box'], ['click', 'list', 'topics']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'sharing', '', '', '', '', '', '', '', 'find', '', '', '', 'click', '', '']
+
+Sentence: 139
+tagged_sent: [('double-click', 'JJ'), ('internet', 'NN'), ('connection', 'NN'), ('sharing', 'VBG'), ('in', 'IN'), ('the', 'DT'), ('select', 'NN'), ('topic', 'NN'), ('box', 'NN')]
+myvp: [['sharing', 'select', 'topic', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'sharing', '', '', '', '', '']
+
+Sentence: 140
+tagged_sent: [('click', 'NN'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('choose', 'VB'), ('internet', 'NN'), ('options', 'NNS')]
+myvp: [['choose', 'internet', 'options']]
+label:    [1, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', 'choose', '', '']
+
+Sentence: 141
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 142
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('show', 'NN'), ('pictures', 'NNS'), ('check', 'VBP'), ('box', 'NN')]
+myvp: [['select', 'show', 'pictures'], ['check', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'select', '', '', '', 'check', '']
+
+Sentence: 143
+tagged_sent: [('click', 'NN'), ('ok', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'ok']
+
+Sentence: 144
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('internet', 'NN'), ('options', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN')]
+myvp: [['menu', 'click', 'internet', 'options'], ['click', 'tab']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', 'click', '', '', '', '', 'click', '', '', '']
+
+Sentence: 145
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('settings', 'NNS'), ('box', 'VBP'), ('under', 'IN'), ('printing', 'VBG'), ('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('print', 'NN'), ('background', 'NN'), ('colors', 'NNS'), ('and', 'CC'), ('images', 'NNS'), ('check', 'VBP'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['printing', 'click'], ['select', 'print', 'background', 'colors'], ['check', 'box'], ['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'box', '', 'printing', '', '', 'select', '', '', '', '', '', '', 'check', '', '', '', 'click', '']
+
+Sentence: 146
+tagged_sent: [('double-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('dial-up', 'NN'), ('networking', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 147
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('appropriate', 'NN'), ('dial-up', 'NN'), ('network', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'click', '']
+
+Sentence: 148
+tagged_sent: [('click', 'NN'), ('configure', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('enable', 'JJ'), ('modem', 'NN'), ('error', 'NN'), ('control', 'NN'), ('check', 'NN'), ('box', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'click', '', 'clear', '', '', '', '', '', '', '']
+
+Sentence: 149
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'ok', '', '', 'click', '']
+
+Sentence: 150
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('network', 'NN'), ('and', 'CC'), ('dial-up', 'JJ'), ('connections', 'NNS')]
+myvp: [['start', 'point'], ['click', 'network']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '', '', '']
+
+Sentence: 151
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('appropriate', 'NN'), ('dial-up', 'NN'), ('network', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'click', '']
+
+Sentence: 152
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('networking', 'NN'), ('tab', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('settings', 'NNS')]
+myvp: [['click', 'settings']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', '', '', '', '', '', 'click', '']
+
+Sentence: 153
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('negotiate', 'JJ'), ('multi-link', 'NN'), ('for', 'IN'), ('single', 'JJ'), ('link', 'NN'), ('connections', 'NNS'), ('check', 'VBP'), ('box', 'NN'), ('if', 'IN'), ('it', 'PRP'), ('is', 'VBZ'), ('selected', 'VBN')]
+myvp: [['clear', 'multi-link'], ['check', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', 'clear', '', '', '', '', '', '', '', 'check', '', '', '', '', 'selected']
+
+Sentence: 154
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'ok', '', '', 'click', '']
+
+Sentence: 155
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('click', 'NN'), ('run', 'VBN'), ('type', 'NN'), ('services.msc', 'NN'), ('in', 'IN'), ('the', 'DT'), ('open', 'JJ'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['start', 'click'], ['click', 'ok']]
+label:    [1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', 'click', 'run', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 156
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('list', 'NN'), ('of', 'IN'), ('services', 'NNS'), ('double-click', 'JJ'), ('tcp/ip', 'NN'), ('netbios', 'NNS'), ('helper', 'NN'), ('service', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '']
+
+Sentence: 157
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('startup', 'NN'), ('type', 'NN'), ('list', 'NN'), ('click', 'NN'), ('automatic', 'JJ'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('apply', 'RB')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 158
+tagged_sent: [('under', 'IN'), ('service', 'NN'), ('status', 'NN'), ('click', 'NN'), ('start', 'NN'), ('to', 'TO'), ('start', 'VB'), ('the', 'DT'), ('tcp/ip', 'JJ'), ('netbios', 'NNS'), ('helper', 'NN'), ('service', 'NN')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'start', '', '', '', '', '']
+
+Sentence: 159
+tagged_sent: [('when', 'WRB'), ('the', 'DT'), ('service', 'NN'), ('is', 'VBZ'), ('started', 'VBN'), ('click', 'NN'), ('ok', 'NN'), ('and', 'CC'), ('then', 'RB'), ('quit', 'VB'), ('the', 'DT'), ('services', 'NNS'), ('snap-in', '-NONE-')]
+myvp: [['quit', 'services']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'started', '', '', '', '', 'quit', '', '', '']
+
+Sentence: 160
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('printers', 'NNS')]
+myvp: [['start', 'point'], ['click', 'printers']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '']
+
+Sentence: 161
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('paintjet', 'NN'), ('printer', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('file', 'NN'), ('menu', 'NN')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['click', '', '', '', '', '', 'click', '', '', '', '', '']
+
+Sentence: 162
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('device', 'NN'), ('settings', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', 'tab']
+
+Sentence: 163
+tagged_sent: [('click', 'NN'), ('send', 'VBP'), ('ctrl-d', 'JJ'), ('after', 'IN'), ('each', 'DT'), ('job', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('no', 'DT'), ('in', 'IN'), ('the', 'DT'), ('list', 'NN'), ('box', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'send', '', '', '', '', '', '', 'click', '', '', '', '', '']
+
+Sentence: 164
+tagged_sent: [('right-click', 'JJ'), ('my', 'PRP$'), ('network', 'NN'), ('places', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 165
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('icon', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 166
+tagged_sent: [('click', 'NN'), ('install', 'VBD'), ('click', 'NN'), ('client', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('add', 'JJ')]
+myvp: [['install', 'click', 'client']]
+label:    [1, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'install', '', '', '', '', 'click', '']
+
+Sentence: 167
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('network', 'NN'), ('client', 'NN'), ('box', 'NN'), ('click', 'NN'), ('client', 'NN'), ('for', 'IN'), ('microsoft', 'NN'), ('networks', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '', '', '', '', '', '', 'click', '']
+
+Sentence: 168
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('local', 'JJ'), ('area', 'NN'), ('connections', 'NNS'), ('properties', 'NNS'), ('window', 'VBP'), ('click', 'NN'), ('ok', 'NN')]
+myvp: [['window', 'click', 'ok']]
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'window', '', '']
+
+Sentence: 169
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '']
+
+Sentence: 170
+tagged_sent: [('click', 'NN'), ('network', 'NN'), ('and', 'CC'), ('dial-up', 'JJ'), ('connections', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 171
+tagged_sent: [('double-click', 'JJ'), ('the', 'DT'), ('applicable', 'JJ'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 172
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('components', 'NNS'), ('pane', 'VBP'), ('click', 'NN'), ('internet', 'NN'), ('protocol', 'NN'), ('tcp/ip', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'pane', 'click', '', '', '', '', '', 'click', '']
+
+Sentence: 173
+tagged_sent: [('click', 'NN'), ('advanced', 'VBD'), ('click', 'NN'), ('the', 'DT'), ('wins', 'NNS'), ('tab', 'VBP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('enable', 'JJ'), ('netbios', 'NNS'), ('over', 'IN'), ('tcp/ip', 'JJ')]
+myvp: [['advanced', 'click'], ['click', 'netbios']]
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'advanced', 'click', '', '', 'tab', '', '', 'click', '', '', '', '']
+
+Sentence: 174
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('to', 'TO'), ('close', 'VB'), ('all', 'DT'), ('the', 'DT'), ('dialog', 'NN'), ('boxes', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'ok', '', 'close', '', '', '', '']
+
+Sentence: 175
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('programs', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('administrative', 'VB'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('services', 'NNS')]
+myvp: [['start', 'point'], ['administrative', 'tools'], ['click', 'services']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'administrative', '', '', '', 'click', '']
+
+Sentence: 176
+tagged_sent: [('right-click', 'JJ'), ('internet', 'NN'), ('connection', 'NN'), ('sharing', 'VBG'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'sharing', '', '', 'click', '']
+
+Sentence: 177
+tagged_sent: [('under', 'IN'), ('startup', 'NN'), ('type', 'NN'), ('click', 'NN'), ('disabled', 'VBD')]
+myvp: []
+label:    [0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', 'disabled']
+
+Sentence: 178
+tagged_sent: [('under', 'IN'), ('service', 'NN'), ('status', 'NN'), ('click', 'NN'), ('stop', 'NN')]
+myvp: []
+label:    [0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 179
+tagged_sent: [('click', 'NN'), ('ok', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'ok']
+
+Sentence: 180
+tagged_sent: [('start', 'NN'), ('windows', 'VBZ'), ('explorer', 'NN')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 181
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('folder', 'NN'), ('options', 'NNS')]
+myvp: [['menu', 'click', 'folder', 'options']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '']
+
+Sentence: 182
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('view', 'NN'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 183
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('launch', 'NN'), ('folder', 'NN'), ('windows', 'VBZ'), ('in', 'IN'), ('a', 'DT'), ('separate', 'JJ'), ('process', 'NN'), ('check', 'NN'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['clear', 'launch', 'folder'], ['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'clear', '', '', '', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 184
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('my', 'PRP$'), ('computer', 'NN'), ('icon', 'NN'), ('on', 'IN'), ('your', 'PRP$'), ('desktop', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('manage', 'NN')]
+myvp: [['click', 'manage']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 185
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('computer', 'NN'), ('management', 'NN'), ('console', 'NN'), ('double-click', 'NN'), ('services', 'NNS'), ('and', 'CC'), ('applications', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('services', 'NNS')]
+myvp: [['click', 'services']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 186
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('rightmost', 'NN'), ('window', 'NN'), ('right-click', 'NN'), ('dhcp', 'NN'), ('client', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 187
+tagged_sent: [('change', 'NN'), ('startup', 'NN'), ('type', 'NN'), ('to', 'TO'), ('automatic', 'JJ'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'click', '']
+
+Sentence: 188
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('dhcp', 'NN'), ('client', 'NN'), ('service', 'NN'), ('again', 'RB'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('start', 'NN')]
+myvp: [['click', 'start']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 189
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 190
+tagged_sent: [('double-click', 'JJ'), ('system', 'NN'), ('click', 'NN'), ('the', 'DT'), ('hardware', 'NN'), ('tab', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('device', 'NN'), ('manager', 'NN')]
+myvp: [['click', 'device', 'manager']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', 'click', '', '', '', '', '', 'click', '', '']
+
+Sentence: 191
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('network', 'NN'), ('adapter', 'NN'), ('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('allow', 'JJ'), ('the', 'DT'), ('computer', 'NN'), ('to', 'TO'), ('turn', 'VB'), ('off', 'RP'), ('this', 'DT'), ('device', 'NN'), ('to', 'TO'), ('save', 'VB'), ('power', 'NN'), ('check', 'NN'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['save', 'power', 'check', 'box'], ['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'select', '', '', '', '', '', 'turn', '', '', '', '', 'save', '', '', '', '', '', 'click', '']
+
+Sentence: 192
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('search', 'VB'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('for', 'IN'), ('files', 'NNS'), ('or', 'CC'), ('folders', 'NNS')]
+myvp: [['start', 'point'], ['click', 'files']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', 'search', '', '', 'click', '', '', '', '']
+
+Sentence: 193
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('search', 'NN'), ('results', 'NNS'), ('dialog', 'VBP'), ('box', 'NN'), ('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('folder', 'NN'), ('options', 'NNS')]
+myvp: [['dialog', 'box'], ['menu', 'click', 'folder', 'options']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'dialog', '', '', '', '', 'menu', '', '', '']
+
+Sentence: 194
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('folder', 'NN'), ('options', 'NNS'), ('dialog', 'VBP'), ('box', 'NN'), ('on', 'IN'), ('the', 'DT'), ('view', 'NN'), ('tab', 'NN'), ('under', 'IN'), ('advanced', 'JJ'), ('settings', 'NNS'), ('click', 'VBP'), ('show', 'NN'), ('hidden', 'VBN'), ('files', 'NNS'), ('and', 'CC'), ('folders', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('hide', 'NN'), ('file', 'NN'), ('extensions', 'NNS'), ('for', 'IN'), ('known', 'VBN'), ('file', 'NN'), ('types', 'NNS'), ('check', 'VBP'), ('box', 'NN'), ('click', 'NN'), ('apply', 'RB'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['dialog', 'box'], ['click', 'show'], ['hidden', 'files'], ['clear', 'hide', 'file', 'extensions'], ['known', 'file', 'types'], ['check', 'box', 'click'], ['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', 'dialog', '', '', '', '', '', '', '', '', 'click', '', 'hidden', '', '', '', '', '', 'click', '', 'clear', '', '', '', '', '', 'known', '', '', 'check', '', 'click', '', '', '', 'click', '']
+
+Sentence: 195
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('search', 'NN'), ('for', 'IN'), ('files', 'NNS'), ('or', 'CC'), ('folders', 'NNS'), ('named', 'VBD'), ('box', 'NN'), ('type', 'NN'), ('msdownld.tmp', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'named', '', '', '']
+
+Sentence: 196
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('look', 'NN'), ('in', 'IN'), ('list', 'NN'), ('click', 'NN'), ('my', 'PRP$'), ('computer', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('search', 'NN'), ('now', 'RB')]
+myvp: [['click', 'search']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '', '', '', '', 'click', '', '']
+
+Sentence: 197
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('search', 'NN'), ('results', 'NNS'), ('pane', 'VBP'), ('right-click', 'JJ'), ('msdownld.tmp', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('delete', 'JJ'), ('on', 'IN'), ('the', 'DT'), ('shortcut', 'NN'), ('menu', 'NN'), ('a', 'DT'), ('confirm', 'NN'), ('folder', 'NN'), ('delete', 'NN'), ('message', 'NN'), ('appears', 'VBZ')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'pane', '', '', '', '', 'click', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 198
+tagged_sent: [('click', 'NN'), ('yes', 'NNS')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 199
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('network', 'NN'), ('and', 'CC'), ('dial-up', 'JJ'), ('connections', 'NNS')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', 'click', '', '', '', '', '', '', '', '', '']
+
+Sentence: 200
+tagged_sent: [('right-click', 'JJ'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 201
+tagged_sent: [('click', 'NN'), ('install', 'VBD'), ('click', 'NN'), ('protocol', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('add', 'JJ')]
+myvp: [['install', 'click', 'protocol']]
+label:    [1, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'install', '', '', '', '', 'click', '']
+
+Sentence: 202
+tagged_sent: [('click', 'NN'), ('network', 'NN'), ('monitor', 'NN'), ('driver', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', '', '', '', '', '', 'click', '']
+
+Sentence: 203
+tagged_sent: [('right-click', 'JJ'), ('my', 'PRP$'), ('network', 'NN'), ('places', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 204
+tagged_sent: [('double-click', 'JJ'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 205
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('file', 'NN'), ('and', 'CC'), ('print', 'VBP'), ('sharing', 'VBG'), ('for', 'IN'), ('microsoft', 'NN'), ('networks', 'NNS'), ('check', 'VBP'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['select', 'file'], ['sharing', 'microsoft', 'networks'], ['check', 'box'], ['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'select', '', '', '', 'print', 'sharing', '', '', '', 'check', '', '', '', 'click', '']
+
+Sentence: 206
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('programs', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('administrative', 'VB'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('services', 'NNS')]
+myvp: [['start', 'point'], ['administrative', 'tools'], ['click', 'services']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'administrative', '', '', '', 'click', '']
+
+Sentence: 207
+tagged_sent: [('right-click', 'JJ'), ('internet', 'NN'), ('connection', 'NN'), ('sharing', 'VBG'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('start', 'NN')]
+myvp: [['click', 'start']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'sharing', '', '', 'click', '']
+
+Sentence: 208
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('the', 'DT'), ('click', 'NN'), ('printers', 'NNS')]
+myvp: [['start', 'point']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', '', '']
+
+Sentence: 209
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('printers', 'NNS'), ('dialog', 'VBP'), ('box', 'NN'), ('right-click', 'NN'), ('your', 'PRP$'), ('printer', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['dialog', 'box', 'right-click'], ['click', 'properties']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'dialog', '', '', '', '', '', '', 'click', '']
+
+Sentence: 210
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN'), ('click', 'NN'), ('print', 'NN'), ('processor', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 211
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('default', 'NN'), ('datatype', 'NN'), ('list', 'NN'), ('click', 'NN'), ('raw', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '', '', '', 'click', '']
+
+Sentence: 212
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('to', 'TO'), ('close', 'VB'), ('the', 'DT'), ('printer', 'NN'), ('properties', 'NNS'), ('dialog', 'VBP'), ('box', 'NN')]
+myvp: [['close', 'printer', 'properties'], ['dialog', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'ok', '', 'close', '', '', '', 'dialog', '']
+
+Sentence: 213
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('network', 'NN'), ('and', 'CC'), ('dial-up', 'JJ'), ('connections', 'NNS')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', 'click', '', '', '', '', '', '', '', '', '']
+
+Sentence: 214
+tagged_sent: [('right-click', 'JJ'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 215
+tagged_sent: [('click', 'NN'), ('install', 'VBD'), ('click', 'NN'), ('service', 'NN'), ('in', 'IN'), ('the', 'DT'), ('select', 'NN'), ('network', 'NN'), ('component', 'NN'), ('type', 'NN'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('add', 'JJ')]
+myvp: [['install', 'click', 'service']]
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'install', '', '', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 216
+tagged_sent: [('click', 'NN'), ('sap', 'NN'), ('agent', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', '', '', '', '', 'click', '']
+
+Sentence: 217
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('printers', 'NNS')]
+myvp: [['start', 'point'], ['click', 'printers']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '']
+
+Sentence: 218
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('hp', 'NN'), ('1600', 'CD'), ('cm/ps', 'NNS'), ('printer', 'JJR'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 219
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN'), ('click', 'NN'), ('new', 'JJ'), ('driver', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 220
+tagged_sent: [('click', 'NN'), ('next', 'IN')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 221
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('manufacturers', 'NNS'), ('box', 'VBP'), ('click', 'NN'), ('hp', 'NN'), ('in', 'IN'), ('the', 'DT'), ('models', 'NNS'), ('box', 'VBP'), ('click', 'NN'), ('1600', 'CD'), ('cm/ps', 'NNS')]
+myvp: [['box', 'click', 'hp'], ['box', 'click']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'box', '', '', '', '', '', 'box', '', '', '']
+
+Sentence: 222
+tagged_sent: [('click', 'NN'), ('next', 'IN'), ('or', 'CC'), ('finish', 'JJ'), ('until', 'IN'), ('the', 'DT'), ('wizard', 'NN'), ('finishes', 'VBZ')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 223
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('network', 'NN'), ('and', 'CC'), ('dial-up', 'JJ'), ('connection', 'NN')]
+myvp: [['start', 'point'], ['click', 'network']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '', '', '']
+
+Sentence: 224
+tagged_sent: [('right-click', 'JJ'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 225
+tagged_sent: [('click', 'NN'), ('internet', 'VBD'), ('protocol', 'NN'), ('tcp/ip', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', 'internet', '', '', '', '', 'click', '']
+
+Sentence: 226
+tagged_sent: [('click', 'NN'), ('advanced', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('the', 'DT'), ('wins', 'NNS'), ('tab', 'VBP')]
+myvp: [['click', 'wins']]
+label:    [1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 1, 0, 0, 1, 0, 0, 1]
+temp_tag_act: ['click', 'advanced', '', '', 'click', '', '', 'tab']
+
+Sentence: 227
+tagged_sent: [('click', 'NN'), ('enable', 'JJ'), ('netbios', 'NNS'), ('over', 'IN'), ('tcp/ip', 'JJ')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 228
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('you', 'PRP'), ('can', 'MD'), ('disregard', 'VB'), ('the', 'DT'), ('empty', 'NN'), ('primary', 'NN'), ('wins', 'VBZ'), ('address', 'NN'), ('notification', 'NN')]
+myvp: [['ok', 'you'], ['disregard', 'empty', 'primary']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'ok', '', '', 'disregard', '', '', '', '', '', '']
+
+Sentence: 229
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'ok', '', '', 'click', '']
+
+Sentence: 230
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('network', 'NN'), ('and', 'CC'), ('dial-up', 'JJ'), ('connections', 'NNS')]
+myvp: [['start', 'point'], ['click', 'network']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '', '', '']
+
+Sentence: 231
+tagged_sent: [('click', 'NN'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('file', 'NN'), ('menu', 'NN'), ('click', 'NN'), ('install', 'NN')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['click', '', '', '', '', '', 'click', '', '', '', '', '', '', '']
+
+Sentence: 232
+tagged_sent: [('click', 'NN'), ('clients', 'NNS'), ('click', 'VBP'), ('add', 'JJ'), ('click', 'NN'), ('client', 'NN'), ('for', 'IN'), ('microsoft', 'NN'), ('networks', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'click', 'client'], ['click', 'ok']]
+label:    [1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', '', 'click', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 233
+tagged_sent: [('click', 'NN'), ('internet', 'VBD'), ('options', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('the', 'DT'), ('security', 'NN'), ('tab', 'NN')]
+myvp: [['internet', 'options'], ['click', 'security', 'tab']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', 'internet', '', '', '', '', 'menu', '', '', 'click', '', '', '']
+
+Sentence: 234
+tagged_sent: [('click', 'NN'), ('internet', 'VBD'), ('in', 'IN'), ('the', 'DT'), ('select', 'NN'), ('a', 'DT'), ('web', 'NN'), ('content', 'NN'), ('zone', 'NN'), ('to', 'TO'), ('specify', 'VB'), ('its', 'PRP$'), ('security', 'NN'), ('settings', 'NNS'), ('section', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('custom', 'NN'), ('level', 'NN')]
+myvp: [['internet', 'select'], ['click', 'custom', 'level']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'internet', '', '', '', '', '', '', '', '', 'specify', '', '', '', '', '', '', 'click', '', '']
+
+Sentence: 235
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('run', 'NN'), ('activex', 'NN'), ('scripts', 'NNS'), ('and', 'CC'), ('plugins', 'NNS'), ('section', 'NN'), ('click', 'NN'), ('disable', 'JJ'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '', '', '', 'click', '']
+
+Sentence: 236
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('in', 'IN'), ('internet', 'NN'), ('explorer', 'NN'), ('click', 'NN'), ('internet', 'NN'), ('options', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '', '', '', '']
+
+Sentence: 237
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 238
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('do', 'NN'), ('not', 'RB'), ('save', 'VB'), ('encrypted', 'VBN'), ('pages', 'NNS'), ('to', 'TO'), ('disk', 'VB'), ('check', 'NN'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['clear', 'do'], ['save', 'pages'], ['disk', 'check', 'box'], ['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'clear', '', '', '', 'save', 'encrypted', '', '', 'disk', '', '', '', '', 'click', '']
+
+Sentence: 239
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('in', 'IN'), ('internet', 'NN'), ('explorer', 'NN'), ('click', 'NN'), ('internet', 'NN'), ('options', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '', '', '', '']
+
+Sentence: 240
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('general', 'JJ'), ('tab', 'NN'), ('under', 'IN'), ('temporary', 'JJ'), ('internet', 'NN'), ('files', 'NNS'), ('click', 'VBP'), ('delete', 'JJ'), ('files', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN'), ('on', 'IN'), ('the', 'DT'), ('delete', 'JJ'), ('files', 'NNS'), ('dialog', 'VBP'), ('box', 'NN')]
+myvp: [['click', 'files'], ['click', 'ok'], ['dialog', 'box']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '', '', '', '', 'click', '', '', '', '', '', 'dialog', '']
+
+Sentence: 241
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('to', 'TO'), ('close', 'VB'), ('the', 'DT'), ('internet', 'NN'), ('options', 'NNS'), ('dialog', 'VBP'), ('box', 'NN')]
+myvp: [['close', 'internet', 'options'], ['dialog', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'ok', '', 'close', '', '', '', 'dialog', '']
+
+Sentence: 242
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('refresh', 'NN'), ('button', 'NN'), ('at', 'IN'), ('the', 'DT'), ('top', 'JJ'), ('of', 'IN'), ('the', 'DT'), ('browser', 'NN'), ('to', 'TO'), ('ensure', 'VB'), ('that', 'IN'), ('you', 'PRP'), ('are', 'VBP'), ('viewing', 'VBG'), ('the', 'DT'), ('latest', 'JJS'), ('version', 'NN'), ('of', 'IN'), ('the', 'DT'), ('current', 'JJ'), ('page', 'NN')]
+myvp: [['ensure', 'you']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', 'ensure', '', '', 'are', 'viewing', '', '', '', '', '', '', '']
+
+Sentence: 243
+tagged_sent: [('in', 'IN'), ('internet', 'NN'), ('explorer', 'NN'), ('click', 'NN'), ('internet', 'NN'), ('options', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'menu']
+
+Sentence: 244
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 245
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('show', 'NN'), ('internet', 'NN'), ('explorer', 'NN'), ('on', 'IN'), ('desktop', 'NN'), ('check', 'NN'), ('box', 'NN')]
+myvp: [['select', 'show', 'internet', 'explorer']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'select', '', '', '', '', '', '', '', '']
+
+Sentence: 246
+tagged_sent: [('in', 'IN'), ('internet', 'NN'), ('explorer', 'NN'), ('click', 'NN'), ('internet', 'NN'), ('options', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'menu']
+
+Sentence: 247
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('general', 'JJ'), ('tab', 'NN'), ('click', 'NN'), ('languages', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 248
+tagged_sent: [('click', 'NN'), ('english', 'NN'), ('[united', 'JJ'), ('states][en-us]', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', '', '', '', '', '', 'click', '']
+
+Sentence: 249
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('to', 'TO'), ('close', 'VB'), ('the', 'DT'), ('language', 'NN'), ('preference', 'NN'), ('dialog', 'NN'), ('box', 'NN'), ('click', 'NN'), ('ok', 'NN'), ('to', 'TO'), ('close', 'VB'), ('the', 'DT'), ('internet', 'NN'), ('options', 'NNS'), ('dialog', 'VBP'), ('box', 'NN')]
+myvp: [['close', 'internet', 'options'], ['dialog', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'ok', '', 'close', '', '', '', 'dialog', '', '', '', '', 'close', '', '', '', 'dialog', '']
+
+Sentence: 250
+tagged_sent: [('in', 'IN'), ('internet', 'NN'), ('explorer', 'NN'), ('click', 'NN'), ('internet', 'NN'), ('options', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'menu']
+
+Sentence: 251
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('privacy', 'NN'), ('tab', 'NN'), ('click', 'NN'), ('advanced', 'VBD')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', 'advanced']
+
+Sentence: 252
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('override', 'NN'), ('automatic', 'JJ'), ('cookie', 'NN'), ('handling', 'NN'), ('check', 'NN'), ('box', 'NN')]
+myvp: [['select', 'override']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'select', '', '', '', '', '', '', '']
+
+Sentence: 253
+tagged_sent: [('click', 'NN'), ('prompt', 'VBD'), ('for', 'IN'), ('both', 'DT'), ('first-party', 'JJ'), ('cookies', 'NNS'), ('and', 'CC'), ('third-party', 'JJ'), ('cookies', 'NNS')]
+myvp: [['prompt', 'cookies']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'prompt', '', '', '', '', '', '', '']
+
+Sentence: 254
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('twice', 'NN')]
+myvp: [['ok', 'twice']]
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'ok', '']
+
+Sentence: 255
+tagged_sent: [('in', 'IN'), ('control', 'NN'), ('panel', 'NN'), ('double-click', 'NN'), ('display', 'NN')]
+myvp: []
+label:    [0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 256
+tagged_sent: [('click', 'NN'), ('none', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', '', '', '', 'click', '']
+
+Sentence: 257
+tagged_sent: [('open', 'JJ'), ('control', 'NN'), ('panel', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('power', 'NN'), ('options', 'NNS')]
+myvp: [['click', 'power', 'options']]
+label:    [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '', '']
+
+Sentence: 258
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('power', 'NN'), ('schemes', 'VBZ'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 259
+tagged_sent: [('under', 'IN'), ('power', 'NN'), ('schemes', 'NNS'), ('click', 'VBP'), ('always', 'RB'), ('on', 'IN')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', 'click', '', '']
+
+Sentence: 260
+tagged_sent: [('double-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 261
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('folder', 'NN'), ('options', 'NNS')]
+myvp: [['menu', 'click', 'folder', 'options']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '']
+
+Sentence: 262
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('offline', 'NN'), ('files', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', 'tab']
+
+Sentence: 263
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('enable', 'JJ'), ('offline', 'NN'), ('files', 'NNS'), ('check', 'VBP'), ('box', 'NN'), ('click', 'NN'), ('apply', 'RB'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['select', 'offline', 'files'], ['check', 'box', 'click'], ['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'select', '', '', '', '', 'check', '', 'click', '', '', '', 'click', '']
+
+Sentence: 264
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 265
+tagged_sent: [('double-click', 'JJ'), ('system', 'NN')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 266
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('network', 'NN'), ('identification', 'NN'), ('tab', 'NN'), ('click', 'NN'), ('Network', 'NNP'), ('ID', 'NNP')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 267
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('network', 'NN'), ('identification', 'NN'), ('wizard', 'NN'), ('click', 'NN'), ('next', 'IN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 268
+tagged_sent: [('click', 'NN'), ('this', 'DT'), ('computer', 'NN'), ('is', 'VBZ'), ('for', 'IN'), ('home', 'NN'), ('use', 'NN'), ('and', 'CC'), ('not', 'RB'), ('part', 'NN'), ('of', 'IN'), ('a', 'DT'), ('business', 'NN'), ('network', 'NN'), ('and', 'CC'), ('click', 'NN'), ('next', 'IN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 269
+tagged_sent: [('click', 'NN'), ('users', 'NNS'), ('must', 'MD'), ('enter', 'VB'), ('a', 'DT'), ('user', 'NN'), ('name', 'NN'), ('and', 'CC'), ('password', 'NN')]
+myvp: [['enter', 'user', 'name']]
+label:    [1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'enter', '', '', '', '', '']
+
+Sentence: 270
+tagged_sent: [('click', 'NN'), ('next', 'IN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('finish', 'JJ')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', 'click', '']
+
+Sentence: 271
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN'), ('or', 'CC'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['click', 'control', 'panel'], ['click', 'control', 'panel']]
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['click', 'start', '', '', 'click', '', '', '', '', '', '', '', '', 'click', '', '']
+
+Sentence: 272
+tagged_sent: [('double-click', 'JJ'), ('administrative', 'JJ'), ('tools', 'NNS')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 273
+tagged_sent: [('double-click', 'JJ'), ('services', 'NNS')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 274
+tagged_sent: [('double-click', 'JJ'), ('messenger', 'NN')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 275
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('startup', 'NN'), ('type', 'NN'), ('list', 'NN'), ('click', 'NN'), ('disabled', 'VBD')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', 'disabled']
+
+Sentence: 276
+tagged_sent: [('click', 'NN'), ('stop', 'VBP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'stop', '', '', 'click', '']
+
+Sentence: 277
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('folder', 'NN'), ('options', 'NNS')]
+myvp: [['menu', 'click', 'folder', 'options']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '']
+
+Sentence: 278
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('view', 'NN'), ('tab', 'NN'), ('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('hide', 'NN'), ('protected', 'VBD'), ('operating', 'NN'), ('system', 'NN'), ('files', 'NNS'), ('check', 'VBP'), ('box', 'NN')]
+myvp: [['clear', 'hide'], ['protected', 'operating', 'system', 'files'], ['check', 'box']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'clear', '', '', 'protected', '', '', '', 'check', '']
+
+Sentence: 279
+tagged_sent: [('double-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN'), ('on', 'IN'), ('the', 'DT'), ('desktop', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 280
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('folder', 'NN'), ('options', 'NNS')]
+myvp: [['menu', 'click', 'folder', 'options']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '']
+
+Sentence: 281
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('offline', 'NN'), ('files', 'NNS'), ('tab', 'VBP'), ('click', 'NN'), ('view', 'NN'), ('files', 'NNS')]
+myvp: [['tab', 'click', 'view', 'files']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'tab', '', '', '']
+
+Sentence: 282
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('synchronize', 'NN')]
+myvp: [['menu', 'click', 'synchronize']]
+label:    [0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '']
+
+Sentence: 283
+tagged_sent: [('click', 'NN'), ('synchronize', 'VBP'), ('when', 'WRB'), ('you', 'PRP'), ('are', 'VBP'), ('prompted', 'VBN'), ('to', 'TO'), ('synchronize', 'VB')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 1, 1, 0, 1]
+temp_tag_act: ['', 'synchronize', '', '', 'are', 'prompted', '', 'synchronize']
+
+Sentence: 284
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('programs', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('administrative', 'VB'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('services', 'NNS')]
+myvp: [['start', 'point'], ['administrative', 'tools'], ['click', 'services']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'administrative', '', '', '', 'click', '']
+
+Sentence: 285
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('print', 'NN'), ('spooler', 'NN'), ('service', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('start', 'NN')]
+myvp: [['click', 'start']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'click', '']
+
+Sentence: 286
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('administrative', 'JJ'), ('tools', 'NNS')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', 'click', '', '', '', '', '', '', '']
+
+Sentence: 287
+tagged_sent: [('double-click', 'JJ'), ('component', 'NN'), ('services', 'NNS'), ('click', 'VBP'), ('to', 'TO'), ('select', 'VB'), ('services', 'NNS'), ('local', 'JJ'), ('right-click', 'JJ'), ('print', 'NN'), ('spooler', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['select', 'services'], ['click', 'properties']]
+label:    [1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'click', '', 'select', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 288
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'start', '', '', 'click', '']
+
+Sentence: 289
+tagged_sent: [('start', 'NN'), ('the', 'DT'), ('magnifier', 'NN'), ('tool', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 290
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('check', 'VB'), ('the', 'DT'), ('follow', 'NN'), ('mouse', 'NN'), ('cursor', 'NN'), ('check', 'NN'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('minimize', 'VB'), ('the', 'DT'), ('magnifier', 'NN'), ('tool', 'NN')]
+myvp: [['minimize', 'magnifier', 'tool']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', 'check', '', '', '', '', '', '', '', '', 'minimize', '', '', '']
+
+Sentence: 291
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 292
+tagged_sent: [('double-click', 'JJ'), ('network', 'NN'), ('and', 'CC'), ('dial-up', 'JJ'), ('connections', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 293
+tagged_sent: [('click', 'NN'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('file', 'NN'), ('menu', 'NN')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['click', '', '', '', '', '', 'click', '', '', '', '', '']
+
+Sentence: 294
+tagged_sent: [('click', 'NN'), ('install', 'VBD'), ('click', 'NN'), ('service', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('add', 'JJ')]
+myvp: [['install', 'click', 'service']]
+label:    [1, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'install', '', '', '', '', 'click', '']
+
+Sentence: 295
+tagged_sent: [('click', 'NN'), ('file', 'NN'), ('and', 'CC'), ('printer', 'NN'), ('sharing', 'VBG'), ('for', 'IN'), ('microsoft', 'NN'), ('networks', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['sharing', 'microsoft', 'networks'], ['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', 'sharing', '', '', '', '', '', 'click', '']
+
+Sentence: 296
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 297
+tagged_sent: [('double-click', 'JJ'), ('sounds', 'NNS'), ('and', 'CC'), ('multimedia', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 298
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('audio', 'NN'), ('tab', 'NN'), ('click', 'NN'), ('advanced', 'VBD'), ('under', 'IN'), ('sound', 'NN'), ('playback', 'NN')]
+myvp: [['advanced', 'sound', 'playback']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'advanced', '', '', '']
+
+Sentence: 299
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('speaker', 'NN'), ('setup', 'NN'), ('box', 'NN'), ('click', 'NN'), ('the', 'DT'), ('surround', 'NN'), ('sound', 'NN'), ('speakers', 'NNS'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('use', 'VB'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '', '', '', '', '', 'want', '', 'use', '', '', 'click', '']
+
+Sentence: 300
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('close', 'JJ'), ('control', 'NN'), ('panel', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'ok', '', '', '', '', '']
+
+Sentence: 301
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 302
+tagged_sent: [('double-click', 'JJ'), ('administrative', 'JJ'), ('tools', 'NNS'), ('then', 'RB'), ('double-click', 'JJ'), ('event', 'NN'), ('viewer', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 303
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('expand', 'VB'), ('event', 'NN'), ('viewer', 'NN'), ('if', 'IN'), ('it', 'PRP'), ('is', 'VBZ'), ('not', 'RB'), ('already', 'RB'), ('expanded', 'VBN')]
+myvp: [['expand', 'event', 'viewer']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', 'expand', '', '', '', '', '', '', '', 'expanded']
+
+Sentence: 304
+tagged_sent: [('click', 'NN'), ('application', 'NN')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 305
+tagged_sent: [('right-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('manage', 'NN')]
+myvp: [['click', 'manage']]
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '']
+
+Sentence: 306
+tagged_sent: [('double-click', 'JJ'), ('system', 'NN'), ('tools', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('right', 'NN'), ('pane', 'NN'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('device', 'NN'), ('manager', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 307
+tagged_sent: [('double-click', 'JJ'), ('ide', 'NN'), ('ata/atapi', 'NN'), ('controller', 'NN'), ('in', 'IN'), ('the', 'DT'), ('right', 'NN'), ('pane', 'NN'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('the', 'DT'), ('secondary', 'JJ'), ('IDE', 'NNP'), ('channel', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 308
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('advanced', 'JJ'), ('settings', 'NNS'), ('tab', 'VBP'), ('click', 'NN'), ('pio', 'NN'), ('only', 'RB'), ('in', 'IN'), ('the', 'DT'), ('transfer', 'NN'), ('mode', 'NN'), ('box', 'NN')]
+myvp: [['tab', 'click', 'pio']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'tab', '', '', '', '', '', '', '', '']
+
+Sentence: 309
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('close', 'RB'), ('the', 'DT'), ('computer', 'NN'), ('management', 'NN'), ('window', 'NN'), ('and', 'CC'), ('then', 'RB'), ('reboot', 'VBD'), ('the', 'DT'), ('computer', 'NN')]
+myvp: [['reboot', 'computer']]
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'ok', '', '', '', '', '', '', '', 'reboot', '', '']
+
+Sentence: 310
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('programs', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('accessories', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('system', 'NN'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('disk', 'NN'), ('defragmenter', 'NN')]
+myvp: [['start', 'point'], ['click', 'disk', 'defragmenter']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', '', '', '', '', '', '', '', 'click', '', '']
+
+Sentence: 311
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('disk', 'NN'), ('that', 'IN'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('defragment', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('defragment', 'NN'), ('on', 'IN'), ('the', 'DT'), ('action', 'NN'), ('menu', 'NN')]
+myvp: [['click', 'defragment']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['click', '', '', '', '', 'want', '', '', '', '', 'click', '', '', '', '', '']
+
+Sentence: 312
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('system', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', 'click', '', '', '', '', '', '']
+
+Sentence: 313
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('hardware', 'NN'), ('tab', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('device', 'NN'), ('manager', 'NN')]
+myvp: [['click', 'device', 'manager']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['click', '', '', '', '', '', 'click', '', '']
+
+Sentence: 314
+tagged_sent: [('right-click', 'JJ'), ('modems', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('scan', 'JJ'), ('for', 'IN'), ('hardware', 'NN'), ('changes', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'click', '', '', '', '']
+
+Sentence: 315
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('click', 'NN'), ('run', 'VBN'), ('type', 'NN'), ('regedit', 'NN'), ('in', 'IN'), ('the', 'DT'), ('open', 'JJ'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['start', 'click'], ['run', 'type', 'regedit'], ['click', 'ok']]
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', '', 'run', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 316
+tagged_sent: [('in', 'IN'), ('registry', 'NN'), ('editor', 'NN'), ('locate', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('the', 'DT'), ('following', 'VBG'), ('subkey', 'NN'), ('hkey_local_machine', 'NN'), ('system', 'NN'), ('currentcontrolset', 'NN'), ('services', 'NNS'), ('tcpip', 'NN'), ('parameters', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '', 'following', '', '', '', '', '', '', '']
+
+Sentence: 317
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('right', 'NN'), ('pane', 'NN'), ('right-click', 'NN'), ('enableicmpredirect', 'NN'), ('or', 'CC'), ('enableicmpredirects', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('modify', 'NN')]
+myvp: [['click', 'modify']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 318
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('edit', 'NN'), ('dword', 'NN'), ('value', 'NN'), ('dialog', 'NN'), ('box', 'NN'), ('type', 'NN'), ('1', 'CD'), ('in', 'IN'), ('the', 'DT'), ('value', 'NN'), ('data', 'NNS'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 319
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('desktop', 'NN'), ('right-click', 'NN'), ('my', 'PRP$'), ('network', 'NN'), ('places', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 320
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'click', '']
+
+Sentence: 321
+tagged_sent: [('click', 'NN'), ('internet', 'VBD'), ('protocol', 'NN'), ('tcp/ip', 'NN'), ('and', 'CC'), ('click', 'NN'), ('properties', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'internet', '', '', '', '', '']
+
+Sentence: 322
+tagged_sent: [('click', 'NN'), ('advanced', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('wins', 'NNS')]
+myvp: [['click', 'wins']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'advanced', '', '', 'click', '']
+
+Sentence: 323
+tagged_sent: [('if', 'IN'), ('you', 'PRP'), ('are', 'VBP'), ('using', 'VBG'), ('a', 'DT'), ('static', 'JJ'), ('internet', 'NN'), ('protocol', 'NN'), ('ip', 'NN'), ('address', 'NN'), ('click', 'NN'), ('enable', 'JJ'), ('netbios', 'NNS'), ('over', 'IN'), ('tcp/ip', 'JJ')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'are', 'using', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 324
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('in', 'IN'), ('the', 'DT'), ('open', 'JJ'), ('dialog', 'NN'), ('boxes', 'NNS'), ('to', 'TO'), ('close', 'VB'), ('them', 'PRP'), ('and', 'CC'), ('to', 'TO'), ('save', 'VB'), ('the', 'DT'), ('new', 'JJ'), ('settings', 'NNS')]
+myvp: [['ok', 'dialog', 'boxes'], ['close', 'them'], ['save', 'settings']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', 'ok', '', '', '', '', '', '', 'close', '', '', '', 'save', '', '', '']
+
+Sentence: 325
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('start', 'NN'), ('menu', 'NN'), ('click', 'NN'), ('programs', 'NNS'), ('point', 'VBP'), ('to', 'TO'), ('accessories', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('communications', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('network', 'NN'), ('and', 'CC'), ('dial-up', 'JJ'), ('connections', 'NNS')]
+myvp: [['click', 'network']]
+label:    [0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'click', '', 'point', '', '', '', '', '', '', '', 'click', '', '', '', '']
+
+Sentence: 326
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('dial-up', 'JJ'), ('icon', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 327
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('network', 'NN'), ('connection', 'NN'), ('dialog', 'NN'), ('box', 'NN'), ('click', 'NN'), ('the', 'DT'), ('security', 'NN'), ('tab', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '']
+
+Sentence: 328
+tagged_sent: [('in', 'IN'), ('security', 'NN'), ('options', 'NNS'), ('click', 'VBP'), ('advanced', 'VBN'), ('custom', 'NN'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('settings', 'NNS')]
+myvp: [['click', 'custom', 'settings'], ['click', 'settings']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'click', 'advanced', '', '', '', '', 'click', '']
+
+Sentence: 329
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('advanced', 'JJ'), ('security', 'NN'), ('settings', 'NNS'), ('dialog', 'VBP'), ('box', 'NN'), ('in', 'IN'), ('logon', 'NN'), ('security', 'NN'), ('click', 'NN'), ('properties', 'NNS'), ('under', 'IN'), ('use', 'NN'), ('extensible', 'JJ'), ('authentication', 'NN'), ('protocol', 'NN'), ('eap', 'NN')]
+myvp: [['dialog', 'box']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'dialog', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 330
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('smart', 'NN'), ('card', 'NN'), ('or', 'CC'), ('other', 'JJ'), ('certificate', 'NN'), ('properties', 'NNS'), ('dialog', 'VBP'), ('box', 'NN'), ('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('validate', 'JJ'), ('server', 'NN'), ('certificate', 'NN'), ('check', 'NN'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['dialog', 'box', 'click'], ['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'dialog', '', 'click', '', 'clear', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 331
+tagged_sent: [('double-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 332
+tagged_sent: [('double-click', 'JJ'), ('the', 'DT'), ('local', 'JJ'), ('disk', 'NN'), ('c:', 'NN'), ('drive', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', 'drive']
+
+Sentence: 333
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('autoexec', 'NN'), ('file', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 334
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('security', 'NN'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 335
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('allow', 'JJ'), ('inheritable', 'JJ'), ('permissions', 'NNS'), ('from', 'IN'), ('parent', 'NN'), ('to', 'TO'), ('propagate', 'VB'), ('to', 'TO'), ('this', 'DT'), ('object', 'NN'), ('check', 'NN'), ('box', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'clear', '', '', '', '', '', '', '', 'propagate', '', '', '', '', '']
+
+Sentence: 336
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('security', 'NN'), ('dialog', 'NN'), ('box', 'NN'), ('that', 'WDT'), ('appears', 'VBZ'), ('click', 'VBP'), ('remove', 'JJ')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'click', '']
+
+Sentence: 337
+tagged_sent: [('click', 'NN'), ('add', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'add']
+
+Sentence: 338
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('look', 'NN'), ('in', 'IN'), ('box', 'NN'), ('click', 'NN'), ('the', 'DT'), ('name', 'NN'), ('of', 'IN'), ('the', 'DT'), ('current', 'JJ'), ('computer', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 339
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('name', 'NN'), ('box', 'NN'), ('click', 'NN'), ('system', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('add', 'JJ')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 340
+tagged_sent: [('click', 'NN'), ('ok', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'ok']
+
+Sentence: 341
+tagged_sent: [('click', 'NN'), ('ok', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'ok']
+
+Sentence: 342
+tagged_sent: [('in', 'IN'), ('control', 'NN'), ('panel', 'NN'), ('double-click', 'NN'), ('internet', 'NN'), ('options', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 343
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('connections', 'NNS'), ('tab', 'VBP'), ('click', 'NN'), ('lan', 'NN'), ('settings', 'NNS')]
+myvp: [['tab', 'click', 'lan', 'settings']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'tab', '', '', '']
+
+Sentence: 344
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('proxy', 'NN'), ('server', 'NN'), ('area', 'NN'), ('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('use', 'NN'), ('a', 'DT'), ('proxy', 'NN'), ('server', 'NN'), ('for', 'IN'), ('your', 'PRP$'), ('lan', 'NN'), ('these', 'DT'), ('settings', 'NNS'), ('will', 'MD'), ('not', 'RB'), ('apply', 'VB'), ('to', 'TO'), ('dial-up', 'VB'), ('or', 'CC'), ('vpn', 'VB'), ('connections', 'NNS'), ('check', 'VB'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['select', 'use'], ['vpn', 'connections'], ['check', 'box'], ['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'select', '', '', '', '', '', '', '', '', '', '', '', '', 'apply', '', 'dial-up', '', 'vpn', '', 'check', '', '', '', 'click', '']
+
+Sentence: 345
+tagged_sent: [('right-click', 'JJ'), ('my', 'PRP$'), ('network', 'NN'), ('places', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('desktop', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 346
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('icon', 'NN'), ('for', 'IN'), ('the', 'DT'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 347
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('networking', 'NN'), ('tab', 'NN'), ('click', 'NN'), ('the', 'DT'), ('internet', 'NN'), ('protocol', 'NN'), ('tcp/ip', 'NN'), ('entry', 'NN'), ('under', 'IN'), ('components', 'NNS'), ('checked', 'VBN'), ('are', 'VBP'), ('used', 'VBN'), ('by', 'IN'), ('this', 'DT'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['used', 'connection'], ['click', 'properties']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', 'checked', 'are', 'used', '', '', '', '', '', 'click', '']
+
+Sentence: 348
+tagged_sent: [('click', 'NN'), ('advanced', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'advanced']
+
+Sentence: 349
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('dns', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 1]
+temp_tag_act: ['', '', '', 'tab']
+
+Sentence: 350
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('register', 'NN'), ('this', 'DT'), ("connection's", 'NN'), ('address', 'NN'), ('in', 'IN'), ('dns', 'NNS'), ('check', 'VBP'), ('box', 'NN')]
+myvp: [['clear', 'register'], ['check', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'clear', '', '', '', '', '', '', '', 'check', '']
+
+Sentence: 351
+tagged_sent: [('click', 'NN'), ('ok', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'ok']
+
+Sentence: 352
+tagged_sent: [('from', 'IN'), ('the', 'DT'), ('start', 'NN'), ('menu', 'NN'), ('point', 'NN'), ('to', 'TO'), ('programs', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('accessories', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('windows', 'NNS'), ('explorer', 'JJR')]
+myvp: [['click', 'windows']]
+label:    [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', 'click', '', '']
+
+Sentence: 353
+tagged_sent: [('from', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('folder', 'NN'), ('options', 'NNS'), ('and', 'CC'), ('go', 'VB'), ('to', 'TO'), ('the', 'DT'), ('view', 'NN'), ('tab', 'NN')]
+myvp: [['menu', 'click', 'folder', 'options']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '', '', 'go', '', '', '', '']
+
+Sentence: 354
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('advanced', 'JJ'), ('settings', 'NNS'), ('area', 'NN'), ('under', 'IN'), ('the', 'DT'), ('hidden', 'NN'), ('files', 'NNS'), ('and', 'CC'), ('folders', 'NNS'), ('select', 'VBP'), ('show', 'NN'), ('hidden', 'VBN'), ('files', 'NNS'), ('and', 'CC'), ('folders', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['select', 'show'], ['hidden', 'files'], ['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', 'select', '', 'hidden', '', '', '', '', '', 'click', '']
+
+Sentence: 355
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('left', 'NN'), ('pane', 'NN'), ('of', 'IN'), ('windows', 'NNS'), ('explorer', 'JJR'), ('expand', 'NN'), ('my', 'PRP$'), ('computer', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '']
+
+Sentence: 356
+tagged_sent: [('click', 'NN'), ('local', 'JJ'), ('drive', 'JJ'), ('c:', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 357
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('right', 'NN'), ('pane', 'NN'), ('find', 'NN'), ('and', 'CC'), ('select', 'VB'), ('autoexec', 'NN'), ('right-click', 'JJ'), ('this', 'DT'), ('file', 'NN')]
+myvp: [['select', 'autoexec']]
+label:    [0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'select', '', '', '', '']
+
+Sentence: 358
+tagged_sent: [('click', 'NN'), ('properties', 'NNS'), ('from', 'IN'), ('the', 'DT'), ('pop-up', 'JJ'), ('menu', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 359
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('general', 'JJ'), ('tab', 'NN'), ('clear', 'JJ'), ('the', 'DT'), ('hidden', 'JJ'), ('attribute', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 360
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('desktop', 'NN'), ('right-click', 'NN'), ('my', 'PRP$'), ('network', 'NN'), ('places', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 361
+tagged_sent: [('right-click', 'JJ'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 362
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('components', 'NNS'), ('checked', 'VBD'), ('are', 'VBP'), ('used', 'VBN'), ('by', 'IN'), ('this', 'DT'), ('connection', 'NN'), ('list', 'NN'), ('double-click', 'NN'), ('internet', 'NN'), ('protocol', 'NN'), ('tcp/ip', 'NN'), ('click', 'NN'), ('advanced', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('the', 'DT'), ('wins', 'NNS'), ('tab', 'VBP')]
+myvp: [['click', 'wins']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+temp_tag_act: ['', '', '', 'checked', 'are', 'used', '', '', '', '', '', '', '', '', 'click', 'advanced', '', '', 'click', '', '', 'tab']
+
+Sentence: 363
+tagged_sent: [('click', 'NN'), ('use', 'NN'), ('netbios', 'NNS'), ('setting', 'VBG'), ('from', 'IN'), ('the', 'DT'), ('dhcp', 'NN'), ('server', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN'), ('three', 'CD'), ('times', 'NNS')]
+myvp: [['setting', 'dhcp', 'server'], ['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'setting', '', '', '', '', '', '', 'click', '', '', '']
+
+Sentence: 364
+tagged_sent: [('double-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 365
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('click', 'NN'), ('folder', 'NN'), ('options', 'NNS')]
+myvp: [['menu', 'click', 'folder', 'options']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'menu', '', '', '']
+
+Sentence: 366
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('offline', 'NN'), ('files', 'NNS'), ('tab', 'VBP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('enable', 'JJ'), ('offline', 'NN'), ('files', 'NNS'), ('check', 'VBP'), ('box', 'NN'), ('you', 'PRP'), ('can', 'MD'), ('either', 'VB'), ('enable', 'JJ'), ('or', 'CC'), ('disable', 'JJ'), ('the', 'DT'), ('check', 'NN'), ('box', 'NN'), ('for', 'IN'), ('client-side', 'JJ'), ('caching', 'NN')]
+myvp: [['select', 'offline', 'files'], ['check', 'box']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'tab', '', '', 'click', '', 'select', '', '', '', '', 'check', '', '', '', 'either', '', '', '', '', '', '', '', '', '']
+
+Sentence: 367
+tagged_sent: [('right-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('manage', 'NN')]
+myvp: [['click', 'manage']]
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '']
+
+Sentence: 368
+tagged_sent: [('under', 'IN'), ('system', 'NN'), ('tools', 'NNS'), ('double-click', 'JJ'), ('local', 'JJ'), ('users', 'NNS'), ('and', 'CC'), ('groups', 'NNS'), ('to', 'TO'), ('expand', 'VB'), ('it', 'PRP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('users', 'NNS')]
+myvp: [['expand', 'it'], ['click', 'users']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'expand', '', '', '', 'click', '']
+
+Sentence: 369
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('right', 'NN'), ('pane', 'NN'), ('right-click', 'NN'), ('the', 'DT'), ('guest', 'JJS'), ('account', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 370
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('clear', 'VB'), ('the', 'DT'), ('account', 'NN'), ('is', 'VBZ'), ('disabled', 'VBN'), ('check', 'NN'), ('box', 'NN'), ('and', 'CC'), ('make', 'VB'), ('sure', 'JJ'), ('the', 'DT'), ('password', 'NN'), ('is', 'VBZ'), ('set', 'VBN'), ('to', 'TO'), ('null', 'VB'), ('blank', 'NN'), ('click', 'NN'), ('ok', 'NN')]
+myvp: [['null', 'blank', 'click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', 'clear', '', '', '', 'disabled', '', '', '', 'make', '', '', '', '', 'set', '', 'null', '', '', '']
+
+Sentence: 371
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('taskbar', 'NN'), ('&', 'CC'), ('start', 'VB'), ('menu', 'NN')]
+myvp: [['start', 'point'], ['click', 'taskbar'], ['start', 'menu']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '', 'start', '']
+
+Sentence: 372
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('set', 'VB'), ('the', 'DT'), ('show', 'NN'), ('clock', 'NN'), ('check', 'NN'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['set', 'show', 'clock', 'check', 'box'], ['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'set', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 373
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('search', 'VB'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('files', 'NNS'), ('or', 'CC'), ('folders', 'NNS')]
+myvp: [['start', 'point'], ['click', 'files']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', 'search', '', '', 'click', '', '', '']
+
+Sentence: 374
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('files', 'NNS'), ('or', 'CC'), ('folders', 'NNS'), ('named', 'VBD'), ('box', 'NN'), ('type', 'NN'), ('riched20.dll', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('search', 'NN'), ('now', 'RB')]
+myvp: [['click', 'search']]
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'named', '', '', '', '', '', 'click', '', '']
+
+Sentence: 375
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('search', 'NN'), ('results', 'NNS'), ('list', 'VBP'), ('right-click', 'JJ'), ('riched20.dll', 'JJ')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', 'list', '', '']
+
+Sentence: 376
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 377
+tagged_sent: [('double-click', 'JJ'), ('system', 'NN')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 378
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('settings', 'NNS'), ('under', 'IN'), ('startup', 'NN'), ('and', 'CC'), ('recovery', 'NN')]
+myvp: [['click', 'settings']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['click', '', '', '', '', '', 'click', '', '', '', '', '']
+
+Sentence: 379
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('write', 'NN'), ('debugging', 'VBG'), ('information', 'NN'), ('list', 'NN'), ('click', 'NN'), ('small', 'JJ'), ('memory', 'NN'), ('dump', 'NN'), ('64k', 'CD')]
+myvp: [['debugging', 'information', 'list', 'click']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'debugging', '', '', '', '', '', '', '']
+
+Sentence: 380
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('programs', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('administrative', 'VB'), ('tools', 'NNS'), ('and', 'CC'), ('performance', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('performance', 'NN'), ('logs', 'NNS'), ('and', 'CC'), ('alerts', 'NNS')]
+myvp: [['start', 'point'], ['administrative', 'tools'], ['click', 'performance', 'logs']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'administrative', '', '', '', '', '', 'click', '', '', '', '']
+
+Sentence: 381
+tagged_sent: [('right-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('manage', 'NN')]
+myvp: [['click', 'manage']]
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '']
+
+Sentence: 382
+tagged_sent: [('open', 'JJ'), ('services', 'NNS'), ('and', 'CC'), ('applications', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 383
+tagged_sent: [('click', 'NN'), ('services', 'NNS')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 384
+tagged_sent: [('right-click', 'JJ'), ('performance', 'NN'), ('logs', 'NNS'), ('and', 'CC'), ('alerts', 'NNS'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 385
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('log', 'NN'), ('on', 'IN'), ('tab', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('this', 'DT'), ('account', 'NN')]
+myvp: [['click', 'account']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['click', '', '', '', '', '', '', 'click', '', '']
+
+Sentence: 386
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 387
+tagged_sent: [('click', 'NN'), ('administrative', 'VBD'), ('tools', 'NNS')]
+myvp: [['administrative', 'tools']]
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'administrative', '']
+
+Sentence: 388
+tagged_sent: [('double-click', 'JJ'), ('services', 'NNS')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 389
+tagged_sent: [('right-click', 'JJ'), ('fax', 'NN'), ('service', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '']
+
+Sentence: 390
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('log', 'NN'), ('on', 'IN'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 391
+tagged_sent: [('click', 'NN'), ('this', 'DT'), ('account', 'NN')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 392
+tagged_sent: [('in', 'IN'), ('control', 'NN'), ('panel', 'NN'), ('double-click', 'NN'), ('system', 'NN'), ('click', 'NN'), ('hardware', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('device', 'NN'), ('manager', 'NN')]
+myvp: [['click', 'device', 'manager']]
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '', '', '', 'click', '', '']
+
+Sentence: 393
+tagged_sent: [('expand', 'NN'), ('ide', 'VBD'), ('ata/atapi', 'NNP'), ('controllers', 'NNS'), ('right-click', 'JJ'), ('pci', 'NN'), ('bus', 'VBZ'), ('master', 'NN'), ('ide', 'NN'), ('controller', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'ide', '', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 394
+tagged_sent: [('click', 'NN'), ('driver', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('update', 'JJ'), ('driver', 'NN')]
+myvp: [['click', 'driver']]
+label:    [1, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['click', '', '', '', 'click', '', '']
+
+Sentence: 395
+tagged_sent: [('click', 'NN'), ('next', 'IN'), ('click', 'NN'), ('display', 'NN'), ('a', 'DT'), ('list', 'NN'), ('of', 'IN'), ('known', 'VBN'), ('drivers', 'NNS'), ('for', 'IN'), ('this', 'DT'), ('device', 'NN'), ('so', 'IN'), ('that', 'IN'), ('i', 'PRP'), ('can', 'MD'), ('choose', 'VB'), ('a', 'DT'), ('specific', 'JJ'), ('driver', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('next', 'JJ')]
+myvp: [['known', 'drivers'], ['choose', 'driver']]
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'known', '', '', '', '', '', '', '', '', 'choose', '', '', '', '', '', 'click', '']
+
+Sentence: 396
+tagged_sent: [('click', 'NN'), ('show', 'NN'), ('all', 'DT'), ('hardware', 'NN'), ('for', 'IN'), ('this', 'DT'), ('device', 'NN'), ('class', 'NN'), ('click', 'NN'), ('standard', 'NN'), ('ide', 'NN'), ('ata/atapi', 'NNP'), ('controllers', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('manufacturers', 'NNS'), ('list', 'VBP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('standard', 'JJ'), ('ide/ESDI', 'NN'), ('hard', 'RB'), ('disk', 'VB'), ('controllers', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('models', 'NNS'), ('list', 'VBP')]
+myvp: [['disk', 'controllers']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'list', '', '', 'click', '', '', '', 'disk', '', '', '', '', 'list']
+
+Sentence: 397
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('programs', 'NNS')]
+myvp: [['start', 'point', 'programs']]
+label:    [1, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '']
+
+Sentence: 398
+tagged_sent: [('click', 'NN'), ('administrative', 'VBD'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('computer', 'NN'), ('management', 'NN')]
+myvp: [['administrative', 'tools'], ['click', 'computer', 'management']]
+label:    [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'administrative', '', '', '', 'click', '', '']
+
+Sentence: 399
+tagged_sent: [('click', 'NN'), ('system', 'NN'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('device', 'NN'), ('manager', 'NN')]
+myvp: [['click', 'device', 'manager']]
+label:    [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['click', '', '', '', '', 'click', '', '']
+
+Sentence: 400
+tagged_sent: [('expand', 'NN'), ('ide', 'VBD'), ('ata/atapi', 'NNP'), ('controllers', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0]
+temp_tag_act: ['', 'ide', '', '']
+
+Sentence: 401
+tagged_sent: [('double-click', 'JJ'), ('the', 'DT'), ('secondary', 'JJ'), ('ide', 'NN'), ('channel', 'NN'), ('for', 'IN'), ('which', 'WDT'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('configure', 'VB'), ('dma/pio', 'JJ'), ('settings', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'want', '', 'configure', '', '']
+
+Sentence: 402
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('advanced', 'JJ'), ('settings', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', 'tab']
+
+Sentence: 403
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('transfer', 'NN'), ('mode', 'NN'), ('box', 'NN'), ('click', 'NN'), ('either', 'DT'), ('pio', 'NN'), ('only', 'RB'), ('or', 'CC'), ('dma', 'VB'), ('if', 'IN'), ('available', 'JJ')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'dma', '', '']
+
+Sentence: 404
+tagged_sent: [('right-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN'), ('on', 'IN'), ('the', 'DT'), ('desktop', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 405
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('advanced', 'JJ'), ('tab', 'NN'), ('click', 'NN'), ('startup', 'NN'), ('and', 'CC'), ('recovery', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 406
+tagged_sent: [('change', 'NN'), ('the', 'DT'), ('value', 'NN'), ('in', 'IN'), ('the', 'DT'), ('system', 'NN'), ('startup', 'NN'), ('to', 'TO'), ('10', 'CD'), ('seconds', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '']
+
+Sentence: 407
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'ok', '', '', 'click', '']
+
+Sentence: 408
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('right-click', 'JJ'), ('my', 'PRP$'), ('computer', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('manage', 'NN')]
+myvp: [['click', 'manage']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', 'start', '', '', '', '', '', 'click', '']
+
+Sentence: 409
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('console', 'NN'), ('pane', 'NN'), ('click', 'NN'), ('device', 'NN'), ('manager', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 410
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('view', 'NN'), ('menu', 'NN'), ('click', 'NN'), ('show', 'NN'), ('hidden', 'NN'), ('devices', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 411
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('details', 'NNS'), ('pane', 'VBP'), ('expand', 'NN'), ('network', 'NN'), ('adapters', 'NNS')]
+myvp: [['pane', 'expand', 'network', 'adapters']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'pane', '', '', '']
+
+Sentence: 412
+tagged_sent: [('right-click', 'JJ'), ('direct', 'JJ'), ('parallel', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('disable', 'JJ')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '']
+
+Sentence: 413
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 414
+tagged_sent: [('double-click', 'JJ'), ('power', 'NN'), ('options', 'NNS')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 415
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('power', 'NN'), ('schemes', 'VBZ'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 416
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', '', '']
+
+Sentence: 417
+tagged_sent: [('double-click', 'JJ'), ('phone', 'NN'), ('and', 'CC'), ('modem', 'NN'), ('options', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 418
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('modems', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 1]
+temp_tag_act: ['', '', '', 'tab']
+
+Sentence: 419
+tagged_sent: [('click', 'NN'), ('your', 'PRP$'), ('modem', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', '', '', '', '', 'click', '']
+
+Sentence: 420
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('diagnostics', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 1]
+temp_tag_act: ['', '', '', 'tab']
+
+Sentence: 421
+tagged_sent: [('click', 'NN'), ('query', 'NN'), ('modem', 'NN')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 422
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('regional', 'JJ'), ('options', 'NNS')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', 'click', '', '', '', '', '', '', '']
+
+Sentence: 423
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('general', 'JJ'), ('tab', 'NN'), ('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('cyrillic', 'JJ'), ('check', 'NN'), ('box', 'NN'), ('under', 'IN'), ('language', 'NN'), ('settings', 'NNS'), ('for', 'IN'), ('the', 'DT'), ('system', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['select', 'check', 'box'], ['click', 'ok']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'select', '', '', '', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 424
+tagged_sent: [('you', 'PRP'), ('are', 'VBP'), ('then', 'RB'), ('prompted', 'VBN'), ('to', 'TO'), ('copy', 'VB'), ('files', 'NNS'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['copy', 'files'], ['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 1, 0, 1, 0, 1, 0, 1, 0]
+temp_tag_act: ['', 'are', '', 'prompted', '', 'copy', '', 'click', '']
+
+Sentence: 425
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('printers', 'NNS'), ('folder', 'VBP'), ('click', 'NN'), ('server', 'NN'), ('properties', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('file', 'NN'), ('menu', 'NN')]
+myvp: [['folder', 'click', 'server', 'properties']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'folder', '', '', '', '', '', '', '']
+
+Sentence: 426
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('ports', 'NNS'), ('tab', 'VBP'), ('click', 'NN'), ('the', 'DT'), ('com2', 'NNP'), ('port', 'NN'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('remove', 'VB'), ('click', 'NN'), ('delete', 'NN'), ('port', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('yes', 'NNS')]
+myvp: [['tab', 'click'], ['remove', 'click', 'delete', 'port'], ['click', 'yes']]
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'tab', '', '', '', '', '', 'want', '', 'remove', 'click', '', '', '', '', 'click', '']
+
+Sentence: 427
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('system', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', 'click', '', '', '', '', '', '']
+
+Sentence: 428
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('hardware', 'NN'), ('tab', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('device', 'NN'), ('manager', 'NN')]
+myvp: [['click', 'device', 'manager']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['click', '', '', '', '', '', 'click', '', '']
+
+Sentence: 429
+tagged_sent: [('double-click', 'JJ'), ('the', 'DT'), ('modems', 'NNS'), ('branch', 'NN'), ('to', 'TO'), ('expand', 'VB'), ('it', 'PRP'), ('right-click', 'JJ'), ('56000', 'CD'), ('bps', 'NNS'), ('v90', 'NNP'), ('modem', 'NN'), ('click', 'NN'), ('properties', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('the', 'DT'), ('modem', 'NN'), ('tab', 'NN')]
+myvp: [['expand', 'it'], ['click', 'modem', 'tab']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'expand', '', '', '', '', '', '', 'click', '', '', '', 'click', '', '', '']
+
+Sentence: 430
+tagged_sent: [('change', 'NN'), ('the', 'DT'), ('maximum', 'NN'), ('port', 'NN'), ('speed', 'NN'), ('to', 'TO'), ('115200', 'CD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 431
+tagged_sent: [('in', 'IN'), ('control', 'NN'), ('panel', 'NN'), ('double-click', 'NN'), ('phone', 'NN'), ('and', 'CC'), ('modem', 'NN'), ('options', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 432
+tagged_sent: [('click', 'NN'), ('modems', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('add', 'JJ')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', 'click', '']
+
+Sentence: 433
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ("don't", 'JJ'), ('detect', 'NN'), ('my', 'PRP$'), ('modem;', 'NN'), ('i', 'PRP'), ('will', 'MD'), ('select', 'VB'), ('it', 'PRP'), ('from', 'IN'), ('a', 'DT'), ('list', 'NN'), ('check', 'NN'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('next', 'JJ')]
+myvp: [['select', 'detect'], ['select', 'it']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'select', '', '', '', '', '', '', '', 'select', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 434
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('manufacturers', 'NNS'), ('list', 'VBP'), ('click', 'NN'), ('boca', 'NN'), ('research', 'NN')]
+myvp: [['list', 'click', 'boca', 'research']]
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'list', '', '', '']
+
+Sentence: 435
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('models', 'NNS'), ('list', 'VBP'), ('click', 'NN'), ('boca', 'NN'), ('33.6', 'CD'), ('kbps', 'NNS'), ('internal', 'JJ'), ('fd34fsvd', 'NNP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('next', 'JJ')]
+myvp: [['list', 'click', 'boca']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'list', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 436
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('com', 'NN'), ('port', 'NN'), ('where', 'WRB'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('install', 'VB'), ('the', 'DT'), ('modem', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('next', 'JJ')]
+myvp: [['install', 'modem']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'want', '', 'install', '', '', '', '', 'click', '']
+
+Sentence: 437
+tagged_sent: [('click', 'NN'), ('finish', 'NN')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 438
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('run', 'VBN')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 1, 1]
+temp_tag_act: ['', 'start', '', '', 'click', 'run']
+
+Sentence: 439
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('open', 'JJ'), ('box', 'NN'), ('type', 'NN'), ('regsvr32', 'NNP'), ('/u', 'NNP'), ('inseng.dll', 'NNP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 440
+tagged_sent: [('when', 'WRB'), ('you', 'PRP'), ('receive', 'VBP'), ('the', 'DT'), ('message', 'NN'), ('that', 'IN'), ('states', 'NNS'), ('that', 'WDT'), ('dllunregisterserver', 'RB'), ('in', 'IN'), ('inseng.dll', 'JJ'), ('succeeded', 'VBN'), ('click', 'NN'), ('ok', 'NN')]
+myvp: [['receive', 'message'], ['succeeded', 'click', 'ok']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', 'receive', '', '', '', '', '', '', '', '', 'succeeded', '', '']
+
+Sentence: 441
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('run', 'VBN')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 1, 1]
+temp_tag_act: ['', 'start', '', '', 'click', 'run']
+
+Sentence: 442
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('open', 'JJ'), ('box', 'NN'), ('type', 'NN'), ('regsvr32', 'NNP'), ('inseng.dll', 'NNP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 443
+tagged_sent: [('when', 'WRB'), ('you', 'PRP'), ('receive', 'VBP'), ('the', 'DT'), ('message', 'NN'), ('that', 'IN'), ('states', 'NNS'), ('that', 'WDT'), ('dllregisterserver', 'RB'), ('in', 'IN'), ('inseng.dll', 'JJ'), ('succeeded', 'VBN'), ('click', 'NN'), ('ok', 'NN')]
+myvp: [['receive', 'message'], ['succeeded', 'click', 'ok']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', 'receive', '', '', '', '', '', '', '', '', 'succeeded', '', '']
+
+Sentence: 444
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('point', 'NN'), ('to', 'TO'), ('control', 'NN'), ('panel', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('display', 'NN')]
+myvp: [['start', 'point'], ['click', 'display']]
+label:    [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'start', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 445
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('settings', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 1]
+temp_tag_act: ['', '', '', 'tab']
+
+Sentence: 446
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('advanced', 'JJ'), ('button', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 447
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('adapter', 'NN'), ('tab', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 448
+tagged_sent: [('when', 'WRB'), ('you', 'PRP'), ('click', 'VBP'), ('the', 'DT'), ('list', 'NN'), ('all', 'DT'), ('modes', 'NNS'), ('button', 'VBP'), ('a', 'DT'), ('list', 'NN'), ('of', 'IN'), ('what', 'WP'), ('functionality', 'NN'), ('is', 'VBZ'), ('inlcuded', 'VBN'), ('with', 'IN'), ('this', 'DT'), ('video', 'NN'), ('card', 'NN'), ('is', 'VBZ'), ('displayed', 'VBN')]
+myvp: [['click', 'list'], ['button', 'list']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', 'click', '', '', '', '', 'button', '', '', '', '', '', '', 'inlcuded', '', '', '', '', '', 'displayed']
+
+Sentence: 449
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN'), ('double-click', 'NN'), ('administrative', 'JJ'), ('tools', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('double-click', 'JJ'), ('computer', 'NN'), ('management', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel', 'double-click']]
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', 'click', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 450
+tagged_sent: [('if', 'IN'), ('it', 'PRP'), ('is', 'VBZ'), ('not', 'RB'), ('already', 'RB'), ('expanded', 'VBN'), ('expand', 'NN'), ('the', 'DT'), ('storage', 'NN'), ('branch', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('the', 'DT'), ('disk', 'NN'), ('management', 'NN'), ('folder', 'NN'), ('to', 'TO'), ('open', 'VB'), ('it', 'PRP')]
+myvp: [['expanded', 'expand'], ['click', 'disk', 'management', 'folder'], ['open', 'it']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'expanded', '', '', '', '', '', '', 'click', '', '', '', '', '', 'open', '']
+
+Sentence: 451
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('action', 'NN'), ('menu', 'NN'), ('click', 'NN'), ('restore', 'NN'), ('basic', 'JJ'), ('disk', 'NN'), ('configuration', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 452
+tagged_sent: [('right-click', 'JJ'), ('my', 'PRP$'), ('network', 'NN'), ('places', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 453
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('network', 'NN'), ('and', 'CC'), ('dial-up', 'JJ'), ('connections', 'NNS'), ('window', 'VBP'), ('on', 'IN'), ('the', 'DT'), ('advanced', 'JJ'), ('menu', 'NN'), ('click', 'NN'), ('optional', 'JJ'), ('networking', 'NN'), ('components', 'NNS')]
+myvp: [['window', 'menu', 'click']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'window', '', '', '', '', '', '', '', '']
+
+Sentence: 454
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('windows', 'NNS'), ('optional', 'JJ'), ('networking', 'NN'), ('components', 'NNS'), ('wizard', 'VBP'), ('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('networking', 'NN'), ('services', 'NNS'), ('check', 'VBP'), ('box', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('details', 'NNS')]
+myvp: [['wizard', 'click'], ['select', 'networking', 'services'], ['check', 'box'], ['click', 'details']]
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'wizard', '', '', 'select', '', '', '', 'check', '', '', '', 'click', '']
+
+Sentence: 455
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('networking', 'NN'), ('services', 'NNS'), ('dialog', 'NN'), ('box', 'NN'), ('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('RIP', 'NNP'), ('listener', 'NN'), ('check', 'NN'), ('box', 'NN'), ('click', 'NN'), ('ok', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('next', 'JJ')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'select', '', '', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 456
+tagged_sent: [('insert', 'NN'), ('the', 'DT'), ('operating', 'NN'), ('system', 'NN'), ('installation', 'NN'), ('disc', 'NN'), ('when', 'WRB'), ('you', 'PRP'), ('are', 'VBP'), ('prompted', 'VBN'), ('click', 'NN'), ('ok', 'NN'), ('and', 'CC'), ('dns', 'NNS'), ('is', 'VBZ'), ('reinstalled', 'VBN')]
+myvp: [['are', 'click', 'ok']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'are', 'prompted', '', '', '', '', '', 'reinstalled']
+
+Sentence: 457
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('click', 'NN'), ('settings', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'click', 'settings'], ['click', 'control', 'panel']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 1, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', 'click', '', '', '', 'click', '', '']
+
+Sentence: 458
+tagged_sent: [('double-click', 'JJ'), ('phone', 'NN'), ('and', 'CC'), ('modem', 'NN'), ('options', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 459
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('modems', 'NNS'), ('tab', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 1]
+temp_tag_act: ['', '', '', 'tab']
+
+Sentence: 460
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('the', 'DT'), ('following', 'VBG'), ('modems', 'NNS'), ('are', 'VBP'), ('installed', 'VBN'), ('list', 'NN'), ('click', 'NN'), ('the', 'DT'), ('modem', 'NN'), ('that', 'IN'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('remove', 'VB'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('remove', 'NN')]
+myvp: [['following', 'modems'], ['are', 'list', 'click'], ['click', 'remove']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'following', '', 'are', 'installed', '', 'click', '', '', '', '', 'want', '', 'remove', '', '', 'click', '']
+
+Sentence: 461
+tagged_sent: [('click', 'NN'), ('yes', 'NNS'), ('in', 'IN'), ('response', 'NN'), ('to', 'TO'), ('the', 'DT'), ('are', 'VBP'), ('you', 'PRP'), ('sure', 'RB'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('remove', 'VB'), ('the', 'DT'), ('selected', 'VBN'), ('modems', 'NNS'), ('from', 'IN'), ('your', 'PRP$'), ('system', 'NN'), ('message', 'NN')]
+myvp: [['are', 'you'], ['remove', 'modems']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'are', '', '', '', 'want', '', 'remove', '', 'selected', '', '', '', '', '']
+
+Sentence: 462
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('settings', 'NNS'), ('and', 'CC'), ('click', 'VB'), ('control', 'NN'), ('panel', 'NN')]
+myvp: [['start', 'point'], ['click', 'control', 'panel']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'start', '', '', '', '', 'click', '', '']
+
+Sentence: 463
+tagged_sent: [('double-click', 'JJ'), ('the', 'DT'), ('administrative', 'JJ'), ('tools', 'NNS'), ('icon', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 464
+tagged_sent: [('double-click', 'JJ'), ('the', 'DT'), ('computer', 'NN'), ('management', 'NN'), ('icon', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 465
+tagged_sent: [('expand', 'NN'), ('services', 'NNS'), ('and', 'CC'), ('applications', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 466
+tagged_sent: [('click', 'NN'), ('on', 'IN'), ('services', 'NNS')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 467
+tagged_sent: [('double-click', 'JJ'), ('the', 'DT'), ('indexing', 'NN'), ('service', 'NN'), ('you', 'PRP'), ('wish', 'VB'), ('to', 'TO'), ('enable', 'VB'), ('and', 'CC'), ('set', 'VB'), ('its', 'PRP$'), ('startup', 'NN'), ('to', 'TO'), ('automatic', 'JJ'), ('or', 'CC'), ('manual', 'JJ')]
+myvp: [['set', 'startup']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'wish', '', 'enable', '', 'set', '', '', '', '', '', '']
+
+Sentence: 468
+tagged_sent: [('right-click', 'JJ'), ('my', 'PRP$'), ('network', 'NN'), ('places', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 469
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('icon', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 470
+tagged_sent: [('click', 'NN'), ('install', 'VBD'), ('click', 'NN'), ('client', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('add', 'JJ')]
+myvp: [['install', 'click', 'client']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'install', '', '', '', '', 'click', '']
+
+Sentence: 471
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('network', 'NN'), ('client', 'NN'), ('box', 'NN'), ('click', 'NN'), ('client', 'NN'), ('for', 'IN'), ('microsoft', 'NN'), ('networks', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'click', '', '', '', '', '', '', 'click', '']
+
+Sentence: 472
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('local', 'JJ'), ('area', 'NN'), ('connections', 'NNS'), ('properties', 'NNS'), ('window', 'VBP'), ('click', 'NN'), ('ok', 'NN')]
+myvp: [['window', 'click', 'ok']]
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'window', '', '']
+
+Sentence: 473
+tagged_sent: [('right-click', 'JJ'), ('my', 'PRP$'), ('network', 'NN'), ('places', 'NNS'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'click', '']
+
+Sentence: 474
+tagged_sent: [('right-click', 'JJ'), ('the', 'DT'), ('network', 'NN'), ('adapter', 'NN'), ('that', 'WDT'), ('is', 'VBZ'), ('connected', 'VBN'), ('to', 'TO'), ('the', 'DT'), ('network', 'NN'), ('that', 'IN'), ('the', 'DT'), ('computers', 'NNS'), ('running', 'VBG'), ('windows', 'NNS'), ('95/windows', 'CD'), ('98', 'CD'), ('are', 'VBP'), ('using', 'VBG'), ('usually', 'RB'), ('local', 'JJ'), ('area', 'NN'), ('connection', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['running', 'windows'], ['using', 'area', 'connection'], ['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'connected', '', '', '', '', '', '', 'running', '', '', '', 'are', 'using', '', '', '', '', '', '', 'click', '']
+
+Sentence: 475
+tagged_sent: [('click', 'NN'), ('internet', 'VBD'), ('protocol', 'NN'), ('tcp/ip', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['click', 'properties']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', 'internet', '', '', '', '', 'click', '']
+
+Sentence: 476
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('advanced', 'JJ'), ('button', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 477
+tagged_sent: [('on', 'IN'), ('the', 'DT'), ('wins', 'NNS'), ('tab', 'VBP'), ('click', 'NN'), ('enable', 'JJ'), ('netbios', 'NNS'), ('over', 'IN'), ('tcp/ip', 'JJ'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['tab', 'click'], ['click', 'ok']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'tab', 'click', '', '', '', '', '', '', 'click', '']
+
+Sentence: 478
+tagged_sent: [('click', 'NN'), ('ok', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 1, 0, 0, 1, 0]
+temp_tag_act: ['click', 'ok', '', '', 'click', '']
+
+Sentence: 479
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('run', 'VBN')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 1, 1]
+temp_tag_act: ['', 'start', '', '', 'click', 'run']
+
+Sentence: 480
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('open', 'JJ'), ('box', 'NN'), ('type', 'NN'), ('dcomcnfg', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '']
+
+Sentence: 481
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('distributed', 'VBN'), ('com', 'NN'), ('configuration', 'NN'), ('properties', 'NNS'), ('dialog', 'VBP'), ('box', 'NN'), ('click', 'NN'), ('the', 'DT'), ('default', 'NN'), ('properties', 'NNS'), ('tab', 'VBP')]
+myvp: [['distributed', 'com', 'configuration', 'properties'], ['dialog', 'box', 'click']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', 'distributed', '', '', '', 'dialog', '', '', '', '', '', 'tab']
+
+Sentence: 482
+tagged_sent: [('click', 'NN'), ('to', 'TO'), ('select', 'VB'), ('the', 'DT'), ('enable', 'JJ'), ('distributed', 'VBN'), ('com', 'NN'), ('on', 'IN'), ('this', 'DT'), ('computer', 'NN'), ('check', 'NN'), ('box', 'NN')]
+myvp: [['distributed', 'com']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'select', '', '', 'distributed', '', '', '', '', '', '']
+
+Sentence: 483
+tagged_sent: [('under', 'IN'), ('default', 'NN'), ('authentication', 'NN'), ('level', 'NN'), ('click', 'NN'), ('connect', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 484
+tagged_sent: [('under', 'IN'), ('default', 'NN'), ('impersonation', 'NN'), ('level', 'NN'), ('click', 'NN'), ('identify', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 485
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('applications', 'NNS'), ('tab', 'VBP'), ('click', 'NN'), ('{000c101c-0000-0000-c000-000000000046}', '-NONE-'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('properties', 'NNS')]
+myvp: [['tab', 'click'], ['click', 'properties']]
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'tab', 'click', '', '', '', 'click', '']
+
+Sentence: 486
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('general', 'JJ'), ('tab', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('default', 'NN'), ('in', 'IN'), ('the', 'DT'), ('authentication', 'NN'), ('level', 'NN'), ('box', 'NN')]
+myvp: [['click', 'default']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['click', '', '', '', '', '', 'click', '', '', '', '', '', '']
+
+Sentence: 487
+tagged_sent: [('click', 'NN'), ('the', 'DT'), ('security', 'NN'), ('tab', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('use', 'NN'), ('default', 'NN'), ('access', 'NN'), ('permissions', 'NNS'), ('use', 'VBP'), ('default', 'NN'), ('launch', 'NN'), ('permissions', 'NNS'), ('and', 'CC'), ('use', 'VB'), ('default', 'NN'), ('configuration', 'NN'), ('permissions', 'NNS')]
+myvp: [['click', 'use', 'default', 'access', 'permissions'], ['use', 'default', 'launch', 'permissions'], ['use', 'default', 'configuration', 'permissions']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['click', '', '', '', '', '', 'click', 'use', '', '', '', 'use', '', '', '', '', 'use', '', '', '']
+
+Sentence: 488
+tagged_sent: [('click', 'NN'), ('apply', 'RB'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [1, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 1, 0]
+temp_tag_act: ['click', '', '', '', 'click', '']
+
+Sentence: 489
+tagged_sent: [('click', 'NN'), ('internet', 'VBD'), ('options', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('tools', 'NNS'), ('menu', 'VBP'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('the', 'DT'), ('security', 'NN'), ('tab', 'NN')]
+myvp: [['internet', 'options'], ['click', 'security', 'tab']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', 'internet', '', '', '', '', 'menu', '', '', 'click', '', '', '']
+
+Sentence: 490
+tagged_sent: [('click', 'NN'), ('internet', 'VBD'), ('in', 'IN'), ('the', 'DT'), ('select', 'NN'), ('a', 'DT'), ('web', 'NN'), ('content', 'NN'), ('zone', 'NN'), ('to', 'TO'), ('specify', 'VB'), ('its', 'PRP$'), ('security', 'NN'), ('settings', 'NNS'), ('section', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('custom', 'NN'), ('level', 'NN')]
+myvp: [['internet', 'select'], ['click', 'custom', 'level']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'internet', '', '', '', '', '', '', '', '', 'specify', '', '', '', '', '', '', 'click', '', '']
+
+Sentence: 491
+tagged_sent: [('in', 'IN'), ('the', 'DT'), ('run', 'NN'), ('activex', 'NN'), ('scripts', 'NNS'), ('and', 'CC'), ('plugins', 'NNS'), ('section', 'NN'), ('click', 'NN'), ('disable', 'JJ'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('ok', 'NN')]
+myvp: [['click', 'ok']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'click', '', '', '', 'click', '']
+
+Sentence: 492
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('on', 'IN'), ('the', 'DT'), ('taskbar', 'NN'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('run', 'VBN')]
+myvp: [['start', 'taskbar']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 1]
+temp_tag_act: ['', 'start', '', '', '', '', '', 'click', 'run']
+
+Sentence: 493
+tagged_sent: [('type', 'NN'), ('the', 'DT'), ('following', 'VBG'), ('in', 'IN'), ('the', 'DT'), ('open', 'JJ'), ('box', 'NN'), ('tlntsvr', 'NN'), ('/service', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'following', '', '', '', '', '', '']
+
+Sentence: 494
+tagged_sent: [('start', 'NN'), ('the', 'DT'), ('telnet', 'NN'), ('server', 'NN'), ('service', 'NN'), ('by', 'IN'), ('clicking', 'NN'), ('ok', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 495
+tagged_sent: [('click', 'NN'), ('start', 'VBD'), ('point', 'NN'), ('to', 'TO'), ('search', 'VB'), ('and', 'CC'), ('then', 'RB'), ('click', 'VB'), ('for', 'IN'), ('files', 'NNS'), ('and', 'CC'), ('folders', 'NNS')]
+myvp: [['start', 'point'], ['click', 'files']]
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'start', '', '', 'search', '', '', 'click', '', '', '', '']
+
+
+
+total_actions: 906
+right_actions: 359
+tag_actions: 785
+recall: 0.396247
+precision: 0.457325
+f_measure: 0.424601
+accuracy: 0.802035
+Time cost 2s

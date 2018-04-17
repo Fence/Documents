@@ -1,0 +1,115 @@
+word_dim: 50
+object_rate: 0.05
+words_num: 500
+load_replay: 0
+train_frequency: 1
+start_epoch: 0
+save_replay: 0
+load_weights: 
+discount_rate: 0.9
+word2vec: <gensim.models.keyedvectors.KeyedVectors object at 0x7f3fca502210>
+nchars: 93
+epochs: 5
+max_char_len: 20
+use_k_max_pool: 0
+emb_dim: 100
+exploration_rate_test: 0.0
+computer_id: 1
+exploration_rate_start: 1
+max_text_num: 52
+exploration_decay_steps: 1000
+train_steps: 43500
+priority: 1
+decay_rate: 0.88
+replay_size: 35000
+model_dir: /home/fengwf/Documents/mymodel-new-5-50
+fold_id: 2
+result_dir: results/cooking_fold2
+target_steps: 5
+train_repeat: 1
+add_linear: 1
+momentum: 0.8
+optimizer: rmsprop
+exploration_rate_end: 0.1
+action_label: 2
+epsilon: 1e-06
+learning_rate: 0.0025
+save_replay_name: saved_replay_memory.pkl
+multi_cnn: 0
+reward_assign: 1.0
+char_dim: 30
+non_action_label: 1
+context_len: 50
+test_text_num: 9
+batch_size: 32
+num_actions: 1000
+valid_steps: 4500
+is_test: 1
+tag_dim: 50
+char_emb_flag: 0
+save_replay_size: 1000
+num_k: 2
+ten_fold_valid: 1
+max_replay_size: [100000, 35000, 100000]
+action_rate: 0.15
+positive_rate: 0.75
+actionDB: tag_actions1
+test_one_flag: 0
+gpu_rate: 0.24
+save_weights_prefix: 
+ten_fold_indices: data/cooking-10-fold-indices.pkl
+target_output: 2
+time_step_batch: 0
+random_play: 0
+
+Text: 0
+total words: 152
+total: 17	right: 16	tagged: 19
+acc: 0.973684	rec: 0.941176	pre: 0.842105	f1: 0.888889
+
+Text: 1
+total words: 230
+total: 18	right: 17	tagged: 20
+acc: 0.982609	rec: 0.944444	pre: 0.850000	f1: 0.894737
+
+Text: 2
+total words: 289
+total: 19	right: 17	tagged: 31
+acc: 0.944637	rec: 0.894737	pre: 0.548387	f1: 0.680000
+
+Text: 3
+total words: 150
+total: 23	right: 21	tagged: 31
+acc: 0.920000	rec: 0.913043	pre: 0.677419	f1: 0.777778
+
+Text: 4
+total words: 151
+total: 18	right: 3	tagged: 3
+acc: 0.900662	rec: 0.166667	pre: 1.000000	f1: 0.285714
+
+Text: 5
+total words: 228
+total: 23	right: 21	tagged: 23
+acc: 0.982456	rec: 0.913043	pre: 0.913043	f1: 0.913043
+
+Text: 6
+total words: 214
+total: 15	right: 14	tagged: 55
+acc: 0.803738	rec: 0.933333	pre: 0.254545	f1: 0.400000
+
+Text: 7
+total words: 362
+total: 40	right: 30	tagged: 35
+acc: 0.958564	rec: 0.750000	pre: 0.857143	f1: 0.800000
+
+Text: 8
+total words: 65
+total: 5	right: 3	tagged: 5
+acc: 0.938462	rec: 0.600000	pre: 0.600000	f1: 0.600000
+
+
+Summary:
+total: 178	right: 142	tagged: 222
+acc: 0.936991	rec: 0.797753	pre: 0.639640	f1: 0.710000
+
+Total time cost of epoch 2 is: 1551s

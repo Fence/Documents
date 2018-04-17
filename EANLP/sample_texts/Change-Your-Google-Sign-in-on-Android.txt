@@ -1,0 +1,44 @@
+ If you have more than one Google account linked to your Android device, you can’t really pick one account to use over the other. What you can do is set which account you want to sync the Android device to. You can also change the Google sign-in on Google+ and Google Play once you’ve linked an account. Changing the sign-in on Google Play allows you to save game data and purchases to that particular account you signed in to. 
+  Steps  
+ Changing and Adding Google Sign-ins to Sync 
+ Open the device Settings.  Changing Google accounts is really not possible as all the existing Google accounts linked to the device remain synced at all times. You can, however, choose which Google account is to be synced with the Android.
+ 
+ Locate the gear icon on the home screen or app drawer. Tap the icon to open the Settings menu. 
+ Go to Accounts.  Scroll down the menu and locate “Accounts.” On some devices, this may be a heading, with the list of accounts you can link to your device below it. On others, it’s an option you can tap to open the Accounts settings menu; tap the option.
+ Select “Google” from the list.  The screen will then display all Google accounts you have linked to your device.
+ Select which account you would like to keep syncing with your device.  The screen will display a list of options that can be synced to that particular account, like App Data, Calendar, Contacts, etc. To the right of these options are check boxes. Tap the checkbox of the option that you would like to sync to the Google account.
+ 
+ If you want to sync all options, just tap “Sync now” at the bottom of the screen. 
+ Disable all other accounts.  If you want your device to sync with only the Google account you selected, you can disable the sync abilities of the other accounts.
+ 
+ Go back to the Google accounts list, and tap the account you’d like to disable. Uncheck all the sync options of the Google account to disable it. 
+ Repeat this for all other accounts. 
+ Add a Google account.  If the Google account you want to use isn’t yet linked, you have to add it first.
+ 
+ On the Account settings screen, tap “+ Add Account” and then select “Google.” On the next screen, select “Existing” if you want to add an account you already have or “New” if you want to create a new one. 
+ If you selected “Existing,” enter the Google email and password of the account and then tap the right arrow at the bottom. Wait for the account to sign in and then tap “OK.” Set up the Payment Info if you want (or skip it), and then select which sync options you would like. When you’re done, tap the right arrow. 
+ If you selected “New,” a screen will appear where you need to enter your first name and last name. Fill in the details and tap the right arrow at the bottom. Enter the email ID you want to use, and move on to the next screen. Create a password, and confirm it to complete the sign-in process. 
+ Changing the Google Sign-In in the Google Play Store 
+ Launch Google Play.  On your home screen or app drawer, look for the white bag with the play icon on it. Tap the icon to open the Google Play Store.
+ Tap the 3-bar icon at the top left of the screen.  This will open the Play Store menu. It will also display the profile picture, name, and Gmail address of the current account the Play Store is signed in to.
+ View the different sign-ins.  Tap the down arrow to the right of the Gmail address. A list of Google accounts linked to the device will drop down.
+ 
+ In order for the Google account to appear here, it must first be added through the Settings (step 6 of method 1). 
+ Tap the Google sign-in you would like to use for Google Play.  Any downloads and purchases on Google Play after this will now be saved under the selected account.
+ Changing the Google Sign-In in Google+ 
+ Launch Google+.  Look for the red icon with “g+” in your home screen or app drawer. Tap it to open the Google+ app.
+ Add a Google account.  If the sign-in you want to use is not yet linked to your Google+ app, you must first add it.
+ 
+ Tap the 3-dot icon at the top right of the screen, and from the menu that appears, tap “Settings.” 
+ Go down to the middle of the Settings menu to locate the Account Settings section. The Account Settings will list all the Google accounts currently linked to your Android device. 
+ Tap the Google sign-in you want to use for the Google+ app. 
+ Change the Google sign-in.  Once you’ve linked the Google account, go back to the home screen. There will be a down arrow next to the account name at the top header; tap this arrow and a list of linked accounts will appear.
+ 
+ Tap on the account you would like to sign in with, and Google+ will change accounts. 
+ Changing the Google Sign-In in Gmail 
+ Launch the Gmail app.  Locate the Gmail app icon on your home screen or app drawer. It’s the envelope with the letter “G” in it. Tap to open.
+ Tap the 3-bar icon at the top left of the screen.  This will open the app menu. The first section of the menu will list all the Google accounts linked to your Android device.
+ Change the Google sign-in.  Tap on the Google account you would like to use for the Gmail app.
+ 
+ If the account is not synced, tap “Sync now” to have Gmail sync the emails of that account. This might take a while, depending on the bulk of the emails the app needs to sync. 
+ If the account you want to use is not listed, you must first add it to your device through the settings (method 1, step 6). 

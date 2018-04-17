@@ -1,0 +1,3270 @@
+actionDB: tag_actions
+
+text_num: 0 total sentences: 20  total words: 298
+
+Sentence 0: Start by mixing together your cream of mushroom condensed soup sour cream salt pepper onion and cheese in a large bowl
+dobj:  mixing ( cream )
+
+Sentence 1: After these are well combined add in the hash browns and mix gently
+nsubjpass:  combined ( these )
+
+Sentence 2: Spray your slow cooker with some non-stick cooking spray or coat with butter
+dobj:  Spray ( cooker )
+
+Sentence 3: This will prevent sticking so you don¡¯t have a huge mess to clean up
+dobj:  have ( mess )
+
+Sentence 4: Pour the hash brown mixture into your slow cooker and put the cover on
+dobj:  Pour ( mixture )
+dobj:  put ( cover )
+
+Sentence 5: Turn the slow cooker on high and leave for 1 to 1.5 hours
+dobj:  Turn ( cooker )
+
+Sentence 6: After this turn the heat to low and leave it on for 2.5 hours longer
+dobj:  turn ( heat )
+dobj:  leave ( it )
+
+Sentence 7: Turn off slow cooker and serve right away
+dobj:  Turn ( cooker )
+
+Sentence 8: Keep on warm if you plan on waiting to enjoy for a little bit longer
+
+Sentence 9: If you want to add something unique to this recipe add your favorite vegetables
+dobj:  add ( vegetables )
+
+Sentence 10: It¡¯s generally best to use soft vegetables or those that have been slightly cooked before you add them
+dobj:  use ( vegetables )
+nsubjpass:  cooked ( that )
+dobj:  add ( them )
+
+Sentence 11: This will ensure they don¡¯t turn out hard when the rest of the dish is cooked fully
+dobj:  don ( t )
+nsubjpass:  cooked ( rest )
+
+Sentence 12: You can also add in cooked sausage or bacon if you want some meat in the dish
+dobj:  want ( meat )
+
+Sentence 13: Just make sure that the meat you add is already cooked before it¡¯s put in
+nsubjpass:  cooked ( meat )
+nsubjpass:  put ( ¯ )
+
+Sentence 14: If you add in raw meat it likely won¡¯t fully cook when the rest of the dish is done and may be raw
+nsubjpass:  done ( rest )
+
+Sentence 15: This is a very forgiving recipe that you can play around with and change if you want to add or omit something
+dobj:  add ( something )
+
+Sentence 16: You can do everything from adding in some garlic to switching the flavor of condensed soup you use
+dobj:  do ( everything )
+
+Sentence 17: It¡¯s best when served with scrambled eggs
+
+Sentence 18: Broccoli and cheese work well together but peppers also taste great
+
+Sentence 19: make breakfast the night before with a hash brown casserole
+dobj:  make ( breakfast )
+
+text_num: 1 total sentences: 18  total words: 197
+
+Sentence 0: Cook the ground beef chopped onion and green pepper in a large skillet till brown
+dobj:  chopped ( pepper )
+
+Sentence 1: Drain the fat from the mixture and add tomato sauce tomato paste undrained beans chili powder hot pepper sauce and the cumin
+dobj:  Drain ( fat )
+
+Sentence 2: Stir till it is well mixed
+
+Sentence 3: Bring the mixture to boiling
+dobj:  Bring ( mixture )
+
+Sentence 4: Reduce the heat and let it simmer for five minutes while stirring frequently
+dobj:  Reduce ( heat )
+
+Sentence 5: Get a ten inch pie plate and lightly grease it
+dobj:  Get ( plate )
+dobj:  grease ( it )
+
+Sentence 6: Separate the corn bread twists but don¡¯t uncoil them
+dobj:  Separate ( twists )
+dobj:  uncoil ( them )
+
+Sentence 7: Arrange the twists on the greased plate pressing them on the side and the bottom of the plate
+dobj:  Arrange ( twists )
+dobj:  pressing ( them )
+
+Sentence 8: Ensure the twists have extended above the plate by an inch
+
+Sentence 9: Using a spoon scoop the ground beef mixture onto the top of the crust
+dobj:  scoop ( mixture )
+
+Sentence 10: Mix the sour cream with flour and spread it on top of the beef mixture
+dobj:  Mix ( cream )
+dobj:  spread ( it )
+
+Sentence 11: Sprinkle some corn chips and cheese atop the mixture
+dobj:  Sprinkle ( chips )
+
+Sentence 12: Set your oven to 375 degree F and put the mixture in the oven
+dobj:  Set ( oven )
+dobj:  put ( mixture )
+
+Sentence 13: Bake for 30 minutes
+
+Sentence 14: Let the baked dish stand for ten minutes then serve
+dobj:  Let ( stand )
+
+Sentence 15: You can garnish the dish with green pepper
+dobj:  garnish ( dish )
+
+Sentence 16: Serve as a main dish for 8 people
+
+Sentence 17: how to make chili cornbread pie
+dobj:  make ( pie )
+
+text_num: 2 total sentences: 16  total words: 231
+
+Sentence 0: How to make this quick dessert
+dobj:  make ( dessert )
+
+Sentence 1: Once you have gathered all the ingredients the next step would be to make the crust
+dobj:  gathered ( ingredients )
+dobj:  make ( crust )
+
+Sentence 2: To do this you will need to put all the broken wafer cookies into the processor and process it until the cookies are finely grounded
+dobj:  do ( this )
+dobj:  put ( cookies )
+dobj:  process ( it )
+nsubjpass:  grounded ( cookies )
+
+Sentence 3: In a microwavable bowl add butter chocolate chips and sugar before popping into the microwave set in 15 seconds interval
+dobj:  add ( chips )
+
+Sentence 4: Mix the ingredients occasionally
+dobj:  Mix ( ingredients )
+
+Sentence 5: Pour the mixture into the processor and blend the ingredients together
+dobj:  Pour ( mixture )
+dobj:  blend ( ingredients )
+
+Sentence 6: Add the crumb mixture into the bottom as well as the sides of your pie dish
+dobj:  Add ( mixture )
+
+Sentence 7: Let it chill while you mix the filling
+dobj:  mix ( filling )
+
+Sentence 8: To create the filling whisk together cr¨¨me faiche condensed milk lemon peel and lemon juice into a bowl
+dobj:  whisk ( ¨ )
+dobj:  faiche ( peel )
+
+Sentence 9: Add at least half of the raspberries that you have
+dobj:  Add ( half )
+
+Sentence 10: While stirring slightly press down on the raspberries until they break and their color blend with the rest of the mixture
+
+Sentence 11: Pour the contents of the filling onto the crumb mixture and allow it to cool in the fridge
+dobj:  Pour ( contents )
+dobj:  allow ( it )
+
+Sentence 12: Add the remaining raspberries on top when serving for added effects and taste
+dobj:  Add ( raspberries )
+
+Sentence 13: As you can see this is a no fuss type of dessert that you can try out on your own
+
+Sentence 14: The perfect blend of chocolate and raspberry will certainly be a success in the dining table when served
+
+Sentence 15: how to make chocolate raspberry cream pie
+dobj:  make ( pie )
+
+text_num: 3 total sentences: 18  total words: 203
+
+Sentence 0: Preheat oven to 425¡ãF
+dobj:  Preheat ( oven )
+
+Sentence 1: Line the baking sheet with some parchment paper
+
+Sentence 2: Sift into a bowl the baking soda salt cream of tartar and 2 cups flour
+
+Sentence 3: Cut the butter into the mixture until it gains the consistency of bread crumbs
+dobj:  Cut ( butter )
+dobj:  gains ( consistency )
+
+Sentence 4: Mix in the sugar and about a half cup of milk to form a soft dough
+dobj:  form ( dough )
+
+Sentence 5: Feel free to use a little less or more milk to prevent the dough from being too stiff or watery
+dobj:  Feel ( milk )
+dobj:  prevent ( dough )
+
+Sentence 6: Put some flour on a clean flat surface and transfer the dough there
+dobj:  Put ( flour )
+dobj:  transfer ( dough )
+
+Sentence 7: Knead the dough gently with rolling pin flattening it to about 3/4 inches thick
+dobj:  Knead ( dough )
+dobj:  flattening ( it )
+
+Sentence 8: Using a glass or a dough cutter cut 2-inch circles from the dough
+dobj:  Using ( glass )
+
+Sentence 9: This should yield around 12 pieces
+
+Sentence 10: Place the dough slices onto the baking sheet
+dobj:  Place ( slices )
+
+Sentence 11: Make sure to leave about 2 inches space around each slice
+dobj:  leave ( space )
+
+Sentence 12: This gives the dough enough room to expand slightly during baking
+dobj:  gives ( room )
+
+Sentence 13: Brush each dough slice with milk
+
+Sentence 14: Bake the dough slices at 425¡ãF for 10 minutes
+dobj:  Bake ( slices )
+
+Sentence 15: Once your scones are done cool them briefly on wire rack
+nsubjpass:  done ( scones )
+dobj:  cool ( them )
+
+Sentence 16: Serve warm with butter jam clotted cream and maybe fruits and of course some nicely brewed English tea
+
+Sentence 17: how to make english country scones
+dobj:  make ( scones )
+
+text_num: 4 total sentences: 11  total words: 162
+
+Sentence 0: How to make an English flapjack
+dobj:  make ( flapjack )
+
+Sentence 1: Preheat your oven at 350¡ãC and prepare a greased 9¡± pan
+dobj:  Preheat ( oven )
+dobj:  prepare ( ¡ )
+
+Sentence 2: You may also use non-stick baking paper which makes the cake easier to pry out
+dobj:  use ( paper )
+
+Sentence 3: Add your pinch of salt to bring out the sweetness and a get a rounder flavor
+dobj:  Add ( pinch )
+dobj:  bring ( sweetness )
+dobj:  get ( flavor )
+
+Sentence 4: Take your oats dried fruits and fresh almonds and fold it in the sweet butter mixture
+dobj:  Take ( fruits )
+dobj:  fold ( it )
+
+Sentence 5: In a bowl mix the butter 4 tablespoons of syrup and sugar and aim for a grainy texture
+
+Sentence 6: Pour your course batter into your lined pan and stick it into your oven to cook for 45 to 50 minutes or until golden brown
+dobj:  Pour ( batter )
+dobj:  stick ( it )
+
+Sentence 7: While it¡¯s cooking use the remaining tablespoon of syrup to sweeten the lemon juice
+dobj:  use ( tablespoon )
+dobj:  sweeten ( juice )
+
+Sentence 8: When it¡¯s cooked take it out of the oven slice them into squares while still in the pan
+dobj:  slice ( them )
+
+Sentence 9: More importantly add the lemon juice mixture while it¡¯s hot
+dobj:  add ( mixture )
+
+Sentence 10: Let the juice get into the cake while waiting for it to cool
+
+text_num: 5 total sentences: 11  total words: 179
+
+Sentence 0: how to cook french toast with creamy maple syrup
+dobj:  cook ( toast )
+
+Sentence 1: Choose a medium-sized bowl where you add 2 eggs 1/5 teaspoon of salt half a cup of milk and a quarter teaspoon of vanilla
+dobj:  Choose ( bowl )
+dobj:  add ( eggs )
+dobj:  salt ( cup )
+
+Sentence 2: Mix the ingredients together and afterwards dip the slices of bread in the mixture on both sides
+dobj:  Mix ( ingredients )
+dobj:  dip ( slices )
+
+Sentence 3: The second step is to prepare the cooking pan
+dobj:  prepare ( pan )
+
+Sentence 4: If you want to eat healthy it is highly recommended to use butter instead of cooking oil
+dobj:  use ( butter )
+
+Sentence 5: Cut several thin slices of butter and let them melt in the pan
+dobj:  Cut ( slices )
+
+Sentence 6: After that simply put the slices of bread in the pan and make sure they cook evenly on both sides
+dobj:  put ( slices )
+
+Sentence 7: When the colour of the bread turns gold or light brown then it is time to remove them and let them cool for a minute
+dobj:  turns ( brown )
+dobj:  remove ( them )
+
+Sentence 8: The last step is to add the creamy maple syrup on top of the french toast
+dobj:  add ( syrup )
+
+Sentence 9: There are no recommended quanitities simply add as much syrup as you need
+
+Sentence 10: Follow the above-mentioned steps and you can prepare a delicious meal within less than 10 minutes
+dobj:  prepare ( meal )
+
+text_num: 6 total sentences: 14  total words: 173
+
+Sentence 0: how to make ¡°fritos¡± chili pie
+dobj:  make ( fritos )
+dobj:  ¡ ( pie )
+
+Sentence 1: In regular soup bowls fill about one-half to three-quarters of each bowl with Fritos
+dobj:  fill ( one-half )
+
+Sentence 2: Grate the cheddar cheese and dice the small onion and put to the side
+dobj:  Grate ( cheese )
+dobj:  dice ( onion )
+
+Sentence 3: Heat the chili in a pot
+
+Sentence 4: Pour one or two ladle fulls of chili over the Fritos in each bowl
+
+Sentence 5: Immediately add a small handful of cheese on top while the chili is good and piping hot so the cheese starts to melt
+dobj:  add ( handful )
+
+Sentence 6: Stir just before eating
+
+Sentence 7: Add optional ingredients last
+dobj:  Add ( ingredients )
+
+Sentence 8: Be sure to buy the original brand Fritos because other brands tend to get too soggy
+dobj:  buy ( Fritos )
+dobj:  get ( soggy )
+
+Sentence 9: Also be sure to buy regular size Fritos because the larger dipping Fritos stay too hard
+dobj:  buy ( Fritos )
+
+Sentence 10: You can also keep mixing in fresh Fritos as you eat the Frito pie
+dobj:  eat ( pie )
+
+Sentence 11: To make it fancy you can add other types of cheeses but the traditional cheddar is always a crowd pleaser
+dobj:  add ( types )
+
+Sentence 12: Sometimes it is just better to stick with the original
+
+Sentence 13: The best Frito pie is made from left-over home-made chili of course
+nsubjpass:  made ( pie )
+
+text_num: 7 total sentences: 11  total words: 110
+
+Sentence 0: how to make grilled cheese
+dobj:  make ( cheese )
+
+Sentence 1: Soften your butter by putting it in the microwave for 5 seconds reminder never put tinfoil in the microwave
+dobj:  Soften ( butter )
+dobj:  putting ( it )
+dobj:  put ( tinfoil )
+
+Sentence 2: Spread some butter on both sides of both slices of bread
+dobj:  Spread ( butter )
+
+Sentence 3: Place 2 pieces of the American cheese on one slice of bread
+dobj:  Place ( pieces )
+
+Sentence 4: Put your frying pan on medium heat
+
+Sentence 5: Use your spatula to peak every once in a while
+dobj:  Use ( spatula )
+
+Sentence 6: When the under-side is golden brown flip the sandwich with a firm stroke
+dobj:  flip ( sandwich )
+
+Sentence 7: Repeat step 7
+
+Sentence 8: When the underside is golden brown remove the bread from the pan with your spatula
+dobj:  remove ( bread )
+
+Sentence 9: Use a cutting board to cut your grilled cheese sandwich in half
+dobj:  Use ( board )
+dobj:  cut ( sandwich )
+
+Sentence 10: Eat and enjoy
+
+text_num: 8 total sentences: 29  total words: 274
+
+Sentence 0: how to make gingerbread men cookies
+dobj:  make ( cookies )
+
+Sentence 1: First make the confectioners frosting
+dobj:  make ( frosting )
+
+Sentence 2: Beat 1/2 cup butter until it becomes smooth
+
+Sentence 3: Add the vanilla extract
+
+Sentence 4: Put the mixer on low speed
+dobj:  Put ( mixer )
+
+Sentence 5: Add the powdered sugar little by little
+dobj:  Add ( sugar )
+
+Sentence 6: Add the milk
+dobj:  Add ( milk )
+
+Sentence 7: Switch to high speed
+
+Sentence 8: Beat the mixture until your frosting become fluffy and light
+dobj:  Beat ( mixture )
+
+Sentence 9: Set your frosting aside
+dobj:  Set ( frosting )
+
+Sentence 10: Now sift together the flour baking soda salt ginger cloves nutmeg and cinnamon in a large bowl
+dobj:  sift ( flour )
+dobj:  baking ( cloves )
+
+Sentence 11: Using the electric mixer beat together the sugar and 1/2 cup butter until the mixture becomes light and fluffy
+dobj:  Using ( mixer )
+
+Sentence 12: Add the molasses and egg and beat the mixture again until everything is well combined
+dobj:  Add ( molasses )
+dobj:  beat ( mixture )
+
+Sentence 13: Add the flour mixture into the liquid mixture then beat again until everything is thoroughly mixed
+dobj:  Add ( mixture )
+
+Sentence 14: Divide the dough into two equal parts
+dobj:  Divide ( dough )
+
+Sentence 15: Wrap each separately in plastic
+
+Sentence 16: Refrigerate the dough for two hours or even overnight until it becomes firm
+dobj:  Refrigerate ( dough )
+
+Sentence 17: Preheat the oven to 177¡ãc 350¡ãf
+dobj:  Preheat ( oven )
+
+Sentence 18: Place rack at the center of the oven
+dobj:  Place ( rack )
+
+Sentence 19: Roll out the dough to about
+
+Sentence 20: Then cut out the cookies using a gingerbread cutter
+dobj:  cut ( cookies )
+dobj:  using ( cutter )
+
+Sentence 21: Line two baking sheets with parchment paper
+
+Sentence 22: Put your cookies onto the backing sheet atop the parchment paper
+dobj:  Put ( cookies )
+
+Sentence 23: Make sure you leave at least 1 cm space per cookie
+dobj:  leave ( space )
+
+Sentence 24: Bake the cookies until they are firm and the edges begin turning brown
+dobj:  Bake ( cookies )
+dobj:  turning ( brown )
+
+Sentence 25: Take the cookies out of the oven and leave them on the baking sheets for about a minute to let them cool
+dobj:  Take ( cookies )
+dobj:  leave ( them )
+
+Sentence 26: Then you can transfer them to the wire rack to let them cool completely
+dobj:  transfer ( them )
+
+Sentence 27: Place the frosting in a pastry bag fitted with a decorative tip
+dobj:  Place ( frosting )
+
+Sentence 28: Decorate the gingerbread man as desired
+
+text_num: 9 total sentences: 18  total words: 200
+
+Sentence 0: how to make homemade pizza
+dobj:  make ( pizza )
+
+Sentence 1: Preheat the oven to 425¡ãf
+dobj:  Preheat ( oven )
+
+Sentence 2: Pour the yeast in hot water to dissolve it
+dobj:  Pour ( yeast )
+dobj:  dissolve ( it )
+
+Sentence 3: Stir in sugar and salt into the water using a fork
+dobj:  using ( fork )
+
+Sentence 4: When the salt and sugar has combined well with the yeast mixture start adding in the flour
+
+Sentence 5: Add half a cup at a time slowly stirring to dissolve the flour
+dobj:  Add ( cup )
+dobj:  dissolve ( flour )
+
+Sentence 6: To finish the dough add in the oil stirring vigorously
+
+Sentence 7: After mixing the oil into the dough check the consistency of the dough
+dobj:  mixing ( oil )
+dobj:  mixing ( consistency )
+
+Sentence 8: You can add another half cup of flour if the dough is too sticky
+dobj:  add ( cup )
+
+Sentence 9: Let the dough rise for about 30 minutes in a bowl covered by a kitchen towel
+dobj:  Let ( rise )
+
+Sentence 10: Take the risen dough out of the bowl and start kneading it on a floured surface
+dobj:  Take ( dough )
+dobj:  kneading ( it )
+
+Sentence 11: Coat your hands with flour as well so that the dough won¡¯t stick to your fingers
+dobj:  Coat ( hands )
+
+Sentence 12: Spread the dough on the greased cookie sheet
+dobj:  Spread ( dough )
+
+Sentence 13: Pour the tomato sauce over the dough
+dobj:  Pour ( sauce )
+
+Sentence 14: Use a spatula to spread the sauce towards the edges
+dobj:  Use ( spatula )
+dobj:  spread ( sauce )
+
+Sentence 15: Add the toppings then sprinkle the cheese on top of everything
+dobj:  sprinkle ( cheese )
+
+Sentence 16: Bake in the oven for 20-25 minutes
+
+Sentence 17: When your pizza is done take it out and serve it immediately
+nsubjpass:  done ( pizza )
+dobj:  take ( it )
+dobj:  serve ( it )
+
+text_num: 10 total sentences: 27  total words: 299
+
+Sentence 0: how to make lasagne
+dobj:  make ( lasagne )
+
+Sentence 1: Heat the saucepan
+
+Sentence 2: Add in the meat and cook it in its own fat until it is well browned
+dobj:  cook ( it )
+
+Sentence 3: Drain most of the fat but not all
+
+Sentence 4: we¡¯d recommend you leave around 3 tablespoons of fat as this makes the dish tastier
+
+Sentence 5: Add in the onions garlic red pepper salt and pepper
+
+Sentence 6: Stir the meat mixture for a few minutes over medium heat until the onions are soft and translucent
+dobj:  Stir ( mixture )
+
+Sentence 7: Add a few pinches of oregano and one or two tablespoons of tomato paste depending on your own taste
+dobj:  Add ( pinches )
+
+Sentence 8: Stir in the canned tomatoes and allow the mixture to boil gently
+dobj:  allow ( mixture )
+
+Sentence 9: Cover your pot and let everything simmer on low heat for 45 minutes
+dobj:  Cover ( pot )
+dobj:  let ( simmer )
+
+Sentence 10: Meanwhile place plenty of water in another pot
+dobj:  place ( plenty )
+
+Sentence 11: Cook the lasagne noodles according to package directions
+dobj:  Cook ( noodles )
+
+Sentence 12: When the noodles are done drain them well and separate the noodles from each other
+nsubjpass:  done ( noodles )
+dobj:  drain ( them )
+dobj:  separate ( noodles )
+
+Sentence 13: Set the noodles aside
+dobj:  Set ( noodles )
+
+Sentence 14: When sauce mixture is done add the basil
+nsubjpass:  done ( mixture )
+dobj:  add ( basil )
+
+Sentence 15: Mix well and turn off the heat
+dobj:  turn ( heat )
+
+Sentence 16: Preheat the oven to 400¡ãf
+dobj:  Preheat ( oven )
+
+Sentence 17: Place all the ingredients nearby for easier assembly
+dobj:  Place ( ingredients )
+
+Sentence 18: Ladle just enough sauce to cover the bottom of the baking pan
+dobj:  Ladle ( sauce )
+dobj:  cover ( bottom )
+
+Sentence 19: Place four pieces of lasagne noodles on top of the sauce
+dobj:  Place ( pieces )
+
+Sentence 20: If the noodles get torn piece them together as much as possible
+
+Sentence 21: Spread a thin layer each of ricotta mozzarella and parmesan cheeses on the noodles
+dobj:  Spread ( layer )
+
+Sentence 22: Ladle on more sauce and continue with the rest of the layers in the same order
+dobj:  Ladle ( sauce )
+
+Sentence 23: After the third layer spread a layer of ricotta cheese on top of your creation then pour on the rest of the sauce
+
+Sentence 24: Finally top everything with all your remaining cheese
+dobj:  top ( everything )
+
+Sentence 25: Put your tray into the oven and bake for 40 minutes
+dobj:  Put ( tray )
+
+Sentence 26: Allow the lasagne to rest for a few minutes before serving
+dobj:  Allow ( lasagne )
+
+text_num: 11 total sentences: 20  total words: 200
+
+Sentence 0: how to make beef stroganoff
+dobj:  make ( stroganoff )
+
+Sentence 1: Melt 3 tablespoons of butter or alternately heat equivalent amount of olive oil
+dobj:  Melt ( tablespoons )
+
+Sentence 2: Increase heat to high and add beef working in batches if needed
+dobj:  Increase ( heat )
+dobj:  add ( beef )
+
+Sentence 3: Brown well on each side but avoid burning
+dobj:  avoid ( burning )
+
+Sentence 4: Sprinkle salt and pepper on the beef then take the meat out of the pan and set aside
+dobj:  Sprinkle ( salt )
+dobj:  take ( meat )
+
+Sentence 5: In same skillet add the shallots or onions and cook for one to two minutes
+dobj:  add ( shallots )
+
+Sentence 6: Allow the shallots to soak up the drippings from the beef
+dobj:  Allow ( shallots )
+dobj:  soak ( drippings )
+
+Sentence 7: Remove shallots from the pan and move to the same bowl as the beef
+dobj:  Remove ( shallots )
+
+Sentence 8: Add the remaining 3 tablespoons of butter or olive oil
+dobj:  Add ( tablespoons )
+
+Sentence 9: Add the mushrooms and cook over medium-high heat
+dobj:  Add ( mushrooms )
+
+Sentence 10: Cook for about 4 minutes stirring occasionally
+
+Sentence 11: Sprinkle tarragon and nutmeg onto the mushrooms
+
+Sentence 12: Reduce heat and add the sour cream to the mushrooms
+dobj:  Reduce ( heat )
+dobj:  add ( cream )
+
+Sentence 13: Turn to very low heat
+
+Sentence 14: Dilute if needed with one or two tablespoons of water
+
+Sentence 15: Mix thoroughly
+
+Sentence 16: Do not allow the mixture to boil or simmer because the sour cream will curdle if it does
+dobj:  allow ( mixture )
+
+Sentence 17: Add the beef and shallots
+dobj:  Add ( beef )
+
+Sentence 18: Mix thoroughly so that the beef and mushrooms are well coated with the sauce
+nsubjpass:  coated ( beef )
+
+Sentence 19: Add salt and pepper according to your taste
+dobj:  Add ( salt )
+
+text_num: 12 total sentences: 25  total words: 217
+
+Sentence 0: how to make macaroon brownie bars
+dobj:  make ( bars )
+
+Sentence 1: how to prepare the brownie base
+dobj:  prepare ( base )
+
+Sentence 2: a rack must be placed in the center of the oven
+nsubjpass:  placed ( rack )
+
+Sentence 3: Preheat the oven to 350 degrees Fahrenheit
+dobj:  Preheat ( Fahrenheit )
+
+Sentence 4: You should leave about 1 inch of the paper overhanging the long sides of the pan
+dobj:  leave ( inch )
+dobj:  overhanging ( sides )
+
+Sentence 5: In a bowl mix together the cocoa powder flour and salt
+
+Sentence 6: One at a time add the eggs
+dobj:  add ( eggs )
+
+Sentence 7: Pour in the almond and vanilla extracts
+
+Sentence 8: Mix the dry ingredients gradually until they are well blended
+dobj:  Mix ( ingredients )
+
+Sentence 9: Then stir in the bittersweet chocolate
+
+Sentence 10: Spread the batter in the pan
+dobj:  Spread ( batter )
+
+Sentence 11: Bake it for about 20 minutes or when the sides start to set while the center is still tender
+
+Sentence 12: Remove it from the oven and then let it cool on a wire rack
+dobj:  Remove ( it )
+
+Sentence 13: preparing the coconut topping
+dobj:  preparing ( coconut )
+
+Sentence 14: Mix the sugar and egg together
+dobj:  Mix ( sugar )
+
+Sentence 15: Pour in the almond extract
+
+Sentence 16: Continue mixing until all ingredients are well blended
+
+Sentence 17: Stir in the flaked coconut
+
+Sentence 18: With the use of two spoons spread spoonfuls of the mixture on the brownie base
+
+Sentence 19: Use a rubber spatula to evenly spread it on top
+dobj:  Use ( spatula )
+dobj:  spread ( it )
+
+Sentence 20: Again place the pan to the oven and wait for 30 minutes
+dobj:  place ( pan )
+
+Sentence 21: Remove the baking pan from the oven
+dobj:  Remove ( pan )
+
+Sentence 22: Place it on a wire rack
+dobj:  Place ( it )
+
+Sentence 23: Lift the parchment paper edges to remove the brownies
+dobj:  Lift ( edges )
+dobj:  remove ( brownies )
+
+Sentence 24: Then cut into bars
+
+text_num: 13 total sentences: 8  total words: 77
+
+Sentence 0: If you want salted glasses prepare your glasses first
+dobj:  prepare ( glasses )
+
+Sentence 1: Use a lime wedge to moisten the rim of each glass before dipping the outside of the rim into salt
+dobj:  Use ( wedge )
+dobj:  moisten ( rim )
+dobj:  dipping ( outside )
+
+Sentence 2: Set the glasses aside
+dobj:  Set ( glasses )
+
+Sentence 3: Mix the tequila orange liqueur or triple sec and lime juice in a cocktail shaker or covered pitcher
+dobj:  Mix ( liqueur )
+dobj:  triple ( juice )
+
+Sentence 4: Add crushed ice
+dobj:  Add ( ice )
+
+Sentence 5: Shake the mixture really well
+dobj:  Shake ( mixture )
+
+Sentence 6: Strain the mixture into the cocktail glasses
+dobj:  Strain ( mixture )
+
+Sentence 7: Place a lime wedge on the rim of each cocktail glass
+dobj:  Place ( wedge )
+
+text_num: 14 total sentences: 15  total words: 146
+
+Sentence 0: Preheat oven to 350¡ãf
+dobj:  Preheat ( oven )
+
+Sentence 1: Heat butter in a large skillet
+
+Sentence 2: Add the onions garlic celery and carrot
+dobj:  Add ( celery )
+
+Sentence 3: Cook the mixture over medium heat for 5 minutes stirring frequently
+dobj:  Cook ( mixture )
+
+Sentence 4: Add the ketchup Worcestershire sauce and the salt and pepper
+dobj:  Add ( sauce )
+
+Sentence 5: Cook the mixture for another minute
+dobj:  Cook ( mixture )
+
+Sentence 6: Combine the meat bread crumbs eggs and parsley in a mixing bowl
+dobj:  crumbs ( eggs )
+
+Sentence 7: Add the cooked vegetables from the skillet
+dobj:  Add ( vegetables )
+
+Sentence 8: Mix everything well together
+
+Sentence 9: Push the mixture into the baking loaf pan
+dobj:  Push ( mixture )
+
+Sentence 10: Then put the loaf into the oven and bake for about an hour
+dobj:  put ( loaf )
+
+Sentence 11: When the meatloaf is done allow it to cool slightly then slowly remove the loaf from the baking pan by cutting along the sides with a butter knife
+nsubjpass:  done ( meatloaf )
+dobj:  allow ( it )
+dobj:  cool ( loaf )
+dobj:  cutting ( sides )
+
+Sentence 12: Gently lift the meatloaf from the pan and place on serving plate
+dobj:  lift ( meatloaf )
+dobj:  serving ( plate )
+
+Sentence 13: Cut into slices of approximately 3/4 inch thick
+
+Sentence 14: Serve with buttered vegetables or other sidings of your choice
+
+text_num: 15 total sentences: 31  total words: 360
+
+Sentence 0: Line the baking sheets with paper towels
+
+Sentence 1: Sprinkle salt on both sides of the eggplant rounds and place the eggplant slices on top of the paper towels
+dobj:  Sprinkle ( salt )
+dobj:  place ( slices )
+
+Sentence 2: Leave the eggplant for about half an hour
+dobj:  Leave ( eggplant )
+
+Sentence 3: Arrange two oven racks in the oven and then preheat the oven to 425¡ãf
+dobj:  Arrange ( racks )
+dobj:  preheat ( oven )
+
+Sentence 4: Remove the eggplant slices from the towel and pat them dry
+dobj:  Remove ( slices )
+
+Sentence 5: Remove the paper towels from the baking sheets
+dobj:  Remove ( towels )
+
+Sentence 6: Grease both baking sheets with olive oil
+
+Sentence 7: Also brush the eggplant with 1/4 some of the olive oil
+dobj:  brush ( eggplant )
+
+Sentence 8: Arrange the eggplant rounds into a layer on the baking sheets
+dobj:  Arrange ( rounds )
+
+Sentence 9: Place one baking sheet on each oven rack and bake the eggplant at 425¡ãf for about 10 minutes
+dobj:  Place ( sheet )
+dobj:  bake ( eggplant )
+
+Sentence 10: Then exchange the baking sheets¡¯ positions in the oven and bake the eggplant for 15 more minutes
+dobj:  exchange ( positions )
+dobj:  bake ( eggplant )
+
+Sentence 11: Take out eggplant from the oven
+dobj:  Take ( eggplant )
+
+Sentence 12: Leave them in the sheets as they cool
+dobj:  Leave ( them )
+
+Sentence 13: Lower the oven temperature to 350¡ãf
+
+Sentence 14: Heat 1/4 cup olive oil in skillet over medium-high heat
+dobj:  olive ( oil )
+
+Sentence 15: Add the carrots celery and onions
+
+Sentence 16: Saut¨¦ until the onions are soft
+
+Sentence 17: Then add the mushrooms and garlic
+dobj:  add ( mushrooms )
+
+Sentence 18: Keep saut¨¦ing until the mixture is dry then add the cinnamon and oregano followed by the parsley and tomatoes
+dobj:  Keep ( ing )
+dobj:  add ( cinnamon )
+
+Sentence 19: Cook until you have a thick mixture then season to taste with salt and pepper
+dobj:  have ( mixture )
+
+Sentence 20: Grease your glass baking dish then arrange half of your eggplant rounds in a single layer at the bottom of the dish
+dobj:  Grease ( dish )
+dobj:  arrange ( half )
+
+Sentence 21: Then spoon half of your vegetable mixture evenly over the eggplant layer then add a third layer made of 2 tablespoons of cheese
+dobj:  spoon ( half )
+dobj:  add ( layer )
+
+Sentence 22: Repeat the process to make a second layer using the remaining eggplant vegetable mixture and more cheese
+dobj:  Repeat ( process )
+dobj:  make ( layer )
+dobj:  using ( mixture )
+
+Sentence 23: Melt the butter in a saucepan
+dobj:  Melt ( butter )
+
+Sentence 24: Add in the flour and stir for 2 minutes
+
+Sentence 25: Slowly add in the milk followed by 1/2 cup cheese and some salt and pepper
+
+Sentence 26: Finally whisk in the beaten egg yolks and hot sauce amount depends on you
+
+Sentence 27: Pour this mixture onto the contents of the baking dish
+dobj:  Pour ( mixture )
+
+Sentence 28: Finally top everything with a layer of cheese 1/4 cup
+dobj:  top ( everything )
+
+Sentence 29: Bake the moussaka for about 45 minutes or until it is browned on top
+nsubjpass:  browned ( it )
+
+Sentence 30: Cool for 15 minutes before serving
+
+text_num: 16 total sentences: 14  total words: 130
+
+Sentence 0: In a bowl add the vinegar to the milk mix well and leave for 5 minutes
+dobj:  add ( vinegar )
+
+Sentence 1: Sift the flour baking soda baking powder sugar and salt into a bowl to mix them well
+dobj:  Sift ( soda )
+dobj:  mix ( them )
+
+Sentence 2: Beat the egg
+dobj:  Beat ( egg )
+
+Sentence 3: Pour the soured milk into the flour mixture and whisk
+dobj:  Pour ( milk )
+
+Sentence 4: Keep whisking as you add the egg and melted butter
+dobj:  add ( egg )
+
+Sentence 5: Whisk just until your mixture is smooth with no lumps
+
+Sentence 6: Do not overbeat the mixture
+dobj:  overbeat ( mixture )
+
+Sentence 7: Grease a skillet very lightly with oil and put on medium heat
+
+Sentence 8: Pour about 1/4 cup of batter into the pan
+dobj:  Pour ( cup )
+
+Sentence 9: Let it spread to form your pancake
+dobj:  form ( pancake )
+
+Sentence 10: Cook until the other side is golden brown as well
+
+Sentence 11: Serve the pancakes immediately while they¡¯re warm
+dobj:  Serve ( pancakes )
+
+Sentence 12: Top with butter and maple syrup
+
+Sentence 13: You could also add cream and fruit toppings
+dobj:  add ( toppings )
+
+text_num: 17 total sentences: 17  total words: 165
+
+Sentence 0: In the saucepan melt the butter over medium-low heat
+dobj:  melt ( butter )
+
+Sentence 1: Transfer 3 tablespoons of the melted butter to the cup or small bowl
+dobj:  Transfer ( tablespoons )
+
+Sentence 2: Set aside
+
+Sentence 3: Add the flour into the butter remaining in the sauce pan
+dobj:  Add ( flour )
+
+Sentence 4: Stir to mix well
+
+Sentence 5: Gradually add the milk into the mixture in the saucepan
+dobj:  add ( milk )
+
+Sentence 6: Let the mixture simmer on low heat until the mixture gets a smooth and thick consistency
+dobj:  Let ( simmer )
+dobj:  gets ( consistency )
+
+Sentence 7: Add the cheese into the mixture
+dobj:  Add ( cheese )
+
+Sentence 8: Stir until the cheese is completely melted
+
+Sentence 9: Pour the mixture over the potatoes inside the baking dish
+dobj:  Pour ( mixture )
+
+Sentence 10: Be careful not to ruin the arrangement of the potatoes
+dobj:  ruin ( arrangement )
+
+Sentence 11: Give the sauce time to seep to the bottom of the dish
+dobj:  Give ( time )
+
+Sentence 12: Place bread crumbs in the bowl with the melted butter and toss to coat evenly
+dobj:  Place ( crumbs )
+
+Sentence 13: Spread the crumbs evenly over the potatoes
+dobj:  Spread ( crumbs )
+
+Sentence 14: Bake at 400 ¡ãf for about 15 minutes
+
+Sentence 15: Then set the oven to broil and continue cooking until the potatoes are golden brown on top
+dobj:  broil ( cooking )
+
+Sentence 16: Layer the potato slices into the baking dish
+dobj:  Layer ( slices )
+
+text_num: 18 total sentences: 18  total words: 217
+
+Sentence 0: Add water and continue to roll until the dough is ready
+dobj:  Add ( water )
+
+Sentence 1: Prepare the crust by mixing flour salt and shortening in one large bowl
+dobj:  Prepare ( crust )
+dobj:  mixing ( salt )
+
+Sentence 2: Now roll it out to make a large rectangle
+dobj:  roll ( it )
+dobj:  make ( rectangle )
+
+Sentence 3: Arrange the pie crust in to a 9 inch deep dish pie pan
+
+Sentence 4: Now prepare the filling for the pie
+dobj:  prepare ( filling )
+
+Sentence 5: Put butter or margarine in a large sauce pan and let it melt
+dobj:  Put ( butter )
+
+Sentence 6: Add chopped onions and celery in to it
+dobj:  Add ( onions )
+
+Sentence 7: Once the onion turns light brown add chicken and vegetables and gently saut¨¦ them
+dobj:  add ( chicken )
+dobj:  saut ( ¦ )
+
+Sentence 8: Sprinkle the remaining flour on the top of the vegetables and stir it up completely
+dobj:  Sprinkle ( flour )
+dobj:  stir ( it )
+
+Sentence 9: Pour bouillon or condensed potato soup in to the saucepan
+dobj:  Pour ( soup )
+
+Sentence 10: Mix everything till the flour completely dissolves
+
+Sentence 11: Add seasoning chicken seasoning pepper and salt
+dobj:  Add ( chicken )
+dobj:  seasoning ( pepper )
+
+Sentence 12: Pour the gravy mixture into a ungreased 9 inch pie pan
+dobj:  Pour ( mixture )
+
+Sentence 13: Spread it evenly in the pan and arrange the remaining dough on the top of this mixture
+dobj:  Spread ( it )
+dobj:  arrange ( dough )
+
+Sentence 14: Seal and trim your pot pie on the edges to give it a clean look
+dobj:  trim ( pie )
+dobj:  give ( look )
+
+Sentence 15: Make a slit in the centre of the pie
+dobj:  Make ( slit )
+
+Sentence 16: Bake it in a 450-degree oven for about 30 minutes or until the top crust is golden brown and the gravy is bubbling inside the hot pie
+dobj:  Bake ( it )
+
+Sentence 17: So let it stand for 10 to 20 minutes before serving
+
+text_num: 19 total sentences: 19  total words: 245
+
+Sentence 0: In a big bowl mix the salt brown sugar and yeast with a cup of lukewarm water
+
+Sentence 1: Whip the mixture while gradually adding the flour until the dough is smooth and free from ¡°bumps¡±
+dobj:  Whip ( mixture )
+dobj:  adding ( flour )
+
+Sentence 2: If you think the dough is a little too sticky add more flour
+dobj:  add ( flour )
+
+Sentence 3: Cut the dough into 4 to 12 pieces depending on the size you intend for the dough
+dobj:  Cut ( dough )
+
+Sentence 4: Roll each piece to make a rope
+dobj:  Roll ( piece )
+dobj:  make ( rope )
+
+Sentence 5: If possible make its diameter less than a standard pencil
+dobj:  make ( diameter )
+
+Sentence 6: Shape the dough rope into an upside down ¡°u¡±
+dobj:  Shape ( rope )
+
+Sentence 7: Get the ends together and twist them leaving a circle at the two tails
+dobj:  Get ( ends )
+dobj:  twist ( them )
+dobj:  leaving ( circle )
+
+Sentence 8: Bring the tails on the circle
+dobj:  Bring ( tails )
+dobj:  Bring ( circle )
+
+Sentence 9: Flatten the ends using your fingers and blend them in the dough
+dobj:  using ( fingers )
+dobj:  blend ( them )
+
+Sentence 10: When you are satisfied with the shape of your pretzel you can now place the dough on top of a greased cookie sheet
+nsubjpass:  satisfied ( you )
+dobj:  place ( dough )
+
+Sentence 11: Allow the pretzels to rise for about thirty minutes
+dobj:  Allow ( pretzels )
+
+Sentence 12: Brush the pretzels with a mixture of water and baking soda
+
+Sentence 13: To achieve a chewy crust mix two tablespoons of baking soda with 4 cups of boiling temperature water
+dobj:  mix ( tablespoons )
+
+Sentence 14: Dip the dough in the mixture for about 10 seconds
+dobj:  Dip ( dough )
+
+Sentence 15: Mix the egg and water and use this to brush the surface of the pretzels in order to give them a shiny glaze
+dobj:  Mix ( egg )
+dobj:  use ( this )
+dobj:  brush ( surface )
+dobj:  give ( glaze )
+
+Sentence 16: Place your choice of toppings
+dobj:  Place ( choice )
+
+Sentence 17: Bake in the oven that is pre-heated with 400 to 450 degrees for 10-15 minutes
+nsubjpass:  pre-heated ( that )
+
+Sentence 18: Place the pretzels in a nice plate and enjoy
+dobj:  Place ( pretzels )
+
+text_num: 20 total sentences: 14  total words: 188
+
+Sentence 0: In a small bowl combine graham cracker crumbs with 1 sugar and the melted butter and stir it gently until it completely blends
+dobj:  combine ( crumbs )
+dobj:  stir ( it )
+
+Sentence 1: Take 8-9 inch springform pan and press the mix on to the pan
+dobj:  pan ( mix )
+
+Sentence 2: Let it chill for some time
+
+Sentence 3: For the filling take cream cheese and sugar in a large bowl and beat it until well blended
+dobj:  take ( cheese )
+dobj:  beat ( it )
+
+Sentence 4: Now add eggs one by one
+dobj:  add ( eggs )
+
+Sentence 5: beating well after each
+
+Sentence 6: Beat in spices powdered nutmeg ginger and cinnamon pumpkin and salt
+
+Sentence 7: Pour this pumpkin filling on to the prepared crust and bake it at 350 degrees for 50 minutes
+dobj:  Pour ( pumpkin )
+dobj:  bake ( it )
+
+Sentence 8: Meanwhile prepare the topping
+dobj:  prepare ( topping )
+
+Sentence 9: For this mix sour cream with the remaining cup sugar and vanilla until smooth
+
+Sentence 10: Spread the topping over the filling and bake it for 8 more minutes
+dobj:  Spread ( topping )
+dobj:  bake ( it )
+
+Sentence 11: Take it out after 8 minutes and let the cake cool on rack for 10 minutes
+dobj:  Take ( it )
+dobj:  let ( cool )
+
+Sentence 12: Remove the sizes of the pan and refrigerate the pumpkin cheesecake overnight or for at least 6-8 hours
+dobj:  Remove ( sizes )
+dobj:  refrigerate ( cheesecake )
+
+Sentence 13: Before serving you can garnish the cake with almonds pecan slices or you can also pipe whipping cream on the sides of the cake
+dobj:  garnish ( cake )
+dobj:  pipe ( cream )
+
+text_num: 21 total sentences: 12  total words: 150
+
+Sentence 0: Take 4 to 6 oranges slice each in half and squeeze them to make fresh orange juice
+dobj:  Take ( slice )
+dobj:  squeeze ( them )
+dobj:  make ( juice )
+
+Sentence 1: You can use your juicer for this
+dobj:  use ( juicer )
+
+Sentence 2: Strain the mixture to remove the pulp and seeds
+dobj:  Strain ( mixture )
+dobj:  remove ( pulp )
+
+Sentence 3: Chill all your fruits rum wine and orange juice for a few hours
+dobj:  Chill ( fruits )
+
+Sentence 4: Take your whole orange lime and lemon out of the refrigerator and slice them thinly into rounds
+dobj:  Take ( lime )
+
+Sentence 5: Place the slices in a pitcher
+dobj:  Place ( slices )
+
+Sentence 6: Pour in the chilled rum and sugar into the pitcher
+
+Sentence 7: Keep the mixture in the refrigerator for at least two hours until you are just about ready to serve it
+dobj:  Keep ( mixture )
+dobj:  serve ( it )
+
+Sentence 8: Before you serve the sangria crush the fruits in the pitcher lightly with a wooden spoon then stir in the chilled orange juice and wine
+dobj:  crush ( fruits )
+
+Sentence 9: Adjust the sweetness of the mixture by adding more sugar if necessary
+dobj:  Adjust ( sweetness )
+dobj:  adding ( sugar )
+
+Sentence 10: Pour the sangria into individual glasses
+dobj:  Pour ( sangria )
+
+Sentence 11: Serve the drinks quickly while they¡¯re very cold
+dobj:  Serve ( drinks )
+
+text_num: 22 total sentences: 15  total words: 155
+
+Sentence 0: Preheat oven to 375 ¡ãf
+dobj:  Preheat ( oven )
+
+Sentence 1: Mix together the wheat bran and buttermilk
+dobj:  Mix ( wheat )
+
+Sentence 2: Let the mixture stand for about 10 minutes
+dobj:  Let ( stand )
+
+Sentence 3: Sift together the flour baking powder baking soda and salt in a large bowl
+dobj:  Sift ( powder )
+dobj:  baking ( soda )
+
+Sentence 4: Beat the egg then add the oil vanilla extract and sugar in another bowl
+dobj:  add ( oil )
+
+Sentence 5: Line each compartment of the muffin pan with paper muffin liners
+
+Sentence 6: Add to the bran and buttermilk mixture to the egg mixture
+
+Sentence 7: Then add this liquid mix to the dry ingredients in the big bowl
+dobj:  add ( mix )
+
+Sentence 8: Mix everything only until the ingredients are blended together
+dobj:  Mix ( everything )
+
+Sentence 9: Do not overmix
+
+Sentence 10: Fold the raisins into the batter
+dobj:  Fold ( raisins )
+
+Sentence 11: Spoon the batter into the muffin cups lined or unlined
+dobj:  Spoon ( batter )
+
+Sentence 12: Bake the muffins for 15 to 20 minutes
+dobj:  Bake ( muffins )
+
+Sentence 13: Test for doneness by inserting a wooden toothpick into the center of one of the muffins
+dobj:  inserting ( toothpick )
+
+Sentence 14: Once your muffins are done remove them from the oven and let them cool for a few minutes before serving
+nsubjpass:  done ( muffins )
+dobj:  remove ( them )
+
+text_num: 23 total sentences: 14  total words: 162
+
+Sentence 0: Preheat oven to 425¡ãf
+dobj:  Preheat ( oven )
+
+Sentence 1: Line the baking sheet with some parchment paper
+
+Sentence 2: Sift into a bowl the baking soda salt cream of tartar and 2 cups flour
+
+Sentence 3: Cut the butter into the mixture until it gains the consistency of bread crumbs
+dobj:  Cut ( butter )
+dobj:  gains ( consistency )
+
+Sentence 4: Mix in the sugar and about a half cup of milk to form a soft dough
+dobj:  form ( dough )
+
+Sentence 5: Feel free to use a little less or more milk to prevent the dough from being too stiff or watery
+dobj:  Feel ( milk )
+dobj:  prevent ( dough )
+
+Sentence 6: Put some flour on a clean flat surface and transfer the dough there
+dobj:  Put ( flour )
+dobj:  transfer ( dough )
+
+Sentence 7: Knead the dough gently with rolling pin flattening it to about 3/4 inches thick
+dobj:  Knead ( dough )
+dobj:  flattening ( it )
+
+Sentence 8: Using a glass or a dough cutter cut 2-inch circles from the dough
+dobj:  Using ( glass )
+
+Sentence 9: Place the dough slices onto the baking sheet
+dobj:  Place ( slices )
+
+Sentence 10: Make sure to leave about 2 inches space around each slice
+dobj:  leave ( space )
+
+Sentence 11: Brush each dough slice with milk
+
+Sentence 12: Bake the dough slices at 425¡ãf for 10 minutes
+dobj:  Bake ( slices )
+
+Sentence 13: Once your scones are done cool them briefly on wire rack
+nsubjpass:  done ( scones )
+dobj:  cool ( them )
+
+text_num: 24 total sentences: 17  total words: 179
+
+Sentence 0: Crack the eggs and place contents in the mixing bowl
+dobj:  Crack ( eggs )
+
+Sentence 1: Add milk and salt
+dobj:  Add ( milk )
+
+Sentence 2: Whisk the egg mixture for two minutes using an upward tilted circular direction to add fluffiness to the mixture
+dobj:  Whisk ( mixture )
+dobj:  using ( direction )
+dobj:  add ( fluffiness )
+
+Sentence 3: Keep doing this until the mixture becomes frothy and even colored
+dobj:  doing ( this )
+
+Sentence 4: Alternatively you could place the egg mixture in a blender and mix for about 25 seconds
+dobj:  place ( mixture )
+
+Sentence 5: Heat your frying pan over medium heat
+
+Sentence 6: Lower your heat
+
+Sentence 7: Add the egg mixture
+dobj:  Add ( mixture )
+
+Sentence 8: Don¡¯t stir immediately but just allow the egg mixture to settle slightly into pan
+dobj:  allow ( mixture )
+
+Sentence 9: Tilt the skillet in a circular direction to distribute the runny parts evenly
+dobj:  Tilt ( skillet )
+dobj:  distribute ( parts )
+
+Sentence 10: With a spatula break apart the large pieces as they form
+dobj:  break ( pieces )
+
+Sentence 11: Flip over the eggs and allow them to cook for about 15 to 25 seconds more
+dobj:  Flip ( eggs )
+dobj:  allow ( them )
+
+Sentence 12: Lift the pan to avoid browning the eggs
+dobj:  Lift ( pan )
+dobj:  browning ( eggs )
+
+Sentence 13: Remember they must stay fluffy and yellow
+
+Sentence 14: As soon as no runny parts remain transfer your scrambled eggs to a serving platter
+dobj:  transfer ( eggs )
+
+Sentence 15: If desired you could sprinkle a little more salt and pepper before serving
+dobj:  sprinkle ( salt )
+
+Sentence 16: For a Mexican touch serve eggs with salsa
+
+text_num: 25 total sentences: 13  total words: 142
+
+Sentence 0: Prepare the oven by preheating it to 425 degrees Fahrenheit
+dobj:  Prepare ( oven )
+dobj:  preheating ( it )
+
+Sentence 1: Use a large oven-safe
+dobj:  Use ( oven-safe )
+
+Sentence 2: skillet to fry the bacon slices until cooked
+dobj:  fry ( slices )
+
+Sentence 3: Add the garlic and onions and cook until brown and soft in texture
+dobj:  Add ( garlic )
+
+Sentence 4: Add in the ground meat and stir occasionally to prevent it from crumbling
+dobj:  prevent ( it )
+
+Sentence 5: Cook the meat for about 5 minutes until light brown in color
+dobj:  Cook ( meat )
+
+Sentence 6: Add the white flour and mix well until it has been absorbed by the meat
+dobj:  Add ( flour )
+nsubjpass:  absorbed ( it )
+
+Sentence 7: Pour the tomato sauce and broth and add the rosemary celery and carrots
+dobj:  Pour ( sauce )
+dobj:  broth ( celery )
+
+Sentence 8: Stir well
+
+Sentence 9: Bring to a boil and simmer for about 5 minutes until the sauce has thickened
+
+Sentence 10: Spread evenly the mashed potatoes on top and add the grated cheese
+dobj:  add ( cheese )
+
+Sentence 11: Bake for about 20 minutes until the cheese has turned light brown
+
+Sentence 12: Let the dish cool for at least 10 minutes before slicing and serving
+dobj:  Let ( cool )
+
+text_num: 26 total sentences: 7  total words: 104
+
+Sentence 0: Using a larger bowl you will need to combine the milk with water
+dobj:  Using ( bowl )
+dobj:  combine ( milk )
+
+Sentence 1: You will then be required to add the pudding and mix
+nsubjpass:  required ( You )
+dobj:  add ( pudding )
+
+Sentence 2: Chill the mixture for about 20 minutes until it thickens and fold it in whipped cream
+dobj:  Chill ( mixture )
+dobj:  fold ( it )
+
+Sentence 3: Spoon 500ml an equivalent of 2 spoons of the pudding mixture into a round glass serving bowl
+dobj:  500ml ( equivalent )
+dobj:  serving ( bowl )
+
+Sentence 4: Repeat the procedure to end with the pudding mixture and chill it for 4 hours
+dobj:  Repeat ( procedure )
+dobj:  chill ( it )
+
+Sentence 5: Use the reaming strawberries and almonds as garnish and cover the leftovers to refrigerate
+dobj:  Use ( strawberries )
+dobj:  cover ( leftovers )
+
+Sentence 6: You will be ready to serve your strawberries and cream trifle after it is chilled for four hours
+dobj:  serve ( strawberries )
+nsubjpass:  chilled ( it )
+
+text_num: 27 total sentences: 24  total words: 290
+
+Sentence 0: Marinate the pork strips in a mixture of soy sauce and about 1 tsp
+dobj:  Marinate ( strips )
+
+Sentence 1: cornstarch for about 20 minutes
+
+Sentence 2: Prepare the batter
+dobj:  Prepare ( batter )
+
+Sentence 3: Mix egg flour and 1 tablespoon oil in a bowl
+
+Sentence 4: In case the batter becomes too thick add a small amount of warm water
+dobj:  add ( amount )
+
+Sentence 5: Place the pork strips in the batter
+dobj:  Place ( strips )
+
+Sentence 6: Heat 3 cups of oil in the wok over high heat
+
+Sentence 7: To test if the oil is hot enough place a small drop of the batter mixture
+dobj:  place ( drop )
+
+Sentence 8: When this happens turn the heat down to medium
+dobj:  turn ( heat )
+
+Sentence 9: Place the flour in a plastic bag
+dobj:  Place ( flour )
+
+Sentence 10: Remove a small batch of pork strips from the batter and place them in the bag
+dobj:  Remove ( batch )
+dobj:  place ( them )
+
+Sentence 11: Seal bag and shake to coat the pieces evenly with the cornstarch
+dobj:  Seal ( bag )
+dobj:  coat ( pieces )
+
+Sentence 12: Remove the pieces of coated pork from the bag
+dobj:  Remove ( pieces )
+
+Sentence 13: Deep fry the pork pieces in the wok until they are golden brown and crisp
+dobj:  fry ( pieces )
+
+Sentence 14: Drain the strips on paper towels in a colander then transfer the drained pork pieces to a large platter
+dobj:  Drain ( strips )
+dobj:  transfer ( pieces )
+
+Sentence 15: Repeat steps 5 and 6 with the rest of the pork strips until all of the pork has been cooked
+dobj:  steps ( 5 )
+nsubjpass:  cooked ( all )
+
+Sentence 16: For crisper pork strips you can deep fry the strips a second time
+dobj:  fry ( time )
+
+Sentence 17: Remove most of the oil from wok but leave about 2 tablespoons
+dobj:  Remove ( most )
+dobj:  leave ( tablespoons )
+
+Sentence 18: Stir-fry the carrots bell peppers and onion in this oil
+
+Sentence 19: Add the catsup soy sauce vinegar sugar and pineapples and allow the mixture to boil
+dobj:  Add ( sugar )
+dobj:  allow ( mixture )
+
+Sentence 20: Then turn the heat down to low
+dobj:  turn ( heat )
+
+Sentence 21: Prepare the cornstarch slurry by mixing 1 tablespoon of cornstarch with a small amount of water to form a smooth watery paste
+dobj:  Prepare ( slurry )
+dobj:  mixing ( tablespoon )
+dobj:  form ( paste )
+
+Sentence 22: Add this slurry to the sauce and stir thoroughly while simmering until sauce is slightly thick
+dobj:  Add ( slurry )
+
+Sentence 23: Pour this sauce mixture over the pork strips
+dobj:  Pour ( mixture )
+
+text_num: 28 total sentences: 33  total words: 425
+
+Sentence 0: Combine one cup of milk and two tablespoons of butter in a small sauce pan over medium heat
+dobj:  pan ( heat )
+
+Sentence 1: As soon as the butter is melted turn off the heat
+nsubjpass:  melted ( butter )
+dobj:  turn ( heat )
+
+Sentence 2: Allow the mixture to cool
+dobj:  Allow ( mixture )
+
+Sentence 3: Put 1/2 cup warm water into the small bowl
+
+Sentence 4: Then slowly add the yeast
+dobj:  add ( yeast )
+
+Sentence 5: Keep stirring while you do this to keep the yeast from clumping
+dobj:  do ( this )
+dobj:  keep ( yeast )
+
+Sentence 6: Once the yeast and water are thoroughly mixed together leave the bowl for about five minutes
+nsubjpass:  mixed ( yeast )
+dobj:  leave ( bowl )
+
+Sentence 7: In the meantime get a large bowl and mix one cup of warm water with the salt and sugar
+dobj:  get ( bowl )
+
+Sentence 8: Return to your small saucepan of milk and butter from step 1
+
+Sentence 9: If the contents are no longer hot but just warm to the touch you can now pour the milk and butter mixture into the large bowl with the water and yeast
+dobj:  pour ( mixture )
+
+Sentence 10: Mix everything thoroughly
+dobj:  Mix ( everything )
+
+Sentence 11: You can now start adding in the unbleached bread flour a cup at a time
+dobj:  adding ( time )
+
+Sentence 12: You will see that by the time you add the fifth cup the dough will be so stiff it will be hard to keep mixing it using a wooden spoon
+dobj:  add ( cup )
+dobj:  using ( spoon )
+
+Sentence 13: At this point place the dough on a floured board and start kneading
+
+Sentence 14: Continue kneading the dough while adding the remaining flour little by little
+dobj:  kneading ( dough )
+dobj:  adding ( flour )
+
+Sentence 15: Do this until the dough is no longer sticky
+dobj:  Do ( this )
+
+Sentence 16: Get another large bowl and grease it with butter
+dobj:  Get ( it )
+
+Sentence 17: Transfer the dough into this bowl then turn the dough over such that its top is also greased with butter
+dobj:  Transfer ( dough )
+dobj:  turn ( dough )
+nsubjpass:  greased ( top )
+
+Sentence 18: Now get a clean kitchen towel to cover the bowl and allow the dough to rise at room temperature
+dobj:  get ( towel )
+dobj:  cover ( bowl )
+dobj:  allow ( dough )
+
+Sentence 19: Wait until the dough has risen to about twice its original size
+
+Sentence 20: When the bread dough has already doubled in size punch down the dough to release trapped air
+dobj:  punch ( dough )
+dobj:  release ( air )
+
+Sentence 21: Remove from the bowl and set it onto a floured board
+dobj:  set ( it )
+
+Sentence 22: Then knead for about five minutes to remove the bubbles
+dobj:  remove ( bubbles )
+
+Sentence 23: Divide the dough in two
+dobj:  Divide ( dough )
+
+Sentence 24: Roll each half into a rectangle then roll it each rectangle up like a jellyroll
+dobj:  Roll ( half )
+dobj:  roll ( it )
+
+Sentence 25: Pinch the seam closed and tuck the edges under the loaf
+dobj:  tuck ( edges )
+
+Sentence 26: Preheat your oven to 375 ¡ãf
+dobj:  Preheat ( oven )
+
+Sentence 27: Get two loaf pans and grease them with butter
+dobj:  Get ( them )
+
+Sentence 28: Put the loaves into the pans and cover again with a kitchen towel
+dobj:  Put ( loaves )
+
+Sentence 29: Now wait for approximately thirty minutes to let the dough rise until it doubles in size
+dobj:  let ( rise )
+
+Sentence 30: Put the bread into the oven and bake until it¡¯s golden brown
+dobj:  Put ( bread )
+
+Sentence 31: When you¡¯re done baking transfer the loaves onto a cooling rack
+dobj:  ¡ ( re )
+dobj:  transfer ( loaves )
+
+Sentence 32: Wait until your bread has cooled before you cut
+
+text_num: 29 total sentences: 18  total words: 201
+
+Sentence 0: In a big bowl thoroughly cream the peanut butter and butter together using a spatula
+dobj:  cream ( butter )
+dobj:  using ( spatula )
+
+Sentence 1: Mix in the brown sugar and white sugar and keep creaming
+dobj:  keep ( creaming )
+
+Sentence 2: Add the vanilla extract and eggs
+dobj:  Add ( extract )
+
+Sentence 3: Once you¡¯re done set this bowl aside
+dobj:  set ( bowl )
+
+Sentence 4: In another bowl sift together the baking soda baking powder flour and salt
+dobj:  sift ( powder )
+
+Sentence 5: Now add this dry mixture into the wet mixture you set aside earlier and mix well until you have a smooth batter
+dobj:  add ( mixture )
+dobj:  have ( batter )
+
+Sentence 6: Drop some semisweet chocolate chips into the batter for a batch of chocolate-y peanut butter cookies
+dobj:  Drop ( chips )
+
+Sentence 7: If you want a healthier variant skip the chocolate chips and add mashed bananas instead
+dobj:  skip ( chips )
+dobj:  add ( bananas )
+
+Sentence 8: Add crushed nuts for more texture
+dobj:  Add ( nuts )
+
+Sentence 9: Cover the bowl with plastic wrap
+dobj:  Cover ( bowl )
+
+Sentence 10: Refrigerate the batter for around 3 hours or more
+dobj:  Refrigerate ( batter )
+
+Sentence 11: Preheat the oven to 375¡ãf
+dobj:  Preheat ( oven )
+
+Sentence 12: Divide the dough into little balls
+dobj:  Divide ( dough )
+
+Sentence 13: Put the ungreased cookie sheet on the baking pan
+dobj:  Put ( sheet )
+
+Sentence 14: Arrange the balls on the cookie sheets leaving around 3 inches of space between each of them
+dobj:  Arrange ( balls )
+
+Sentence 15: Using a fork flatten each ball and create crisscross patterns on it
+dobj:  flatten ( ball )
+dobj:  create ( patterns )
+
+Sentence 16: Bake the cookies for around 10 minutes
+dobj:  Bake ( cookies )
+
+Sentence 17: Now take the cookies out of the oven and wait for them to cool before taking a big bite
+dobj:  take ( cookies )
+dobj:  taking ( bite )
+
+text_num: 31 total sentences: 18  total words: 193
+
+Sentence 0: Preheat oven to 350¡ãf
+dobj:  Preheat ( oven )
+
+Sentence 1: Grease the springform pan well
+
+Sentence 2: Place the crushed grahams in a bowl
+dobj:  Place ( grahams )
+
+Sentence 3: Cut in the melted butter and press the mixture onto the bottom of the springform pan to form the crust
+dobj:  press ( mixture )
+dobj:  form ( crust )
+
+Sentence 4: Set the pan aside
+dobj:  Set ( pan )
+
+Sentence 5: In another mixing bowl combine the cream cheese with sugar and cream the mixture together till you get a smooth creamy consistency
+dobj:  combine ( cheese )
+dobj:  get ( consistency )
+
+Sentence 6: Slowly add the eggs into the cream cheese mixture and mix well
+dobj:  add ( eggs )
+
+Sentence 7: Add in the sour cream vanilla extract and flour
+
+Sentence 8: Stir until the mixture is smooth
+
+Sentence 9: Pour the mixture into the springform pan
+dobj:  Pour ( mixture )
+
+Sentence 10: Do this slowly to avoid overflowing
+dobj:  Do ( this )
+dobj:  avoid ( overflowing )
+
+Sentence 11: Smooth and level out the top part of the cake
+dobj:  level ( part )
+
+Sentence 12: Place everything in the oven bake for 1 hour then turn the oven off but leave the cheesecake in it for 5 to 6 hours more
+dobj:  turn ( oven )
+dobj:  leave ( cheesecake )
+
+Sentence 13: Take the cheesecake out of the oven and chill in the refrigerator
+dobj:  Take ( cheesecake )
+
+Sentence 14: Serve chilled
+
+Sentence 15: Be sure to place the fruit glazing once the cheesecake cools just before you put the cheesecake in the refrigerator
+dobj:  place ( fruit )
+dobj:  put ( cheesecake )
+
+Sentence 16: Or drizzle your cake with chocolate syrup or caramel just before serving
+dobj:  drizzle ( cake )
+
+Sentence 17: Or sprinkle it with crushed cinnamon or cocoa powder
+dobj:  sprinkle ( it )
+
+text_num: 32 total sentences: 11  total words: 137
+
+Sentence 0: Add six cups of water four cups of chicken broth and a half a cup of Arborio rice along with 2 tablespoons of unsalted butter into a slow cooker
+dobj:  Add ( cups )
+
+Sentence 1: Cover and cook over high heat until the rice is soft and soupy
+
+Sentence 2: Usually you will want to let it slowly cook for a full six hours
+
+Sentence 3: When the soup in the slow cooker is about done you should take this as the cue to add up to three tablespoons of ginger and scallions
+nsubjpass:  done ( soup )
+dobj:  take ( this )
+
+Sentence 4: Stir them in and simmer for 2 minutes
+dobj:  Stir ( them )
+
+Sentence 5: Pour the contents of the soup into your serving bowls
+dobj:  Pour ( contents )
+
+Sentence 6: Any extra soup can be put in a container and stored in the refrigerator
+nsubjpass:  put ( soup )
+
+Sentence 7: Top with shredded chicken and cilantro
+
+Sentence 8: Add chili paste on the site if desired
+
+Sentence 9: Serve while hot
+
+Sentence 10: Makes six to eight servings
+
+text_num: 33 total sentences: 16  total words: 224
+
+Sentence 0: Remove the skin and bones of the chicken
+dobj:  Remove ( skin )
+
+Sentence 1: Then prepare the salsa by combining the chicken onion bay leaves and garlic in the sauce pan
+dobj:  prepare ( salsa )
+
+Sentence 2: Add enough water to cover the mixture and simmer the whole thing in medium-low heat
+dobj:  Add ( water )
+dobj:  cover ( mixture )
+dobj:  simmer ( thing )
+
+Sentence 3: Cover the pot and wait for an hour or so until the chicken becomes tender
+dobj:  Cover ( pot )
+
+Sentence 4: Take out the chicken and cut it into 1-inch cubes
+dobj:  Take ( chicken )
+dobj:  cut ( it )
+
+Sentence 5: Heat the oil in the pot
+
+Sentence 6: Put the brown sugar and diced onion into the pot and then cook until the onion becomes golden brown in color
+dobj:  Put ( sugar )
+
+Sentence 7: Throw in the chipotle and adobo sauce and tomatoes to the mix and simmer for about 10 minutes or until the mixture thickens
+
+Sentence 8: Pour the sauce into the blender and blend
+dobj:  Pour ( sauce )
+
+Sentence 9: You could also use a hand blender for this
+dobj:  use ( blender )
+
+Sentence 10: Then put the sauce back into the pot add the shredded chicken mix then put in some pepper and salt according to your taste
+dobj:  put ( sauce )
+dobj:  add ( mix )
+
+Sentence 11: Use a dry skillet to toast the tortilla
+dobj:  Use ( skillet )
+dobj:  toast ( tortilla )
+
+Sentence 12: Take the tortilla off the skillet and assemble your burrito
+dobj:  Take ( tortilla )
+dobj:  assemble ( burrito )
+
+Sentence 13: Put a thick strip of the chicken mixture a little below the center of the tortilla
+dobj:  Put ( strip )
+
+Sentence 14: Sprinkle some cheese black beans sour cream and cabbage
+
+Sentence 15: Fold the bottom over the strip fold in the two sides and then roll the rest of the way until the burrito is fully closed
+dobj:  roll ( rest )
+
+text_num: 34 total sentences: 11  total words: 157
+
+Sentence 0: Preheat your oven to 350 ¡ãf
+dobj:  Preheat ( oven )
+
+Sentence 1: Pound your chicken breasts so that they are just 1/4 inch thick
+dobj:  Pound ( breasts )
+
+Sentence 2: Rub the chicken pieces with salt and pepper
+dobj:  Rub ( pieces )
+
+Sentence 3: Place one slice of cheese and one slice of ham on each chicken breast
+dobj:  Place ( slice )
+
+Sentence 4: Fold the breast over then use a toothpick to keep the chicken from unfolding or unrolling
+dobj:  use ( toothpick )
+dobj:  keep ( chicken )
+
+Sentence 5: Beat the egg dip the chicken into it then coat the chicken with bread crumbs
+dobj:  dip ( chicken )
+dobj:  coat ( chicken )
+
+Sentence 6: Coat your baking dish with some non-stick cooking spray then place the chicken in
+dobj:  Coat ( dish )
+dobj:  place ( chicken )
+
+Sentence 7: Bake the chicken for about 35 to 40 minutes or until chicken is no longer pink
+
+Sentence 8: Take the chicken out of the oven and top each with half a slice of cheese
+dobj:  Take ( chicken )
+dobj:  top ( each )
+
+Sentence 9: Then put everything back into the oven and wait for the cheese to melt
+dobj:  put ( everything )
+
+Sentence 10: Once your chicken cordon bleu is done take the chicken out of the oven cut each breast in half take out the toothpicks and serve immediately
+nsubjpass:  done ( bleu )
+dobj:  take ( chicken )
+dobj:  take ( toothpicks )
+
+text_num: 35 total sentences: 17  total words: 253
+
+Sentence 0: you can do so by adding homemade broccoli soup to your meals
+dobj:  adding ( soup )
+
+Sentence 1: add two tablespoons of olive oil to a soup pot at medium heat
+dobj:  add ( tablespoons )
+
+Sentence 2: you do not want the olive oil to overheat because then it simply dissipates which would certainly not be helpful since the olive oil is intended to saut¨¦ the vegetables
+dobj:  want ( oil )
+nsubjpass:  intended ( oil )
+
+Sentence 3: saut¨¦ onions and chopped celery in a pot until onions have become soft and transluscent
+
+Sentence 4: add the peeled the potatoes and broccoli to the pot
+
+Sentence 5: and saut¨¦ for another 5 ¨C 6 minutes
+
+Sentence 6: pour in the chicken or vegetable broth and simmer for 3 minutes
+
+Sentence 7: pour in the nonfat milk
+
+Sentence 8: it is also important to pour the soup and the milk to the pot very quickly after the potato and the broccoli have been added
+dobj:  pour ( soup )
+nsubjpass:  added ( potato )
+
+Sentence 9: you do not want to try and saut¨¦ them as this is not necessary
+dobj:  ¦ ( them )
+
+Sentence 10: allow the soup in the pot to come to a boil and then reduce the heat from medium to very low
+dobj:  allow ( soup )
+dobj:  reduce ( heat )
+
+Sentence 11: cover the pot with a lid and let it simmer for 20 minutes or so
+dobj:  cover ( pot )
+
+Sentence 12: once the vegetables have become tender you will know you are done with the cooking part
+nsubjpass:  done ( you )
+
+Sentence 13: let the soup cool a little and then pour it into a blender
+dobj:  let ( cool )
+dobj:  pour ( it )
+
+Sentence 14: mixing the soup up in the blender until all the contents are properly smoothed ensures you do not end up with lumpy soup
+dobj:  mixing ( soup )
+nsubjpass:  smoothed ( contents )
+
+Sentence 15: after the soup has been blended you can reheat it in the pot
+dobj:  reheat ( it )
+
+Sentence 16: serve hot and enjoy with family and friends!
+
+text_num: 36 total sentences: 17  total words: 243
+
+Sentence 0: by having meals such as soup prepared with carrots you can be able to prevent many cardiovascular diseases and cancers
+dobj:  having ( meals )
+dobj:  prevent ( diseases )
+
+Sentence 1: you will also be able to develop a good vision for your eyes
+dobj:  develop ( vision )
+
+Sentence 2: follow these simple steps and serve this healthy dish for your family
+dobj:  follow ( steps )
+dobj:  serve ( dish )
+
+Sentence 3: peel the carrots and clean them in cold or normal water and slice them any way you want the soup is going to be pur¨¦ed anyway
+dobj:  peel ( carrots )
+dobj:  clean ( them )
+dobj:  slice ( way )
+dobj:  pur ( ed )
+
+Sentence 4: peel potatoes and cut into pieces about the same size of the carrots
+dobj:  peel ( potatoes )
+
+Sentence 5: heat butter in a heavy bottom soup pot over medium heat
+dobj:  heat ( butter )
+
+Sentence 6: saut¨¦ onion until it becomes soft and translucent
+dobj:  saut ( onion )
+
+Sentence 7: add in garlic and carrots and stir occasionally for about 2 ¨C 3 minutes
+dobj:  stir ( C )
+
+Sentence 8: add white wine and cook for another 2 ¨C 3 minutes or until the wine seems to be reduced by half
+dobj:  add ( wine )
+
+Sentence 9: add the potatoes and vegetable broth or stock
+dobj:  add ( potatoes )
+
+Sentence 10: bring to a boil increasing the heat to medium high
+dobj:  increasing ( heat )
+
+Sentence 11: season with salt if necessary
+
+Sentence 12: reduce heat and let it simmer partially uncovered for 15 minutes or until the carrots and are soft and tender
+dobj:  reduce ( heat )
+
+Sentence 13: remove from heat and puree in a blender or food processor
+
+Sentence 14: put the soup back into the pot and bring to a boil again occasionally adding broth to adjust its thickness if necessary
+dobj:  put ( soup )
+dobj:  adding ( broth )
+dobj:  adjust ( thickness )
+
+Sentence 15: best served while hot
+
+Sentence 16: garnish with toasted croutons or you can also add sour cream on top a pinch of nutmeg and orange juice to add variety in taste.
+dobj:  add ( cream )
+dobj:  add ( variety )
+
+text_num: 37 total sentences: 12  total words: 152
+
+Sentence 0: sprinkle a tablespoon of salt on the thinly sliced celeriac and leave it on a colander
+dobj:  sprinkle ( tablespoon )
+dobj:  leave ( it )
+
+Sentence 1: in a bowl mix the white wine vinegar salt sugar and olive oil together
+
+Sentence 2: take the mackerel fillet and leave it in the vinegar-olive oil mixture
+dobj:  take ( fillet )
+dobj:  leave ( it )
+
+Sentence 3: while the fish pickles prepare the grill
+dobj:  prepare ( grill )
+
+Sentence 4: when the grill is hot take the mackerel and give it a good charring
+dobj:  take ( mackerel )
+dobj:  give ( charring )
+
+Sentence 5: make sure that you don¡¯t overcook the fish or it will dry out
+dobj:  overcook ( fish )
+
+Sentence 6: it will take less than 2 minutes for each side to cook
+dobj:  take ( minutes )
+
+Sentence 7: in a bowl take the mayonnaise lemon juice and mustard and mix them
+dobj:  take ( juice )
+
+Sentence 8: take the celeriac that has been drained out its liquid and toss it in the mayonnaise
+dobj:  take ( celeriac )
+nsubjpass:  drained ( that )
+dobj:  toss ( it )
+
+Sentence 9: to plate the dish place the salad leaves at the bottom of the plate
+
+Sentence 10: place a heaping of the celeriac mayonnaise on top of the vegetables
+dobj:  place ( heaping )
+
+Sentence 11: then lay the delicate fish on top of it.
+dobj:  lay ( fish )
+
+text_num: 38 total sentences: 19  total words: 237
+
+Sentence 0: give your basic Caesar salad a tasty twist by adding slices of chicken it
+dobj:  give ( twist )
+dobj:  adding ( slices )
+
+Sentence 1: and to add even more flavor opt for grilled chicken rather than fried
+dobj:  add ( opt )
+
+Sentence 2: then choose the freshest lettuce you can get to make each bite more succulent
+dobj:  choose ( lettuce )
+
+Sentence 3: let¡¯s start making it
+dobj:  let ( ¯ )
+dobj:  making ( it )
+
+Sentence 4: fry the bacon bits in the pan over medium-high heat until the bacon bits are crispy and golden brown in color
+dobj:  fry ( bits )
+
+Sentence 5: transfer them to a plate lined with paper towel to drain the excess oil
+dobj:  transfer ( them )
+dobj:  drain ( oil )
+
+Sentence 6: set aside
+
+Sentence 7: add the pieces of bread to the frying pan then cook until golden brown to make croutons
+dobj:  make ( croutons )
+
+Sentence 8: remove the croutons from the heat and transfer to the plate with the bacon bits
+dobj:  remove ( croutons )
+
+Sentence 9: prepare the dressing by putting all the ingredients in the food processor and blending until the mixture gets a smooth consistency
+dobj:  prepare ( dressing )
+dobj:  putting ( ingredients )
+dobj:  gets ( consistency )
+
+Sentence 10: transfer the salad dressing into a glass jar or bowl with a lid and refrigerate
+dobj:  transfer ( salad )
+
+Sentence 11: wash the lettuce leaves carefully and carefully blot out the excess water with a paper towel
+dobj:  wash ( leaves )
+dobj:  blot ( water )
+
+Sentence 12: tear the leaves into small bite-sized pieces and put the leaves in the serving bowl
+dobj:  tear ( leaves )
+dobj:  put ( leaves )
+
+Sentence 13: drizzle the leaves with the dressing and toss lightly
+dobj:  drizzle ( leaves )
+
+Sentence 14: add salt and pepper to taste
+dobj:  add ( salt )
+
+Sentence 15: place the chicken pieces bacon bits croutons and egg on top of the bed of lettuce
+dobj:  place ( pieces )
+
+Sentence 16: serve
+
+Sentence 17: if you want a healthier dressing you can replace the mayonnaise with olive oil
+dobj:  want ( dressing )
+dobj:  replace ( mayonnaise )
+
+Sentence 18: you can also use bacon alternatives from health food stores.
+dobj:  use ( alternatives )
+
+text_num: 39 total sentences: 10  total words: 113
+
+Sentence 0: serve it at parties and watch your guests break into mariachi song and dance
+dobj:  serve ( it )
+dobj:  watch ( break )
+
+Sentence 1: try it
+dobj:  try ( it )
+
+Sentence 2: heat saucepan over medium heat
+dobj:  heat ( saucepan )
+
+Sentence 3: add the ground beef and sear until the juices come out
+dobj:  add ( beef )
+
+Sentence 4: add onions garlic and green pepper
+dobj:  add ( pepper )
+
+Sentence 5: stir well until the meat is browned and the onions are soft
+nsubjpass:  browned ( meat )
+
+Sentence 6: add diced tomatoes tomato sauce beans chili powder and basil to the mixture
+dobj:  add ( tomatoes )
+
+Sentence 7: add salt and pepper according to the indicated quantity or according to your own taste
+dobj:  add ( salt )
+
+Sentence 8: when the mixture boils turn down the heat and simmer for around 20 minutes
+dobj:  turn ( heat )
+
+Sentence 9: now place your chili in big serving bowl top with green onions red bell pepper sour cream or cheese if desired
+dobj:  place ( chili )
+dobj:  serving ( top )
+
+text_num: 40 total sentences: 8  total words: 102
+
+Sentence 0: pre-heat the oven to 375 degrees while placing 2 tablespoons of butter and oil in a skillet
+dobj:  pre-heat ( oven )
+dobj:  placing ( tablespoons )
+
+Sentence 1: add in the cranberries celery and onions cooking it on medium heat for fifteen minutes
+dobj:  cooking ( it )
+
+Sentence 2: throw in the vegetable broth and allow it to boil
+dobj:  allow ( it )
+
+Sentence 3: in a separate bowl start combining the rice herbs and eggs
+dobj:  combining ( rice )
+
+Sentence 4: put in the still-hot cranberries mixture and throw in the poultry seasoning and beans
+
+Sentence 5: use the salt and pepper to taste
+dobj:  use ( salt )
+
+Sentence 6: bake the complete mixture for 25 minutes in two 8-inch pans lined with butter
+dobj:  bake ( mixture )
+
+Sentence 7: once done bake it again for 10 more minutes until the top is crisp
+dobj:  bake ( it )
+
+text_num: 41 total sentences: 12  total words: 200
+
+Sentence 0: check out these simple steps in preparing coleslaw
+dobj:  check ( steps )
+dobj:  preparing ( coleslaw )
+
+Sentence 1: use this guide and either increase or decrease the amounts accordingly
+dobj:  use ( guide )
+dobj:  decrease ( amounts )
+
+Sentence 2: in a large bowl mix together the shredded cabbage and carrots
+
+Sentence 3: add in your chopped onions
+
+Sentence 4: and just like the cabbage and carrots make them quite fine unless you are going for the chunky version
+
+Sentence 5: for the dressing mix together in a separate bowl one cup of mayonnaise one teaspoon of mustard salt and half a teaspoon of pepper a quarter of a cup of granulated sugar mix well in order to create the creamy dressing for the coleslaw
+dobj:  bowl ( cup )
+dobj:  create ( dressing )
+
+Sentence 6: pour in the dressing to the cabbage mixture and mix it through until everything is covered
+dobj:  mix ( it )
+nsubjpass:  covered ( everything )
+
+Sentence 7: transfer mixture into a different bowl and cover with clingfilm and let it sit in the fridge for an hour or two
+dobj:  transfer ( mixture )
+
+Sentence 8: serve chilled
+
+Sentence 9: if you want the dressing to be more creamy then all you need to do is add a tablespoon of mayonnaise or alternatively if you feel it is too thick then a tablespoon of milk will help to make it thinner
+dobj:  want ( dressing )
+dobj:  need ( all )
+dobj:  add ( tablespoon )
+
+Sentence 10: if you want to make it healthier you can use artificial sweeter as a substitute for granulated sugar
+dobj:  use ( sweeter )
+
+Sentence 11: makes 8 servings.
+dobj:  makes ( servings )
+
+text_num: 42 total sentences: 17  total words: 223
+
+Sentence 0: if you are using a frozen turkey allow it to thaw in its original plastic wrapper in the fridge
+dobj:  allow ( it )
+
+Sentence 1: allow for five hours per pound 500g to ensure you¡¯ve thoroughly cooked your turkey
+dobj:  ¡ ( ve )
+dobj:  cooked ( turkey )
+
+Sentence 2: a quicker method to thaw the turkey is to cover the turkey with cold water ideally in the sink
+dobj:  thaw ( turkey )
+dobj:  cover ( turkey )
+
+Sentence 3: every 30 minutes you will need to change the water with fresh cold water
+dobj:  change ( water )
+
+Sentence 4: allow one hour per pound
+dobj:  allow ( hour )
+
+Sentence 5: prepare the turkey by removing giblets and neck
+dobj:  prepare ( turkey )
+dobj:  removing ( giblets )
+
+Sentence 6: rinse and wipe the cavity
+dobj:  rinse ( cavity )
+
+Sentence 7: sprinkle with salt and pepper or stuff lightly
+
+Sentence 8: if you decide to stuff the turkey make sure you fasten the skin over the cavity with skewers
+dobj:  fasten ( skin )
+
+Sentence 9: preheat oven to 325oF 160oC Place turkey breast side up in roasting pan and brush with melted butter or oil
+dobj:  preheat ( oven )
+
+Sentence 10: tent loosely with foil
+
+Sentence 11: roast for about 20 minutes per pound or until juices run clear when turkey is pierced and when thermometer inserted into thickest part of thigh registers 180oF 82oC for a stuffed turkey or 170oF 77oC for an unstuffed turkey
+nsubjpass:  pierced ( turkey )
+dobj:  registers ( 82oC )
+
+Sentence 12: remove tent for last hour of roasting
+dobj:  remove ( tent )
+
+Sentence 13: when the turkey is finished transfer the bird to a warm platter
+nsubjpass:  finished ( turkey )
+dobj:  transfer ( bird )
+
+Sentence 14: tent with foil and let stand for 20 to 30 minutes
+dobj:  let ( stand )
+
+Sentence 15: carve eat and enjoy
+
+Sentence 16: if you have any questions about learning how to cook a turkey ask some questions below!
+dobj:  have ( questions )
+dobj:  cook ( turkey )
+dobj:  ask ( questions )
+
+text_num: 43 total sentences: 9  total words: 128
+
+Sentence 0: place the rice in the strainer and rinse until the water is clear and not cloudy
+dobj:  place ( rice )
+
+Sentence 1: place the rice in the pot along with the water and bring to a boil uncovered at medium heat
+dobj:  place ( rice )
+
+Sentence 2: when the rice is boiling turn the heat down to medium low
+dobj:  turn ( heat )
+
+Sentence 3: place the lid on the pot
+dobj:  place ( lid )
+
+Sentence 4: however do not cover the top completely so that the steam has somewhere to escape
+dobj:  cover ( top )
+
+Sentence 5: it is optional at this point to add a small amount of butter or olive oil and the salt to the rice
+dobj:  add ( amount )
+
+Sentence 6: checks the rice to see if any holes have developed
+
+Sentence 7: if there are holes drop the heat down to low
+dobj:  holes ( drop )
+
+Sentence 8: leave rice on low heat for another 15 minutes and then removes from heat and fluff with fork.
+dobj:  leave ( rice )
+
+text_num: 44 total sentences: 16  total words: 205
+
+Sentence 0: take a good slicer and cut the bread diagonally crosswise to produce long and thin pieces
+dobj:  take ( slicer )
+dobj:  produce ( pieces )
+
+Sentence 1: brush the bread with olive oil on both sides and lay them on a baking pan
+dobj:  brush ( bread )
+dobj:  lay ( them )
+
+Sentence 2: sprinkle some salt before toasting them in the oven for 5 minutes at 200¡ãC
+dobj:  sprinkle ( salt )
+dobj:  toasting ( them )
+
+Sentence 3: bring a pot-full of water to boil and while waiting prepare a bowl with ice cold water
+dobj:  bring ( pot-full )
+dobj:  prepare ( bowl )
+
+Sentence 4: add 1 teaspoon of salt into the water and then drop the kale in
+dobj:  add ( teaspoon )
+dobj:  drop ( kale )
+
+Sentence 5: after one minute or when the color has brightened drain the liquid out
+dobj:  has ( drain )
+
+Sentence 6: then place the blanched veggies into the bowl of cold water
+dobj:  place ( veggies )
+
+Sentence 7: after a minute or so take the kale and gently squeeze the liquid out of it
+dobj:  take ( kale )
+dobj:  squeeze ( liquid )
+
+Sentence 8: in a pan heat some oil and butter
+
+Sentence 9: saut¨¦ the onion and garlic then add the port and thyme
+dobj:  saut ( ¦ )
+dobj:  add ( port )
+
+Sentence 10: let it simmer until the port has reduced after which you add the cream
+dobj:  add ( which )
+dobj:  add ( cream )
+
+Sentence 11: reduce it once more by half
+dobj:  reduce ( it )
+
+Sentence 12: take the kale and slice the clump of leaves into fine shreds
+dobj:  take ( kale )
+dobj:  slice ( clump )
+
+Sentence 13: add them to the cream and allow it to cook in low heat for five minutes
+dobj:  add ( them )
+dobj:  allow ( it )
+
+Sentence 14: season it with salt and pepper
+
+Sentence 15: when serving take a spoonful of the creamy kale and top it on the crostini.
+dobj:  take ( spoonful )
+dobj:  top ( it )
+
+text_num: 45 total sentences: 13  total words: 185
+
+Sentence 0: chop equal amounts of each type of greens roughly
+dobj:  chop ( amounts )
+
+Sentence 1: likewise slice equal amounts of cucumbers kiwifruit yellow peppers carrots and tomatoes
+dobj:  slice ( amounts )
+
+Sentence 2: assemble all the trimmed greens at the bottom of the bowl to make a bed for the rest of the ingredients
+dobj:  assemble ( greens )
+dobj:  make ( bed )
+
+Sentence 3: place the diced tomatoes sliced cucumbers carrots and yellow peppers on top of the greens
+dobj:  sliced ( carrots )
+
+Sentence 4: mince the fresh leaves of the herbs then sprinkle them onto the salad as garnish
+dobj:  sprinkle ( them )
+
+Sentence 5: mincing or rough chopping the fresh herbs releases the flavor and the wonderful aroma that would enhance the overall taste of the salad
+dobj:  releases ( flavor )
+dobj:  enhance ( taste )
+
+Sentence 6: pour the fresh fruit juices into a separate bowl stirring while pouring the sunflower oil into the mixture
+dobj:  pour ( juices )
+dobj:  pouring ( oil )
+
+Sentence 7: add salt sugar and pepper to taste
+dobj:  add ( sugar )
+
+Sentence 8: whisk away until the dressing is well-combined
+
+Sentence 9: while making the dressing you may store the bowl of greens and fresh produce inside the refrigerator
+dobj:  making ( dressing )
+dobj:  store ( bowl )
+
+Sentence 10: cover it with plastic wrap to keep the freshness intact
+dobj:  cover ( it )
+
+Sentence 11: to serve toss the salad with some of your prepared dressing
+dobj:  toss ( salad )
+
+Sentence 12: make it a habit to use fresh 100% organic greens to incorporate an abundant amount of nutrients into your diet.
+dobj:  use ( greens )
+dobj:  incorporate ( amount )
+
+text_num: 46 total sentences: 16  total words: 194
+
+Sentence 0: in a sauce pan melt the butter in low heat
+dobj:  melt ( butter )
+
+Sentence 1: in a separate pan combine the shallots peppercorns wine vinegar and tarragon
+dobj:  combine ( wine )
+
+Sentence 2: leave it in medium heat and reduce down to 25% of the volume
+dobj:  leave ( it )
+
+Sentence 3: then strain the sauce onto a heated double boiler
+dobj:  strain ( sauce )
+
+Sentence 4: whisk in the egg yolks into the reduction dropping the eggs one by one
+dobj:  dropping ( one )
+
+Sentence 5: place the pan of yolks onto a bowl of ice cold water
+dobj:  place ( pan )
+
+Sentence 6: add the melted butter in a slow drizzle while whisking
+dobj:  add ( butter )
+
+Sentence 7: preheat the oven to 200¡ã
+dobj:  preheat ( oven )
+
+Sentence 8: drop the fries in hot oil and let it cook for 3-4 minutes in low fire
+dobj:  drop ( fries )
+
+Sentence 9: fish out the chips from the oil and lay them on a baking pan
+dobj:  fish ( chips )
+dobj:  lay ( them )
+
+Sentence 10: sprinkle sea salt and cook it in the oven for 10-15 minutes
+dobj:  sprinkle ( sea )
+
+Sentence 11: place it back to the deep fryer and let it turn golden brown
+dobj:  place ( it )
+dobj:  turn ( brown )
+
+Sentence 12: in a shallow pan melt the butter in some oil
+
+Sentence 13: season the meaty side of the lobster with salt and pepper and place it in the pan open side down
+dobj:  season ( side )
+dobj:  place ( it )
+
+Sentence 14: cook it for a quick minute and then add the lime juice
+dobj:  cook ( it )
+dobj:  add ( juice )
+
+Sentence 15: serve the lobster with the B¨¦arnaise sauce and chips on the side.
+dobj:  serve ( lobster )
+
+text_num: 47 total sentences: 21  total words: 230
+
+Sentence 0: try this recipe for two servings of delicious nutritious homemade mushroom soup
+dobj:  try ( recipe )
+
+Sentence 1: if two servings are not enough for you just multiply the ingredients by two or three ¨C or four
+dobj:  multiply ( ingredients )
+dobj:  multiply ( C )
+
+Sentence 2: make sure to clean the mushrooms first
+dobj:  clean ( mushrooms )
+
+Sentence 3: you could use a mushroom brush or if it is not available use a piece of damp paper towel instead
+dobj:  use ( brush )
+dobj:  use ( piece )
+
+Sentence 4: cut 4 ounces of mushrooms into slices
+dobj:  cut ( ounces )
+
+Sentence 5: chop the remaining 4 ounces
+dobj:  chop ( ounces )
+
+Sentence 6: melt 2 tablespoons of butter in a saucepan
+dobj:  melt ( tablespoons )
+
+Sentence 7: saut¨¦ the sliced mushrooms in the pan until they are golden brown
+
+Sentence 8: then remove the mushrooms from the pan and set them aside
+dobj:  remove ( mushrooms )
+dobj:  set ( them )
+
+Sentence 9: in the same pan melt the remaining 2 tablespoons of butter and saut¨¦ the chopped onions and chopped mushrooms together
+dobj:  melt ( tablespoons )
+dobj:  saut ( onions )
+dobj:  chopped ( mushrooms )
+
+Sentence 10: add a bit of salt
+dobj:  add ( bit )
+
+Sentence 11: keep frying and stirring until your onions are soft not burned
+
+Sentence 12: put the sliced mushrooms back into the pan
+dobj:  put ( mushrooms )
+
+Sentence 13: add the flour and cook the mixture for about 2 minutes with constant stirring
+dobj:  add ( flour )
+dobj:  cook ( mixture )
+
+Sentence 14: once the mixture is smooth pour in the chicken broth carefully
+
+Sentence 15: stir the mixture constantly letting the soup simmer over low heat until it thickens
+dobj:  stir ( mixture )
+dobj:  letting ( simmer )
+
+Sentence 16: season your soup with white pepper and nutmeg
+
+Sentence 17: add and pour the heavy cream into the saucepan
+dobj:  add ( cream )
+
+Sentence 18: heat the soup until it starts to simmer
+dobj:  heat ( soup )
+
+Sentence 19: before it begins to boil turn off the heat
+dobj:  turn ( heat )
+
+Sentence 20: now ladle the soup into serving bowls sit back relax and enjoy!
+dobj:  ladle ( soup )
+
+text_num: 48 total sentences: 12  total words: 141
+
+Sentence 0: bring a pot of water to a boil
+dobj:  bring ( pot )
+
+Sentence 1: drop the rice noodles and wait let it cook for 5 minutes or until the rice noodles has softened
+dobj:  drop ( noodles )
+
+Sentence 2: drain and give it a cold bath
+dobj:  give ( bath )
+
+Sentence 3: set it aside
+dobj:  set ( it )
+
+Sentence 4: heat up the wok then add around 2-3 tablespoons of peanut oil
+dobj:  heat ( wok )
+dobj:  add ( tablespoons )
+
+Sentence 5: cook the tofu first until it browns
+dobj:  cook ( tofu )
+
+Sentence 6: drop in the garlic Thai chilli peanut shrimps scallions carrots and bean sprout
+
+Sentence 7: add the fish sauce and quickly stir
+dobj:  add ( sauce )
+
+Sentence 8: when the veggies have softened take them out and set them aside
+dobj:  take ( them )
+dobj:  set ( them )
+
+Sentence 9: in the same wok pour in the soy sauce tamarind sauce sugar and a drizzle of peanut oil
+
+Sentence 10: turn off the fire then add the rice noodles and the vegetables and toss it in the sauce
+dobj:  turn ( fire )
+dobj:  add ( noodles )
+dobj:  toss ( it )
+
+Sentence 11: when serving garnish it with the ground peanut and cilantro with wedge of lime on the side.
+dobj:  garnish ( it )
+
+text_num: 49 total sentences: 13  total words: 124
+
+Sentence 0: prepare the grill
+dobj:  prepare ( grill )
+
+Sentence 1: cook the peppers on the grill and give the skin a little charring
+dobj:  cook ( peppers )
+dobj:  give ( charring )
+
+Sentence 2: after which place them on a closed container and let it steam out the skin
+dobj:  place ( them )
+dobj:  let ( it )
+dobj:  place ( steam )
+
+Sentence 3: after 10 minutes peel the skin off easily
+dobj:  peel ( skin )
+
+Sentence 4: slice the peppers in half and take the seeds and stem out
+dobj:  slice ( peppers )
+dobj:  take ( seeds )
+
+Sentence 5: next chop the succulent parts and set it aside
+dobj:  chop ( parts )
+dobj:  set ( it )
+
+Sentence 6: to make the croutons slice the bead into 2-inch squares
+dobj:  slice ( bead )
+
+Sentence 7: drizzle olive oil over it and season with salt and pepper
+dobj:  drizzle ( oil )
+
+Sentence 8: get the pieces toasting in the oven for 10 minutes turning them over halfway
+dobj:  get ( pieces )
+dobj:  turning ( them )
+
+Sentence 9: in a mixing bowl whisk together
+
+Sentence 10: add the cooked peppers and season it
+dobj:  add ( peppers )
+
+Sentence 11: take croutons and toss it with the vegetables
+dobj:  take ( croutons )
+dobj:  toss ( it )
+
+Sentence 12: top it with the mozzarella cheese and serve.
+dobj:  top ( it )
+
+text_num: 50 total sentences: 12  total words: 171
+
+Sentence 0: to start with preheat the oven to 375o F with a cookie sheet in it
+dobj:  start ( oven )
+
+Sentence 1: to prepare the croutons you can melt the butter in a frying-pan and cook until the butter foams
+dobj:  prepare ( croutons )
+dobj:  melt ( butter )
+
+Sentence 2: to this foamed butter add garlic for about a minute
+
+Sentence 3: to this mixture now add the bread-cubes and toss it until they are coated with the butter mixture
+dobj:  add ( bread-cubes )
+dobj:  toss ( it )
+nsubjpass:  coated ( they )
+
+Sentence 4: seasoning can be done with salt and pepper as per requirements
+nsubjpass:  done ( seasoning )
+
+Sentence 5: with the warmth remaining sprinkle the cheese and toss it till it melts completely
+dobj:  sprinkle ( cheese )
+dobj:  toss ( it )
+
+Sentence 6: the bread cubes are now ready to be baked in the oven
+
+Sentence 7: stir the contents once or twice for about 8 to 9 minutes until the croutons become light colored on the outside while staying soft within
+dobj:  stir ( contents )
+
+Sentence 8: store the crisp croutons in air tight containers once cooled
+dobj:  store ( croutons )
+
+Sentence 9: you can serve the soup with warm bowl drizzled with cherry-tomatoes mixture and croutons
+dobj:  serve ( soup )
+
+Sentence 10: extra virgin olive oil can be used for garnishing around the bowl
+nsubjpass:  used ( oil )
+
+Sentence 11: enjoy the recipe your picnic together with your friends and family members.
+
+text_num: 51 total sentences: 12  total words: 143
+
+Sentence 0: bring the stock to a boil and let it reduce down to a third of its volume
+dobj:  bring ( stock )
+
+Sentence 1: let it cool
+
+Sentence 2: using a blender mash all the ingredients of the parfait together including the reduced stock
+dobj:  using ( blender )
+dobj:  mash ( ingredients )
+
+Sentence 3: line the bread pan with a parchment paper
+
+Sentence 4: pour the liver mixture in and cover it with foil
+dobj:  pour ( mixture )
+dobj:  cover ( it )
+
+Sentence 5: cook it in the oven for 50 minutes at 150¡ãC
+dobj:  cook ( it )
+
+Sentence 6: take the cooked liver out of its mold and refrigerate
+dobj:  take ( liver )
+
+Sentence 7: for the chutney place all the ingredients except the pears in a sauce pan
+
+Sentence 8: let it boil while stirring constantly then bring down the heat to let it reduce
+dobj:  bring ( heat )
+
+Sentence 9: when the liquid has become syrupy pour in the pears and let it cook for another 40 minutes in low fire
+
+Sentence 10: let it cook after
+
+Sentence 11: serve the parfait on a platter with chutney on the side accompanied by sliced French bread.
+dobj:  serve ( parfait )
+
+text_num: 52 total sentences: 11  total words: 141
+
+Sentence 0: wash the ginger well scrubbing the thin light brown skin off with water
+dobj:  wash ( ginger )
+dobj:  scrubbing ( skin )
+
+Sentence 1: you may also use salt to scrub off the skin
+dobj:  use ( salt )
+dobj:  scrub ( skin )
+
+Sentence 2: dilute the salt in a bowl of water
+dobj:  dilute ( salt )
+
+Sentence 3: soak the ginger in the bowl of saltwater for one to two hours
+dobj:  soak ( ginger )
+
+Sentence 4: drain your ginger and let them dry or wipe with paper towels
+dobj:  drain ( ginger )
+
+Sentence 5: slice the ginger thinly with a sharp knife or a mandolin for consistent thickness
+
+Sentence 6: prepare a sterilized jar that you will use as your preservation vessel
+dobj:  prepare ( jar )
+
+Sentence 7: place the sliced ginger in the jar carefully stacking them one by one so that the space is maximized
+dobj:  place ( ginger )
+nsubjpass:  maximized ( space )
+
+Sentence 8: in a pot boil your 3 cups of sugar mixed with 1 cup sugar
+
+Sentence 9: upon boiling pour the hot mixture into the ginger-filled jar
+dobj:  pour ( mixture )
+
+Sentence 10: place on the lid and wait for it to cool before placing it in the refrigerator.
+dobj:  placing ( it )
+
+text_num: 53 total sentences: 10  total words: 134
+
+Sentence 0: lay a piece of nori on the rolling mat shiny side down
+dobj:  lay ( piece )
+
+Sentence 1: place about 1/2 cup of sushi rice on the nori
+dobj:  place ( cup )
+
+Sentence 2: wet your hands with water so the rice won¡¯t stick to your hands
+dobj:  wet ( hands )
+
+Sentence 3: spread the rice over the nori with your hands leaving a half inch strip of nori uncovered at the bottom
+dobj:  spread ( rice )
+dobj:  leaving ( strip )
+
+Sentence 4: place your desired fillings along this strip of uncovered nori on the edge closest to you
+dobj:  place ( fillings )
+
+Sentence 5: using the rolling mat begin to tightly roll the sushi
+dobj:  roll ( sushi )
+
+Sentence 6: start at the side nearest to you and roll away from you
+
+Sentence 7: make sure you don¡¯t roll the rolling mat into your sushi
+dobj:  roll ( mat )
+
+Sentence 8: when the sushi is completely rolled use the rolling mat to squeeze the sushi so it does not unroll when you are trying to cut it
+nsubjpass:  rolled ( sushi )
+dobj:  use ( mat )
+dobj:  squeeze ( sushi )
+dobj:  cut ( it )
+
+Sentence 9: cut sushi and enjoy
+dobj:  cut ( sushi )
+
+text_num: 54 total sentences: 19  total words: 176
+
+Sentence 0: place the meat flat on your chopping board
+
+Sentence 1: cover it with plastic wrap
+dobj:  cover ( it )
+
+Sentence 2: hammer away with a meat pounder
+
+Sentence 3: season the meat with salt pepper and chilli peppers on each side
+
+Sentence 4: combine the eggs and milk in a bowl
+dobj:  combine ( eggs )
+
+Sentence 5: heat the oil for frying
+dobj:  heat ( oil )
+
+Sentence 6: in different bowls arrange the ingredients in this order
+dobj:  arrange ( ingredients )
+
+Sentence 7: flour eggs & milk mixture bread crumbs
+
+Sentence 8: take a piece of meat and dredge it in flour
+dobj:  take ( piece )
+dobj:  dredge ( it )
+
+Sentence 9: dip it in the milk next making sure it is fully coated
+dobj:  dip ( it )
+nsubjpass:  coated ( it )
+
+Sentence 10: finally bring it to the bread crumbs plate and dredge it well
+dobj:  bring ( it )
+dobj:  dredge ( it )
+
+Sentence 11: drop the meat in the frying pan
+dobj:  drop ( meat )
+
+Sentence 12: turn it over after 3 minutes or when the underside turns golden brown
+dobj:  turn ( it )
+dobj:  turns ( brown )
+
+Sentence 13: when all the pork has been cooked take the heat down to low
+nsubjpass:  cooked ( pork )
+dobj:  take ( heat )
+
+Sentence 14: mix in the flour and let it become pasty
+
+Sentence 15: pour in the chicken broth and use the spatula to scrape the bottom of the pan while mixing
+dobj:  use ( spatula )
+dobj:  scrape ( bottom )
+
+Sentence 16: stir in the sour cream and the dill
+
+Sentence 17: let is simmer for a few minutes
+
+Sentence 18: serve the schnitzels topped with the sauce.
+dobj:  serve ( schnitzels )
+
+text_num: 55 total sentences: 12  total words: 152
+
+Sentence 0: first get a mug or small bowl any microwave-safe mug or bowl will work fine
+dobj:  get ( bowl )
+
+Sentence 1: dip a paper towel in a little bit of vegetable or olive oil and smear the oil around the inside of the bowl
+dobj:  dip ( towel )
+dobj:  smear ( oil )
+
+Sentence 2: you could also spray the mug or bowl with non-stick cooking spray
+dobj:  spray ( mug )
+
+Sentence 3: break the egg directly into the bowl
+dobj:  break ( egg )
+
+Sentence 4: beat together the eggs and milk in a microwave-proof bowl
+dobj:  beat ( eggs )
+
+Sentence 5: season with a little freshly ground black pepper salt and stir mixed until the mixture is pale yellow and smooth
+dobj:  ground ( salt )
+
+Sentence 6: cook uncovered in the microwave on high for 1 minute
+
+Sentence 7: remove and stir with a fork
+
+Sentence 8: stir the mixture to fluff up the eggs
+dobj:  stir ( mixture )
+dobj:  fluff ( eggs )
+
+Sentence 9: add a tablespoon of shredded cheese a small handful of scallions or another topping if you¡¯d like
+dobj:  add ( tablespoon )
+
+Sentence 10: return and cook for 30 seconds before mixing again ¨C the eggs should be just soft
+dobj:  mixing ( C )
+
+Sentence 11: serve immediately with the herbs bread¡­ This way
+
+text_num: 56 total sentences: 15  total words: 138
+
+Sentence 0: bring to a boil 1/2 cup of water and sugar while stirring constantly
+
+Sentence 1: when it has thickened take the walnuts and gently toss in the sweet sauce
+dobj:  take ( walnuts )
+
+Sentence 2: leave them to cook on a tray lined with parchment paper
+dobj:  leave ( them )
+
+Sentence 3: heat the oil for frying
+dobj:  heat ( oil )
+
+Sentence 4: prepare the coating ingredients in separate bowls as follows
+dobj:  prepare ( ingredients )
+
+Sentence 5: season the shrimps with salt and pepper
+
+Sentence 6: take a handful and drop them in the flour
+dobj:  take ( handful )
+dobj:  drop ( them )
+
+Sentence 7: one by one shake off the excess flour and then dip it in the egg
+dobj:  shake ( flour )
+dobj:  dip ( it )
+
+Sentence 8: then give it a last coating of the corn starch
+dobj:  give ( coating )
+
+Sentence 9: drop the shrimps carefully into the frying pan
+dobj:  drop ( shrimps )
+
+Sentence 10: cook them until they¡¯re golden brown
+dobj:  cook ( them )
+dobj:  re ( brown )
+
+Sentence 11: in a salad bowl whisk together in the mayonnaise milk and honey
+
+Sentence 12: toss the fried shrimps into the sauce
+dobj:  toss ( shrimps )
+
+Sentence 13: serve the shrimps while still crunchy
+
+Sentence 14: top it with the sugar-coated walnuts.
+dobj:  top ( it )
+
+text_num: 57 total sentences: 26  total words: 336
+
+Sentence 0: making the chicken stock
+dobj:  making ( stock )
+
+Sentence 1: the rotisserie chicken must be completely deboned
+
+Sentence 2: all the tendons dark meat skin and tendons and the commonly nonedible parts will be removed and placed in a large pot filled with about a dozen cups of water
+nsubjpass:  removed ( skin )
+
+Sentence 3: the various cut pieces from the chicken will then be put in the pot of water
+nsubjpass:  put ( pieces )
+
+Sentence 4: turn on the stove to heat the pot
+dobj:  heat ( pot )
+
+Sentence 5: return to the chicken and chop up the edible white and dark meat and place it aside
+dobj:  chop ( meat )
+dobj:  place ( it )
+
+Sentence 6: add to the pot a few small pinches ¨C 3 to 5 ¨C of garlic dehydrated onion and kosher salt
+
+Sentence 7: allow the pot to cook on the stove for 30 minutes
+dobj:  allow ( pot )
+
+Sentence 8: add a splash of white wine to the stock
+dobj:  add ( splash )
+
+Sentence 9: take off any cover from the pot and leave it on the stove for another 30 minutes
+dobj:  take ( cover )
+dobj:  leave ( it )
+
+Sentence 10: remove the pot from the stove and allow it to cool down
+dobj:  remove ( pot )
+dobj:  allow ( it )
+
+Sentence 11: after it has cooled pour the stock through a strainer into a bowl
+dobj:  pour ( stock )
+
+Sentence 12: you may wish to strain it at least twice
+dobj:  strain ( it )
+
+Sentence 13: be sure there are no bones left in the pot
+
+Sentence 14: making the chicken soup
+dobj:  making ( soup )
+
+Sentence 15: on a separate pot pour in about four tablespoons of olive oil along with an entire packet of sofrito
+
+Sentence 16: cook the contents and monitor them until the sofrito is about half cooked
+dobj:  cook ( contents )
+dobj:  monitor ( them )
+
+Sentence 17: add four cups of the chicken meat you originally separated from the rotisserie chicken that was not used in the stock
+dobj:  add ( cups )
+nsubjpass:  used ( that )
+
+Sentence 18: stir and mix the chicken with the olive oil and the sofrito
+dobj:  stir ( chicken )
+
+Sentence 19: allow the chicken to heat up a bit on the stove
+dobj:  allow ( chicken )
+dobj:  heat ( bit )
+
+Sentence 20: pour in packet Sazon de Goya and mix it up with the chicken
+dobj:  mix ( it )
+
+Sentence 21: simmer for 2 to 3 minutes add three cups of cooked rice to the mix and allow the rice to warm up
+dobj:  add ( cups )
+dobj:  allow ( rice )
+
+Sentence 22: pour in the chicken stock gradually with continuous stirring
+
+Sentence 23: don¡¯t pour it all in at once
+dobj:  pour ( it )
+
+Sentence 24: simmer over low heat for 30 minutes
+dobj:  simmer ( heat )
+
+Sentence 25: serve hot or let it cool down and place in the refrigerator for make-ahead meal.
+
+text_num: 58 total sentences: 18  total words: 187
+
+Sentence 0: boil a pot-full of water
+
+Sentence 1: add 1 teaspoon of salt
+dobj:  add ( teaspoon )
+
+Sentence 2: in a bowl combine milk eggs salt and nutmeg
+dobj:  combine ( eggs )
+
+Sentence 3: whisk it until it is smooth
+dobj:  whisk ( it )
+
+Sentence 4: add the flour in three batches
+dobj:  add ( flour )
+
+Sentence 5: keep mixing it until you arrive on a doughy consistency
+dobj:  mixing ( it )
+
+Sentence 6: let it dough rest for 10 minutes in a bowl covered with plastic film
+dobj:  dough ( rest )
+
+Sentence 7: divide the dough into two portions
+
+Sentence 8: take your grater and position it on top of the boiling water
+dobj:  take ( grater )
+dobj:  position ( it )
+
+Sentence 9: grate the first portion of your dough and let the pieces fall directly into the boiling water
+dobj:  grate ( portion )
+
+Sentence 10: do this quickly to get evenly cooked spaetzles
+dobj:  do ( this )
+
+Sentence 11: don¡¯t forget to stir to prevent the pieces from sticking to other pieces
+dobj:  prevent ( pieces )
+
+Sentence 12: then it¡¯s time to drain them or fish them out with a slotted spoon
+dobj:  drain ( them )
+dobj:  fish ( them )
+
+Sentence 13: do the same for your second batch of dough
+dobj:  do ( same )
+
+Sentence 14: let the spaetzle cool while spread on a large baking dish
+dobj:  let ( spread )
+
+Sentence 15: in a large pan melt the butter and then add the sage all in medium heat
+dobj:  melt ( butter )
+dobj:  add ( sage )
+
+Sentence 16: when the butter has turned brown add the onion and season with salt and pepper
+dobj:  add ( onion )
+
+Sentence 17: toss spaetzle in the butter sauce until each piece is coated.
+nsubjpass:  coated ( piece )
+
+text_num: 59 total sentences: 17  total words: 182
+
+Sentence 0: first make the Cajun seasoning by simply combining the ingredients
+dobj:  make ( seasoning )
+dobj:  combining ( ingredients )
+
+Sentence 1: you won¡¯t be using all of this mixture so store the unused Cajun seasoning in a tightly closed jar and place in the refrigerator
+dobj:  using ( all )
+dobj:  store ( seasoning )
+
+Sentence 2: combine the ingredients for marinade
+dobj:  combine ( ingredients )
+
+Sentence 3: mix thoroughly using a spoon
+dobj:  using ( spoon )
+
+Sentence 4: set aside
+
+Sentence 5: place the chicken in the plastic bag
+dobj:  place ( chicken )
+
+Sentence 6: make sure that there is some space for the marinade in the bag even after the chicken is inside
+
+Sentence 7: pour the marinade into the bag
+dobj:  pour ( marinade )
+
+Sentence 8: seal the bag well to avoid leaking
+dobj:  seal ( bag )
+
+Sentence 9: shake bag to coat the chicken pieces thoroughly with the marinade
+dobj:  shake ( bag )
+dobj:  coat ( pieces )
+
+Sentence 10: allow the chicken to marinate for at least 20 minutes
+dobj:  allow ( chicken )
+
+Sentence 11: at this point you may already light up the charcoal and heat the grill thoroughly
+dobj:  light ( charcoal )
+dobj:  heat ( grill )
+
+Sentence 12: place chicken pieces over the hot grill
+dobj:  place ( pieces )
+
+Sentence 13: cook each side for at least 14 minutes before turning
+dobj:  cook ( side )
+
+Sentence 14: check the chicken is done by making slits on the meat and making sure it is not pink
+nsubjpass:  done ( chicken )
+dobj:  making ( slits )
+
+Sentence 15: cajun chicken is best served with fresh garden vegetables of your choice and jambalaya rice
+nsubjpass:  served ( chicken )
+
+Sentence 16: you can also eat it with any pasta of your choice
+dobj:  eat ( it )
+
+text_num: 60 total sentences: 13  total words: 132
+
+Sentence 0: marinade the shrimp in a mixture of the soy sauce sugar pepper corns and sesame oil
+dobj:  marinade ( shrimp )
+
+Sentence 1: let it sit at least 20 minutes or longer
+
+Sentence 2: drain it after and save the marinating liquid
+dobj:  drain ( it )
+dobj:  save ( liquid )
+
+Sentence 3: add 2 tablespoons of corn starch and
+dobj:  add ( tablespoons )
+
+Sentence 4: cup of water and mix until the starch is incorporated
+nsubjpass:  incorporated ( starch )
+
+Sentence 5: in a hot pan add the minced garlic ginger and chilli flakes
+dobj:  add ( ginger )
+
+Sentence 6: add the bell peppers and the grated carrots next and let them soften
+dobj:  add ( peppers )
+
+Sentence 7: stir in the shrimps and scallions
+
+Sentence 8: let it cook for 2 minutes
+
+Sentence 9: add the corn starch and soy sauce mixture
+dobj:  add ( starch )
+
+Sentence 10: mix it around and let the sauce thicken
+dobj:  mix ( it )
+dobj:  let ( thicken )
+
+Sentence 11: when serving place some rice in the center of the plate and top it with the Szechuan shrimps
+dobj:  place ( rice )
+dobj:  top ( it )
+
+Sentence 12: garnish it with the minced Thai chilli pepper and cilantro leaves.
+dobj:  garnish ( it )
+
+text_num: 61 total sentences: 22  total words: 287
+
+Sentence 0: if you are using frozen turkey thaw it first in the refrigerator
+dobj:  using ( turkey )
+dobj:  thaw ( it )
+
+Sentence 1: make sure that the ice has melted completed inside and out before you use the turkey
+dobj:  use ( turkey )
+
+Sentence 2: remove the thawed turkey from the refrigerator about an hour before cooking to allow it to reach room temperature
+dobj:  remove ( turkey )
+dobj:  allow ( it )
+dobj:  reach ( temperature )
+
+Sentence 3: preheat oven to 475¡ãF
+dobj:  preheat ( oven )
+
+Sentence 4: remove giblets and neck bones from the inside of the turkey
+dobj:  remove ( giblets )
+
+Sentence 5: the giblets can be boiled and used later for turkey gravy
+nsubjpass:  boiled ( giblets )
+
+Sentence 6: melt the butter in a skillet
+dobj:  melt ( butter )
+
+Sentence 7: mix in the rosemary and thyme
+
+Sentence 8: separate the skin on the breast from the meat and brush some of the herb-and-butter mixture between the breast meat and the skin
+dobj:  separate ( skin )
+dobj:  brush ( some )
+
+Sentence 9: make sure you do not put the butter mixture outside of the skin
+dobj:  put ( outside )
+
+Sentence 10: rub a little salt and pepper all over the turkey¡¯s skin
+dobj:  rub ( salt )
+
+Sentence 11: place the turkey on a rack in a baking dish breast side down
+dobj:  place ( turkey )
+
+Sentence 12: do not put any stuffing into the turkey yet
+dobj:  put ( stuffing )
+
+Sentence 13: cook the turkey at 475¡ãF for about 20 minutes then reduce the temperature to 250¡ãF and cook the turkey for 20 more minutes per pound
+dobj:  cook ( turkey )
+dobj:  reduce ( temperature )
+dobj:  cook ( turkey )
+
+Sentence 14: start timing from the moment you turn the heat down
+dobj:  start ( timing )
+dobj:  turn ( heat )
+
+Sentence 15: don¡¯t wait for the temperature to reach 250¡ãF before you start timing
+dobj:  reach ( ãF )
+dobj:  start ( timing )
+
+Sentence 16: when you reach only 1/3 of the cooking time is left check the turkey by inserting a meat thermometer into the thigh
+nsubjpass:  left ( 1/3 )
+dobj:  check ( turkey )
+dobj:  inserting ( thermometer )
+
+Sentence 17: if the temperature there is at 180¡ãF your turkey is done and you can take it out and just keep it warm
+nsubjpass:  done ( temperature )
+dobj:  take ( it )
+
+Sentence 18: you don¡¯t want to overcook your turkey
+dobj:  overcook ( turkey )
+
+Sentence 19: once your turkey is done you can put your cooked stuffing into it
+nsubjpass:  done ( turkey )
+dobj:  put ( stuffing )
+
+Sentence 20: then give your turkey 20 minutes to rest before serving so its juices have time to redistribute properly
+dobj:  give ( minutes )
+dobj:  have ( time )
+
+Sentence 21: enjoy your Thanksgiving dinner!
+dobj:  enjoy ( dinner )
+
+text_num: 62 total sentences: 7  total words: 219
+
+Sentence 0: to make 24 servings you will need
+dobj:  make ( servings )
+
+Sentence 1: to begin with you need to put both the sugar and the evaporated milk into a saucepan and bring it to the boil slowly over a medium to low heat and always stir it in order to prevent the ingredients from sticking to the pan and burning
+dobj:  put ( sugar )
+dobj:  bring ( it )
+dobj:  stir ( it )
+dobj:  prevent ( ingredients )
+
+Sentence 2: when it comes to the boil you should continue to stir it for three minutes as you keep the heat going before moving to the next stage
+dobj:  stir ( it )
+dobj:  keep ( heat )
+
+Sentence 3: after the three minutes are past you then need to take the mixture off the heat and add the chocolate chips and keep stirring so the mixture becomes nice and smooth
+dobj:  take ( mixture )
+dobj:  add ( chips )
+
+Sentence 4: at this point you will then need to add in the extract that you plan on using and stir again so everything is very well mixed
+
+Sentence 5: the final step is to put the mixture into the refrigerator for 90 minutes to two hours and then shape it into balls that are approximately one inch in diameter before rolling them in the nuts to ensure they are very well covered
+dobj:  put ( mixture )
+dobj:  shape ( it )
+dobj:  rolling ( them )
+dobj:  ensure ( they )
+
+Sentence 6: the truffles should then be placed back into the refrigerator until you are ready to serve them to ensure they keep their consistency as room temperature for a prolonged period of time will not be good for them
+nsubjpass:  placed ( truffles )
+dobj:  serve ( them )
+dobj:  keep ( consistency )
+
+text_num: 63 total sentences: 17  total words: 190
+
+Sentence 0: process the tofu in the blender until it takes a creamy liquid consistency
+dobj:  process ( tofu )
+dobj:  takes ( consistency )
+
+Sentence 1: set aside
+
+Sentence 2: in your skillet saut¨¦ the scallions mushrooms bell pepper and corn in 1 tablespoon olive oil for about 3 to 5 minutes
+
+Sentence 3: add the cumin and garlic into the skillet
+dobj:  add ( cumin )
+
+Sentence 4: cook for another minute
+
+Sentence 5: remove mixture from heat and place in a bowl
+dobj:  remove ( mixture )
+
+Sentence 6: add in the tofu potato carrot salt and pepper
+
+Sentence 7: add some bread crumbs and mix well
+dobj:  add ( crumbs )
+
+Sentence 8: add more bread crumbs until the ingredients hold together
+dobj:  add ( crumbs )
+
+Sentence 9: depending on the size of the patties you should be able to make 4 to 6 patties
+dobj:  make ( patties )
+
+Sentence 10: place the patties in the refrigerator for 1 hour
+dobj:  place ( patties )
+
+Sentence 11: heat the remaining 2 tablespoons of olive oil in your skillet and fry your patties there
+dobj:  heat ( tablespoons )
+dobj:  fry ( patties )
+
+Sentence 12: after around three minutes turn the patties over to brown the other side
+dobj:  turn ( patties )
+dobj:  brown ( side )
+
+Sentence 13: assemble your burger by slicing each bun in half
+dobj:  assemble ( burger )
+dobj:  slicing ( bun )
+
+Sentence 14: top the bun half with 1 patty lettuce tomato or other garnishing of your choice then cover with the other half of the bun
+dobj:  top ( half )
+
+Sentence 15: you may wish to toast the buns lightly in an oven toaster first before assembling your sandwich
+dobj:  toast ( buns )
+dobj:  assembling ( sandwich )
+
+Sentence 16: serve immediately.

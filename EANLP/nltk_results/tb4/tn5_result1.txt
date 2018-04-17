@@ -1,0 +1,852 @@
+Tagging for total 120 sentences with nltk methods
+
+Sentence: 1
+tagged_sent: [('are', 'VBP'), ('your', 'PRP$'), ('friends', 'NNS'), ('always', 'RB'), ('throwing', 'VBG'), ('around', 'IN'), ('tv', 'NN'), ('show', 'NN'), ('catchphrases', 'NNS'), ('or', 'CC'), ('famous', 'JJ'), ('movie', 'NN'), ('linesdo', 'NN'), ('the', 'DT'), ('shows', 'NNS'), ('you', 'PRP'), ('watch', 'VBP'), ('throw', 'NN'), ('in', 'IN'), ('a', 'DT'), ('joke', 'NN'), ('about', 'IN'), ('another', 'DT'), ('show', 'NN'), ('movie', 'NN'), ('or', 'CC'), ('celebrity', 'NN')]
+myvp: [['are', 'friends'], ['throwing', 'tv', 'show', 'catchphrases'], ['watch', 'throw']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['are', '', '', '', 'throwing', '', '', '', '', '', '', '', '', '', '', '', 'watch', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 2
+tagged_sent: [('do', 'VBP'), ('you', 'PRP'), ('always', 'RB'), ('fail', 'VBP'), ('to', 'TO'), ('understand', 'VB'), ('what', 'WP'), ('is', 'VBZ'), ('being', 'VBG'), ('talked', 'VBN'), ('about', 'IN')]
+myvp: [['do', 'you']]
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0]
+temp_tag_act: ['do', '', '', 'fail', '', 'understand', '', '', 'being', 'talked', '']
+
+Sentence: 3
+tagged_sent: [('then', 'RB'), ('read', 'VBD'), ('on', 'IN'), ('so', 'RB'), ('you', 'PRP'), ('can', 'MD'), ('always', 'RB'), ('see', 'VB'), ('when', 'WRB'), ('a', 'DT'), ('pop', 'NN'), ('culture', 'NN'), ('reference', 'NN'), ('is', 'VBZ'), ('being', 'VBG'), ('dropped', 'VBN')]
+myvp: []
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1]
+temp_tag_act: ['', 'read', '', '', '', '', '', 'see', '', '', '', '', '', '', 'being', 'dropped']
+
+Sentence: 4
+tagged_sent: [('research', 'NN'), ('while', 'IN'), ('a', 'DT'), ('goodfellas', 'NN'), ('line', 'NN'), ('or', 'CC'), ('joke', 'VB'), ('may', 'MD'), ('be', 'VB'), ('thrown', 'VBN'), ('around', 'RP'), ('in', 'IN'), ('other', 'JJ'), ('media', 'NNS'), ('its', 'PRP$'), ('highly', 'RB'), ('unlikely', 'RB'), ('that', 'IN'), ('something', 'NN'), ('as', 'IN'), ('trivial', 'JJ'), ('as', 'IN'), ('pretty', 'RB'), ('little', 'JJ'), ('liars', 'NNS'), ('will', 'MD'), ('be', 'VB'), ('referenced', 'VBN'), ('anywhere', 'RB'), ('else', 'RB')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'joke', '', 'be', 'thrown', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'be', 'referenced', '', '']
+
+Sentence: 5
+tagged_sent: [('read', 'NN'), ('gossip', 'NN'), ('or', 'CC'), ('celebrity', 'NN'), ('news', 'NN'), ('sitesyou', 'PRP'), ('dont', 'VBP'), ('have', 'VBP'), ('to', 'TO'), ('do', 'VB'), ('enough', 'RB'), ('so', 'RB'), ('that', 'IN'), ('you', 'PRP'), ('turn', 'VBP'), ('into', 'IN'), ('a', 'DT'), ('pop', 'NN'), ('culture', 'NN'), ('dud', 'NN'), ('like', 'IN'), ('kelly', 'RB'), ('kapoor', 'JJ'), ('but', 'CC'), ('just', 'RB'), ('enough', 'RB'), ('so', 'RB'), ('that', 'IN'), ('even', 'RB'), ('though', 'IN'), ('everyone', 'NN'), ('else', 'RB'), ('knows', 'VBZ'), ('about', 'IN'), ('the', 'DT'), ('kardashians', 'NNS'), ('you', 'PRP'), ('know', 'VBP'), ('some', 'DT'), ('trivia', 'NN'), ('and', 'CC'), ('fun', 'NN'), ('facts', 'NNS'), ('about', 'IN'), ('them', 'PRP')]
+myvp: [['turn', 'pop', 'culture', 'dud'], ['know', 'trivia']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'dont', 'have', '', 'do', '', '', '', '', 'turn', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'know', '', '', '', '', '', '', '']
+
+Sentence: 6
+tagged_sent: [('look', 'NN'), ('up', 'IN'), ('whats', 'NNS'), ('trending', 'VBG'), ('now', 'RB'), ('on', 'IN'), ('line', 'NN'), ('to', 'TO'), ('keep', 'VB'), ('really', 'RB'), ('up', 'IN'), ('to', 'TO'), ('date', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'trending', '', '', '', '', 'keep', '', '', '', '']
+
+Sentence: 7
+tagged_sent: [('remember', 'NN'), ('clothes', 'NNS'), ('food', 'NN'), ('accessories', 'NNS'), ('websites', 'VBZ'), ('memes', 'NNS'), ('and', 'CC'), ('much', 'RB'), ('more', 'RBR'), ('are', 'VBP'), ('included', 'VBN'), ('in', 'IN'), ('pop', 'NN'), ('culture', 'NN'), ('and', 'CC'), ('could', 'MD'), ('be', 'VB'), ('referenced', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('media', 'NNS')]
+myvp: [['included', 'pop', 'culture'], ['referenced', 'media']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'are', 'included', '', '', '', '', '', 'be', 'referenced', '', '', '']
+
+Sentence: 8
+tagged_sent: [('remember', 'NN'), ('very', 'RB'), ('little', 'JJ'), ('pop', 'NN'), ('culture', 'NN'), ('is', 'VBZ'), ('globalwhats', 'NNS'), ('popular', 'JJ'), ('in', 'IN'), ('japan', 'NN'), ('may', 'MD'), ('never', 'RB'), ('see', 'VB'), ('the', 'DT'), ('light', 'NN'), ('of', 'IN'), ('day', 'NN'), ('in', 'IN'), ('the', 'DT'), ('uk', 'NN')]
+myvp: [['see', 'light']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', 'see', '', '', '', '', '', '', '']
+
+Sentence: 9
+tagged_sent: [('indian', 'JJ'), ('pop', 'NN'), ('culture', 'NN'), ('has', 'VBZ'), ('many', 'JJ'), ('differences', 'NNS'), ('to', 'TO'), ('us', 'PRP'), ('pop', 'VB'), ('culture', 'NN'), ('and', 'CC'), ('some', 'DT'), ('countries', 'NNS'), ('might', 'MD'), ('just', 'RB'), ('be', 'VB'), ('jumping', 'VBG'), ('onto', 'IN'), ('a', 'DT'), ('band', 'NN'), ('wagon', 'NN'), ('when', 'WRB'), ('the', 'DT'), ('rest', 'NN'), ('of', 'IN'), ('the', 'DT'), ('world', 'NN'), ('has', 'VBZ'), ('got', 'VBN'), ('off', 'RP')]
+myvp: [['pop', 'culture']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', 'pop', '', '', '', '', '', '', 'pop', '', '', '', '', '', '', 'be', 'jumping', '', '', '', '', '', '', '', '', '', '', '', 'got', '']
+
+Sentence: 10
+tagged_sent: [('if', 'IN'), ('you', 'PRP'), ('watch', 'VBP'), ('a', 'DT'), ('diverse', 'JJ'), ('range', 'NN'), ('of', 'IN'), ('tv', 'NN'), ('shows', 'NNS'), ('movies', 'NNS'), ('and', 'CC'), ('internet', 'NN'), ('videos', 'NNS'), ('there', 'EX'), ('is', 'VBZ'), ('a', 'DT'), ('good', 'JJ'), ('chance', 'NN'), ('there', 'EX'), ('will', 'MD'), ('be', 'VB'), ('pop', 'VB'), ('culture', 'NN'), ('references', 'NNS'), ('you', 'PRP'), ('will', 'MD'), ('never', 'RB'), ('catch', 'VB'), ('because', 'IN'), ('youre', 'NN'), ('not', 'RB'), ('part', 'NN'), ('of', 'IN'), ('that', 'DT'), ('culture', 'NN'), ('and', 'CC'), ('you', 'PRP'), ('shouldnt', 'VBP'), ('worry', 'JJ'), ('about', 'IN'), ('it', 'PRP')]
+myvp: [['watch', 'range'], ['pop', 'culture', 'references'], ['catch', 'youre']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', 'watch', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'be', 'pop', '', '', '', '', '', 'catch', '', '', '', '', '', '', '', '', '', 'shouldnt', '', '', '']
+
+Sentence: 11
+tagged_sent: [('watch', 'NN'), ('the', 'DT'), ('reactions', 'NNS'), ('of', 'IN'), ('those', 'DT'), ('around', 'IN'), ('you', 'PRP'), ('if', 'IN'), ('you', 'PRP'), ('find', 'VBP'), ('youre', 'NN'), ('not', 'RB'), ('catching', 'VBG'), ('pop', 'NN'), ('culture', 'NN'), ('references', 'NNS'), ('in', 'IN'), ('public', 'JJ')]
+myvp: [['find', 'youre'], ['catching', 'pop', 'culture', 'references']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'find', '', '', 'catching', '', '', '', '', '']
+
+Sentence: 12
+tagged_sent: [('if', 'IN'), ('you', 'PRP'), ('appear', 'VBP'), ('not', 'RB'), ('to', 'TO'), ('be', 'VB'), ('the', 'DT'), ('only', 'JJ'), ('one', 'CD'), ('who', 'WP'), ('doesnt', 'NN'), ('catch', 'VBP'), ('it', 'PRP'), ('must', 'MD'), ('its', 'PRP$'), ('not', 'RB'), ('that', 'IN'), ('popular', 'JJ'), ('after', 'IN'), ('all', 'DT'), ('and', 'CC'), ('not', 'RB'), ('worth', 'JJ'), ('trying', 'VBG'), ('to', 'TO'), ('figure', 'VB'), ('out', 'RP')]
+myvp: [['catch', 'it']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag_act: ['', '', 'appear', '', '', 'be', '', '', '', '', '', 'catch', '', '', '', '', '', '', '', '', '', '', '', 'trying', '', 'figure', '']
+
+Sentence: 13
+tagged_sent: [('this', 'DT'), ('is', 'VBZ'), ('important', 'JJ'), ('because', 'IN'), ('even', 'RB'), ('if', 'IN'), ('you', 'PRP'), ('dont', 'VBP'), ('understand', 'VBP'), ('a', 'DT'), ('line', 'NN'), ('you', 'PRP'), ('could', 'MD'), ('google', 'VB'), ('a', 'DT'), ('little', 'RB'), ('backstory', 'NN'), ('and', 'CC'), ('be', 'VB'), ('able', 'JJ'), ('to', 'TO'), ('use', 'VB'), ('it', 'PRP')]
+myvp: [['understand', 'line'], ['use', 'it']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'dont', 'understand', '', '', '', '', 'google', '', '', '', '', 'be', '', '', 'use', '']
+
+Sentence: 14
+tagged_sent: [('watch', 'NN'), ('tv', 'NN'), ('showstherefore', 'NN'), ('they', 'PRP'), ('usually', 'RB'), ('explain', 'VB'), ('the', 'DT'), ('lines', 'NNS'), ('or', 'CC'), ('references', 'NNS'), ('theyre', 'VBP'), ('throwing', 'VBG'), ('out', 'RP'), ('within', 'IN'), ('the', 'DT'), ('show', 'NN'), ('making', 'VBG'), ('your', 'PRP$'), ('job', 'NN'), ('even', 'RB'), ('easier', 'JJR')]
+myvp: [['explain', 'lines'], ['making', 'job']]
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'explain', '', '', '', '', 'theyre', 'throwing', '', '', '', '', 'making', '', '', '', '']
+
+Sentence: 15
+tagged_sent: [('hydraulic', 'JJ'), ('jacks', 'NNS'), ('are', 'VBP'), ('used', 'VBN'), ('to', 'TO'), ('lift', 'VB'), ('heavy', 'JJ'), ('objects', 'NNS'), ('such', 'JJ'), ('as', 'IN'), ('cars', 'NNS')]
+myvp: [['lift', 'objects']]
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'are', 'used', '', 'lift', '', '', '', '', '']
+
+Sentence: 16
+tagged_sent: [('hydraulic', 'JJ'), ('jacks', 'NNS'), ('require', 'VBP'), ('fluid', 'JJ'), ('to', 'TO'), ('push', 'VB'), ('the', 'DT'), ('pistons', 'NNS'), ('that', 'WDT'), ('lift', 'NN'), ('heavy', 'NN'), ('objects', 'NNS'), ('off', 'IN'), ('of', 'IN'), ('the', 'DT'), ('ground', 'NN')]
+myvp: [['push', 'pistons']]
+label:    [0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'require', '', '', 'push', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 17
+tagged_sent: [('you', 'PRP'), ('can', 'MD'), ('purchase', 'VB'), ('a', 'DT'), ('hydraulic', 'JJ'), ('jack', 'NN'), ('and', 'CC'), ('the', 'DT'), ('oil', 'NN'), ('required', 'VBD'), ('to', 'TO'), ('make', 'VB'), ('it', 'PRP'), ('function', 'NN'), ('at', 'IN'), ('an', 'DT'), ('auto', 'NN'), ('parts', 'NNS'), ('store', 'VBP')]
+myvp: [['purchase', 'jack'], ['make', 'it']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', 'purchase', '', '', '', '', '', '', 'required', '', 'make', '', '', '', '', '', '', 'store']
+
+Sentence: 18
+tagged_sent: [('use', 'NN'), ('these', 'DT'), ('tips', 'NNS'), ('to', 'TO'), ('add', 'VB'), ('oil', 'NN'), ('to', 'TO'), ('a', 'DT'), ('hydraulic', 'JJ'), ('jack', 'NN')]
+myvp: [['add', 'oil']]
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'add', '', '', '', '', '']
+
+Sentence: 19
+tagged_sent: [('a', 'DT'), ('floor', 'NN'), ('jack', 'NN'), ('has', 'VBZ'), ('a', 'DT'), ('piston', 'NN'), ('that', 'WDT'), ('operates', 'VBZ'), ('in', 'IN'), ('a', 'DT'), ('horizontal', 'JJ'), ('motiona', 'NN'), ('bottle', 'NN'), ('jack', 'NN'), ('features', 'NNS'), ('a', 'DT'), ('piston', 'NN'), ('that', 'WDT'), ('moves', 'VBZ'), ('vertically', 'RB')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 20
+tagged_sent: [('add', 'NN'), ('oil', 'NN'), ('to', 'TO'), ('a', 'DT'), ('hydraulic', 'JJ'), ('floor', 'NN'), ('jack', 'NN'), ('ensure', 'NN'), ('that', 'WDT'), ('the', 'DT'), ('jack', 'NN'), ('is', 'VBZ'), ('completely', 'RB'), ('lowered', 'VBN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', 'lowered']
+
+Sentence: 21
+tagged_sent: [('turn', 'NN'), ('the', 'DT'), ('jacks', 'NNS'), ('release', 'VBP'), ('valve', 'JJ'), ('counterclockwise', 'NN'), ('to', 'TO'), ('lower', 'JJR'), ('the', 'DT'), ('jack', 'NN'), ('if', 'IN'), ('necessary', 'JJ')]
+myvp: [['release', 'counterclockwise']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'release', '', '', '', '', '', '', '', '']
+
+Sentence: 22
+tagged_sent: [('locate', 'NN'), ('the', 'DT'), ('oil', 'NN'), ('filler', 'NN'), ('portthe', 'NN'), ('reservoir', 'NN'), ('is', 'VBZ'), ('the', 'DT'), ('vertical', 'JJ'), ('cylinder', 'NN'), ('mounted', 'VBN'), ('on', 'IN'), ('the', 'DT'), ('flat', 'JJ'), ('base', 'NN'), ('of', 'IN'), ('the', 'DT'), ('jack', 'NN')]
+myvp: [['mounted', 'base']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'mounted', '', '', '', '', '', '', '']
+
+Sentence: 23
+tagged_sent: [('add', 'NN'), ('the', 'DT'), ('oilremove', 'NN'), ('the', 'DT'), ('plug', 'NN'), ('or', 'CC'), ('screw', 'VB'), ('from', 'IN'), ('the', 'DT'), ('oil', 'NN'), ('filler', 'NN'), ('port', 'NN')]
+myvp: [['screw', 'oil', 'filler', 'port']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'screw', '', '', '', '', '']
+
+Sentence: 24
+tagged_sent: [('insert', 'NN'), ('the', 'DT'), ('nozzle', 'NN'), ('of', 'IN'), ('the', 'DT'), ('oilcan', 'NN'), ('into', 'IN'), ('the', 'DT'), ('oil', 'NN'), ('filler', 'NN'), ('portpour', 'NN'), ('oil', 'NN'), ('into', 'IN'), ('the', 'DT'), ('oil', 'NN'), ('filler', 'NN'), ('port', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 25
+tagged_sent: [('stop', 'NN'), ('pouring', 'VBG'), ('the', 'DT'), ('oil', 'NN'), ('as', 'IN'), ('soon', 'RB'), ('as', 'IN'), ('it', 'PRP'), ('begins', 'VBZ'), ('to', 'TO'), ('leak', 'VB'), ('out', 'RP'), ('of', 'IN'), ('the', 'DT'), ('oil', 'NN'), ('filler', 'NN'), ('port', 'NN')]
+myvp: [['pouring', 'oil']]
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'pouring', '', '', '', '', '', '', '', '', 'leak', '', '', '', '', '', '']
+
+Sentence: 26
+tagged_sent: [('close', 'JJ'), ('the', 'DT'), ('oil', 'NN'), ('filler', 'NN'), ('portreplace', 'NN'), ('the', 'DT'), ('plug', 'NN'), ('or', 'CC'), ('screw', 'VB'), ('in', 'IN'), ('the', 'DT'), ('oil', 'NN'), ('filler', 'NN'), ('port', 'NN')]
+myvp: [['screw', 'oil', 'filler', 'port']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'screw', '', '', '', '', '']
+
+Sentence: 27
+tagged_sent: [('add', 'NN'), ('oil', 'NN'), ('to', 'TO'), ('a', 'DT'), ('hydraulic', 'JJ'), ('bottle', 'NN'), ('jack', 'NN'), ('ensure', 'NN'), ('that', 'WDT'), ('the', 'DT'), ('jack', 'NN'), ('is', 'VBZ'), ('completely', 'RB'), ('lowered', 'VBN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', 'lowered']
+
+Sentence: 28
+tagged_sent: [('turn', 'NN'), ('the', 'DT'), ('jacks', 'NNS'), ('release', 'VBP'), ('valve', 'JJ'), ('counterclockwise', 'NN'), ('to', 'TO'), ('lower', 'JJR'), ('the', 'DT'), ('jack', 'NN'), ('if', 'IN'), ('necessary', 'JJ')]
+myvp: [['release', 'counterclockwise']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'release', '', '', '', '', '', '', '', '']
+
+Sentence: 29
+tagged_sent: [('there', 'EX'), ('should', 'MD'), ('be', 'VB'), ('a', 'DT'), ('plug', 'NN'), ('or', 'CC'), ('screw', 'VB'), ('approximately', 'RB'), ('1/3', 'CD'), ('of', 'IN'), ('the', 'DT'), ('way', 'NN'), ('down', 'IN'), ('from', 'IN'), ('the', 'DT'), ('top', 'JJ'), ('of', 'IN'), ('the', 'DT'), ('reservoiradd', 'NN'), ('the', 'DT'), ('oil', 'NN')]
+myvp: [['be', 'plug']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'be', '', '', '', 'screw', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 30
+tagged_sent: [('remove', 'IN'), ('the', 'DT'), ('plug', 'NN'), ('or', 'CC'), ('screw', 'VB'), ('from', 'IN'), ('the', 'DT'), ('filler', 'NN'), ('hole', 'NN')]
+myvp: [['screw', 'filler', 'hole']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'screw', '', '', '', '']
+
+Sentence: 31
+tagged_sent: [('pour', 'PRP$'), ('oil', 'NN'), ('into', 'IN'), ('the', 'DT'), ('filler', 'NN'), ('holestop', 'NN'), ('pouring', 'VBG'), ('the', 'DT'), ('oil', 'NN'), ('once', 'RB'), ('it', 'PRP'), ('has', 'VBZ'), ('risen', 'VBN'), ('to', 'TO'), ('a', 'DT'), ('level', 'NN'), ('1/8', 'CD'), ('inch', 'NN'), ('3', 'CD'), ('cm', 'NN'), ('beneath', 'NN'), ('the', 'DT'), ('filler', 'NN'), ('hole', 'NN')]
+myvp: [['pouring', 'oil']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'pouring', '', '', '', '', '', 'risen', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 32
+tagged_sent: [('replace', 'NN'), ('the', 'DT'), ('plug', 'NN'), ('or', 'CC'), ('screw', 'VB'), ('in', 'IN'), ('the', 'DT'), ('filler', 'NN'), ('hole', 'NN')]
+myvp: [['screw', 'filler', 'hole']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'screw', '', '', '', '']
+
+Sentence: 33
+tagged_sent: [('do', 'VBP'), ('you', 'PRP'), ('have', 'VB'), ('dsl', 'JJ'), ('or', 'CC'), ('dial-up', 'JJ'), ('internet', 'NN'), ('but', 'CC'), ('just', 'RB'), ('dont', 'VBP'), ('have', 'VBP'), ('the', 'DT'), ('patience', 'NN'), ('or', 'CC'), ('time', 'NN'), ('to', 'TO'), ('let', 'VB'), ('your', 'PRP$'), ('computer', 'NN'), ('run', 'VBN'), ('so', 'RB'), ('slow', 'JJ')]
+myvp: [['do', 'you'], ['have', 'patience'], ['let', 'computer']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag_act: ['do', '', 'have', '', '', '', '', '', '', 'dont', 'have', '', '', '', '', '', 'let', '', '', 'run', '', '']
+
+Sentence: 34
+tagged_sent: [('sometimes', 'RB'), ('you', 'PRP'), ('just', 'RB'), ('have', 'VBP'), ('to', 'TO'), ('face', 'VB'), ('the', 'DT'), ('facts', 'NNS'), ('and', 'CC'), ('accept', 'VB'), ('that', 'IN'), ('your', 'PRP$'), ('computer', 'NN'), ('just', 'RB'), ('isnt', 'NN'), ('the', 'DT'), ('fastest', 'JJS'), ('in', 'IN'), ('the', 'DT'), ('world', 'NN')]
+myvp: [['face', 'facts']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'have', '', 'face', '', '', '', 'accept', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 35
+tagged_sent: [('dont', 'NN'), ('click', 'VBD'), ('anything', 'NN'), ('too', 'RB'), ('fast', 'RB'), ('or', 'CC'), ('try', 'NN'), ('to', 'TO'), ('refresh', 'VB'), ('the', 'DT'), ('page', 'NN')]
+myvp: [['click', 'anything'], ['refresh', 'page']]
+label:    [0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'click', '', '', '', '', '', '', 'refresh', '', '']
+
+Sentence: 36
+tagged_sent: [('this', 'DT'), ('will', 'MD'), ('just', 'RB'), ('confuse', 'VB'), ('the', 'DT'), ('computer', 'NN'), ('and', 'CC'), ('it', 'PRP'), ('will', 'MD'), ('run', 'VB'), ('even', 'RB'), ('slower', 'JJR')]
+myvp: [['confuse', 'computer']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', 'confuse', '', '', '', '', '', 'run', '', '']
+
+Sentence: 37
+tagged_sent: [('dont', 'NN'), ('overreact', 'NN'), ('just', 'RB'), ('leave', 'VBP'), ('the', 'DT'), ('computer', 'NN'), ('alone', 'NN'), ('dont', 'NN'), ('click', 'NN'), ('anything', 'NN'), ('the', 'DT'), ('best', 'JJS'), ('thing', 'NN'), ('to', 'TO'), ('do', 'VB'), ('is', 'VBZ'), ('just', 'RB'), ('to', 'TO'), ('let', 'VB'), ('it', 'PRP'), ('load', 'VB')]
+myvp: [['let', 'it']]
+label:    [0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1]
+temp_tag_act: ['', '', '', 'leave', '', '', '', '', '', '', '', '', '', '', 'do', '', '', '', 'let', '', 'load']
+
+Sentence: 38
+tagged_sent: [('the', 'DT'), ('more', 'RBR'), ('documents', 'NNS'), ('you', 'PRP'), ('get', 'VBP'), ('rid', 'VBN'), ('of', 'IN'), ('the', 'DT'), ('more', 'RBR'), ('empty', 'JJ'), ('space', 'NN'), ('you', 'PRP'), ('will', 'MD'), ('have', 'VB'), ('on', 'IN'), ('the', 'DT'), ('computerhaving', 'NN'), ('more', 'JJR'), ('space', 'NN'), ('on', 'IN'), ('your', 'PRP$'), ('computer', 'NN'), ('will', 'MD'), ('allow', 'VB'), ('everything', 'NN'), ('to', 'TO'), ('run', 'VB'), ('faster', 'JJR')]
+myvp: [['have', 'computerhaving'], ['allow', 'everything']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', 'get', 'rid', '', '', '', '', '', '', '', 'have', '', '', '', '', '', '', '', '', '', 'allow', '', '', 'run', '']
+
+Sentence: 39
+tagged_sent: [('clear', 'JJ'), ('your', 'PRP$'), ('recycle', 'NN'), ('bin', 'NN'), ('every', 'DT'), ('once', 'RB'), ('in', 'IN'), ('a', 'DT'), ('while', 'NN'), ('to', 'TO'), ('delete', 'VB'), ('unnecessary', 'JJ'), ('filesavoid', 'NN'), ('opening', 'VBG'), ('up', 'RP'), ('several', 'JJ'), ('tabs', 'NNS'), ('at', 'IN'), ('once', 'RB')]
+myvp: [['delete', 'filesavoid']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'delete', '', '', 'opening', '', '', '', '', '']
+
+Sentence: 40
+tagged_sent: [('opening', 'VBG'), ('up', 'IN'), ('more', 'JJR'), ('then', 'RB'), ('two', 'CD'), ('or', 'CC'), ('three', 'CD'), ('of', 'IN'), ('those', 'DT'), ('aforementioned', 'VBN'), ('tabs', 'NNS'), ('will', 'MD'), ('discombobulate', 'VB'), ('your', 'PRP$'), ('computer', 'NN')]
+myvp: [['aforementioned', 'tabs'], ['discombobulate', 'computer']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag_act: ['opening', '', '', '', '', '', '', '', '', 'aforementioned', '', '', 'discombobulate', '', '']
+
+Sentence: 41
+tagged_sent: [('clicking', 'VBG'), ('back', 'RB'), ('and', 'CC'), ('forth', 'JJ'), ('between', 'IN'), ('several', 'JJ'), ('tabs', 'NNS'), ('probably', 'RB'), ('wont', 'VBP'), ('happen', 'VBN'), ('either', 'DT')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+temp_tag_act: ['clicking', '', '', '', '', '', '', '', 'wont', 'happen', '']
+
+Sentence: 42
+tagged_sent: [('save', 'NN'), ('everything', 'NN'), ('you', 'PRP'), ('work', 'VB'), ('on', 'IN'), ('several', 'JJ'), ('times', 'NNS')]
+myvp: [['work', 'times']]
+label:    [0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'work', '', '', '']
+
+Sentence: 43
+tagged_sent: [('the', 'DT'), ('last', 'JJ'), ('thing', 'NN'), ('you', 'PRP'), ('want', 'VBP'), ('is', 'VBZ'), ('to', 'TO'), ('have', 'VB'), ('your', 'PRP$'), ('computer', 'NN'), ('crash', 'NN'), ('as', 'RB'), ('you', 'PRP'), ('top', 'VBP'), ('off', 'RP'), ('that', 'IN'), ('10-page', 'JJ'), ('essay', 'NN')]
+myvp: [['have', 'computer', 'crash']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'want', '', '', 'have', '', '', '', '', '', 'top', '', '', '', '']
+
+Sentence: 44
+tagged_sent: [('consider', 'NN'), ('using', 'VBG'), ('the', 'DT'), ('internet', 'NN'), ('when', 'WRB'), ('everyone', 'NN'), ('in', 'IN'), ('your', 'PRP$'), ('household', 'NN'), ('is', 'VBZ'), ('asleep', 'VB'), ('or', 'CC'), ('essentially', 'RB'), ('not', 'RB'), ('using', 'VBG'), ('the', 'DT'), ('internet', 'NN')]
+myvp: [['using', 'internet'], ['using', 'internet']]
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'using', '', '', '', '', '', '', '', '', 'asleep', '', '', '', 'using', '', '']
+
+Sentence: 45
+tagged_sent: [('if', 'IN'), ('you', 'PRP'), ('have', 'VBP'), ('dial-up', 'JJ'), ('internet', 'NN'), ('it', 'PRP'), ('can', 'MD'), ('take', 'VB'), ('up', 'RP'), ('to', 'TO'), ('half', 'DT'), ('an', 'DT'), ('hour', 'NN'), ('to', 'TO'), ('load', 'VB'), ('one', 'CD'), ('to', 'TO'), ('two-minute', 'JJ'), ('video', 'NN')]
+myvp: [['have', 'internet']]
+label:    [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'have', '', '', '', '', 'take', '', '', '', '', '', '', 'load', '', '', '', '']
+
+Sentence: 46
+tagged_sent: [('unless', 'IN'), ('you', 'PRP'), ('can', 'MD'), ('leave', 'VB'), ('your', 'PRP$'), ('computer', 'NN'), ('alone', 'NN'), ('for', 'IN'), ('hours', 'NNS'), ('to', 'TO'), ('let', 'VB'), ('it', 'PRP'), ('load', 'VB'), ('just', 'RB'), ('forget', 'VB'), ('about', 'IN'), ('it', 'PRP')]
+myvp: [['leave', 'computer', 'alone'], ['let', 'it'], ['forget', 'it']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', 'leave', '', '', '', '', '', '', 'let', '', 'load', '', 'forget', '', '']
+
+Sentence: 47
+tagged_sent: [('setting', 'VBG'), ('goals', 'NNS'), ('can', 'MD'), ('help', 'VB'), ('you', 'PRP'), ('stay', 'VB'), ('on', 'RP'), ('top', 'JJ'), ('of', 'IN'), ('your', 'PRP$'), ('studies', 'NNS'), ('and', 'CC'), ('earn', 'VB'), ('good', 'JJ'), ('grades', 'NNS'), ('but', 'CC'), ('its', 'PRP$'), ('important', 'JJ'), ('to', 'TO'), ('set', 'VB'), ('the', 'DT'), ('right', 'NN'), ('kinds', 'NNS'), ('of', 'IN'), ('goals', 'NNS')]
+myvp: [['setting', 'goals'], ['help', 'you'], ['earn', 'grades'], ['set', 'right', 'kinds']]
+label:    [0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['setting', '', '', 'help', '', 'stay', '', '', '', '', '', '', 'earn', '', '', '', '', '', '', 'set', '', '', '', '', '']
+
+Sentence: 48
+tagged_sent: [('setting', 'VBG'), ('unrealistic', 'JJ'), ('goals', 'NNS'), ('could', 'MD'), ('set', 'VB'), ('you', 'PRP'), ('up', 'RP'), ('for', 'IN'), ('disappointment', 'NN'), ('and', 'CC'), ('frustration', 'NN'), ('while', 'IN'), ('setting', 'VBG'), ('goals', 'NNS'), ('that', 'WDT'), ('are', 'VBP'), ('too', 'RB'), ('easy', 'JJ'), ('will', 'MD'), ('not', 'RB'), ('challenge', 'VB'), ('you', 'PRP'), ('to', 'TO'), ('your', 'PRP$'), ('full', 'JJ'), ('potential', 'JJ')]
+myvp: [['setting', 'goals'], ['set', 'you'], ['setting', 'goals'], ['challenge', 'you']]
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['setting', '', '', '', 'set', '', '', '', '', '', '', '', 'setting', '', '', 'are', '', '', '', '', 'challenge', '', '', '', '', '']
+
+Sentence: 49
+tagged_sent: [('learning', 'VBG'), ('how', 'WRB'), ('to', 'TO'), ('create', 'VB'), ('and', 'CC'), ('work', 'VB'), ('towards', 'NNS'), ('attainable', 'JJ'), ('goals', 'NNS'), ('can', 'MD'), ('help', 'VB'), ('you', 'PRP'), ('succeed', 'VB'), ('in', 'IN'), ('school', 'NN'), ('and', 'CC'), ('in', 'IN'), ('life', 'NN')]
+myvp: [['work', 'towards'], ['help', 'you'], ['succeed', 'school']]
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['learning', '', '', 'create', '', 'work', '', '', '', '', 'help', '', 'succeed', '', '', '', '', '']
+
+Sentence: 50
+tagged_sent: [('setting', 'VBG'), ('yourself', 'PRP'), ('up', 'RP'), ('for', 'IN'), ('success', 'NN'), ('there', 'EX'), ('are', 'VBP'), ('many', 'JJ'), ('possible', 'JJ'), ('goals', 'NNS'), ('you', 'PRP'), ('could', 'MD'), ('set', 'VB'), ('but', 'CC'), ('the', 'DT'), ('type', 'NN'), ('of', 'IN'), ('goal', 'NN'), ('refers', 'NNS'), ('to', 'TO'), ('how', 'WRB'), ('youll', 'JJ'), ('measure', 'NN'), ('your', 'PRP$'), ('progress', 'NN'), ('and', 'CC'), ('success', 'NN')]
+myvp: [['setting', 'yourself']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['setting', '', '', '', '', '', 'are', '', '', '', '', '', 'set', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 51
+tagged_sent: [('process', 'NN'), ('goals', 'NNS'), ('focus', 'VBZ'), ('on', 'IN'), ('the', 'DT'), ('work', 'NN'), ('that', 'IN'), ('youll', 'NN'), ('do', 'VBP'), ('within', 'IN'), ('a', 'DT'), ('given', 'VBN'), ('time', 'NN'), ('periodan', 'NN'), ('example', 'NN'), ('of', 'IN'), ('a', 'DT'), ('process', 'NN'), ('goal', 'NN'), ('would', 'MD'), ('be', 'VB'), ('to', 'TO'), ('complete', 'VB'), ('and', 'CC'), ('submit', 'VB'), ('all', 'DT'), ('of', 'IN'), ('your', 'PRP$'), ('assignments', 'NNS'), ('on', 'IN'), ('time', 'NN'), ('this', 'DT'), ('week', 'NN')]
+myvp: [['given', 'time', 'periodan', 'example']]
+label:    [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'do', '', '', 'given', '', '', '', '', '', '', '', '', 'be', '', 'complete', '', 'submit', '', '', '', '', '', '', '', '']
+
+Sentence: 52
+tagged_sent: [('outcome', 'NN'), ('goals', 'NNS'), ('focus', 'VBZ'), ('on', 'IN'), ('the', 'DT'), ('results', 'NNS'), ('of', 'IN'), ('your', 'PRP$'), ('workan', 'NN'), ('example', 'NN'), ('of', 'IN'), ('an', 'DT'), ('outcome', 'NN'), ('goal', 'NN'), ('would', 'MD'), ('be', 'VB'), ('to', 'TO'), ('earn', 'VB'), ('a', 'DT'), ('grade', 'NN'), ('of', 'IN'), ('at', 'IN'), ('least', 'JJS'), ('90%', 'CD'), ('on', 'IN'), ('your', 'PRP$'), ('next', 'JJ'), ('test', 'NN')]
+myvp: [['earn', 'grade']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'be', '', 'earn', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 53
+tagged_sent: [('identify', 'NN'), ('the', 'DT'), ('reasons', 'NNS'), ('why', 'WRB'), ('your', 'PRP$'), ('goal', 'NN'), ('is', 'VBZ'), ('importanthaving', 'VBG'), ('a', 'DT'), ('goal', 'NN'), ('may', 'MD'), ('not', 'RB'), ('be', 'VB'), ('enough', 'RB'), ('to', 'TO'), ('keep', 'VB'), ('you', 'PRP'), ('motivated', 'VBD')]
+myvp: [['keep', 'you']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', 'importanthaving', '', '', '', '', 'be', '', '', 'keep', '', 'motivated']
+
+Sentence: 54
+tagged_sent: [('if', 'IN'), ('thats', 'NNS'), ('the', 'DT'), ('case', 'NN'), ('it', 'PRP'), ('may', 'MD'), ('be', 'VB'), ('important', 'JJ'), ('to', 'TO'), ('remind', 'VB'), ('yourself', 'PRP'), ('of', 'IN'), ('why', 'WRB'), ('that', 'IN'), ('goal', 'JJ'), ('is', 'VBZ'), ('meaningful', 'JJ'), ('to', 'TO'), ('you', 'PRP'), ('and', 'CC'), ('why', 'WRB'), ('you', 'PRP'), ('hope', 'VBP'), ('to', 'TO'), ('achieve', 'VB'), ('it', 'PRP')]
+myvp: [['remind', 'yourself'], ['achieve', 'it']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'be', '', '', 'remind', '', '', '', '', '', '', '', '', '', '', '', '', 'hope', '', 'achieve', '']
+
+Sentence: 55
+tagged_sent: [('reflecting', 'VBG'), ('on', 'IN'), ('the', 'DT'), ('outcome', 'NN'), ('of', 'IN'), ('that', 'DT'), ('goal', 'NN'), ('-', ':'), ('both', 'DT'), ('the', 'DT'), ('positive', 'JJ'), ('results', 'NNS'), ('if', 'IN'), ('you', 'PRP'), ('succeed', 'VBP'), ('and', 'CC'), ('the', 'DT'), ('negative', 'JJ'), ('results', 'NNS'), ('if', 'IN'), ('you', 'PRP'), ('dont', 'VBP'), ('-', ':'), ('may', 'MD'), ('help', 'VB'), ('you', 'PRP'), ('stay', 'VB'), ('more', 'JJR'), ('focused', 'VBN'), ('and', 'CC'), ('driven', 'RB'), ('over', 'IN'), ('time', 'NN')]
+myvp: [['reflecting', 'outcome'], ['help', 'you']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['reflecting', '', '', '', '', '', '', '', '', '', '', '', '', '', 'succeed', '', '', '', '', '', '', 'dont', '', '', 'help', '', 'stay', '', 'focused', '', '', '', '']
+
+Sentence: 56
+tagged_sent: [('identify', 'NN'), ('the', 'DT'), ('reasons', 'NNS'), ('why', 'WRB'), ('your', 'PRP$'), ('goal', 'NN'), ('is', 'VBZ'), ('importanthaving', 'VBG'), ('a', 'DT'), ('goal', 'NN'), ('may', 'MD'), ('not', 'RB'), ('be', 'VB'), ('enough', 'RB'), ('to', 'TO'), ('keep', 'VB'), ('you', 'PRP'), ('motivated', 'VBD')]
+myvp: [['keep', 'you']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', 'importanthaving', '', '', '', '', 'be', '', '', 'keep', '', 'motivated']
+
+Sentence: 57
+tagged_sent: [('if', 'IN'), ('thats', 'NNS'), ('the', 'DT'), ('case', 'NN'), ('it', 'PRP'), ('may', 'MD'), ('be', 'VB'), ('important', 'JJ'), ('to', 'TO'), ('remind', 'VB'), ('yourself', 'PRP'), ('of', 'IN'), ('why', 'WRB'), ('that', 'IN'), ('goal', 'JJ'), ('is', 'VBZ'), ('meaningful', 'JJ'), ('to', 'TO'), ('you', 'PRP'), ('and', 'CC'), ('why', 'WRB'), ('you', 'PRP'), ('hope', 'VBP'), ('to', 'TO'), ('achieve', 'VB'), ('it', 'PRP')]
+myvp: [['remind', 'yourself'], ['achieve', 'it']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'be', '', '', 'remind', '', '', '', '', '', '', '', '', '', '', '', '', 'hope', '', 'achieve', '']
+
+Sentence: 58
+tagged_sent: [('reflecting', 'VBG'), ('on', 'IN'), ('the', 'DT'), ('outcome', 'NN'), ('of', 'IN'), ('that', 'DT'), ('goal', 'NN'), ('-', ':'), ('both', 'DT'), ('the', 'DT'), ('positive', 'JJ'), ('results', 'NNS'), ('if', 'IN'), ('you', 'PRP'), ('succeed', 'VBP'), ('and', 'CC'), ('the', 'DT'), ('negative', 'JJ'), ('results', 'NNS'), ('if', 'IN'), ('you', 'PRP'), ('dont', 'VBP'), ('-', ':'), ('may', 'MD'), ('help', 'VB'), ('you', 'PRP'), ('stay', 'VB'), ('more', 'JJR'), ('focused', 'VBN'), ('and', 'CC'), ('driven', 'RB'), ('over', 'IN'), ('time', 'NN')]
+myvp: [['reflecting', 'outcome'], ['help', 'you']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['reflecting', '', '', '', '', '', '', '', '', '', '', '', '', '', 'succeed', '', '', '', '', '', '', 'dont', '', '', 'help', '', 'stay', '', 'focused', '', '', '', '']
+
+Sentence: 59
+tagged_sent: [('do', 'VBP'), ('you', 'PRP'), ('need', 'VBP'), ('to', 'TO'), ('do', 'VB'), ('well', 'RB'), ('in', 'IN'), ('a', 'DT'), ('class', 'NN'), ('to', 'TO'), ('pass', 'VB')]
+myvp: [['do', 'you']]
+label:    [1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag: [1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['do', '', 'need', '', 'do', '', '', '', '', '', 'pass']
+
+Sentence: 60
+tagged_sent: [('are', 'VBP'), ('you', 'PRP'), ('trying', 'VBG'), ('to', 'TO'), ('improve', 'VB'), ('your', 'PRP$'), ('grades', 'NNS'), ('overall', 'JJ')]
+myvp: [['are', 'you'], ['improve', 'grades']]
+label:    [0, 0, 1, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 1, 0, 1, 0, 0, 0]
+temp_tag_act: ['are', '', 'trying', '', 'improve', '', '', '']
+
+Sentence: 61
+tagged_sent: [('perhaps', 'RB'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('do', 'VB'), ('well', 'RB'), ('in', 'IN'), ('a', 'DT'), ('class', 'NN'), ('so', 'IN'), ('that', 'IN'), ('you', 'PRP'), ('can', 'MD'), ('eventually', 'RB'), ('seek', 'VB'), ('employment', 'NN'), ('in', 'IN'), ('a', 'DT'), ('related', 'JJ'), ('field', 'NN')]
+myvp: [['seek', 'employment']]
+label:    [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'want', '', 'do', '', '', '', '', '', '', '', '', '', 'seek', '', '', '', '', '']
+
+Sentence: 62
+tagged_sent: [('if', 'IN'), ('this', 'DT'), ('is', 'VBZ'), ('the', 'DT'), ('case', 'NN'), ('youll', 'NN'), ('want', 'NN'), ('to', 'TO'), ('learn', 'VB'), ('as', 'IN'), ('much', 'JJ'), ('as', 'IN'), ('possible', 'JJ'), ('in', 'IN'), ('that', 'DT'), ('class', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'learn', '', '', '', '', '', '', '']
+
+Sentence: 63
+tagged_sent: [('set', 'NN'), ('up', 'IN'), ('a', 'DT'), ('reward', 'NN'), ('system', 'NN'), ('to', 'TO'), ('stay', 'VB'), ('motivated', 'VBN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 1]
+temp_tag_act: ['', '', '', '', '', '', 'stay', 'motivated']
+
+Sentence: 64
+tagged_sent: [('some', 'DT'), ('people', 'NNS'), ('work', 'VBP'), ('best', 'JJS'), ('when', 'WRB'), ('they', 'PRP'), ('know', 'VBP'), ('there', 'RB'), ('is', 'VBZ'), ('some', 'DT'), ('type', 'NN'), ('of', 'IN'), ('reward', 'NN'), ('to', 'TO'), ('be', 'VB'), ('had', 'VBN')]
+myvp: []
+label:    [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+temp_tag_act: ['', '', 'work', '', '', '', 'know', '', '', '', '', '', '', '', 'be', 'had']
+
+Sentence: 65
+tagged_sent: [('having', 'VBG'), ('a', 'DT'), ('self-imposed', 'JJ'), ('reward', 'NN'), ('system', 'NN'), ('helps', 'NNS'), ('you', 'PRP'), ('stay', 'VBP'), ('motivated', 'VBN'), ('and', 'CC'), ('track', 'NN'), ('your', 'PRP$'), ('progress', 'NN'), ('so', 'IN'), ('youll', 'JJ'), ('know', 'NN'), ('whether', 'IN'), ('or', 'CC'), ('not', 'RB'), ('you', 'PRP'), ('deserve', 'VBP'), ('your', 'PRP$'), ('treat', 'NN'), ('for', 'IN'), ('the', 'DT'), ('day', 'NN'), ('week', 'NN'), ('month', 'NN'), ('or', 'CC'), ('semester', 'NN')]
+myvp: [['deserve', 'treat']]
+label:    [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['having', '', '', '', '', '', '', 'stay', 'motivated', '', '', '', '', '', '', '', '', '', '', '', 'deserve', '', '', '', '', '', '', '', '', '']
+
+Sentence: 66
+tagged_sent: [('consider', 'NN'), ('setting', 'VBG'), ('incremental', 'JJ'), ('rewards', 'NNS')]
+myvp: [['setting', 'rewards']]
+label:    [0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0]
+temp_tag_act: ['', 'setting', '', '']
+
+Sentence: 67
+tagged_sent: [('set', 'NN'), ('smaller', 'JJR'), ('rewards', 'NNS'), ('for', 'IN'), ('minor', 'NN'), ('mile', 'NN'), ('markers', 'NNS'), ('and', 'CC'), ('bigger', 'JJR'), ('rewards', 'NNS'), ('for', 'IN'), ('accomplishing', 'VBG'), ('the', 'DT'), ('hardest', 'JJS'), ('parts', 'NNS'), ('of', 'IN'), ('your', 'PRP$'), ('goal', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', 'accomplishing', '', '', '', '', '', '']
+
+Sentence: 68
+tagged_sent: [('imagine', 'NN'), ('climbing', 'VBG'), ('a', 'DT'), ('set', 'NN'), ('of', 'IN'), ('stairs', 'NNS')]
+myvp: [['climbing', 'set']]
+label:    [0, 1, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'climbing', '', '', '', '']
+
+Sentence: 69
+tagged_sent: [('each', 'DT'), ('stair', 'NN'), ('is', 'VBZ'), ('a', 'DT'), ('mini-goal', 'JJ'), ('that', 'IN'), ('essentially', 'RB'), ('leads', 'NNS'), ('you', 'PRP'), ('to', 'TO'), ('the', 'DT'), ('main', 'JJ'), ('goal', 'NN'), ('at', 'IN'), ('the', 'DT'), ('topdecide', 'NN'), ('on', 'IN'), ('some', 'DT'), ('type', 'NN'), ('of', 'IN'), ('reinforcer', 'NN'), ('that', 'IN'), ('will', 'MD'), ('help', 'VB'), ('you', 'PRP'), ('stay', 'VB'), ('motivated', 'VBN')]
+myvp: [['help', 'you']]
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'help', '', 'stay', 'motivated']
+
+Sentence: 70
+tagged_sent: [('it', 'PRP'), ('can', 'MD'), ('be', 'VB'), ('a', 'DT'), ('favorite', 'JJ'), ('snack', 'NN'), ('an', 'DT'), ('event', 'NN'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('go', 'VB'), ('to', 'TO'), ('a', 'DT'), ('physical', 'JJ'), ('object', 'NN'), ('youd', 'NN'), ('like', 'IN'), ('to', 'TO'), ('buy', 'VB'), ('or', 'CC'), ('even', 'RB'), ('a', 'DT'), ('vacation', 'NN'), ('or', 'CC'), ('time', 'NN'), ('off', 'RP'), ('from', 'IN'), ('your', 'PRP$'), ('normal', 'JJ'), ('schedule', 'NN')]
+myvp: [['be', 'snack']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'be', '', '', '', '', '', '', 'want', '', 'go', '', '', '', '', '', '', '', 'buy', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 71
+tagged_sent: [('use', 'NN'), ('that', 'IN'), ('reward', 'NN'), ('to', 'TO'), ('motivate', 'VB'), ('youagree', 'JJ'), ('in', 'IN'), ('advance', 'NN'), ('that', 'IN'), ('you', 'PRP'), ('wont', 'VBP'), ('get', 'VB'), ('to', 'TO'), ('enjoy', 'VB'), ('your', 'PRP$'), ('reward', 'NN'), ('unless', 'IN'), ('you', 'PRP'), ('accomplish', 'VBP'), ('your', 'PRP$'), ('goal', 'NN')]
+myvp: [['enjoy', 'reward'], ['accomplish', 'goal']]
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', 'motivate', '', '', '', '', '', 'wont', 'get', '', 'enjoy', '', '', '', '', 'accomplish', '', '']
+
+Sentence: 72
+tagged_sent: [('consider', 'NN'), ('asking', 'VBG'), ('a', 'DT'), ('close', 'JJ'), ('friend', 'NN'), ('to', 'TO'), ('either', 'DT'), ('help', 'NN'), ('you', 'PRP'), ('stay', 'VB'), ('motivated', 'VBN'), ('or', 'CC'), ('prevent', 'VB'), ('you', 'PRP'), ('from', 'IN'), ('indulging', 'VBG'), ('in', 'IN'), ('your', 'PRP$'), ('reward', 'NN'), ('without', 'IN'), ('success', 'NN')]
+myvp: [['asking', 'friend'], ['prevent', 'you']]
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'asking', '', '', '', '', '', '', '', 'stay', 'motivated', '', 'prevent', '', '', 'indulging', '', '', '', '', '']
+
+Sentence: 73
+tagged_sent: [('having', 'VBG'), ('a', 'DT'), ('vaguely-defined', 'JJ'), ('goal', 'NN'), ('can', 'MD'), ('make', 'VB'), ('it', 'PRP'), ('difficult', 'VB'), ('to', 'TO'), ('follow', 'VB'), ('through', 'IN'), ('on', 'IN'), ('your', 'PRP$'), ('efforts', 'NNS'), ('and', 'CC'), ('track', 'NN'), ('your', 'PRP$'), ('progress', 'NN')]
+myvp: [['having', 'goal'], ['make', 'it']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['having', '', '', '', '', 'make', '', 'difficult', '', 'follow', '', '', '', '', '', '', '', '']
+
+Sentence: 74
+tagged_sent: [('however', 'RB'), ('having', 'VBG'), ('a', 'DT'), ('clear', 'JJ'), ('well-defined', 'JJ'), ('goal', 'NN'), ('will', 'MD'), ('help', 'VB'), ('you', 'PRP'), ('stay', 'VB'), ('driven', 'JJ'), ('and', 'CC'), ('know', 'VB'), ('how', 'WRB'), ('far', 'JJ'), ('youve', 'NN'), ('come', 'NN')]
+myvp: [['help', 'you']]
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'having', '', '', '', '', '', 'help', '', 'stay', '', '', 'know', '', '', '', '']
+
+Sentence: 75
+tagged_sent: [('remember', 'NN'), ('to', 'TO'), ('focus', 'VB'), ('on', 'IN'), ('either', 'DT'), ('a', 'DT'), ('process', 'NN'), ('goal', 'NN'), ('or', 'CC'), ('an', 'DT'), ('outcome', 'NN'), ('goal', 'NN')]
+myvp: []
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'focus', '', '', '', '', '', '', '', '', '']
+
+Sentence: 76
+tagged_sent: [('for', 'IN'), ('example', 'NN'), ('instead', 'RB'), ('of', 'IN'), ('just', 'RB'), ('saying', 'VBG'), ('your', 'PRP$'), ('goal', 'NN'), ('is', 'VBZ'), ('to', 'TO'), ('get', 'VB'), ('through', 'IN'), ('your', 'PRP$'), ('math', 'NN'), ('class', 'NN'), ('figure', 'NN'), ('out', 'RP'), ('what', 'WP'), ('you', 'PRP'), ('hope', 'VBP'), ('to', 'TO'), ('accomplish', 'VB')]
+myvp: [['saying', 'goal']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+temp_tag_act: ['', '', '', '', '', 'saying', '', '', '', '', 'get', '', '', '', '', '', '', '', '', 'hope', '', 'accomplish']
+
+Sentence: 77
+tagged_sent: [('do', 'VBP'), ('you', 'PRP'), ('want', 'VB'), ('to', 'TO'), ('become', 'VB'), ('more', 'JJR'), ('proficient', 'NN'), ('in', 'IN'), ('math', 'NN'), ('a', 'DT'), ('process', 'NN'), ('goal', 'NN'), ('or', 'CC'), ('earn', 'VB'), ('a', 'DT'), ('good', 'JJ'), ('grade', 'NN'), ('an', 'DT'), ('outcome', 'NN'), ('goal', 'NN')]
+myvp: [['do', 'you'], ['earn', 'grade']]
+label:    [1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['do', '', 'want', '', 'become', '', '', '', '', '', '', '', '', 'earn', '', '', '', '', '', '']
+
+Sentence: 78
+tagged_sent: [('whenever', 'NN'), ('you', 'PRP'), ('set', 'VBD'), ('a', 'DT'), ('goal', 'NN'), ('for', 'IN'), ('yourself', 'PRP'), ('its', 'PRP$'), ('important', 'JJ'), ('to', 'TO'), ('recognize', 'VB'), ('how', 'WRB'), ('youve', 'JJ'), ('progressed', 'VBN'), ('in', 'IN'), ('working', 'VBG'), ('towards', 'NNS'), ('it', 'PRP')]
+myvp: [['set', 'goal'], ['working', 'towards']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0]
+temp_tag_act: ['', '', 'set', '', '', '', '', '', '', '', 'recognize', '', '', 'progressed', '', 'working', '', '']
+
+Sentence: 79
+tagged_sent: [('thats', 'NNS'), ('why', 'WRB'), ('you', 'PRP'), ('should', 'MD'), ('always', 'RB'), ('set', 'VB'), ('goals', 'NNS'), ('with', 'IN'), ('clear', 'JJ'), ('measurable', 'JJ'), ('progress', 'NN'), ('marks', 'VBZ'), ('and', 'CC'), ('keep', 'VB'), ('track', 'NN'), ('of', 'IN'), ('your', 'PRP$'), ('efforts', 'NNS'), ('every', 'DT'), ('step', 'NN'), ('of', 'IN'), ('the', 'DT'), ('way', 'NN')]
+myvp: [['set', 'goals'], ['keep', 'track']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'set', '', '', '', '', '', '', '', 'keep', '', '', '', '', '', '', '', '', '']
+
+Sentence: 80
+tagged_sent: [('whenever', 'NN'), ('you', 'PRP'), ('set', 'VBD'), ('a', 'DT'), ('goal', 'NN'), ('for', 'IN'), ('yourself', 'PRP'), ('its', 'PRP$'), ('important', 'JJ'), ('to', 'TO'), ('recognize', 'VB'), ('how', 'WRB'), ('youve', 'JJ'), ('progressed', 'VBN'), ('in', 'IN'), ('working', 'VBG'), ('towards', 'NNS'), ('it', 'PRP')]
+myvp: [['set', 'goal'], ['working', 'towards']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0]
+temp_tag_act: ['', '', 'set', '', '', '', '', '', '', '', 'recognize', '', '', 'progressed', '', 'working', '', '']
+
+Sentence: 81
+tagged_sent: [('thats', 'NNS'), ('why', 'WRB'), ('you', 'PRP'), ('should', 'MD'), ('always', 'RB'), ('set', 'VB'), ('goals', 'NNS'), ('with', 'IN'), ('clear', 'JJ'), ('measurable', 'JJ'), ('progress', 'NN'), ('marks', 'VBZ'), ('and', 'CC'), ('keep', 'VB'), ('track', 'NN'), ('of', 'IN'), ('your', 'PRP$'), ('efforts', 'NNS'), ('every', 'DT'), ('step', 'NN'), ('of', 'IN'), ('the', 'DT'), ('way', 'NN')]
+myvp: [['set', 'goals'], ['keep', 'track']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'set', '', '', '', '', '', '', '', 'keep', '', '', '', '', '', '', '', '', '']
+
+Sentence: 82
+tagged_sent: [('determine', 'NN'), ('in', 'IN'), ('advance', 'NN'), ('how', 'WRB'), ('you', 'PRP'), ('will', 'MD'), ('measure', 'VB'), ('success', 'NN')]
+myvp: [['measure', 'success']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', 'measure', '']
+
+Sentence: 83
+tagged_sent: [('ask', 'NN'), ('yourself', 'PRP'), ('how', 'WRB'), ('will', 'MD'), ('i', 'VB'), ('know', 'VB'), ('when', 'WRB'), ('ive', 'JJ'), ('accomplished', 'JJ'), ('my', 'PRP$'), ('goal', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'i', 'know', '', '', '', '', '']
+
+Sentence: 84
+tagged_sent: [('choose', 'NN'), ('both', 'DT'), ('short-term', 'JJ'), ('and', 'CC'), ('long-term', 'JJ'), ('measures', 'NNS'), ('of', 'IN'), ('successfor', 'NN'), ('example', 'NN'), ('you', 'PRP'), ('might', 'MD'), ('measure', 'VB'), ('success', 'NN'), ('in', 'IN'), ('the', 'DT'), ('short-term', 'JJ'), ('by', 'IN'), ('looking', 'NN'), ('at', 'IN'), ('how', 'WRB'), ('much', 'JJ'), ('studying', 'NN'), ('and', 'CC'), ('homework', 'NN'), ('you', 'PRP'), ('get', 'VBP'), ('done', 'VBN'), ('in', 'IN'), ('a', 'DT'), ('week', 'NN'), ('and', 'CC'), ('in', 'IN'), ('the', 'DT'), ('long-term', 'JJ'), ('by', 'IN'), ('watching', 'NN'), ('how', 'WRB'), ('your', 'PRP$'), ('grades', 'NNS'), ('improve', 'VB'), ('over', 'IN'), ('the', 'DT'), ('course', 'NN'), ('of', 'IN'), ('the', 'DT'), ('semester', 'NN')]
+myvp: [['measure', 'success'], ['done', 'week'], ['improve', 'course']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', 'measure', '', '', '', '', '', '', '', '', '', '', '', '', '', 'get', 'done', '', '', '', '', '', '', '', '', '', '', '', '', 'improve', '', '', '', '', '', '']
+
+Sentence: 85
+tagged_sent: [('decide', 'NN'), ('on', 'IN'), ('action-oriented', 'JJ'), ('steps', 'NNS'), ('to', 'TO'), ('accomplish', 'VB'), ('your', 'PRP$'), ('goal', 'NN')]
+myvp: [['accomplish', 'goal']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'accomplish', '', '']
+
+Sentence: 86
+tagged_sent: [('even', 'RB'), ('a', 'DT'), ('good', 'JJ'), ('well-defined', 'JJ'), ('goal', 'NN'), ('could', 'MD'), ('be', 'VB'), ('difficult', 'JJ'), ('to', 'TO'), ('achieve', 'VB'), ('without', 'IN'), ('a', 'DT'), ('clear', 'JJ'), ('action', 'NN'), ('planwhen', 'WRB'), ('you', 'PRP'), ('set', 'VBP'), ('your', 'PRP$'), ('goal', 'NN'), ('make', 'NN'), ('sure', 'NN'), ('you', 'PRP'), ('include', 'VBP'), ('action-oriented', 'JJ'), ('steps', 'NNS'), ('as', 'IN'), ('part', 'NN'), ('of', 'IN'), ('your', 'PRP$'), ('goal', 'NN'), ('development', 'NN')]
+myvp: [['achieve', 'action'], ['set', 'goal', 'make', 'sure'], ['include', 'steps']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'be', '', '', 'achieve', '', '', '', '', '', '', 'set', '', '', '', '', '', 'include', '', '', '', '', '', '', '', '']
+
+Sentence: 87
+tagged_sent: [('that', 'DT'), ('way', 'NN'), ('youll', 'NN'), ('know', 'VB'), ('what', 'WP'), ('youre', 'NN'), ('trying', 'VBG'), ('to', 'TO'), ('accomplish', 'VB'), ('and', 'CC'), ('more', 'JJR'), ('importantly', 'RB'), ('how', 'WRB'), ('youll', 'JJ'), ('get', 'NN'), ('there', 'EX')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'know', '', '', 'trying', '', 'accomplish', '', '', '', '', '', '', '']
+
+Sentence: 88
+tagged_sent: [('decide', 'NN'), ('on', 'IN'), ('action-oriented', 'JJ'), ('steps', 'NNS'), ('to', 'TO'), ('accomplish', 'VB'), ('your', 'PRP$'), ('goal', 'NN')]
+myvp: [['accomplish', 'goal']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'accomplish', '', '']
+
+Sentence: 89
+tagged_sent: [('even', 'RB'), ('a', 'DT'), ('good', 'JJ'), ('well-defined', 'JJ'), ('goal', 'NN'), ('could', 'MD'), ('be', 'VB'), ('difficult', 'JJ'), ('to', 'TO'), ('achieve', 'VB'), ('without', 'IN'), ('a', 'DT'), ('clear', 'JJ'), ('action', 'NN'), ('planwhen', 'WRB'), ('you', 'PRP'), ('set', 'VBP'), ('your', 'PRP$'), ('goal', 'NN'), ('make', 'NN'), ('sure', 'NN'), ('you', 'PRP'), ('include', 'VBP'), ('action-oriented', 'JJ'), ('steps', 'NNS'), ('as', 'IN'), ('part', 'NN'), ('of', 'IN'), ('your', 'PRP$'), ('goal', 'NN'), ('development', 'NN')]
+myvp: [['achieve', 'action'], ['set', 'goal', 'make', 'sure'], ['include', 'steps']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'be', '', '', 'achieve', '', '', '', '', '', '', 'set', '', '', '', '', '', 'include', '', '', '', '', '', '', '', '']
+
+Sentence: 90
+tagged_sent: [('that', 'DT'), ('way', 'NN'), ('youll', 'NN'), ('know', 'VB'), ('what', 'WP'), ('youre', 'NN'), ('trying', 'VBG'), ('to', 'TO'), ('accomplish', 'VB'), ('and', 'CC'), ('more', 'JJR'), ('importantly', 'RB'), ('how', 'WRB'), ('youll', 'JJ'), ('get', 'NN'), ('there', 'EX')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'know', '', '', 'trying', '', 'accomplish', '', '', '', '', '', '', '']
+
+Sentence: 91
+tagged_sent: [('be', 'VB'), ('very', 'RB'), ('clear', 'JJ'), ('in', 'IN'), ('how', 'WRB'), ('you', 'PRP'), ('intend', 'VBP'), ('to', 'TO'), ('achieve', 'VB'), ('your', 'PRP$'), ('goal', 'NN')]
+myvp: [['achieve', 'goal']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag_act: ['be', '', '', '', '', '', 'intend', '', 'achieve', '', '']
+
+Sentence: 92
+tagged_sent: [('think', 'NN'), ('about', 'IN'), ('the', 'DT'), ('steps', 'NNS'), ('your', 'PRP$'), ('goal', 'NN'), ('will', 'MD'), ('require', 'VB'), ('both', 'DT'), ('in', 'IN'), ('the', 'DT'), ('short-term', 'JJ'), ('and', 'CC'), ('in', 'IN'), ('the', 'DT'), ('long-term', 'JJ')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'require', '', '', '', '', '', '', '', '']
+
+Sentence: 93
+tagged_sent: [('focus', 'NN'), ('on', 'IN'), ('what', 'WP'), ('specifically', 'RB'), ('you', 'PRP'), ('will', 'MD'), ('need', 'VB'), ('to', 'TO'), ('do', 'VB')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', 'need', '', 'do']
+
+Sentence: 94
+tagged_sent: [('for', 'IN'), ('example', 'NN'), ('action-oriented', 'JJ'), ('steps', 'NNS'), ('might', 'MD'), ('include', 'VB'), ('completing', 'NN'), ('your', 'PRP$'), ('homework', 'NN'), ('ahead', 'RB'), ('of', 'IN'), ('time', 'NN'), ('reviewing', 'VBG'), ('your', 'PRP$'), ('notes', 'NNS'), ('every', 'DT'), ('day', 'NN'), ('after', 'IN'), ('class', 'NN'), ('and', 'CC'), ('arranging', 'VBG'), ('a', 'DT'), ('meeting', 'NN'), ('with', 'IN'), ('your', 'PRP$'), ('instructor', 'NN')]
+myvp: [['include', 'completing'], ['reviewing', 'notes'], ['arranging', 'meeting']]
+label:    [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'include', '', '', '', '', '', '', 'reviewing', '', '', '', '', '', '', '', 'arranging', '', '', '', '', '']
+
+Sentence: 95
+tagged_sent: [('its', 'PRP$'), ('important', 'JJ'), ('to', 'TO'), ('dream', 'VB'), ('big', 'JJ'), ('but', 'CC'), ('its', 'PRP$'), ('also', 'RB'), ('important', 'JJ'), ('to', 'TO'), ('know', 'VB'), ('what', 'WP'), ('you', 'PRP'), ('can', 'MD'), ('realistically', 'RB'), ('accomplish', 'VB'), ('with', 'IN'), ('the', 'DT'), ('materials', 'NNS'), ('you', 'PRP'), ('currently', 'RB'), ('possess', 'VBP'), ('and', 'CC'), ('the', 'DT'), ('time', 'NN'), ('frame', 'NN'), ('youre', 'NN'), ('given', 'VBN')]
+myvp: [['accomplish', 'materials']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', 'dream', '', '', '', '', '', '', 'know', '', '', '', '', 'accomplish', '', '', '', '', '', 'possess', '', '', '', '', '', 'given']
+
+Sentence: 96
+tagged_sent: [('dont', 'NN'), ('bite', 'VBD'), ('off', 'RP'), ('more', 'JJR'), ('than', 'IN'), ('you', 'PRP'), ('can', 'MD'), ('chew', 'VB'), ('but', 'CC'), ('at', 'IN'), ('the', 'DT'), ('same', 'JJ'), ('time', 'NN'), ('dont', 'NN'), ('give', 'VBP'), ('yourself', 'PRP'), ('a', 'DT'), ('task', 'NN'), ('thats', 'NNS'), ('too', 'RB'), ('easy', 'JJ')]
+myvp: [['give', 'yourself']]
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'bite', '', '', '', '', '', 'chew', '', '', '', '', '', '', 'give', '', '', '', '', '', '']
+
+Sentence: 97
+tagged_sent: [('its', 'PRP$'), ('important', 'JJ'), ('to', 'TO'), ('dream', 'VB'), ('big', 'JJ'), ('but', 'CC'), ('its', 'PRP$'), ('also', 'RB'), ('important', 'JJ'), ('to', 'TO'), ('know', 'VB'), ('what', 'WP'), ('you', 'PRP'), ('can', 'MD'), ('realistically', 'RB'), ('accomplish', 'VB'), ('with', 'IN'), ('the', 'DT'), ('materials', 'NNS'), ('you', 'PRP'), ('currently', 'RB'), ('possess', 'VBP'), ('and', 'CC'), ('the', 'DT'), ('time', 'NN'), ('frame', 'NN'), ('youre', 'NN'), ('given', 'VBN')]
+myvp: [['accomplish', 'materials']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', 'dream', '', '', '', '', '', '', 'know', '', '', '', '', 'accomplish', '', '', '', '', '', 'possess', '', '', '', '', '', 'given']
+
+Sentence: 98
+tagged_sent: [('dont', 'NN'), ('bite', 'VBD'), ('off', 'RP'), ('more', 'JJR'), ('than', 'IN'), ('you', 'PRP'), ('can', 'MD'), ('chew', 'VB'), ('but', 'CC'), ('at', 'IN'), ('the', 'DT'), ('same', 'JJ'), ('time', 'NN'), ('dont', 'NN'), ('give', 'VBP'), ('yourself', 'PRP'), ('a', 'DT'), ('task', 'NN'), ('thats', 'NNS'), ('too', 'RB'), ('easy', 'JJ')]
+myvp: [['give', 'yourself']]
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'bite', '', '', '', '', '', 'chew', '', '', '', '', '', '', 'give', '', '', '', '', '', '']
+
+Sentence: 99
+tagged_sent: [('an', 'DT'), ('example', 'NN'), ('of', 'IN'), ('a', 'DT'), ('realistic', 'JJ'), ('goal', 'NN'), ('would', 'MD'), ('be', 'VB'), ('to', 'TO'), ('improve', 'VB'), ('your', 'PRP$'), ('course', 'NN'), ('grade', 'NN'), ('by', 'IN'), ('one', 'CD'), ('letter', 'NN'), ('before', 'IN'), ('the', 'DT'), ('end', 'NN'), ('of', 'IN'), ('the', 'DT'), ('semesteran', 'NN'), ('unrealistic', 'JJ'), ('goal', 'NN'), ('by', 'IN'), ('comparison', 'NN'), ('would', 'MD'), ('be', 'VB'), ('to', 'TO'), ('turn', 'VB'), ('an', 'DT'), ('f', 'NN'), ('into', 'IN'), ('an', 'DT'), ('a', 'DT'), ('by', 'IN'), ('the', 'DT'), ('end', 'NN'), ('of', 'IN'), ('the', 'DT'), ('semester', 'NN')]
+myvp: [['improve', 'course', 'grade'], ['turn', 'f']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'be', '', 'improve', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'be', '', 'turn', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 100
+tagged_sent: [('be', 'VB'), ('aware', 'JJ'), ('of', 'IN'), ('what', 'WP'), ('could', 'MD'), ('potentially', 'RB'), ('hinder', 'VB'), ('your', 'PRP$'), ('success', 'NN'), ('and', 'CC'), ('plan', 'NN'), ('accordingly', 'RB'), ('so', 'RB'), ('that', 'IN'), ('these', 'DT'), ('obstacles', 'NNS'), ('do', 'VBP'), ('not', 'RB'), ('impede', 'VB'), ('your', 'PRP$'), ('progress', 'NN'), ('towards', 'NNS'), ('accomplishing', 'VBG'), ('your', 'PRP$'), ('goal', 'NN')]
+myvp: [['hinder', 'success'], ['impede', 'progress', 'towards'], ['accomplishing', 'goal']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['be', '', '', '', '', '', 'hinder', '', '', '', '', '', '', '', '', '', 'do', '', 'impede', '', '', '', 'accomplishing', '', '']
+
+Sentence: 101
+tagged_sent: [('give', 'JJ'), ('yourself', 'NN'), ('a', 'DT'), ('reasonable', 'JJ'), ('time', 'NN'), ('frameif', 'IN'), ('youre', 'NN'), ('working', 'VBG'), ('within', 'IN'), ('a', 'DT'), ('school', 'NN'), ('calendar', 'NN'), ('the', 'DT'), ('end', 'NN'), ('of', 'IN'), ('that', 'DT'), ('semester', 'NN'), ('might', 'MD'), ('be', 'VB'), ('the', 'DT'), ('end', 'NN'), ('of', 'IN'), ('your', 'PRP$'), ('time', 'NN'), ('frame', 'NN')]
+myvp: [['working', 'school', 'calendar'], ['be', 'end']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'working', '', '', '', '', '', '', '', '', '', '', 'be', '', '', '', '', '', '']
+
+Sentence: 102
+tagged_sent: [('however', 'RB'), ('theres', 'VBZ'), ('still', 'RB'), ('plenty', 'JJ'), ('of', 'IN'), ('flexibility', 'NN'), ('in', 'IN'), ('terms', 'NNS'), ('of', 'IN'), ('what', 'WP'), ('can', 'MD'), ('be', 'VB'), ('done', 'VBN'), ('and', 'CC'), ('when', 'WRB'), ('it', 'PRP'), ('needs', 'VBZ'), ('to', 'TO'), ('be', 'VB'), ('done', 'VBN'), ('by', 'IN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', 'be', 'done', '', '', '', '', '', 'be', 'done', '']
+
+Sentence: 103
+tagged_sent: [('give', 'JJ'), ('yourself', 'NN'), ('a', 'DT'), ('reasonable', 'JJ'), ('time', 'NN'), ('frameif', 'IN'), ('youre', 'NN'), ('working', 'VBG'), ('within', 'IN'), ('a', 'DT'), ('school', 'NN'), ('calendar', 'NN'), ('the', 'DT'), ('end', 'NN'), ('of', 'IN'), ('that', 'DT'), ('semester', 'NN'), ('might', 'MD'), ('be', 'VB'), ('the', 'DT'), ('end', 'NN'), ('of', 'IN'), ('your', 'PRP$'), ('time', 'NN'), ('frame', 'NN')]
+myvp: [['working', 'school', 'calendar'], ['be', 'end']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'working', '', '', '', '', '', '', '', '', '', '', 'be', '', '', '', '', '', '']
+
+Sentence: 104
+tagged_sent: [('however', 'RB'), ('theres', 'VBZ'), ('still', 'RB'), ('plenty', 'JJ'), ('of', 'IN'), ('flexibility', 'NN'), ('in', 'IN'), ('terms', 'NNS'), ('of', 'IN'), ('what', 'WP'), ('can', 'MD'), ('be', 'VB'), ('done', 'VBN'), ('and', 'CC'), ('when', 'WRB'), ('it', 'PRP'), ('needs', 'VBZ'), ('to', 'TO'), ('be', 'VB'), ('done', 'VBN'), ('by', 'IN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', 'be', 'done', '', '', '', '', '', 'be', 'done', '']
+
+Sentence: 105
+tagged_sent: [('decide', 'NN'), ('in', 'IN'), ('advance', 'NN'), ('when', 'WRB'), ('your', 'PRP$'), ('goal', 'NN'), ('needs', 'VBZ'), ('to', 'TO'), ('be', 'VB'), ('accomplished', 'VBN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'be', 'accomplished']
+
+Sentence: 106
+tagged_sent: [('once', 'RB'), ('you', 'PRP'), ('have', 'VB'), ('a', 'DT'), ('firm', 'NN'), ('deadline', 'NN'), ('work', 'NN'), ('your', 'PRP$'), ('way', 'NN'), ('backwards', 'NNS'), ('to', 'TO'), ('determine', 'VB'), ('when', 'WRB'), ('you', 'PRP'), ('need', 'VBP'), ('to', 'TO'), ('begin', 'VB'), ('your', 'PRP$'), ('work', 'NN'), ('and', 'CC'), ('when', 'WRB'), ('various', 'JJ'), ('milestones', 'NNS'), ('along', 'IN'), ('the', 'DT'), ('way', 'NN'), ('must', 'MD'), ('be', 'VB'), ('met', 'VBN')]
+myvp: [['have', 'firm', 'deadline', 'work'], ['begin', 'work']]
+label:    [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+temp_tag_act: ['', '', 'have', '', '', '', '', '', '', '', '', 'determine', '', '', 'need', '', 'begin', '', '', '', '', '', '', '', '', '', '', 'be', 'met']
+
+Sentence: 107
+tagged_sent: [('for', 'IN'), ('example', 'NN'), ('if', 'IN'), ('youre', 'NN'), ('working', 'VBG'), ('within', 'IN'), ('the', 'DT'), ('time', 'NN'), ('frame', 'NN'), ('of', 'IN'), ('a', 'DT'), ('semester', 'NN'), ('you', 'PRP'), ('might', 'MD'), ('decide', 'VB'), ('that', 'IN'), ('youll', 'JJ'), ('accomplish', 'NN'), ('your', 'PRP$'), ('goal', 'NN'), ('before', 'IN'), ('finals', 'NNS'), ('week', 'VBP')]
+myvp: [['working', 'time', 'frame'], ['decide', 'accomplish']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', 'working', '', '', '', '', '', '', '', '', '', 'decide', '', '', '', '', '', '', '', 'week']
+
+Sentence: 108
+tagged_sent: [('that', 'DT'), ('means', 'VBZ'), ('working', 'VBG'), ('backwards', 'NNS'), ('to', 'TO'), ('figure', 'VB'), ('out', 'RP'), ('what', 'WP'), ('needs', 'NNS'), ('to', 'TO'), ('be', 'VB'), ('completed', 'VBN'), ('and', 'CC'), ('when', 'WRB')]
+myvp: [['working', 'backwards']]
+label:    [0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+temp_tag_act: ['', '', 'working', '', '', 'figure', '', '', '', '', 'be', 'completed', '', '']
+
+Sentence: 109
+tagged_sent: [('working', 'VBG'), ('towards', 'NNS'), ('your', 'PRP$'), ('goal', 'NN'), ('a', 'DT'), ('well-planned', 'JJ'), ('smart', 'NN'), ('goal', 'NN'), ('is', 'VBZ'), ('meaningless', 'NN'), ('if', 'IN'), ('you', 'PRP'), ('dont', 'VBP'), ('keep', 'VB'), ('track', 'NN'), ('of', 'IN'), ('your', 'PRP$'), ('deadlines', 'NNS'), ('and', 'CC'), ('do', 'VBP'), ('the', 'DT'), ('necessary', 'JJ'), ('work', 'NN'), ('along', 'IN'), ('the', 'DT'), ('way', 'NN')]
+myvp: [['working', 'towards'], ['keep', 'track'], ['do', 'work']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['working', '', '', '', '', '', '', '', '', '', '', '', 'dont', 'keep', '', '', '', '', '', 'do', '', '', '', '', '', '']
+
+Sentence: 110
+tagged_sent: [('youll', 'NN'), ('need', 'VBD'), ('to', 'TO'), ('put', 'VB'), ('in', 'RP'), ('a', 'DT'), ('lot', 'NN'), ('of', 'IN'), ('effort', 'NN'), ('if', 'IN'), ('you', 'PRP'), ('hope', 'VBP'), ('to', 'TO'), ('accomplish', 'VB'), ('that', 'IN'), ('goal', 'NN'), ('but', 'CC'), ('with', 'IN'), ('proper', 'JJ'), ('planning', 'VBG'), ('you', 'PRP'), ('should', 'MD'), ('be', 'VB'), ('able', 'JJ'), ('to', 'TO'), ('balance', 'NN'), ('that', 'IN'), ('work', 'NN'), ('very', 'RB'), ('comfortably', 'RB')]
+myvp: [['accomplish', 'goal'], ['planning', 'you']]
+label:    [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'need', '', 'put', '', '', '', '', '', '', '', 'hope', '', 'accomplish', '', '', '', '', '', 'planning', '', '', 'be', '', '', '', '', '', '', '']
+
+Sentence: 111
+tagged_sent: [('schedule', 'NN'), ('your', 'PRP$'), ('work', 'NN'), ('time', 'NN'), ('and', 'CC'), ('your', 'PRP$'), ('deadline', 'NN'), ('on', 'IN'), ('your', 'PRP$'), ('calendarget', 'NN'), ('into', 'IN'), ('the', 'DT'), ('habit', 'NN'), ('of', 'IN'), ('setting', 'VBG'), ('aside', 'NN'), ('work', 'NN'), ('and', 'CC'), ('study', 'NN'), ('time', 'NN'), ('each', 'DT'), ('day', 'NN'), ('and', 'CC'), ('sticking', 'VBG'), ('to', 'TO'), ('your', 'PRP$'), ('routine', 'NN')]
+myvp: [['setting', 'aside', 'work']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', 'setting', '', '', '', '', '', '', '', '', 'sticking', '', '', '']
+
+Sentence: 112
+tagged_sent: [('offer', 'NN'), ('yourself', 'PRP'), ('a', 'DT'), ('reward', 'NN'), ('if', 'IN'), ('youre', 'NN'), ('able', 'JJ'), ('to', 'TO'), ('meet', 'VB'), ('your', 'PRP$'), ('goal', 'NN'), ('on', 'IN'), ('timefor', 'NN'), ('example', 'NN'), ('you', 'PRP'), ('might', 'MD'), ('treat', 'VB'), ('yourself', 'PRP'), ('to', 'TO'), ('a', 'DT'), ('nice', 'JJ'), ('dinner', 'NN'), ('or', 'CC'), ('buy', 'VB'), ('yourself', 'PRP'), ('something', 'NN'), ('special', 'JJ'), ('if', 'IN'), ('you', 'PRP'), ('improve', 'VBP'), ('your', 'PRP$'), ('grade', 'NN'), ('within', 'IN'), ('your', 'PRP$'), ('given', 'VBN'), ('time', 'NN'), ('frame', 'NN')]
+myvp: [['meet', 'goal'], ['treat', 'yourself'], ['buy', 'yourself'], ['improve', 'grade'], ['given', 'time', 'frame']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'meet', '', '', '', '', '', '', '', 'treat', '', '', '', '', '', '', 'buy', '', '', '', '', '', 'improve', '', '', '', '', 'given', '', '']
+
+Sentence: 113
+tagged_sent: [('remove', 'IN'), ('distractions', 'NNS'), ('or', 'CC'), ('remove', 'VB'), ('yourself', 'PRP'), ('from', 'IN'), ('distracting', 'VBG'), ('situations', 'NNS')]
+myvp: [['remove', 'yourself'], ['distracting', 'situations']]
+label:    [1, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['remove', '', '', 'remove', '', '', 'distracting', '']
+
+Sentence: 114
+tagged_sent: [('if', 'IN'), ('you', 'PRP'), ('cant', 'VBP'), ('work', 'NN'), ('at', 'IN'), ('home', 'NN'), ('or', 'CC'), ('in', 'IN'), ('your', 'PRP$'), ('dorm', 'NN'), ('room', 'NN'), ('due', 'JJ'), ('to', 'TO'), ('distractions', 'NNS'), ('there', 'RB'), ('study', 'NN'), ('in', 'IN'), ('the', 'DT'), ('library', 'NN'), ('and', 'CC'), ('keep', 'VB'), ('your', 'PRP$'), ('phone', 'NN'), ('turned', 'VBD'), ('off', 'RP')]
+myvp: [['cant', 'work'], ['keep', 'phone']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'cant', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'keep', '', '', 'turned', '']
+
+Sentence: 115
+tagged_sent: [('let', 'NN'), ('your', 'PRP$'), ('friends', 'NNS'), ('know', 'VBP'), ('that', 'IN'), ('you', 'PRP'), ('may', 'MD'), ('not', 'RB'), ('be', 'VB'), ('available', 'JJ'), ('as', 'IN'), ('much', 'JJ'), ('for', 'IN'), ('social', 'JJ'), ('events', 'NNS'), ('while', 'IN'), ('you', 'PRP'), ('work', 'VBP'), ('to', 'TO'), ('meet', 'VB'), ('your', 'PRP$'), ('deadlines', 'NNS')]
+myvp: [['know', 'you'], ['meet', 'deadlines']]
+label:    [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', 'know', '', '', '', '', 'be', '', '', '', '', '', '', '', '', 'work', '', 'meet', '', '']
+
+Sentence: 116
+tagged_sent: [('youll', 'NN'), ('need', 'VBD'), ('to', 'TO'), ('avoid', 'VB'), ('temptation', 'NN'), ('by', 'IN'), ('simply', 'RB'), ('avoiding', 'VBG'), ('those', 'DT'), ('social', 'JJ'), ('events', 'NNS'), ('altogether', 'RB'), ('that', 'IN'), ('would', 'MD'), ('interrupt', 'VB'), ('your', 'PRP$'), ('studies', 'NNS')]
+myvp: [['avoid', 'temptation'], ['avoiding', 'events'], ['interrupt', 'studies']]
+label:    [0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', 'need', '', 'avoid', '', '', '', 'avoiding', '', '', '', '', '', '', 'interrupt', '', '']
+
+Sentence: 117
+tagged_sent: [('make', 'VB'), ('sure', 'JJ'), ('you', 'PRP'), ('give', 'VBP'), ('yourself', 'PRP'), ('enough', 'RB'), ('time', 'NN'), ('before', 'IN'), ('each', 'DT'), ('deadline', 'NN'), ('to', 'TO'), ('get', 'VB'), ('the', 'DT'), ('necessary', 'JJ'), ('work', 'NN'), ('done', 'NN')]
+myvp: [['make', 'you'], ['give', 'yourself'], ['get', 'work', 'done']]
+label:    [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1]
+temp_tag: [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['make', '', '', 'give', '', '', '', '', '', '', '', 'get', '', '', '', '']
+
+Sentence: 118
+tagged_sent: [('youll', 'NN'), ('still', 'RB'), ('have', 'VBP'), ('the', 'DT'), ('same', 'JJ'), ('amount', 'NN'), ('of', 'IN'), ('work', 'NN'), ('to', 'TO'), ('do', 'VB'), ('if', 'IN'), ('you', 'PRP'), ('procrastinate', 'VBP'), ('but', 'CC'), ('youll', 'JJ'), ('have', 'VBP'), ('less', 'JJR'), ('time', 'NN'), ('and', 'CC'), ('more', 'JJR'), ('stress', 'NN'), ('if', 'IN'), ('you', 'PRP'), ('put', 'VBD'), ('it', 'PRP'), ('off', 'IN')]
+myvp: [['have', 'amount'], ['put', 'it']]
+label:    [0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', 'have', '', '', '', '', '', '', 'do', '', '', 'procrastinate', '', '', 'have', '', '', '', '', '', '', '', 'put', '', '']
+
+Sentence: 119
+tagged_sent: [('identify', 'NN'), ('any', 'DT'), ('potential', 'JJ'), ('obstaclesmost', 'NN'), ('of', 'IN'), ('the', 'DT'), ('potential', 'JJ'), ('obstacles', 'NNS'), ('youll', 'VBP'), ('face', 'NN'), ('are', 'VBP'), ('likely', 'JJ'), ('of', 'IN'), ('your', 'PRP$'), ('own', 'JJ'), ('creation', 'NN'), ('but', 'CC'), ('by', 'IN'), ('being', 'VBG'), ('aware', 'JJ'), ('of', 'IN'), ('them', 'PRP'), ('in', 'IN'), ('advance', 'NN'), ('you', 'PRP'), ('can', 'MD'), ('reduce', 'VB'), ('the', 'DT'), ('risk', 'NN'), ('of', 'IN'), ('failure', 'NN')]
+myvp: [['youll', 'face'], ['reduce', 'risk']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'youll', '', 'are', '', '', '', '', '', '', '', 'being', '', '', '', '', '', '', '', 'reduce', '', '', '', '']
+
+Sentence: 120
+tagged_sent: [('some', 'DT'), ('common', 'JJ'), ('obstacles', 'NNS'), ('to', 'TO'), ('school', 'NN'), ('success', 'NN'), ('include', 'VBP'), ('conflicting', 'VBG'), ('deadlines', 'NNS'), ('extracurricular', 'JJ'), ('activities', 'NNS'), ('spending', 'NN'), ('too', 'RB'), ('much', 'RB'), ('time', 'VB'), ('with', 'IN'), ('friends', 'NNS'), ('and', 'CC'), ('distractions', 'NNS'), ('like', 'IN'), ('tv', 'NN'), ('the', 'DT'), ('internet', 'NN'), ('and', 'CC'), ('video', 'NN'), ('games', 'NNS')]
+myvp: [['conflicting', 'deadlines'], ['time', 'friends']]
+label:    [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'include', 'conflicting', '', '', '', '', '', '', 'time', '', '', '', '', '', '', '', '', '', '', '']
+
+
+
+total_actions: 347
+right_actions: 273
+tag_actions: 377
+recall: 0.786744
+precision: 0.724138
+f_measure: 0.754144
+accuracy: 0.926689
+Time cost 1s

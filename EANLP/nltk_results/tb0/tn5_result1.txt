@@ -1,0 +1,593 @@
+Tagging for total 83 sentences with nltk methods
+
+Sentence: 1
+tagged_sent: [('start', 'NN'), ('by', 'IN'), ('mixing', 'NN'), ('together', 'RB'), ('your', 'PRP$'), ('cream', 'NN'), ('of', 'IN'), ('mushroom', 'NN'), ('condensed', 'VBN'), ('soup', 'NN'), ('sour', 'PRP$'), ('cream', 'NN'), ('salt', 'NN'), ('pepper', 'NN'), ('onion', 'NN'), ('and', 'CC'), ('cheese', 'JJ'), ('in', 'IN'), ('a', 'DT'), ('large', 'JJ'), ('bowl', 'NN')]
+myvp: [['condensed', 'soup']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'condensed', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 2
+tagged_sent: [('after', 'IN'), ('these', 'DT'), ('are', 'VBP'), ('well', 'RB'), ('combined', 'VBN'), ('add', 'JJ'), ('in', 'IN'), ('the', 'DT'), ('hash', 'NN'), ('browns', 'VBZ'), ('and', 'CC'), ('mix', 'NN'), ('gently', 'RB')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'are', '', 'combined', '', '', '', '', '', '', '', '']
+
+Sentence: 3
+tagged_sent: [('spray', 'NN'), ('your', 'PRP$'), ('slow', 'JJ'), ('cooker', 'NN'), ('with', 'IN'), ('some', 'DT'), ('non-stick', 'JJ'), ('cooking', 'NN'), ('spray', 'NN'), ('or', 'CC'), ('coat', 'JJ'), ('with', 'IN'), ('butter', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 4
+tagged_sent: [('this', 'DT'), ('will', 'MD'), ('prevent', 'VB'), ('sticking', 'VBG'), ('so', 'RB'), ('you', 'PRP'), ('don\xa1\xaft', 'JJ'), ('have', 'VBP'), ('a', 'DT'), ('huge', 'JJ'), ('mess', 'NN'), ('to', 'TO'), ('clean', 'VB'), ('up', 'RP')]
+myvp: [['sticking', 'you'], ['have', 'mess']]
+label:    [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'prevent', 'sticking', '', '', '', 'have', '', '', '', '', 'clean', '']
+
+Sentence: 5
+tagged_sent: [('pour', 'PRP$'), ('the', 'DT'), ('hash', 'NN'), ('brown', 'NN'), ('mixture', 'NN'), ('into', 'IN'), ('your', 'PRP$'), ('slow', 'JJ'), ('cooker', 'NN'), ('and', 'CC'), ('put', 'VBD'), ('the', 'DT'), ('cover', 'NN'), ('on', 'IN')]
+myvp: [['put', 'cover']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', 'put', '', '', '']
+
+Sentence: 6
+tagged_sent: [('turn', 'NN'), ('the', 'DT'), ('slow', 'JJ'), ('cooker', 'NN'), ('on', 'IN'), ('high', 'JJ'), ('and', 'CC'), ('leave', 'VB'), ('for', 'IN'), ('1', 'CD'), ('to', 'TO'), ('1.5', 'CD'), ('hours', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'leave', '', '', '', '', '']
+
+Sentence: 7
+tagged_sent: [('after', 'IN'), ('this', 'DT'), ('turn', 'NN'), ('the', 'DT'), ('heat', 'NN'), ('to', 'TO'), ('low', 'JJ'), ('and', 'CC'), ('leave', 'VB'), ('it', 'PRP'), ('on', 'IN'), ('for', 'IN'), ('2.5', 'CD'), ('hours', 'NNS'), ('longer', 'JJR')]
+myvp: [['leave', 'it']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'leave', '', '', '', '', '', '']
+
+Sentence: 8
+tagged_sent: [('turn', 'NN'), ('off', 'IN'), ('slow', 'JJ'), ('cooker', 'NN'), ('and', 'CC'), ('serve', 'VB'), ('right', 'RB'), ('away', 'RB')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'serve', '', '']
+
+Sentence: 9
+tagged_sent: [('keep', 'VB'), ('on', 'IN'), ('warm', 'NN'), ('if', 'IN'), ('you', 'PRP'), ('plan', 'VBP'), ('on', 'IN'), ('waiting', 'VBG'), ('to', 'TO'), ('enjoy', 'VB'), ('for', 'IN'), ('a', 'DT'), ('little', 'RB'), ('bit', 'NN'), ('longer', 'NN')]
+myvp: [['keep', 'warm']]
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['keep', '', '', '', '', 'plan', '', 'waiting', '', 'enjoy', '', '', '', '', '']
+
+Sentence: 10
+tagged_sent: [('if', 'IN'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('add', 'VB'), ('something', 'NN'), ('unique', 'NN'), ('to', 'TO'), ('this', 'DT'), ('recipe', 'NN'), ('add', 'VBD'), ('your', 'PRP$'), ('favorite', 'JJ'), ('vegetables', 'NNS')]
+myvp: [['add', 'something', 'unique'], ['add', 'vegetables']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', 'want', '', 'add', '', '', '', '', '', 'add', '', '', '']
+
+Sentence: 11
+tagged_sent: [('it\xa1\xafs', 'NNS'), ('generally', 'RB'), ('best', 'JJS'), ('to', 'TO'), ('use', 'VB'), ('soft', 'JJ'), ('vegetables', 'NNS'), ('or', 'CC'), ('those', 'DT'), ('that', 'WDT'), ('have', 'VBP'), ('been', 'VBN'), ('slightly', 'RB'), ('cooked', 'VBN'), ('before', 'IN'), ('you', 'PRP'), ('add', 'VBP'), ('them', 'PRP')]
+myvp: [['use', 'vegetables'], ['cooked', 'you'], ['add', 'them']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', 'use', '', '', '', '', '', 'have', 'been', '', 'cooked', '', '', 'add', '']
+
+Sentence: 12
+tagged_sent: [('this', 'DT'), ('will', 'MD'), ('ensure', 'VB'), ('they', 'PRP'), ('don\xa1\xaft', '-NONE-'), ('turn', 'VBP'), ('out', 'RP'), ('hard', 'RB'), ('when', 'WRB'), ('the', 'DT'), ('rest', 'NN'), ('of', 'IN'), ('the', 'DT'), ('dish', 'JJ'), ('is', 'VBZ'), ('cooked', 'VBN'), ('fully', 'RB')]
+myvp: [['ensure', 'they']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'ensure', '', '', 'turn', '', '', '', '', '', '', '', '', '', 'cooked', '']
+
+Sentence: 13
+tagged_sent: [('you', 'PRP'), ('can', 'MD'), ('also', 'RB'), ('add', 'VB'), ('in', 'IN'), ('cooked', 'JJ'), ('sausage', 'NN'), ('or', 'CC'), ('bacon', 'NN'), ('if', 'IN'), ('you', 'PRP'), ('want', 'VBP'), ('some', 'DT'), ('meat', 'NN'), ('in', 'IN'), ('the', 'DT'), ('dish', 'JJ')]
+myvp: [['add', 'sausage'], ['want', 'meat']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'add', '', '', '', '', '', '', '', 'want', '', '', '', '', '']
+
+Sentence: 14
+tagged_sent: [('just', 'RB'), ('make', 'VBP'), ('sure', 'JJ'), ('that', 'IN'), ('the', 'DT'), ('meat', 'NN'), ('you', 'PRP'), ('add', 'VBP'), ('is', 'VBZ'), ('already', 'RB'), ('cooked', 'VBN'), ('before', 'IN'), ('it\xa1\xafs', 'NNP'), ('put', 'VBD'), ('in', 'RP')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', 'make', '', '', '', '', '', 'add', '', '', 'cooked', '', '', 'put', '']
+
+Sentence: 15
+tagged_sent: [('if', 'IN'), ('you', 'PRP'), ('add', 'VBP'), ('in', 'IN'), ('raw', 'NN'), ('meat', 'NN'), ('it', 'PRP'), ('likely', 'JJ'), ('won\xa1\xaft', 'JJ'), ('fully', 'RB'), ('cook', 'NN'), ('when', 'WRB'), ('the', 'DT'), ('rest', 'NN'), ('of', 'IN'), ('the', 'DT'), ('dish', 'JJ'), ('is', 'VBZ'), ('done', 'VBN'), ('and', 'CC'), ('may', 'MD'), ('be', 'VB'), ('raw', 'NN')]
+myvp: [['add', 'raw', 'meat'], ['be', 'raw']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['', '', 'add', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'done', '', '', 'be', '']
+
+Sentence: 16
+tagged_sent: [('this', 'DT'), ('is', 'VBZ'), ('a', 'DT'), ('very', 'RB'), ('forgiving', 'VBG'), ('recipe', 'NN'), ('that', 'IN'), ('you', 'PRP'), ('can', 'MD'), ('play', 'VB'), ('around', 'IN'), ('with', 'IN'), ('and', 'CC'), ('change', 'NN'), ('if', 'IN'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('add', 'VB'), ('or', 'CC'), ('omit', 'VB'), ('something', 'NN')]
+myvp: [['forgiving', 'recipe'], ['omit', 'something']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0]
+temp_tag_act: ['', '', '', '', 'forgiving', '', '', '', '', 'play', '', '', '', '', '', '', 'want', '', 'add', '', 'omit', '']
+
+Sentence: 17
+tagged_sent: [('you', 'PRP'), ('can', 'MD'), ('do', 'VB'), ('everything', 'NN'), ('from', 'IN'), ('adding', 'VBG'), ('in', 'IN'), ('some', 'DT'), ('garlic', 'JJ'), ('to', 'TO'), ('switching', 'NN'), ('the', 'DT'), ('flavor', 'NN'), ('of', 'IN'), ('condensed', 'VBN'), ('soup', 'NN'), ('you', 'PRP'), ('use', 'VBP')]
+myvp: [['do', 'everything'], ['condensed', 'soup']]
+label:    [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+temp_tag_act: ['', '', 'do', '', '', 'adding', '', '', '', '', '', '', '', '', 'condensed', '', '', 'use']
+
+Sentence: 18
+tagged_sent: [('cook', 'NN'), ('the', 'DT'), ('ground', 'NN'), ('beef', 'NN'), ('chopped', 'VBD'), ('onion', 'NN'), ('and', 'CC'), ('green', 'JJ'), ('pepper', 'NN'), ('in', 'IN'), ('a', 'DT'), ('large', 'JJ'), ('skillet', 'NN'), ('till', 'NN'), ('brown', 'NN')]
+myvp: [['chopped', 'onion']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', 'chopped', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 19
+tagged_sent: [('drain', 'NN'), ('the', 'DT'), ('fat', 'JJ'), ('from', 'IN'), ('the', 'DT'), ('mixture', 'NN'), ('and', 'CC'), ('add', 'VBD'), ('tomato', 'IN'), ('sauce', 'NN'), ('tomato', 'NN'), ('paste', 'NN'), ('undrained', 'VBD'), ('beans', 'NNS'), ('chili', 'VBP'), ('powder', 'NN'), ('hot', 'NN'), ('pepper', 'NN'), ('sauce', 'NN'), ('and', 'CC'), ('the', 'DT'), ('cumin', 'NN')]
+myvp: [['add', 'sauce', 'tomato', 'paste'], ['undrained', 'beans'], ['chili', 'powder', 'hot', 'pepper', 'sauce']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'add', '', '', '', '', 'undrained', '', 'chili', '', '', '', '', '', '', '']
+
+Sentence: 20
+tagged_sent: [('stir', 'PRP$'), ('till', 'NN'), ('it', 'PRP'), ('is', 'VBZ'), ('well', 'RB'), ('mixed', 'VBN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', 'mixed']
+
+Sentence: 21
+tagged_sent: [('bring', 'VBG'), ('the', 'DT'), ('mixture', 'NN'), ('to', 'TO'), ('boiling', 'NN')]
+myvp: [['bring', 'mixture', 'boiling']]
+label:    [1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0]
+temp_tag_act: ['bring', '', '', '', '']
+
+Sentence: 22
+tagged_sent: [('reduce', 'NN'), ('the', 'DT'), ('heat', 'NN'), ('and', 'CC'), ('let', 'VB'), ('it', 'PRP'), ('simmer', 'JJR'), ('for', 'IN'), ('five', 'CD'), ('minutes', 'NNS'), ('while', 'IN'), ('stirring', 'VBG'), ('frequently', 'RB')]
+myvp: [['let', 'it']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', 'let', '', '', '', '', '', '', 'stirring', '']
+
+Sentence: 23
+tagged_sent: [('get', 'NN'), ('a', 'DT'), ('ten', 'NN'), ('inch', 'NN'), ('pie', 'NN'), ('plate', 'NN'), ('and', 'CC'), ('lightly', 'RB'), ('grease', 'VB'), ('it', 'PRP')]
+myvp: [['grease', 'it']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'grease', '']
+
+Sentence: 24
+tagged_sent: [('separate', 'JJ'), ('the', 'DT'), ('corn', 'NN'), ('bread', 'NN'), ('twists', 'NNS'), ('but', 'CC'), ('don\xa1\xaft', 'JJ'), ('uncoil', 'NN'), ('them', 'PRP')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 25
+tagged_sent: [('arrange', 'NN'), ('the', 'DT'), ('twists', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('greased', 'VBN'), ('plate', 'NN'), ('pressing', 'NN'), ('them', 'PRP'), ('on', 'IN'), ('the', 'DT'), ('side', 'NN'), ('and', 'CC'), ('the', 'DT'), ('bottom', 'NN'), ('of', 'IN'), ('the', 'DT'), ('plate', 'NN')]
+myvp: [['greased', 'plate', 'pressing']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'greased', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 26
+tagged_sent: [('ensure', 'NN'), ('the', 'DT'), ('twists', 'NNS'), ('have', 'VBP'), ('extended', 'VBN'), ('above', 'IN'), ('the', 'DT'), ('plate', 'NN'), ('by', 'IN'), ('an', 'DT'), ('inch', 'NN')]
+myvp: [['extended', 'plate']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'have', 'extended', '', '', '', '', '', '']
+
+Sentence: 27
+tagged_sent: [('using', 'VBG'), ('a', 'DT'), ('spoon', 'NN'), ('scoop', 'NN'), ('the', 'DT'), ('ground', 'NN'), ('beef', 'NN'), ('mixture', 'NN'), ('onto', 'IN'), ('the', 'DT'), ('top', 'JJ'), ('of', 'IN'), ('the', 'DT'), ('crust', 'NN')]
+myvp: [['using', 'spoon', 'scoop']]
+label:    [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['using', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 28
+tagged_sent: [('mix', 'NN'), ('the', 'DT'), ('sour', 'NN'), ('cream', 'NN'), ('with', 'IN'), ('flour', 'PRP$'), ('and', 'CC'), ('spread', 'VB'), ('it', 'PRP'), ('on', 'IN'), ('top', 'JJ'), ('of', 'IN'), ('the', 'DT'), ('beef', 'NN'), ('mixture', 'NN')]
+myvp: [['spread', 'it']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'spread', '', '', '', '', '', '', '']
+
+Sentence: 29
+tagged_sent: [('sprinkle', 'NN'), ('some', 'DT'), ('corn', 'NN'), ('chips', 'NNS'), ('and', 'CC'), ('cheese', 'JJ'), ('atop', 'NN'), ('the', 'DT'), ('mixture', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 30
+tagged_sent: [('set', 'NN'), ('your', 'PRP$'), ('oven', 'NN'), ('to', 'TO'), ('375', 'CD'), ('degree', 'NN'), ('F', 'NN'), ('and', 'CC'), ('put', 'VBD'), ('the', 'DT'), ('mixture', 'NN'), ('in', 'IN'), ('the', 'DT'), ('oven', 'NN')]
+myvp: [['put', 'mixture']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'put', '', '', '', '', '']
+
+Sentence: 31
+tagged_sent: [('bake', 'NN'), ('for', 'IN'), ('30', 'CD'), ('minutes', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 32
+tagged_sent: [('let', 'NN'), ('the', 'DT'), ('baked', 'JJ'), ('dish', 'NN'), ('stand', 'NN'), ('for', 'IN'), ('ten', 'RB'), ('minutes', 'VBZ'), ('then', 'RB'), ('serve', 'VB')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'serve']
+
+Sentence: 33
+tagged_sent: [('you', 'PRP'), ('can', 'MD'), ('garnish', 'VB'), ('the', 'DT'), ('dish', 'JJ'), ('with', 'IN'), ('green', 'JJ'), ('pepper', 'NN')]
+myvp: []
+label:    [0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'garnish', '', '', '', '', '']
+
+Sentence: 34
+tagged_sent: [('serve', 'NN'), ('as', 'IN'), ('a', 'DT'), ('main', 'JJ'), ('dish', 'NN'), ('for', 'IN'), ('8', 'CD'), ('people', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 35
+tagged_sent: [('how', 'WRB'), ('to', 'TO'), ('make', 'VB'), ('this', 'DT'), ('quick', 'NN'), ('dessert', 'NN')]
+myvp: [['make', 'quick', 'dessert']]
+label:    [0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', 'make', '', '', '']
+
+Sentence: 36
+tagged_sent: [('once', 'RB'), ('you', 'PRP'), ('have', 'VB'), ('gathered', 'VBN'), ('all', 'DT'), ('the', 'DT'), ('ingredients', 'NNS'), ('the', 'DT'), ('next', 'JJ'), ('step', 'NN'), ('would', 'MD'), ('be', 'VB'), ('to', 'TO'), ('make', 'VB'), ('the', 'DT'), ('crust', 'JJ')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag_act: ['', '', 'have', 'gathered', '', '', '', '', '', '', '', 'be', '', 'make', '', '']
+
+Sentence: 37
+tagged_sent: [('to', 'TO'), ('do', 'VB'), ('this', 'DT'), ('you', 'PRP'), ('will', 'MD'), ('need', 'VB'), ('to', 'TO'), ('put', 'VB'), ('all', 'DT'), ('the', 'DT'), ('broken', 'VBN'), ('wafer', 'NN'), ('cookies', 'NNS'), ('into', 'IN'), ('the', 'DT'), ('processor', 'NN'), ('and', 'CC'), ('process', 'NN'), ('it', 'PRP'), ('until', 'IN'), ('the', 'DT'), ('cookies', 'NNS'), ('are', 'VBP'), ('finely', 'RB'), ('grounded', 'VBN')]
+myvp: [['do', 'you'], ['broken', 'wafer', 'cookies']]
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+temp_tag_act: ['', 'do', '', '', '', 'need', '', 'put', '', '', 'broken', '', '', '', '', '', '', '', '', '', '', '', 'are', '', 'grounded']
+
+Sentence: 38
+tagged_sent: [('in', 'IN'), ('a', 'DT'), ('microwavable', 'JJ'), ('bowl', 'NN'), ('add', 'NN'), ('butter', 'NN'), ('chocolate', 'NN'), ('chips', 'NNS'), ('and', 'CC'), ('sugar', 'NN'), ('before', 'IN'), ('popping', 'VBG'), ('into', 'IN'), ('the', 'DT'), ('microwave', 'NN'), ('set', 'NN'), ('in', 'IN'), ('15', 'CD'), ('seconds', 'NNS'), ('interval', 'NN')]
+myvp: [['popping', 'microwave', 'set']]
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', 'popping', '', '', '', '', '', '', '', '']
+
+Sentence: 39
+tagged_sent: [('mix', 'NN'), ('the', 'DT'), ('ingredients', 'NNS'), ('occasionally', 'RB')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 40
+tagged_sent: [('pour', 'PRP$'), ('the', 'DT'), ('mixture', 'NN'), ('into', 'IN'), ('the', 'DT'), ('processor', 'NN'), ('and', 'CC'), ('blend', 'NN'), ('the', 'DT'), ('ingredients', 'NNS'), ('together', 'RB')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 41
+tagged_sent: [('add', 'NN'), ('the', 'DT'), ('crumb', 'NN'), ('mixture', 'NN'), ('into', 'IN'), ('the', 'DT'), ('bottom', 'NN'), ('as', 'IN'), ('well', 'RB'), ('as', 'IN'), ('the', 'DT'), ('sides', 'NNS'), ('of', 'IN'), ('your', 'PRP$'), ('pie', 'NN'), ('dish', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 42
+tagged_sent: [('let', 'NN'), ('it', 'PRP'), ('chill', 'MD'), ('while', 'VB'), ('you', 'PRP'), ('mix', 'CD'), ('the', 'DT'), ('filling', 'NN')]
+myvp: [['while', 'you']]
+label:    [0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'while', '', '', '', '']
+
+Sentence: 43
+tagged_sent: [('to', 'TO'), ('create', 'VB'), ('the', 'DT'), ('filling', 'NN'), ('whisk', 'NN'), ('together', 'RB'), ('cr\xa8\xa8me', 'JJ'), ('faiche', 'NN'), ('condensed', 'VBD'), ('milk', 'NN'), ('lemon', 'NN'), ('peel', 'NN'), ('and', 'CC'), ('lemon', 'NN'), ('juice', 'NN'), ('into', 'IN'), ('a', 'DT'), ('bowl', 'NN')]
+myvp: [['create', 'filling', 'whisk'], ['condensed', 'milk', 'lemon', 'peel']]
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'create', '', '', '', '', '', '', 'condensed', '', '', '', '', '', '', '', '', '']
+
+Sentence: 44
+tagged_sent: [('add', 'NN'), ('at', 'IN'), ('least', 'JJS'), ('half', 'NN'), ('of', 'IN'), ('the', 'DT'), ('raspberries', 'NNS'), ('that', 'WDT'), ('you', 'PRP'), ('have', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'have']
+
+Sentence: 45
+tagged_sent: [('while', 'IN'), ('stirring', 'VBG'), ('slightly', 'RB'), ('press', 'NN'), ('down', 'IN'), ('on', 'IN'), ('the', 'DT'), ('raspberries', 'NNS'), ('until', 'IN'), ('they', 'PRP'), ('break', 'VBP'), ('and', 'CC'), ('their', 'PRP$'), ('color', 'NN'), ('blend', 'NN'), ('with', 'IN'), ('the', 'DT'), ('rest', 'NN'), ('of', 'IN'), ('the', 'DT'), ('mixture', 'NN')]
+myvp: [['stirring', 'press']]
+label:    [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'stirring', '', '', '', '', '', '', '', '', 'break', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 46
+tagged_sent: [('pour', 'PRP$'), ('the', 'DT'), ('contents', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('filling', 'NN'), ('onto', 'IN'), ('the', 'DT'), ('crumb', 'NN'), ('mixture', 'NN'), ('and', 'CC'), ('allow', 'VB'), ('it', 'PRP'), ('to', 'TO'), ('cool', 'VB'), ('in', 'IN'), ('the', 'DT'), ('fridge', 'NN')]
+myvp: [['allow', 'it'], ['cool', 'fridge']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', 'allow', '', '', 'cool', '', '', '']
+
+Sentence: 47
+tagged_sent: [('add', 'NN'), ('the', 'DT'), ('remaining', 'VBG'), ('raspberries', 'NNS'), ('on', 'IN'), ('top', 'JJ'), ('when', 'WRB'), ('serving', 'VBG'), ('for', 'IN'), ('added', 'JJ'), ('effects', 'NNS'), ('and', 'CC'), ('taste', 'NN')]
+myvp: [['remaining', 'raspberries'], ['serving', 'effects']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'remaining', '', '', '', '', 'serving', '', '', '', '', '']
+
+Sentence: 48
+tagged_sent: [('as', 'IN'), ('you', 'PRP'), ('can', 'MD'), ('see', 'VB'), ('this', 'DT'), ('is', 'VBZ'), ('a', 'DT'), ('no', 'DT'), ('fuss', 'NN'), ('type', 'NN'), ('of', 'IN'), ('dessert', 'NN'), ('that', 'IN'), ('you', 'PRP'), ('can', 'MD'), ('try', 'VB'), ('out', 'RP'), ('on', 'IN'), ('your', 'PRP$'), ('own', 'JJ')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'see', '', '', '', '', '', '', '', '', '', '', '', 'try', '', '', '', '']
+
+Sentence: 49
+tagged_sent: [('the', 'DT'), ('perfect', 'NN'), ('blend', 'NN'), ('of', 'IN'), ('chocolate', 'NN'), ('and', 'CC'), ('raspberry', 'NN'), ('will', 'MD'), ('certainly', 'RB'), ('be', 'VB'), ('a', 'DT'), ('success', 'NN'), ('in', 'IN'), ('the', 'DT'), ('dining', 'NN'), ('table', 'NN'), ('when', 'WRB'), ('served', 'VBN')]
+myvp: [['be', 'success']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'be', '', '', '', '', '', '', '', 'served']
+
+Sentence: 50
+tagged_sent: [('preheat', 'NN'), ('oven', 'VBN'), ('to', 'TO'), ('425\xa1\xe3F', 'CD')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0]
+temp_tag_act: ['', 'oven', '', '']
+
+Sentence: 51
+tagged_sent: [('line', 'NN'), ('the', 'DT'), ('baking', 'NN'), ('sheet', 'NN'), ('with', 'IN'), ('some', 'DT'), ('parchment', 'NN'), ('paper', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 52
+tagged_sent: [('sift', 'NN'), ('into', 'IN'), ('a', 'DT'), ('bowl', 'NN'), ('the', 'DT'), ('baking', 'NN'), ('soda', 'NN'), ('salt', 'NN'), ('cream', 'NN'), ('of', 'IN'), ('tartar', 'NN'), ('and', 'CC'), ('2', 'CD'), ('cups', 'NNS'), ('flour', 'PRP$')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 53
+tagged_sent: [('cut', 'VBD'), ('the', 'DT'), ('butter', 'NN'), ('into', 'IN'), ('the', 'DT'), ('mixture', 'NN'), ('until', 'IN'), ('it', 'PRP'), ('gains', 'VBZ'), ('the', 'DT'), ('consistency', 'NN'), ('of', 'IN'), ('bread', 'NN'), ('crumbs', 'NNS')]
+myvp: [['cut', 'butter']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['cut', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 54
+tagged_sent: [('mix', 'NN'), ('in', 'IN'), ('the', 'DT'), ('sugar', 'NN'), ('and', 'CC'), ('about', 'IN'), ('a', 'DT'), ('half', 'NN'), ('cup', 'NN'), ('of', 'IN'), ('milk', 'NN'), ('to', 'TO'), ('form', 'NN'), ('a', 'DT'), ('soft', 'JJ'), ('dough', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 55
+tagged_sent: [('feel', 'NN'), ('free', 'JJ'), ('to', 'TO'), ('use', 'VB'), ('a', 'DT'), ('little', 'RB'), ('less', 'RBR'), ('or', 'CC'), ('more', 'JJR'), ('milk', 'NN'), ('to', 'TO'), ('prevent', 'VB'), ('the', 'DT'), ('dough', 'JJ'), ('from', 'IN'), ('being', 'VBG'), ('too', 'RB'), ('stiff', 'JJ'), ('or', 'CC'), ('watery', 'NN')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'use', '', '', '', '', '', '', '', 'prevent', '', '', '', 'being', '', '', '', '']
+
+Sentence: 56
+tagged_sent: [('put', 'VB'), ('some', 'DT'), ('flour', 'NN'), ('on', 'IN'), ('a', 'DT'), ('clean', 'JJ'), ('flat', 'JJ'), ('surface', 'NN'), ('and', 'CC'), ('transfer', 'VB'), ('the', 'DT'), ('dough', 'JJ'), ('there', 'EX')]
+myvp: [['put', 'flour']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['put', '', '', '', '', '', '', '', '', 'transfer', '', '', '']
+
+Sentence: 57
+tagged_sent: [('knead', 'NN'), ('the', 'DT'), ('dough', 'JJ'), ('gently', 'RB'), ('with', 'IN'), ('rolling', 'VBG'), ('pin', 'NN'), ('flattening', 'VBG'), ('it', 'PRP'), ('to', 'TO'), ('about', 'IN'), ('3/4', 'CD'), ('inches', 'NNS'), ('thick', 'VBP')]
+myvp: [['rolling', 'pin'], ['flattening', 'it']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', 'rolling', '', 'flattening', '', '', '', '', '', 'thick']
+
+Sentence: 58
+tagged_sent: [('using', 'VBG'), ('a', 'DT'), ('glass', 'NN'), ('or', 'CC'), ('a', 'DT'), ('dough', 'JJ'), ('cutter', 'NN'), ('cut', 'VBD'), ('2-inch', 'CD'), ('circles', 'NNS'), ('from', 'IN'), ('the', 'DT'), ('dough', 'JJ')]
+myvp: [['using', 'glass'], ['cut', 'circles']]
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['using', '', '', '', '', '', '', 'cut', '', '', '', '', '']
+
+Sentence: 59
+tagged_sent: [('this', 'DT'), ('should', 'MD'), ('yield', 'VB'), ('around', 'IN'), ('12', 'CD'), ('pieces', 'NNS')]
+myvp: []
+label:    [0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', 'yield', '', '', '']
+
+Sentence: 60
+tagged_sent: [('place', 'NN'), ('the', 'DT'), ('dough', 'JJ'), ('slices', 'NNS'), ('onto', 'IN'), ('the', 'DT'), ('baking', 'NN'), ('sheet', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 61
+tagged_sent: [('make', 'VB'), ('sure', 'JJ'), ('to', 'TO'), ('leave', 'VB'), ('about', 'IN'), ('2', 'CD'), ('inches', 'NNS'), ('space', 'NN'), ('around', 'IN'), ('each', 'DT'), ('slice', 'NN')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['make', '', '', 'leave', '', '', '', '', '', '', '']
+
+Sentence: 62
+tagged_sent: [('this', 'DT'), ('gives', 'VBZ'), ('the', 'DT'), ('dough', 'JJ'), ('enough', 'RB'), ('room', 'NN'), ('to', 'TO'), ('expand', 'VB'), ('slightly', 'RB'), ('during', 'IN'), ('baking', 'VBG')]
+myvp: []
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', 'expand', '', '', 'baking']
+
+Sentence: 63
+tagged_sent: [('brush', 'NN'), ('each', 'DT'), ('dough', 'NN'), ('slice', 'NN'), ('with', 'IN'), ('milk', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 64
+tagged_sent: [('bake', 'NN'), ('the', 'DT'), ('dough', 'JJ'), ('slices', 'NNS'), ('at', 'IN'), ('425\xa1\xe3F', 'CD'), ('for', 'IN'), ('10', 'CD'), ('minutes', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 65
+tagged_sent: [('once', 'RB'), ('your', 'PRP$'), ('scones', 'NNS'), ('are', 'VBP'), ('done', 'VBN'), ('cool', 'NN'), ('them', 'PRP'), ('briefly', 'RB'), ('on', 'IN'), ('wire', 'NN'), ('rack', 'NN')]
+myvp: [['are', 'cool']]
+label:    [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'are', 'done', '', '', '', '', '', '']
+
+Sentence: 66
+tagged_sent: [('serve', 'NN'), ('warm', 'NN'), ('with', 'IN'), ('butter', 'NN'), ('jam', 'NN'), ('clotted', 'VBD'), ('cream', 'NN'), ('and', 'CC'), ('maybe', 'VB'), ('fruits', 'NNS'), ('and', 'CC'), ('of', 'IN'), ('course', 'NN'), ('some', 'DT'), ('nicely', 'RB'), ('brewed', 'VBD'), ('English', 'JJ'), ('tea', 'NN')]
+myvp: [['clotted', 'cream'], ['maybe', 'fruits'], ['brewed', 'tea']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'clotted', '', '', 'maybe', '', '', '', '', '', '', 'brewed', '', '']
+
+Sentence: 67
+tagged_sent: [('how', 'WRB'), ('to', 'TO'), ('make', 'VB'), ('an', 'DT'), ('English', 'JJ'), ('flapjack', 'NN')]
+myvp: [['make', 'flapjack']]
+label:    [0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', 'make', '', '', '']
+
+Sentence: 68
+tagged_sent: [('it\xa1\xafs', 'NNS'), ('best', 'VBP'), ('when', 'WRB'), ('served', 'VBN'), ('with', 'IN'), ('scrambled', 'JJ'), ('eggs', 'NNS')]
+myvp: [['served', 'eggs']]
+label:    [0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 1, 0, 0, 0]
+temp_tag_act: ['', 'best', '', 'served', '', '', '']
+
+Sentence: 69
+tagged_sent: [('broccoli', 'NN'), ('and', 'CC'), ('cheese', 'JJ'), ('work', 'NN'), ('well', 'RB'), ('together', 'RB'), ('but', 'CC'), ('peppers', 'NNS'), ('also', 'RB'), ('taste', 'VBP'), ('great', 'JJ')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', 'taste', '']
+
+Sentence: 70
+tagged_sent: [('preheat', 'NN'), ('your', 'PRP$'), ('oven', 'NN'), ('at', 'IN'), ('350\xa1\xe3C', 'CD'), ('and', 'CC'), ('prepare', 'JJ'), ('a', 'DT'), ('greased', 'JJ'), ('9\xa1\xb1', 'CD'), ('pan', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 71
+tagged_sent: [('you', 'PRP'), ('may', 'MD'), ('also', 'RB'), ('use', 'VB'), ('non-stick', 'JJ'), ('baking', 'NN'), ('paper', 'NN'), ('which', 'WDT'), ('makes', 'VBZ'), ('the', 'DT'), ('cake', 'NN'), ('easier', 'NN'), ('to', 'TO'), ('pry', 'VB'), ('out', 'RP')]
+myvp: [['use', 'baking', 'paper']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'use', '', '', '', '', '', '', '', '', '', 'pry', '']
+
+Sentence: 72
+tagged_sent: [('add', 'NN'), ('your', 'PRP$'), ('pinch', 'NN'), ('of', 'IN'), ('salt', 'NN'), ('to', 'TO'), ('bring', 'VB'), ('out', 'RP'), ('the', 'DT'), ('sweetness', 'NN'), ('and', 'CC'), ('a', 'DT'), ('get', 'NN'), ('a', 'DT'), ('rounder', 'NN'), ('flavor', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'bring', '', '', '', '', '', '', '', '', '']
+
+Sentence: 73
+tagged_sent: [('take', 'VB'), ('your', 'PRP$'), ('oats', 'NNS'), ('dried', 'VBD'), ('fruits', 'NNS'), ('and', 'CC'), ('fresh', 'JJ'), ('almonds', 'NNS'), ('and', 'CC'), ('fold', 'VBD'), ('it', 'PRP'), ('in', 'IN'), ('the', 'DT'), ('sweet', 'JJ'), ('butter', 'NN'), ('mixture', 'NN')]
+myvp: [['take', 'oats'], ['dried', 'fruits'], ['fold', 'it']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['take', '', '', 'dried', '', '', '', '', '', 'fold', '', '', '', '', '', '']
+
+Sentence: 74
+tagged_sent: [('in', 'IN'), ('a', 'DT'), ('bowl', 'NN'), ('mix', 'NN'), ('the', 'DT'), ('butter', 'NN'), ('4', 'CD'), ('tablespoons', 'NNS'), ('of', 'IN'), ('syrup', 'NN'), ('and', 'CC'), ('sugar', 'NN'), ('and', 'CC'), ('aim', 'NN'), ('for', 'IN'), ('a', 'DT'), ('grainy', 'NN'), ('texture', 'NN')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 75
+tagged_sent: [('pour', 'PRP$'), ('your', 'PRP$'), ('course', 'NN'), ('batter', 'NN'), ('into', 'IN'), ('your', 'PRP$'), ('lined', 'VBN'), ('pan', 'NN'), ('and', 'CC'), ('stick', 'NN'), ('it', 'PRP'), ('into', 'IN'), ('your', 'PRP$'), ('oven', 'JJ'), ('to', 'TO'), ('cook', 'VB'), ('for', 'IN'), ('45', 'CD'), ('to', 'TO'), ('50', 'CD'), ('minutes', 'NNS'), ('or', 'CC'), ('until', 'IN'), ('golden', 'JJ'), ('brown', 'NN')]
+myvp: [['lined', 'pan']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'lined', '', '', '', '', '', '', '', '', 'cook', '', '', '', '', '', '', '', '', '']
+
+Sentence: 76
+tagged_sent: [('while', 'IN'), ('it\xa1\xafs', 'JJ'), ('cooking', 'NN'), ('use', 'NN'), ('the', 'DT'), ('remaining', 'VBG'), ('tablespoon', 'NN'), ('of', 'IN'), ('syrup', 'NN'), ('to', 'TO'), ('sweeten', 'VB'), ('the', 'DT'), ('lemon', 'NN'), ('juice', 'NN')]
+myvp: [['remaining', 'tablespoon'], ['sweeten', 'lemon', 'juice']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'remaining', '', '', '', '', 'sweeten', '', '', '']
+
+Sentence: 77
+tagged_sent: [('when', 'WRB'), ('it\xa1\xafs', 'JJ'), ('cooked', 'VBN'), ('take', 'NN'), ('it', 'PRP'), ('out', 'RP'), ('of', 'IN'), ('the', 'DT'), ('oven', 'NN'), ('slice', 'NN'), ('them', 'PRP'), ('into', 'IN'), ('squares', 'NNS'), ('while', 'IN'), ('still', 'RB'), ('in', 'IN'), ('the', 'DT'), ('pan', 'NN')]
+myvp: [['cooked', 'take']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'cooked', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 78
+tagged_sent: [('more', 'JJR'), ('importantly', 'RB'), ('add', 'JJ'), ('the', 'DT'), ('lemon', 'NN'), ('juice', 'NN'), ('mixture', 'NN'), ('while', 'IN'), ('it\xa1\xafs', 'JJ'), ('hot', 'NN')]
+myvp: []
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '']
+
+Sentence: 79
+tagged_sent: [('let', 'NN'), ('the', 'DT'), ('juice', 'NN'), ('get', 'NN'), ('into', 'IN'), ('the', 'DT'), ('cake', 'NN'), ('while', 'IN'), ('waiting', 'VBG'), ('for', 'IN'), ('it', 'PRP'), ('to', 'TO'), ('cool', 'VB')]
+myvp: [['waiting', 'it']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', 'waiting', '', '', '', 'cool']
+
+Sentence: 80
+tagged_sent: [('make', 'VB'), ('breakfast', 'VBN'), ('the', 'DT'), ('night', 'NN'), ('before', 'IN'), ('with', 'IN'), ('a', 'DT'), ('hash', 'NN'), ('brown', 'NN'), ('casserole', 'NN')]
+myvp: [['breakfast', 'night']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['make', 'breakfast', '', '', '', '', '', '', '', '']
+
+Sentence: 81
+tagged_sent: [('how', 'WRB'), ('to', 'TO'), ('make', 'VB'), ('chili', 'NN'), ('cornbread', 'VB'), ('pie', 'NN')]
+myvp: [['make', 'chili'], ['cornbread', 'pie']]
+label:    [0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 1, 0]
+temp_tag_act: ['', '', 'make', '', 'cornbread', '']
+
+Sentence: 82
+tagged_sent: [('how', 'WRB'), ('to', 'TO'), ('make', 'VB'), ('chocolate', 'JJ'), ('raspberry', 'NN'), ('cream', 'NN'), ('pie', 'NN')]
+myvp: [['make', 'raspberry', 'cream', 'pie']]
+label:    [0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'make', '', '', '', '']
+
+Sentence: 83
+tagged_sent: [('how', 'WRB'), ('to', 'TO'), ('make', 'VB'), ('english', 'JJ'), ('country', 'NN'), ('scones', 'NNS')]
+myvp: [['make', 'country', 'scones']]
+label:    [0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', 'make', '', '', '']
+
+
+
+total_actions: 134
+right_actions: 71
+tag_actions: 132
+recall: 0.529851
+precision: 0.537879
+f_measure: 0.533835
+accuracy: 0.886343
+Time cost 0s

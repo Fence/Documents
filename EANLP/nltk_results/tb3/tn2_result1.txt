@@ -1,0 +1,915 @@
+Tagging for total 129 sentences with nltk methods
+
+Sentence: 1
+tagged_sent: [('turn', 'NN'), ('so', 'IN'), ('the', 'DT'), ('wall', 'NN'), ('is', 'VBZ'), ('on', 'IN'), ('your', 'PRP$'), ('back', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 2
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('twice', 'NN')]
+myvp: [['forward', 'twice']]
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 3
+tagged_sent: [('turn', 'NN'), ('right', 'RB')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 4
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 5
+tagged_sent: [('orient', 'NN'), ('yourself', 'PRP'), ('along', 'IN'), ('the', 'DT'), ('yellow-tiled', 'JJ'), ('hallway', 'NN'), ('with', 'IN'), ('the', 'DT'), ('easel', 'NN'), ('in', 'IN'), ('the', 'DT'), ('stone', 'NN'), ('hall', 'NN'), ('to', 'TO'), ('your', 'PRP$'), ('left', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 6
+tagged_sent: [('go', 'IN'), ('forward', 'RB'), ('two', 'CD'), ('segments', 'NNS'), ('to', 'TO'), ('the', 'DT'), ('intersection', 'NN'), ('with', 'IN'), ('the', 'DT'), ('pink-flowered', 'JJ'), ('carpet', 'NN'), ('hall', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 7
+tagged_sent: [('with', 'IN'), ('your', 'PRP$'), ('back', 'NN'), ('to', 'TO'), ('the', 'DT'), ('wall', 'NN'), ('turn', 'NN'), ('right', 'RB')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 8
+tagged_sent: [('move', 'NN'), ('to', 'TO'), ('the', 'DT'), ('corner', 'NN'), ('and', 'CC'), ('turn', 'VB'), ('right', 'RB'), ('again', 'RB')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'turn', '', '']
+
+Sentence: 9
+tagged_sent: [('move', 'NN'), ('to', 'TO'), ('the', 'DT'), ('easel', 'NN'), ('and', 'CC'), ('turn', 'VB'), ('left', 'VBN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 1]
+temp_tag_act: ['', '', '', '', '', 'turn', 'left']
+
+Sentence: 10
+tagged_sent: [('move', 'NN'), ('one', 'CD'), ('block', 'NN')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 11
+tagged_sent: [('take', 'VB'), ('the', 'DT'), ('black', 'JJ'), ('path', 'NN'), ('towards', 'NNS'), ('the', 'DT'), ('fish', 'JJ'), ('until', 'IN'), ('you', 'PRP'), ('reach', 'VBP'), ('the', 'DT'), ('pink', 'NN'), ('flowered', 'VBD'), ('path', 'NN')]
+myvp: [['take', 'path', 'towards'], ['reach', 'pink'], ['flowered', 'path']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag_act: ['take', '', '', '', '', '', '', '', '', 'reach', '', '', 'flowered', '']
+
+Sentence: 12
+tagged_sent: [('here', 'RB'), ('turn', 'VBP'), ('right', 'RB'), ('and', 'CC'), ('go', 'VB'), ('all', 'DT'), ('the', 'DT'), ('way', 'NN'), ('until', 'IN'), ('the', 'DT'), ('end', 'NN'), ('where', 'WRB'), ('you', 'PRP'), ('can', 'MD'), ('only', 'RB'), ('turn', 'VB'), ('right', 'RB'), ('or', 'CC'), ('left', 'VBN'), ('onto', 'IN'), ('a', 'DT'), ('blue', 'JJ'), ('path', 'NN')]
+myvp: [['left', 'path']]
+label:    [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'turn', '', '', 'go', '', '', '', '', '', '', '', '', '', '', 'turn', '', '', 'left', '', '', '', '']
+
+Sentence: 13
+tagged_sent: [('follow', 'NN'), ('the', 'DT'), ('red', 'NN'), ('brick', 'NN'), ('path', 'NN'), ('away', 'RB'), ('from', 'IN'), ('the', 'DT'), ('bench', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 14
+tagged_sent: [('at', 'IN'), ('the', 'DT'), ('corner', 'NN'), ('go', 'NN'), ('right', 'RB'), ('towards', 'VBZ'), ('the', 'DT'), ('easel', 'NN')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 15
+tagged_sent: [('past', 'NN'), ('the', 'DT'), ('easel', 'NN'), ('and', 'CC'), ('at', 'IN'), ('the', 'DT'), ('next', 'JJ'), ('corner', 'NN'), ('take', 'NN'), ('a', 'DT'), ('right', 'NN'), ('onto', 'IN'), ('the', 'DT'), ('blue', 'JJ'), ('path', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 16
+tagged_sent: [('at', 'IN'), ('the', 'DT'), ('first', 'JJ'), ('intersection', 'NN'), ('take', 'NN'), ('a', 'DT'), ('left', 'NN'), ('onto', 'IN'), ('the', 'DT'), ('pink', 'NN'), ('path', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 17
+tagged_sent: [('again', 'RB'), ('take', 'VBP'), ('a', 'DT'), ('right', 'NN'), ('at', 'IN'), ('the', 'DT'), ('first', 'JJ'), ('intersection', 'NN'), ('and', 'CC'), ('go', 'VB'), ('to', 'TO'), ('the', 'DT'), ('end', 'NN'), ('of', 'IN'), ('the', 'DT'), ('hall', 'NN')]
+myvp: [['take', 'right']]
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'take', '', '', '', '', '', '', '', 'go', '', '', '', '', '', '']
+
+Sentence: 18
+tagged_sent: [('only', 'RB'), ('one', 'CD'), ('direction', 'NN'), ('to', 'TO'), ('go', 'VB')]
+myvp: []
+label:    [0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', 'go']
+
+Sentence: 19
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 20
+tagged_sent: [('turn', 'NN'), ('left', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'left']
+
+Sentence: 21
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('twice', 'NN')]
+myvp: [['forward', 'twice']]
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 22
+tagged_sent: [('turn', 'NN'), ('left', 'VBD'), ('walk', 'NN'), ('forward', 'RB'), ('three', 'CD'), ('times', 'NNS')]
+myvp: [['left', 'walk']]
+label:    [1, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'left', '', '', '', '']
+
+Sentence: 23
+tagged_sent: [('turn', 'NN'), ('right', 'RB')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 24
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('three', 'CD'), ('times', 'NNS')]
+myvp: [['forward', 'times']]
+label:    [1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0]
+temp_tag_act: ['', 'forward', '', '']
+
+Sentence: 25
+tagged_sent: [('take', 'VB'), ('the', 'DT'), ('yellow', 'JJ'), ('path', 'NN'), ('to', 'TO'), ('the', 'DT'), ('pink', 'NN'), ('path', 'NN'), ('intersection', 'NN')]
+myvp: [['take', 'path']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['take', '', '', '', '', '', '', '', '']
+
+Sentence: 26
+tagged_sent: [('go', 'IN'), ('right', 'RB'), ('onto', 'IN'), ('the', 'DT'), ('pink', 'NN'), ('path', 'NN'), ('all', 'DT'), ('the', 'DT'), ('way', 'NN'), ('to', 'TO'), ('the', 'DT'), ('black', 'JJ'), ('easel', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 27
+tagged_sent: [('taek', 'NN'), ('the', 'DT'), ('brick', 'NN'), ('path', 'NN'), ('towards', 'NNS'), ('the', 'DT'), ('lamp', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 28
+tagged_sent: [('take', 'VB'), ('a', 'DT'), ('right', 'NN'), ('on', 'IN'), ('the', 'DT'), ('plain', 'NN'), ('path', 'NN'), ('two', 'CD'), ('intersections', 'NNS'), ('after', 'IN'), ('the', 'DT'), ('lamp', 'NN')]
+myvp: [['take', 'right']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['take', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 29
+tagged_sent: [('turn', 'NN'), ('to', 'TO'), ('face', 'VB'), ('the', 'DT'), ('green', 'JJ'), ('hallway', 'NN')]
+myvp: [['face', 'hallway']]
+label:    [1, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', 'face', '', '', '']
+
+Sentence: 30
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('twice', 'NN')]
+myvp: [['forward', 'twice']]
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 31
+tagged_sent: [('turn', 'NN'), ('left', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'left']
+
+Sentence: 32
+tagged_sent: [('you', 'PRP'), ('should', 'MD'), ('be', 'VB'), ('facing', 'VBG'), ('the', 'DT'), ('red', 'NN'), ('hallway', 'NN')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 1, 0, 0, 0]
+temp_tag_act: ['', '', 'be', 'facing', '', '', '']
+
+Sentence: 33
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 34
+tagged_sent: [('all', 'DT'), ('the', 'DT'), ('way', 'NN'), ('down', 'IN'), ('the', 'DT'), ('winding', 'NN'), ('hall', 'NN')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 35
+tagged_sent: [('continuing', 'VBG'), ('until', 'IN'), ('you', 'PRP'), ('reach', 'VBP'), ('the', 'DT'), ('red', 'NN'), ('hall', 'NN')]
+myvp: [['continuing', 'you'], ['reach', 'red', 'hall']]
+label:    [1, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['continuing', '', '', 'reach', '', '', '']
+
+Sentence: 36
+tagged_sent: [('only', 'RB'), ('one', 'CD'), ('way', 'NN'), ('to', 'TO'), ('go', 'VB')]
+myvp: []
+label:    [0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', 'go']
+
+Sentence: 37
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 38
+tagged_sent: [('turn', 'NN'), ('left', 'VBD'), ('walk', 'NN'), ('forward', 'RB'), ('once', 'RB')]
+myvp: [['left', 'walk']]
+label:    [1, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0]
+temp_tag_act: ['', 'left', '', '', '']
+
+Sentence: 39
+tagged_sent: [('turn', 'NN'), ('right', 'RB')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 40
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 41
+tagged_sent: [('turn', 'NN'), ('left', 'VBD'), ('walk', 'NN'), ('forward', 'RB'), ('once', 'RB')]
+myvp: [['left', 'walk']]
+label:    [1, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0]
+temp_tag_act: ['', 'left', '', '', '']
+
+Sentence: 42
+tagged_sent: [('turn', 'NN'), ('right', 'RB')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 43
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 44
+tagged_sent: [('face', 'NN'), ('the', 'DT'), ('hall', 'NN'), ('toward', 'IN'), ('the', 'DT'), ('stool', 'NN')]
+myvp: []
+label:    [1, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 45
+tagged_sent: [('go', 'IN'), ('forward', 'RB'), ('one', 'CD'), ('segment', 'NN'), ('to', 'TO'), ('the', 'DT'), ('intersection', 'NN'), ('containing', 'VBG'), ('the', 'DT'), ('stool', 'NN')]
+myvp: [['containing', 'stool']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'containing', '', '']
+
+Sentence: 46
+tagged_sent: [('turn', 'NN'), ('left', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'left']
+
+Sentence: 47
+tagged_sent: [('go', 'IN'), ('forward', 'RB'), ('two', 'CD'), ('segmentsm', 'NN'), ('passing', 'VBG'), ('the', 'DT'), ('chair', 'NN')]
+myvp: [['passing', 'chair']]
+label:    [1, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', 'passing', '', '']
+
+Sentence: 48
+tagged_sent: [('turn', 'NN'), ('left', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'left']
+
+Sentence: 49
+tagged_sent: [('you', 'PRP'), ('are', 'VBP'), ('now', 'RB'), ('facing', 'VBG'), ('the', 'DT'), ('yellow-tiled', 'JJ'), ('hall', 'NN')]
+myvp: [['facing', 'hall']]
+label:    [0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 1, 0, 0, 0]
+temp_tag_act: ['', 'are', '', 'facing', '', '', '']
+
+Sentence: 50
+tagged_sent: [('go', 'IN'), ('forward', 'RB'), ('three', 'CD'), ('segments', 'NNS'), ('to', 'TO'), ('the', 'DT'), ('pink-flowered', 'JJ'), ('carpet', 'NN'), ('hall', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 51
+tagged_sent: [('turn', 'NN'), ('right', 'RB')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 52
+tagged_sent: [('go', 'IN'), ('forward', 'RB'), ('two', 'CD'), ('segments', 'NNS'), ('to', 'TO'), ('the', 'DT'), ('intersection', 'NN'), ('with', 'IN'), ('the', 'DT'), ('brick', 'NN'), ('hall', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 53
+tagged_sent: [('turn', 'NN'), ('left', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'left']
+
+Sentence: 54
+tagged_sent: [('go', 'IN'), ('forward', 'RB'), ('along', 'IN'), ('the', 'DT'), ('brick', 'NN'), ('hall', 'NN'), ('four', 'CD'), ('segments', 'NNS'), ('to', 'TO'), ('the', 'DT'), ('wooden-floored', 'JJ'), ('hall', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 55
+tagged_sent: [('turn', 'NN'), ('left', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'left']
+
+Sentence: 56
+tagged_sent: [('go', 'IN'), ('forward', 'RB'), ('one', 'CD'), ('segment', 'NN'), ('to', 'TO'), ('the', 'DT'), ('interesection', 'NN'), ('with', 'IN'), ('a', 'DT'), ('bare', 'NN'), ('concrete', 'JJ'), ('hall', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 57
+tagged_sent: [('turn', 'NN'), ('to', 'TO'), ('face', 'VB'), ('the', 'DT'), ('easel', 'NN')]
+myvp: [['face', 'easel']]
+label:    [1, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0]
+temp_tag_act: ['', '', 'face', '', '']
+
+Sentence: 58
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 59
+tagged_sent: [('turn', 'NN'), ('left', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'left']
+
+Sentence: 60
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 61
+tagged_sent: [('turn', 'NN'), ('right', 'RB')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 62
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB'), ('turn', 'VB'), ('left', 'VBN')]
+myvp: []
+label:    [1, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 1, 1]
+temp_tag_act: ['', 'forward', '', 'turn', 'left']
+
+Sentence: 63
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 64
+tagged_sent: [('turn', 'NN'), ('right', 'RB')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 65
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 66
+tagged_sent: [('place', 'NN'), ('your', 'PRP$'), ('back', 'NN'), ('against', 'IN'), ('the', 'DT'), ('wall', 'NN'), ('of', 'IN'), ('the', 'DT'), ("'t'", 'NNP'), ('intersection', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '']
+
+Sentence: 67
+tagged_sent: [('turn', 'NN'), ('right', 'RB')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 68
+tagged_sent: [('go', 'IN'), ('forward', 'RB'), ('along', 'IN'), ('the', 'DT'), ('brick', 'NN'), ('hall', 'NN'), ('five', 'CD'), ('segments', 'NNS'), ('to', 'TO'), ('the', 'DT'), ('intersection', 'NN'), ('with', 'IN'), ('the', 'DT'), ('stone', 'NN'), ('hall', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 69
+tagged_sent: [('you', 'PRP'), ('will', 'MD'), ('pass', 'VB'), ('a', 'DT'), ('lamp', 'NN'), ('and', 'CC'), ('a', 'DT'), ('hatrack', 'NN')]
+myvp: [['pass', 'lamp']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'pass', '', '', '', '', '']
+
+Sentence: 70
+tagged_sent: [('turn', 'NN'), ('right', 'RB')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 71
+tagged_sent: [('go', 'IN'), ('forward', 'RB'), ('along', 'IN'), ('the', 'DT'), ('stone', 'NN'), ('hall', 'NN'), ('one', 'CD'), ('segment', 'NN'), ('to', 'TO'), ('the', 'DT'), ('intersection', 'NN'), ('with', 'IN'), ('a', 'DT'), ('bare', 'NN'), ('concrete', 'JJ'), ('hall', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 72
+tagged_sent: [('go', 'IN'), ('towards', 'NNS'), ('the', 'DT'), ('pink', 'NN'), ('path', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 73
+tagged_sent: [('at', 'IN'), ('the', 'DT'), ('pink', 'NN'), ('path', 'NN'), ('intersection', 'NN'), ('go', 'VB'), ('left', 'VBN'), ('onto', 'IN'), ('the', 'DT'), ('pink', 'NN'), ('path', 'NN')]
+myvp: [['left', 'pink', 'path']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', 'go', 'left', '', '', '', '']
+
+Sentence: 74
+tagged_sent: [('take', 'VB'), ('a', 'DT'), ('right', 'NN'), ('onto', 'IN'), ('the', 'DT'), ('blue', 'JJ'), ('path', 'NN'), ('at', 'IN'), ('the', 'DT'), ('next', 'JJ'), ('intersection', 'NN')]
+myvp: [['take', 'right']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['take', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 75
+tagged_sent: [('at', 'IN'), ('the', 'DT'), ('end', 'NN'), ('of', 'IN'), ('the', 'DT'), ('hall', 'NN'), ('go', 'NN'), ('left', 'VBD'), ('towards', 'NNS'), ('the', 'DT'), ('easel', 'NN')]
+myvp: [['left', 'towards']]
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'left', '', '', '']
+
+Sentence: 76
+tagged_sent: [('go', 'IN'), ('past', 'JJ'), ('the', 'DT'), ('easel', 'NN'), ('until', 'IN'), ('you', 'PRP'), ('come', 'VBP'), ('to', 'TO'), ('the', 'DT'), ('corner', 'NN'), ('with', 'IN'), ('the', 'DT'), ('red', 'NN'), ('brick', 'NN'), ('intersection', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', 'come', '', '', '', '', '', '', '', '']
+
+Sentence: 77
+tagged_sent: [('go', 'IN'), ('left', 'VBN'), ('onto', 'IN'), ('the', 'DT'), ('red', 'NN'), ('brick', 'NN'), ('and', 'CC'), ('the', 'DT'), ('first', 'JJ'), ('intersection', 'NN'), ('is', 'VBZ'), ('1', 'CD')]
+myvp: [['left', 'red', 'brick']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'left', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 78
+tagged_sent: [('move', 'NN'), ('to', 'TO'), ('the', 'DT'), ('flowered', 'VBN'), ('carpet', 'NN'), ('and', 'CC'), ('turn', 'VB'), ('left', 'VBN')]
+myvp: [['flowered', 'carpet']]
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 1, 1]
+temp_tag_act: ['', '', '', 'flowered', '', '', 'turn', 'left']
+
+Sentence: 79
+tagged_sent: [('move', 'NN'), ('along', 'IN'), ('the', 'DT'), ('blue', 'JJ'), ('carpet', 'NN'), ('to', 'TO'), ('the', 'DT'), ('chair', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 80
+tagged_sent: [('turn', 'NN'), ('right', 'RB'), ('and', 'CC'), ('move', 'VB'), ('forward', 'RB'), ('to', 'TO'), ('the', 'DT'), ('stool', 'NN')]
+myvp: []
+label:    [1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'move', '', '', '', '']
+
+Sentence: 81
+tagged_sent: [('with', 'IN'), ('your', 'PRP$'), ('back', 'NN'), ('to', 'TO'), ('the', 'DT'), ('wall', 'NN'), ('turn', 'NN'), ('left', 'VBD')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', 'left']
+
+Sentence: 82
+tagged_sent: [('move', 'NN'), ('past', 'VBD'), ('the', 'DT'), ('chair', 'NN'), ('to', 'TO'), ('the', 'DT'), ('side', 'NN'), ('alley', 'NN'), ('with', 'IN'), ('flowered', 'JJ'), ('carpet', 'NN')]
+myvp: [['past', 'chair']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'past', '', '', '', '', '', '', '', '', '']
+
+Sentence: 83
+tagged_sent: [('turn', 'NN'), ('right', 'RB'), ('down', 'IN'), ('this', 'DT'), ('alley', 'NN'), ('and', 'CC'), ('then', 'RB'), ('right', 'RB'), ('again', 'RB'), ('at', 'IN'), ('the', 'DT'), ('first', 'JJ'), ('alley', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 84
+tagged_sent: [('facing', 'VBG'), ('the', 'DT'), ('grey', 'NN'), ('floored', 'VBD'), ('deadend', 'NN'), ('move', 'NN'), ('to', 'TO'), ('it', 'PRP')]
+myvp: [['facing', 'grey'], ['floored', 'deadend', 'move']]
+label:    [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['facing', '', '', 'floored', '', '', '', '']
+
+Sentence: 85
+tagged_sent: [('take', 'VB'), ('the', 'DT'), ('black', 'JJ'), ('path', 'NN'), ('towards', 'NNS'), ('the', 'DT'), ('intersection', 'NN'), ('with', 'IN'), ('the', 'DT'), ('red', 'NN'), ('brick', 'NN'), ('path', 'NN')]
+myvp: [['take', 'path', 'towards']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['take', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 86
+tagged_sent: [('go', 'IN'), ('right', 'RB'), ('onto', 'IN'), ('the', 'DT'), ('red', 'NN'), ('brick', 'NN'), ('path', 'NN'), ('towards', 'NNS'), ('the', 'DT'), ('lamp', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '']
+
+Sentence: 87
+tagged_sent: [('take', 'VB'), ('the', 'DT'), ('yellow', 'JJ'), ('path', 'NN'), ('away', 'RB'), ('from', 'IN'), ('the', 'DT'), ('end', 'NN'), ('of', 'IN'), ('the', 'DT'), ('hall', 'NN'), ('to', 'TO'), ('the', 'DT'), ('blue', 'JJ'), ('path', 'NN'), ('intersection', 'NN')]
+myvp: [['take', 'path']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['take', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 88
+tagged_sent: [('at', 'IN'), ('the', 'DT'), ('coat', 'JJ'), ('rack', 'NN'), ('take', 'NN'), ('a', 'DT'), ('right', 'NN'), ('onto', 'IN'), ('the', 'DT'), ('blue', 'JJ'), ('path', 'NN'), ('and', 'CC'), ('follow', 'VB'), ('past', 'JJ'), ('the', 'DT'), ('chair', 'NN'), ('to', 'TO'), ('the', 'DT'), ('pink', 'NN'), ('path', 'NN'), ('intersection', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', 'follow', '', '', '', '', '', '', '', '']
+
+Sentence: 89
+tagged_sent: [('at', 'IN'), ('this', 'DT'), ('intersection', 'NN'), ('go', 'VBP'), ('right', 'RB'), ('onto', 'IN'), ('the', 'DT'), ('pink', 'NN'), ('path', 'NN'), ('and', 'CC'), ('at', 'IN'), ('the', 'DT'), ('very', 'RB'), ('first', 'JJ'), ('intersection', 'NN'), ('go', 'RB'), ('right', 'RB'), ('to', 'TO'), ('the', 'DT'), ('very', 'JJ'), ('end', 'NN'), ('of', 'IN'), ('the', 'DT'), ('hall', 'NN'), ('and', 'CC'), ('this', 'DT'), ('is', 'VBZ'), ('6', 'CD')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'go', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 90
+tagged_sent: [('follow', 'NN'), ('the', 'DT'), ('pink', 'NN'), ('flowered', 'VBD'), ('path', 'NN'), ('all', 'DT'), ('the', 'DT'), ('way', 'NN'), ('until', 'IN'), ('you', 'PRP'), ('see', 'VBP'), ('fish', 'JJ'), ('on', 'IN'), ('the', 'DT'), ('wall', 'NN')]
+myvp: [['flowered', 'path']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', 'flowered', '', '', '', '', '', '', 'see', '', '', '', '']
+
+Sentence: 91
+tagged_sent: [('when', 'WRB'), ('you', 'PRP'), ('reach', 'VBP'), ('an', 'DT'), ('intersection', 'NN'), ('in', 'IN'), ('which', 'WDT'), ('you', 'PRP'), ('can', 'MD'), ('only', 'RB'), ('turn', 'VB'), ('left', 'VBN'), ('and', 'CC'), ('see', 'VB'), ('a', 'DT'), ('dead', 'JJ'), ('end', 'NN'), ('in', 'IN'), ('front', 'NN'), ('of', 'IN'), ('you', 'PRP'), ('you', 'PRP'), ('are', 'VBP'), ('at', 'IN'), ('position', 'NN'), ('7', 'CD')]
+myvp: [['reach', 'intersection'], ['see', 'end'], ['are', 'position']]
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', 'reach', '', '', '', '', '', '', '', 'turn', 'left', '', 'see', '', '', '', '', '', '', '', '', 'are', '', '', '']
+
+Sentence: 92
+tagged_sent: [('turn', 'NN'), ('to', 'TO'), ('face', 'VB'), ('the', 'DT'), ('black', 'JJ'), ('corridor', 'NN'), ('with', 'IN'), ('the', 'DT'), ('towers', 'NNS'), ('on', 'IN'), ('both', 'DT'), ('sides', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('walls', 'NNS')]
+myvp: [['face', 'corridor']]
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'face', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 93
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 94
+tagged_sent: [('turn', 'NN'), ('left', 'VBD')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 1]
+temp_tag_act: ['', 'left']
+
+Sentence: 95
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('twice', 'NN')]
+myvp: [['forward', 'twice']]
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 96
+tagged_sent: [('turn', 'NN'), ('right', 'RB')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 97
+tagged_sent: [('walk', 'NN'), ('forward', 'VBD'), ('once', 'RB')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', 'forward', '']
+
+Sentence: 98
+tagged_sent: [('follow', 'NN'), ('this', 'DT'), ('hallway', 'NN'), ('till', 'IN'), ('you', 'PRP'), ('get', 'VBP'), ('to', 'TO'), ('the', 'DT'), ('pink', 'NN'), ('floored', 'VBD'), ('area', 'NN')]
+myvp: [['floored', 'area']]
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', 'get', '', '', '', 'floored', '']
+
+Sentence: 99
+tagged_sent: [('stop', 'NN'), ('here', 'RB')]
+myvp: []
+label:    [1, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 100
+tagged_sent: [('go', 'IN'), ('right', 'RB'), ('one', 'CD'), ('move', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 101
+tagged_sent: [('go', 'IN'), ('down', 'RB'), ('the', 'DT'), ('yellow', 'JJ'), ('hall', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 102
+tagged_sent: [('then', 'RB'), ('stop', 'VBP'), ('at', 'IN'), ('the', 'DT'), ('intersection', 'NN'), ('of', 'IN'), ('the', 'DT'), ('yellow', 'JJ'), ('and', 'CC'), ('the', 'DT'), ('grey.', 'NNP')]
+myvp: [['stop', 'intersection']]
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', 'stop', '', '', '', '', '', '', '', '', '']
+
+Sentence: 103
+tagged_sent: [('go', 'IN'), ('all', 'DT'), ('the', 'DT'), ('way', 'NN'), ('down', 'IN'), ('to', 'TO'), ('the', 'DT'), ('grey', 'NN'), ('hall', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 104
+tagged_sent: [('this', 'DT'), ('is', 'VBZ'), ('position', 'NN'), ('7', 'CD')]
+myvp: []
+label:    [0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 105
+tagged_sent: [('there', 'EX'), ('is', 'VBZ'), ('a', 'DT'), ('hatrack', 'NN'), ('two', 'CD'), ('segments', 'NNS'), ('to', 'TO'), ('your', 'PRP$'), ('right', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 106
+tagged_sent: [('you', 'PRP'), ('should', 'MD'), ('be', 'VB'), ('facing', 'VBG'), ('the', 'DT'), ('longer', 'NN'), ('alley', 'NN'), ('of', 'IN'), ('wooden', 'NN'), ('flooring', 'VBG'), ('and', 'CC'), ('butterfly', 'RB'), ('pictures', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('side', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'be', 'facing', '', '', '', '', '', 'flooring', '', '', '', '', '', '']
+
+Sentence: 107
+tagged_sent: [('this', 'DT'), ('is', 'VBZ'), ('5', 'CD')]
+myvp: []
+label:    [0, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 108
+tagged_sent: [('once', 'RB'), ('here', 'RB'), ('you', 'PRP'), ('are', 'VBP'), ('at', 'IN'), ('position', 'NN'), ('4', 'CD')]
+myvp: [['are', 'position']]
+label:    [0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', 'are', '', '', '']
+
+Sentence: 109
+tagged_sent: [('this', 'DT'), ('is', 'VBZ'), ('6', 'CD')]
+myvp: []
+label:    [0, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 110
+tagged_sent: [('at', 'IN'), ('this', 'DT'), ('intersection', 'NN'), ('of', 'IN'), ('pink', 'NN'), ('path', 'NN'), ('and', 'CC'), ('red', 'VBD'), ('brick', 'NN'), ('you', 'PRP'), ('are', 'VBP'), ('at', 'IN'), ('position', 'NN'), ('1', 'CD')]
+myvp: [['red', 'brick'], ['are', 'position']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'red', '', '', 'are', '', '', '']
+
+Sentence: 111
+tagged_sent: [('at', 'IN'), ('the', 'DT'), ('end', 'NN'), ('where', 'WRB'), ('you', 'PRP'), ('can', 'MD'), ('only', 'RB'), ('go', 'VB'), ('right', 'RB'), ('or', 'CC'), ('left', 'VBN'), ('onto', 'IN'), ('a', 'DT'), ('blue', 'JJ'), ('path', 'NN'), ('you', 'PRP'), ('are', 'VBP'), ('at', 'IN'), ('3', 'CD')]
+myvp: [['left', 'path']]
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'go', '', '', 'left', '', '', '', '', '', 'are', '', '']
+
+Sentence: 112
+tagged_sent: [('position', 'NN'), ('6', 'CD'), ('is', 'VBZ'), ('in', 'IN'), ('the', 'DT'), ('hall', 'NN'), ('with', 'IN'), ('the', 'DT'), ('rose', 'NN'), ('floors', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '']
+
+Sentence: 113
+tagged_sent: [('it', 'PRP'), ('is', 'VBZ'), ('a', 'DT'), ('dead', 'JJ'), ('end', 'NN'), ('which', 'WDT'), ('branches', 'NNS'), ('off', 'IN'), ('and', 'CC'), ('has', 'VBZ'), ('two', 'CD'), ('pictures', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('eiffel', 'NN'), ('tower', 'NN'), ('on', 'IN'), ('the', 'DT'), ('walls', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 114
+tagged_sent: [('position', 'NN'), ('5', 'CD'), ('is', 'VBZ'), ('in', 'IN'), ('a', 'DT'), ('hall', 'NN'), ('with', 'IN'), ('wood', 'NN'), ('floors', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 115
+tagged_sent: [('it', 'PRP'), ('s', 'VBZ'), ('in', 'IN'), ('the', 'DT'), ('middle', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 116
+tagged_sent: [('then', 'RB'), ('a', 'DT'), ('right', 'NN'), ('at', 'IN'), ('the', 'DT'), ('grey', 'NN'), ('hall', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 117
+tagged_sent: [('a', 'DT'), ('left', 'VBN'), ('at', 'IN'), ('the', 'DT'), ('red', 'NN'), ('hall', 'NN')]
+myvp: [['left', 'red', 'hall']]
+label:    [0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', 'left', '', '', '', '']
+
+Sentence: 118
+tagged_sent: [('then', 'RB'), ('another', 'DT'), ('left', 'NN'), ('onto', 'IN'), ('a', 'DT'), ('wood', 'NN'), ('hall', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 119
+tagged_sent: [('position', 'NN'), ('1', 'CD'), ('has', 'VBZ'), ('a', 'DT'), ('bench', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 120
+tagged_sent: [('this', 'DT'), ('intersection', 'NN'), ('contains', 'VBZ'), ('a', 'DT'), ('bench', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 121
+tagged_sent: [('this', 'DT'), ('is', 'VBZ'), ('position', 'NN'), ('1', 'CD')]
+myvp: []
+label:    [0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 122
+tagged_sent: [('there', 'EX'), ('will', 'MD'), ('be', 'VB'), ('a', 'DT'), ('bench', 'NN'), ('to', 'TO'), ('your', 'PRP$'), ('left', 'NN')]
+myvp: [['be', 'bench']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', 'be', '', '', '', '', '']
+
+Sentence: 123
+tagged_sent: [('this', 'DT'), ('is', 'VBZ'), ('position', 'NN'), ('6', 'CD')]
+myvp: []
+label:    [0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 124
+tagged_sent: [('the', 'DT'), ('side', 'NN'), ('alleys', 'NNS'), ('are', 'VBP'), ('stone', 'NN')]
+myvp: [['are', 'stone']]
+label:    [0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', 'are', '']
+
+Sentence: 125
+tagged_sent: [('this', 'DT'), ('is', 'VBZ'), ('7', 'CD')]
+myvp: []
+label:    [0, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 126
+tagged_sent: [('with', 'IN'), ('your', 'PRP$'), ('back', 'NN'), ('to', 'TO'), ('the', 'DT'), ('wall', 'NN'), ('turn', 'NN'), ('left', 'VBD')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', 'left']
+
+Sentence: 127
+tagged_sent: [('this', 'DT'), ('is', 'VBZ'), ('6', 'CD')]
+myvp: []
+label:    [0, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 128
+tagged_sent: [('the', 'DT'), ('second', 'JJ'), ('intersection', 'NN'), ('after', 'IN'), ('the', 'DT'), ('lamp', 'NN'), ('will', 'MD'), ('be', 'VB'), ('position', 'NN'), ('7', 'CD')]
+myvp: [['be', 'position']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', 'be', '', '']
+
+Sentence: 129
+tagged_sent: [('position', 'NN'), ('5', 'CD'), ('is', 'VBZ'), ('in', 'IN'), ('the', 'DT'), ('middle', 'NN'), ('of', 'IN'), ('the', 'DT'), ('wooden', 'NN'), ('floor', 'NN'), ('with', 'IN'), ('butterflies', 'NNS'), ('on', 'IN'), ('the', 'DT'), ('walls', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+
+
+total_actions: 130
+right_actions: 39
+tag_actions: 101
+recall: 0.300000
+precision: 0.386139
+f_measure: 0.337662
+accuracy: 0.846231
+Time cost 0s

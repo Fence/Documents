@@ -1,0 +1,2315 @@
+Tagging for total 266 sentences with nltk methods
+
+Sentence: 1
+tagged_sent: [(u'are', 'VBP'), (u'your', 'PRP$'), (u'friends', 'NNS'), (u'always', 'RB'), (u'throwing', 'VBG'), (u'around', 'RP'), (u'tv', 'NN'), (u'show', 'NN'), (u'catchphrases', 'VBZ'), (u'or', 'CC'), (u'famous', 'JJ'), (u'movie', 'NN'), (u'linesdo', 'VBZ'), (u'the', 'DT'), (u'shows', 'NNS'), (u'you', 'PRP'), (u'watch', 'VBP'), (u'throw', 'VB'), (u'in', 'IN'), (u'a', 'DT'), (u'joke', 'NN'), (u'about', 'IN'), (u'another', 'DT'), (u'show', 'NN'), (u'movie', 'NN'), (u'or', 'CC'), (u'celebrity', 'NN')]
+myvp: [['are', 'friends'], ['throw', 'joke']]
+dobj:  throwing ( shows )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'are', '', '', '', u'throwing', '', '', '', '', '', '', '', '', '', '', '', '', u'throw', '', '', '', '', '', '', '', '', '']
+
+Sentence: 2
+tagged_sent: [(u'do', 'VB'), (u'you', 'PRP'), (u'always', 'RB'), (u'fail', 'VBP'), (u'to', 'TO'), (u'understand', 'VB'), (u'what', 'WP'), (u'is', 'VBZ'), (u'being', 'VBG'), (u'talked', 'VBN'), (u'about', 'IN')]
+myvp: [['do', 'you']]
+nsubjpass:  talked ( what )
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: [u'do', '', '', '', '', '', '', '', '', u'talked', '']
+
+Sentence: 3
+tagged_sent: [(u'then', 'RB'), (u'read', 'VB'), (u'on', 'IN'), (u'so', 'IN'), (u'you', 'PRP'), (u'can', 'MD'), (u'always', 'RB'), (u'see', 'VB'), (u'when', 'WRB'), (u'a', 'DT'), (u'pop', 'JJ'), (u'culture', 'NN'), (u'reference', 'NN'), (u'is', 'VBZ'), (u'being', 'VBG'), (u'dropped', 'VBD')]
+myvp: []
+nsubjpass:  dropped ( reference )
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'dropped']
+
+Sentence: 4
+tagged_sent: [(u'research', 'NN'), (u'while', 'IN'), (u'a', 'DT'), (u'goodfellas', 'JJ'), (u'line', 'NN'), (u'or', 'CC'), (u'joke', 'NN'), (u'may', 'MD'), (u'be', 'VB'), (u'thrown', 'VBN'), (u'around', 'IN'), (u'in', 'IN'), (u'other', 'JJ'), (u'media', 'NNS'), (u'its', 'PRP$'), (u'highly', 'RB'), (u'unlikely', 'JJ'), (u'that', 'IN'), (u'something', 'NN'), (u'as', 'RB'), (u'trivial', 'JJ'), (u'as', 'IN'), (u'pretty', 'JJ'), (u'little', 'JJ'), (u'liars', 'NNS'), (u'will', 'MD'), (u'be', 'VB'), (u'referenced', 'VBN'), (u'anywhere', 'RB'), (u'else', 'RB')]
+myvp: []
+nsubjpass:  thrown ( line )
+nsubjpass:  referenced ( liars )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', u'thrown', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'referenced', '', '']
+
+Sentence: 5
+tagged_sent: [(u'read', 'VB'), (u'gossip', 'NN'), (u'or', 'CC'), (u'celebrity', 'NN'), (u'news', 'NN'), (u'sitesyou', 'NN'), (u'dont', 'NN'), (u'have', 'VBP'), (u'to', 'TO'), (u'do', 'VB'), (u'enough', 'RB'), (u'so', 'IN'), (u'that', 'IN'), (u'you', 'PRP'), (u'turn', 'VBP'), (u'into', 'IN'), (u'a', 'DT'), (u'pop', 'JJ'), (u'culture', 'NN'), (u'dud', 'NN'), (u'like', 'IN'), (u'kelly', 'RB'), (u'kapoor', 'VB'), (u'but', 'CC'), (u'just', 'RB'), (u'enough', 'RB'), (u'so', 'IN'), (u'that', 'IN'), (u'even', 'RB'), (u'though', 'IN'), (u'everyone', 'NN'), (u'else', 'RB'), (u'knows', 'VBZ'), (u'about', 'IN'), (u'the', 'DT'), (u'kardashians', 'NNS'), (u'you', 'PRP'), (u'know', 'VBP'), (u'some', 'DT'), (u'trivia', 'NN'), (u'and', 'CC'), (u'fun', 'NN'), (u'facts', 'NNS'), (u'about', 'IN'), (u'them', 'PRP')]
+myvp: [['read', 'gossip'], ['turn', 'culture', 'dud'], ['know', 'trivia']]
+dobj:  read ( dont )
+dobj:  know ( trivia )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'read', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'know', '', '', '', '', '', '', '']
+
+Sentence: 6
+tagged_sent: [(u'look', 'VB'), (u'up', 'RP'), (u'whats', 'NNS'), (u'trending', 'VBG'), (u'now', 'RB'), (u'on', 'IN'), (u'line', 'NN'), (u'to', 'TO'), (u'keep', 'VB'), (u'really', 'RB'), (u'up', 'RP'), (u'to', 'TO'), (u'date', 'NN')]
+myvp: []
+dobj:  look ( whats )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'look', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 7
+tagged_sent: [(u'remember', 'VB'), (u'clothes', 'NNS'), (u'food', 'NN'), (u'accessories', 'NNS'), (u'websites', 'VBZ'), (u'memes', 'NNS'), (u'and', 'CC'), (u'much', 'RB'), (u'more', 'JJR'), (u'are', 'VBP'), (u'included', 'VBN'), (u'in', 'IN'), (u'pop', 'JJ'), (u'culture', 'NN'), (u'and', 'CC'), (u'could', 'MD'), (u'be', 'VB'), (u'referenced', 'VBN'), (u'in', 'IN'), (u'the', 'DT'), (u'media', 'NNS')]
+myvp: [['remember', 'clothes', 'food', 'accessories'], ['included', 'culture'], ['referenced', 'media']]
+dobj:  remember ( clothes )
+dobj:  websites ( memes )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'remember', '', '', '', u'websites', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 8
+tagged_sent: [(u'remember', 'VB'), (u'very', 'RB'), (u'little', 'JJ'), (u'pop', 'JJ'), (u'culture', 'NN'), (u'is', 'VBZ'), (u'globalwhats', 'NNS'), (u'popular', 'JJ'), (u'in', 'IN'), (u'japan', 'NN'), (u'may', 'MD'), (u'never', 'RB'), (u'see', 'VB'), (u'the', 'DT'), (u'light', 'NN'), (u'of', 'IN'), (u'day', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'uk', 'NN')]
+myvp: [['see', 'light']]
+dobj:  see ( light )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', u'see', '', '', '', '', '', '', '']
+
+Sentence: 9
+tagged_sent: [(u'indian', 'JJ'), (u'pop', 'NN'), (u'culture', 'NN'), (u'has', 'VBZ'), (u'many', 'JJ'), (u'differences', 'NNS'), (u'to', 'TO'), (u'us', 'PRP'), (u'pop', 'JJ'), (u'culture', 'NN'), (u'and', 'CC'), (u'some', 'DT'), (u'countries', 'NNS'), (u'might', 'MD'), (u'just', 'RB'), (u'be', 'VB'), (u'jumping', 'VBG'), (u'onto', 'IN'), (u'a', 'DT'), (u'band', 'NN'), (u'wagon', 'NN'), (u'when', 'WRB'), (u'the', 'DT'), (u'rest', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'world', 'NN'), (u'has', 'VBZ'), (u'got', 'VBD'), (u'off', 'RP')]
+myvp: []
+dobj:  has ( differences )
+dobj:  pop ( culture )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'has', '', '', '', '', u'pop', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 10
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'watch', 'VBP'), (u'a', 'DT'), (u'diverse', 'JJ'), (u'range', 'NN'), (u'of', 'IN'), (u'tv', 'NN'), (u'shows', 'NNS'), (u'movies', 'NNS'), (u'and', 'CC'), (u'internet', 'NN'), (u'videos', 'NN'), (u'there', 'EX'), (u'is', 'VBZ'), (u'a', 'DT'), (u'good', 'JJ'), (u'chance', 'NN'), (u'there', 'EX'), (u'will', 'MD'), (u'be', 'VB'), (u'pop', 'JJ'), (u'culture', 'NN'), (u'references', 'NNS'), (u'you', 'PRP'), (u'will', 'MD'), (u'never', 'RB'), (u'catch', 'VB'), (u'because', 'IN'), (u'youre', 'NN'), (u'not', 'RB'), (u'part', 'NN'), (u'of', 'IN'), (u'that', 'DT'), (u'culture', 'NN'), (u'and', 'CC'), (u'you', 'PRP'), (u'shouldnt', 'VBP'), (u'worry', 'VBP'), (u'about', 'IN'), (u'it', 'PRP')]
+myvp: [['watch', 'range'], ['be', 'culture', 'references'], ['catch', 'youre'], ['worry', 'it']]
+dobj:  shows ( movies )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', u'watch', '', '', '', '', '', u'shows', '', '', '', '', '', '', '', '', '', '', '', u'be', '', '', '', '', '', '', u'catch', '', '', '', '', '', '', '', '', '', '', u'worry', '', '']
+
+Sentence: 11
+tagged_sent: [(u'watch', 'VB'), (u'the', 'DT'), (u'reactions', 'NNS'), (u'of', 'IN'), (u'those', 'DT'), (u'around', 'IN'), (u'you', 'PRP'), (u'if', 'IN'), (u'you', 'PRP'), (u'find', 'VBP'), (u'youre', 'JJ'), (u'not', 'RB'), (u'catching', 'VBG'), (u'pop', 'JJ'), (u'culture', 'NN'), (u'references', 'NNS'), (u'in', 'IN'), (u'public', 'JJ')]
+myvp: [['watch', 'reactions'], ['catching', 'culture', 'references']]
+dobj:  watch ( reactions )
+dobj:  catching ( references )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'watch', '', '', '', '', '', '', '', '', '', '', '', u'catching', '', '', '', '', '']
+
+Sentence: 12
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'appear', 'VBP'), (u'not', 'RB'), (u'to', 'TO'), (u'be', 'VB'), (u'the', 'DT'), (u'only', 'JJ'), (u'one', 'NN'), (u'who', 'WP'), (u'doesnt', 'VBZ'), (u'catch', 'VBP'), (u'it', 'PRP'), (u'must', 'MD'), (u'its', 'PRP$'), (u'not', 'RB'), (u'that', 'IN'), (u'popular', 'JJ'), (u'after', 'IN'), (u'all', 'DT'), (u'and', 'CC'), (u'not', 'RB'), (u'worth', 'JJ'), (u'trying', 'VBG'), (u'to', 'TO'), (u'figure', 'VB'), (u'out', 'RP')]
+myvp: [['be', 'one'], ['catch', 'it']]
+dobj:  catch ( who )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'be', '', '', '', '', '', u'catch', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 13
+tagged_sent: [(u'this', 'DT'), (u'is', 'VBZ'), (u'important', 'JJ'), (u'because', 'IN'), (u'even', 'RB'), (u'if', 'IN'), (u'you', 'PRP'), (u'dont', 'VBP'), (u'understand', 'VB'), (u'a', 'DT'), (u'line', 'NN'), (u'you', 'PRP'), (u'could', 'MD'), (u'google', 'VB'), (u'a', 'DT'), (u'little', 'JJ'), (u'backstory', 'NN'), (u'and', 'CC'), (u'be', 'VB'), (u'able', 'JJ'), (u'to', 'TO'), (u'use', 'VB'), (u'it', 'PRP')]
+myvp: [['understand', 'line'], ['google', 'backstory'], ['use', 'it']]
+dobj:  understand ( line )
+dobj:  google ( backstory )
+dobj:  use ( it )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', u'understand', '', '', '', '', u'google', '', '', '', '', '', '', '', u'use', '']
+
+Sentence: 14
+tagged_sent: [(u'watch', 'NN'), (u'tv', 'NN'), (u'showstherefore', 'NN'), (u'they', 'PRP'), (u'usually', 'RB'), (u'explain', 'VBP'), (u'the', 'DT'), (u'lines', 'NNS'), (u'or', 'CC'), (u'references', 'NNS'), (u'theyre', 'RP'), (u'throwing', 'VBG'), (u'out', 'RP'), (u'within', 'IN'), (u'the', 'DT'), (u'show', 'NN'), (u'making', 'VBG'), (u'your', 'PRP$'), (u'job', 'NN'), (u'even', 'RB'), (u'easier', 'JJR')]
+myvp: [['explain', 'lines'], ['making', 'job']]
+dobj:  watch ( showstherefore )
+dobj:  making ( job )
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'watch', '', '', '', '', u'explain', '', '', '', '', '', '', '', '', '', '', u'making', '', '', '', '']
+
+Sentence: 15
+tagged_sent: [(u'hydraulic', 'JJ'), (u'jacks', 'NNS'), (u'are', 'VBP'), (u'used', 'VBN'), (u'to', 'TO'), (u'lift', 'VB'), (u'heavy', 'JJ'), (u'objects', 'NNS'), (u'such', 'JJ'), (u'as', 'IN'), (u'cars', 'NNS')]
+myvp: [['lift', 'objects']]
+nsubjpass:  used ( jacks )
+dobj:  lift ( objects )
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'used', '', u'lift', '', '', '', '', '']
+
+Sentence: 16
+tagged_sent: [(u'hydraulic', 'JJ'), (u'jacks', 'NNS'), (u'require', 'VBP'), (u'fluid', 'NN'), (u'to', 'TO'), (u'push', 'VB'), (u'the', 'DT'), (u'pistons', 'NNS'), (u'that', 'WDT'), (u'lift', 'VBP'), (u'heavy', 'JJ'), (u'objects', 'NNS'), (u'off', 'IN'), (u'of', 'IN'), (u'the', 'DT'), (u'ground', 'NN')]
+myvp: [['require', 'fluid'], ['push', 'pistons'], ['lift', 'objects']]
+dobj:  push ( pistons )
+dobj:  lift ( objects )
+label:    [0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'require', '', '', u'push', '', '', '', u'lift', '', '', '', '', '', '']
+
+Sentence: 17
+tagged_sent: [(u'you', 'PRP'), (u'can', 'MD'), (u'purchase', 'VB'), (u'a', 'DT'), (u'hydraulic', 'JJ'), (u'jack', 'NN'), (u'and', 'CC'), (u'the', 'DT'), (u'oil', 'NN'), (u'required', 'VBN'), (u'to', 'TO'), (u'make', 'VB'), (u'it', 'PRP'), (u'function', 'NN'), (u'at', 'IN'), (u'an', 'DT'), (u'auto', 'NN'), (u'parts', 'NNS'), (u'store', 'NN')]
+myvp: [['purchase', 'jack'], ['make', 'it']]
+dobj:  purchase ( jack )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'purchase', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 18
+tagged_sent: [(u'use', 'IN'), (u'these', 'DT'), (u'tips', 'NNS'), (u'to', 'TO'), (u'add', 'VB'), (u'oil', 'NN'), (u'to', 'TO'), (u'a', 'DT'), (u'hydraulic', 'JJ'), (u'jack', 'NN')]
+myvp: [['add', 'oil']]
+dobj:  use ( tips )
+dobj:  add ( oil )
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'use', '', '', '', u'add', '', '', '', '', '']
+
+Sentence: 19
+tagged_sent: [(u'a', 'DT'), (u'floor', 'NN'), (u'jack', 'NN'), (u'has', 'VBZ'), (u'a', 'DT'), (u'piston', 'NN'), (u'that', 'WDT'), (u'operates', 'VBZ'), (u'in', 'IN'), (u'a', 'DT'), (u'horizontal', 'JJ'), (u'motiona', 'NN'), (u'bottle', 'NN'), (u'jack', 'NN'), (u'features', 'VBZ'), (u'a', 'DT'), (u'piston', 'NN'), (u'that', 'WDT'), (u'moves', 'VBZ'), (u'vertically', 'RB')]
+myvp: []
+dobj:  has ( piston )
+dobj:  features ( piston )
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'has', '', '', '', '', '', '', '', '', '', '', u'features', '', '', '', '', '']
+
+Sentence: 20
+tagged_sent: [(u'add', 'VB'), (u'oil', 'NN'), (u'to', 'TO'), (u'a', 'DT'), (u'hydraulic', 'JJ'), (u'floor', 'NN'), (u'jack', 'NN'), (u'ensure', 'VB'), (u'that', 'IN'), (u'the', 'DT'), (u'jack', 'NN'), (u'is', 'VBZ'), (u'completely', 'RB'), (u'lowered', 'JJ')]
+myvp: [['add', 'oil'], ['ensure', 'jack']]
+nsubjpass:  lowered ( jack )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: [u'add', '', '', '', '', '', '', u'ensure', '', '', '', '', '', u'lowered']
+
+Sentence: 21
+tagged_sent: [(u'turn', 'VB'), (u'the', 'DT'), (u'jacks', 'NNS'), (u'release', 'VBP'), (u'valve', 'RB'), (u'counterclockwise', 'NN'), (u'to', 'TO'), (u'lower', 'VB'), (u'the', 'DT'), (u'jack', 'NN'), (u'if', 'IN'), (u'necessary', 'JJ')]
+myvp: [['turn', 'jacks'], ['release', 'counterclockwise'], ['lower', 'jack']]
+dobj:  lower ( jack )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'turn', '', '', u'release', '', '', '', u'lower', '', '', '', '']
+
+Sentence: 22
+tagged_sent: [(u'locate', 'VB'), (u'the', 'DT'), (u'oil', 'NN'), (u'filler', 'NN'), (u'portthe', 'NN'), (u'reservoir', 'NN'), (u'is', 'VBZ'), (u'the', 'DT'), (u'vertical', 'JJ'), (u'cylinder', 'NN'), (u'mounted', 'VBD'), (u'on', 'IN'), (u'the', 'DT'), (u'flat', 'JJ'), (u'base', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'jack', 'NN')]
+myvp: [['locate', 'oil', 'filler', 'portthe', 'reservoir'], ['mounted', 'base']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'locate', '', '', '', '', '', '', '', '', '', u'mounted', '', '', '', '', '', '', '']
+
+Sentence: 23
+tagged_sent: [(u'add', 'VB'), (u'the', 'DT'), (u'oilremove', 'FW'), (u'the', 'DT'), (u'plug', 'NN'), (u'or', 'CC'), (u'screw', 'NN'), (u'from', 'IN'), (u'the', 'DT'), (u'oil', 'NN'), (u'filler', 'NN'), (u'port', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 24
+tagged_sent: [(u'insert', 'VB'), (u'the', 'DT'), (u'nozzle', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'oilcan', 'JJ'), (u'into', 'IN'), (u'the', 'DT'), (u'oil', 'NN'), (u'filler', 'NN'), (u'portpour', 'NN'), (u'oil', 'NN'), (u'into', 'IN'), (u'the', 'DT'), (u'oil', 'NN'), (u'filler', 'NN'), (u'port', 'NN')]
+myvp: [['insert', 'nozzle']]
+dobj:  insert ( nozzle )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'insert', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 25
+tagged_sent: [(u'stop', 'VB'), (u'pouring', 'VBG'), (u'the', 'DT'), (u'oil', 'NN'), (u'as', 'RB'), (u'soon', 'RB'), (u'as', 'IN'), (u'it', 'PRP'), (u'begins', 'VBZ'), (u'to', 'TO'), (u'leak', 'VB'), (u'out', 'IN'), (u'of', 'IN'), (u'the', 'DT'), (u'oil', 'NN'), (u'filler', 'NN'), (u'port', 'NN')]
+myvp: [['pouring', 'oil']]
+dobj:  pouring ( oil )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'pouring', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 26
+tagged_sent: [(u'close', 'RB'), (u'the', 'DT'), (u'oil', 'NN'), (u'filler', 'NN'), (u'portreplace', 'NN'), (u'the', 'DT'), (u'plug', 'NN'), (u'or', 'CC'), (u'screw', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'oil', 'NN'), (u'filler', 'NN'), (u'port', 'NN')]
+myvp: []
+dobj:  portreplace ( plug )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'portreplace', '', '', '', '', '', '', '', '', '']
+
+Sentence: 27
+tagged_sent: [(u'add', 'VB'), (u'oil', 'NN'), (u'to', 'TO'), (u'a', 'DT'), (u'hydraulic', 'JJ'), (u'bottle', 'NN'), (u'jack', 'NN'), (u'ensure', 'VB'), (u'that', 'IN'), (u'the', 'DT'), (u'jack', 'NN'), (u'is', 'VBZ'), (u'completely', 'RB'), (u'lowered', 'JJ')]
+myvp: [['add', 'oil'], ['ensure', 'jack']]
+nsubjpass:  lowered ( jack )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: [u'add', '', '', '', '', '', '', u'ensure', '', '', '', '', '', u'lowered']
+
+Sentence: 28
+tagged_sent: [(u'turn', 'VB'), (u'the', 'DT'), (u'jacks', 'NNS'), (u'release', 'VBP'), (u'valve', 'RB'), (u'counterclockwise', 'NN'), (u'to', 'TO'), (u'lower', 'VB'), (u'the', 'DT'), (u'jack', 'NN'), (u'if', 'IN'), (u'necessary', 'JJ')]
+myvp: [['turn', 'jacks'], ['release', 'counterclockwise'], ['lower', 'jack']]
+dobj:  lower ( jack )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'turn', '', '', u'release', '', '', '', u'lower', '', '', '', '']
+
+Sentence: 29
+tagged_sent: [(u'there', 'EX'), (u'should', 'MD'), (u'be', 'VB'), (u'a', 'DT'), (u'plug', 'NN'), (u'or', 'CC'), (u'screw', 'VBD'), (u'approximately', 'RB'), (u'1/3', 'CD'), (u'of', 'IN'), (u'the', 'DT'), (u'way', 'NN'), (u'down', 'IN'), (u'from', 'IN'), (u'the', 'DT'), (u'top', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'reservoiradd', 'NN'), (u'the', 'DT'), (u'oil', 'NN')]
+myvp: [['be', 'plug']]
+dobj:  plug ( oil )
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'be', '', u'plug', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 30
+tagged_sent: [(u'remove', 'VB'), (u'the', 'DT'), (u'plug', 'NN'), (u'or', 'CC'), (u'screw', 'NN'), (u'from', 'IN'), (u'the', 'DT'), (u'filler', 'NN'), (u'hole', 'NN')]
+myvp: [['remove', 'plug']]
+dobj:  remove ( plug )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'remove', '', '', '', '', '', '', '', '']
+
+Sentence: 31
+tagged_sent: [(u'pour', 'JJ'), (u'oil', 'NN'), (u'into', 'IN'), (u'the', 'DT'), (u'filler', 'NN'), (u'holestop', 'NN'), (u'pouring', 'VBG'), (u'the', 'DT'), (u'oil', 'NN'), (u'once', 'IN'), (u'it', 'PRP'), (u'has', 'VBZ'), (u'risen', 'VBN'), (u'to', 'TO'), (u'a', 'DT'), (u'level', 'NN'), (u'1/8', 'CD'), (u'inch', 'NN'), (u'3', 'CD'), (u'cm', 'NN'), (u'beneath', 'IN'), (u'the', 'DT'), (u'filler', 'NN'), (u'hole', 'NN')]
+myvp: [['pouring', 'oil']]
+dobj:  pour ( oil )
+dobj:  pouring ( oil )
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'pour', '', '', '', '', '', u'pouring', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 32
+tagged_sent: [(u'replace', 'VB'), (u'the', 'DT'), (u'plug', 'NN'), (u'or', 'CC'), (u'screw', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'filler', 'NN'), (u'hole', 'NN')]
+myvp: [['replace', 'plug']]
+dobj:  replace ( plug )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'replace', '', '', '', '', '', '', '', '']
+
+Sentence: 33
+tagged_sent: [(u'do', 'VBP'), (u'you', 'PRP'), (u'have', 'VB'), (u'dsl', 'VBN'), (u'or', 'CC'), (u'dial-up', 'JJ'), (u'internet', 'NN'), (u'but', 'CC'), (u'just', 'RB'), (u'dont', 'RB'), (u'have', 'VBP'), (u'the', 'DT'), (u'patience', 'NN'), (u'or', 'CC'), (u'time', 'NN'), (u'to', 'TO'), (u'let', 'VB'), (u'your', 'PRP$'), (u'computer', 'NN'), (u'run', 'VBP'), (u'so', 'RB'), (u'slow', 'JJ')]
+myvp: [['do', 'you'], ['have', 'patience'], ['let', 'computer']]
+dobj:  have ( internet )
+dobj:  have ( patience )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'do', '', u'have', '', '', '', '', '', '', '', u'have', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 34
+tagged_sent: [(u'sometimes', 'RB'), (u'you', 'PRP'), (u'just', 'RB'), (u'have', 'VBP'), (u'to', 'TO'), (u'face', 'VB'), (u'the', 'DT'), (u'facts', 'NNS'), (u'and', 'CC'), (u'accept', 'VB'), (u'that', 'DT'), (u'your', 'PRP$'), (u'computer', 'NN'), (u'just', 'RB'), (u'isnt', 'VB'), (u'the', 'DT'), (u'fastest', 'JJS'), (u'in', 'IN'), (u'the', 'DT'), (u'world', 'NN')]
+myvp: [['face', 'facts']]
+dobj:  face ( facts )
+dobj:  isnt ( fastest )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'face', '', '', '', '', '', '', '', '', u'isnt', '', '', '', '', '']
+
+Sentence: 35
+tagged_sent: [(u'dont', 'NN'), (u'click', 'NN'), (u'anything', 'NN'), (u'too', 'RB'), (u'fast', 'RB'), (u'or', 'CC'), (u'try', 'VB'), (u'to', 'TO'), (u'refresh', 'VB'), (u'the', 'DT'), (u'page', 'NN')]
+myvp: [['refresh', 'page']]
+dobj:  dont ( anything )
+dobj:  refresh ( page )
+label:    [0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'dont', '', '', '', '', '', '', '', u'refresh', '', '']
+
+Sentence: 36
+tagged_sent: [(u'this', 'DT'), (u'will', 'MD'), (u'just', 'RB'), (u'confuse', 'VB'), (u'the', 'DT'), (u'computer', 'NN'), (u'and', 'CC'), (u'it', 'PRP'), (u'will', 'MD'), (u'run', 'VB'), (u'even', 'RB'), (u'slower', 'JJR')]
+myvp: [['confuse', 'computer']]
+dobj:  confuse ( computer )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'confuse', '', '', '', '', '', '', '', '']
+
+Sentence: 37
+tagged_sent: [(u'dont', 'JJ'), (u'overreact', 'NN'), (u'just', 'RB'), (u'leave', 'VBP'), (u'the', 'DT'), (u'computer', 'NN'), (u'alone', 'RB'), (u'dont', 'JJ'), (u'click', 'NN'), (u'anything', 'NN'), (u'the', 'DT'), (u'best', 'JJS'), (u'thing', 'NN'), (u'to', 'TO'), (u'do', 'VB'), (u'is', 'VBZ'), (u'just', 'RB'), (u'to', 'TO'), (u'let', 'VB'), (u'it', 'PRP'), (u'load', 'VB')]
+myvp: [['leave', 'computer'], ['let', 'it']]
+dobj:  leave ( computer )
+label:    [0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'leave', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 38
+tagged_sent: [(u'the', 'DT'), (u'more', 'JJR'), (u'documents', 'NNS'), (u'you', 'PRP'), (u'get', 'VBP'), (u'rid', 'JJ'), (u'of', 'IN'), (u'the', 'DT'), (u'more', 'RBR'), (u'empty', 'JJ'), (u'space', 'NN'), (u'you', 'PRP'), (u'will', 'MD'), (u'have', 'VB'), (u'on', 'IN'), (u'the', 'DT'), (u'computerhaving', 'VBG'), (u'more', 'JJR'), (u'space', 'NN'), (u'on', 'IN'), (u'your', 'PRP$'), (u'computer', 'NN'), (u'will', 'MD'), (u'allow', 'VB'), (u'everything', 'NN'), (u'to', 'TO'), (u'run', 'VB'), (u'faster', 'RB')]
+myvp: [['allow', 'everything']]
+dobj:  allow ( everything )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'allow', '', '', '', '']
+
+Sentence: 39
+tagged_sent: [(u'clear', 'JJ'), (u'your', 'PRP$'), (u'recycle', 'NN'), (u'bin', 'NN'), (u'every', 'DT'), (u'once', 'RB'), (u'in', 'IN'), (u'a', 'DT'), (u'while', 'NN'), (u'to', 'TO'), (u'delete', 'VB'), (u'unnecessary', 'JJ'), (u'filesavoid', 'NNS'), (u'opening', 'VBG'), (u'up', 'RP'), (u'several', 'JJ'), (u'tabs', 'NNS'), (u'at', 'IN'), (u'once', 'RB')]
+myvp: [['delete', 'filesavoid']]
+dobj:  clear ( bin )
+dobj:  delete ( filesavoid )
+dobj:  opening ( tabs )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'clear', '', '', '', '', '', '', '', '', '', u'delete', '', '', u'opening', '', '', '', '', '']
+
+Sentence: 40
+tagged_sent: [(u'opening', 'VBG'), (u'up', 'RP'), (u'more', 'RBR'), (u'then', 'RB'), (u'two', 'CD'), (u'or', 'CC'), (u'three', 'CD'), (u'of', 'IN'), (u'those', 'DT'), (u'aforementioned', 'JJ'), (u'tabs', 'NNS'), (u'will', 'MD'), (u'discombobulate', 'VB'), (u'your', 'PRP$'), (u'computer', 'NN')]
+myvp: [['discombobulate', 'computer']]
+dobj:  opening ( more )
+dobj:  discombobulate ( computer )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'opening', '', '', '', '', '', '', '', '', '', '', '', u'discombobulate', '', '']
+
+Sentence: 41
+tagged_sent: [(u'clicking', 'VBG'), (u'back', 'RB'), (u'and', 'CC'), (u'forth', 'NN'), (u'between', 'IN'), (u'several', 'JJ'), (u'tabs', 'NNS'), (u'probably', 'RB'), (u'wont', 'VBP'), (u'happen', 'VB'), (u'either', 'CC')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 42
+tagged_sent: [(u'save', 'VB'), (u'everything', 'NN'), (u'you', 'PRP'), (u'work', 'VBP'), (u'on', 'IN'), (u'several', 'JJ'), (u'times', 'NNS')]
+myvp: [['save', 'everything'], ['work', 'times']]
+dobj:  save ( everything )
+label:    [0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'save', '', '', '', '', '', '']
+
+Sentence: 43
+tagged_sent: [(u'the', 'DT'), (u'last', 'JJ'), (u'thing', 'NN'), (u'you', 'PRP'), (u'want', 'VBP'), (u'is', 'VBZ'), (u'to', 'TO'), (u'have', 'VB'), (u'your', 'PRP$'), (u'computer', 'NN'), (u'crash', 'NN'), (u'as', 'IN'), (u'you', 'PRP'), (u'top', 'VBP'), (u'off', 'RP'), (u'that', 'DT'), (u'10-page', 'JJ'), (u'essay', 'NN')]
+myvp: [['have', 'computer', 'crash']]
+dobj:  have ( crash )
+dobj:  top ( essay )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'have', '', '', '', '', '', u'top', '', '', '', '']
+
+Sentence: 44
+tagged_sent: [(u'consider', 'VB'), (u'using', 'VBG'), (u'the', 'DT'), (u'internet', 'NN'), (u'when', 'WRB'), (u'everyone', 'NN'), (u'in', 'IN'), (u'your', 'PRP$'), (u'household', 'NN'), (u'is', 'VBZ'), (u'asleep', 'JJ'), (u'or', 'CC'), (u'essentially', 'RB'), (u'not', 'RB'), (u'using', 'VBG'), (u'the', 'DT'), (u'internet', 'NN')]
+myvp: [['using', 'internet'], ['using', 'internet']]
+dobj:  using ( internet )
+dobj:  using ( internet )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', u'using', '', '', '', '', '', '', '', '', '', '', '', '', u'using', '', '']
+
+Sentence: 45
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'have', 'VBP'), (u'dial-up', 'JJ'), (u'internet', 'NN'), (u'it', 'PRP'), (u'can', 'MD'), (u'take', 'VB'), (u'up', 'RP'), (u'to', 'TO'), (u'half', 'PDT'), (u'an', 'DT'), (u'hour', 'NN'), (u'to', 'TO'), (u'load', 'VB'), (u'one', 'CD'), (u'to', 'TO'), (u'two-minute', 'JJ'), (u'video', 'NN')]
+myvp: [['have', 'internet']]
+dobj:  have ( internet )
+dobj:  load ( one )
+label:    [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'have', '', '', '', '', '', '', '', '', '', '', '', u'load', '', '', '', '']
+
+Sentence: 46
+tagged_sent: [(u'unless', 'IN'), (u'you', 'PRP'), (u'can', 'MD'), (u'leave', 'VB'), (u'your', 'PRP$'), (u'computer', 'NN'), (u'alone', 'RB'), (u'for', 'IN'), (u'hours', 'NNS'), (u'to', 'TO'), (u'let', 'VB'), (u'it', 'PRP'), (u'load', 'VB'), (u'just', 'RB'), (u'forget', 'VB'), (u'about', 'IN'), (u'it', 'PRP')]
+myvp: [['leave', 'computer'], ['let', 'it'], ['forget', 'it']]
+dobj:  leave ( computer )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'leave', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 47
+tagged_sent: [(u'setting', 'VBG'), (u'goals', 'NNS'), (u'can', 'MD'), (u'help', 'VB'), (u'you', 'PRP'), (u'stay', 'VB'), (u'on', 'IN'), (u'top', 'NN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'studies', 'NNS'), (u'and', 'CC'), (u'earn', 'VB'), (u'good', 'JJ'), (u'grades', 'NNS'), (u'but', 'CC'), (u'its', 'PRP$'), (u'important', 'JJ'), (u'to', 'TO'), (u'set', 'VB'), (u'the', 'DT'), (u'right', 'JJ'), (u'kinds', 'NNS'), (u'of', 'IN'), (u'goals', 'NNS')]
+myvp: [['setting', 'goals'], ['help', 'you'], ['stay', 'top'], ['earn', 'grades'], ['set', 'kinds']]
+dobj:  earn ( grades )
+dobj:  set ( right )
+label:    [0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'setting', '', '', u'help', '', u'stay', '', '', '', '', '', '', u'earn', '', '', '', '', '', '', u'set', '', '', '', '', '']
+
+Sentence: 48
+tagged_sent: [(u'setting', 'VBG'), (u'unrealistic', 'JJ'), (u'goals', 'NNS'), (u'could', 'MD'), (u'set', 'VB'), (u'you', 'PRP'), (u'up', 'RP'), (u'for', 'IN'), (u'disappointment', 'NN'), (u'and', 'CC'), (u'frustration', 'NN'), (u'while', 'IN'), (u'setting', 'VBG'), (u'goals', 'NNS'), (u'that', 'WDT'), (u'are', 'VBP'), (u'too', 'RB'), (u'easy', 'JJ'), (u'will', 'MD'), (u'not', 'RB'), (u'challenge', 'VB'), (u'you', 'PRP'), (u'to', 'TO'), (u'your', 'PRP$'), (u'full', 'JJ'), (u'potential', 'NN')]
+myvp: [['setting', 'goals'], ['set', 'you'], ['setting', 'goals'], ['challenge', 'you']]
+dobj:  set ( you )
+dobj:  challenge ( you )
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'setting', '', '', '', u'set', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'challenge', '', '', '', '', '']
+
+Sentence: 49
+tagged_sent: [(u'learning', 'VBG'), (u'how', 'WRB'), (u'to', 'TO'), (u'create', 'VB'), (u'and', 'CC'), (u'work', 'VB'), (u'towards', 'NNS'), (u'attainable', 'JJ'), (u'goals', 'NNS'), (u'can', 'MD'), (u'help', 'VB'), (u'you', 'PRP'), (u'succeed', 'VB'), (u'in', 'IN'), (u'school', 'NN'), (u'and', 'CC'), (u'in', 'IN'), (u'life', 'NN')]
+myvp: [['work', 'towards'], ['help', 'you'], ['succeed', 'school']]
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'work', '', '', '', '', u'help', '', u'succeed', '', '', '', '', '']
+
+Sentence: 50
+tagged_sent: [(u'setting', 'VBG'), (u'yourself', 'PRP'), (u'up', 'RP'), (u'for', 'IN'), (u'success', 'NN'), (u'there', 'EX'), (u'are', 'VBP'), (u'many', 'JJ'), (u'possible', 'JJ'), (u'goals', 'NNS'), (u'you', 'PRP'), (u'could', 'MD'), (u'set', 'VB'), (u'but', 'CC'), (u'the', 'DT'), (u'type', 'NN'), (u'of', 'IN'), (u'goal', 'NN'), (u'refers', 'NNS'), (u'to', 'TO'), (u'how', 'WRB'), (u'youll', 'JJ'), (u'measure', 'NN'), (u'your', 'PRP$'), (u'progress', 'NN'), (u'and', 'CC'), (u'success', 'NN')]
+myvp: [['setting', 'yourself']]
+dobj:  setting ( yourself )
+dobj:  measure ( progress )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'setting', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'measure', '', '', '', '']
+
+Sentence: 51
+tagged_sent: [(u'process', 'NN'), (u'goals', 'NNS'), (u'focus', 'VBP'), (u'on', 'IN'), (u'the', 'DT'), (u'work', 'NN'), (u'that', 'WDT'), (u'youll', 'VBZ'), (u'do', 'VBP'), (u'within', 'IN'), (u'a', 'DT'), (u'given', 'VBN'), (u'time', 'NN'), (u'periodan', 'JJ'), (u'example', 'NN'), (u'of', 'IN'), (u'a', 'DT'), (u'process', 'NN'), (u'goal', 'NN'), (u'would', 'MD'), (u'be', 'VB'), (u'to', 'TO'), (u'complete', 'VB'), (u'and', 'CC'), (u'submit', 'VB'), (u'all', 'DT'), (u'of', 'IN'), (u'your', 'PRP$'), (u'assignments', 'NNS'), (u'on', 'IN'), (u'time', 'NN'), (u'this', 'DT'), (u'week', 'NN')]
+myvp: [['focus', 'work'], ['given', 'time']]
+dobj:  complete ( all )
+label:    [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'focus', '', '', '', '', '', '', '', '', u'given', '', '', '', '', '', '', '', '', '', '', u'complete', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 52
+tagged_sent: [(u'outcome', 'JJ'), (u'goals', 'NNS'), (u'focus', 'VBP'), (u'on', 'IN'), (u'the', 'DT'), (u'results', 'NNS'), (u'of', 'IN'), (u'your', 'PRP$'), (u'workan', 'JJ'), (u'example', 'NN'), (u'of', 'IN'), (u'an', 'DT'), (u'outcome', 'NN'), (u'goal', 'NN'), (u'would', 'MD'), (u'be', 'VB'), (u'to', 'TO'), (u'earn', 'VB'), (u'a', 'DT'), (u'grade', 'NN'), (u'of', 'IN'), (u'at', 'IN'), (u'least', 'JJS'), (u'90%', 'CD'), (u'on', 'IN'), (u'your', 'PRP$'), (u'next', 'JJ'), (u'test', 'NN')]
+myvp: [['focus', 'results'], ['earn', 'grade']]
+dobj:  earn ( grade )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'focus', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'earn', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 53
+tagged_sent: [(u'identify', 'VB'), (u'the', 'DT'), (u'reasons', 'NNS'), (u'why', 'WRB'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'is', 'VBZ'), (u'importanthaving', 'VBG'), (u'a', 'DT'), (u'goal', 'NN'), (u'may', 'MD'), (u'not', 'RB'), (u'be', 'VB'), (u'enough', 'RB'), (u'to', 'TO'), (u'keep', 'VB'), (u'you', 'PRP'), (u'motivated', 'VBN')]
+myvp: [['identify', 'reasons'], ['keep', 'you']]
+dobj:  identify ( reasons )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'identify', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 54
+tagged_sent: [(u'if', 'IN'), (u'thats', 'NNS'), (u'the', 'DT'), (u'case', 'NN'), (u'it', 'PRP'), (u'may', 'MD'), (u'be', 'VB'), (u'important', 'JJ'), (u'to', 'TO'), (u'remind', 'VB'), (u'yourself', 'PRP'), (u'of', 'IN'), (u'why', 'WRB'), (u'that', 'DT'), (u'goal', 'NN'), (u'is', 'VBZ'), (u'meaningful', 'JJ'), (u'to', 'TO'), (u'you', 'PRP'), (u'and', 'CC'), (u'why', 'WRB'), (u'you', 'PRP'), (u'hope', 'VBP'), (u'to', 'TO'), (u'achieve', 'VB'), (u'it', 'PRP')]
+myvp: [['remind', 'yourself'], ['achieve', 'it']]
+dobj:  thats ( case )
+dobj:  remind ( yourself )
+dobj:  achieve ( it )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', u'thats', '', '', '', '', '', '', '', u'remind', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'achieve', '']
+
+Sentence: 55
+tagged_sent: [(u'reflecting', 'VBG'), (u'on', 'IN'), (u'the', 'DT'), (u'outcome', 'NN'), (u'of', 'IN'), (u'that', 'DT'), (u'goal', 'NN'), (u'-', ':'), (u'both', 'CC'), (u'the', 'DT'), (u'positive', 'JJ'), (u'results', 'NNS'), (u'if', 'IN'), (u'you', 'PRP'), (u'succeed', 'VB'), (u'and', 'CC'), (u'the', 'DT'), (u'negative', 'JJ'), (u'results', 'NNS'), (u'if', 'IN'), (u'you', 'PRP'), (u'dont', 'VBP'), (u'-', ':'), (u'may', 'MD'), (u'help', 'VB'), (u'you', 'PRP'), (u'stay', 'VB'), (u'more', 'JJR'), (u'focused', 'JJ'), (u'and', 'CC'), (u'driven', 'VBN'), (u'over', 'RP'), (u'time', 'NN')]
+myvp: [['reflecting', 'outcome'], ['help', 'you']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'reflecting', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'help', '', '', '', '', '', '', '', '']
+
+Sentence: 56
+tagged_sent: [(u'identify', 'VB'), (u'the', 'DT'), (u'reasons', 'NNS'), (u'why', 'WRB'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'is', 'VBZ'), (u'importanthaving', 'VBG'), (u'a', 'DT'), (u'goal', 'NN'), (u'may', 'MD'), (u'not', 'RB'), (u'be', 'VB'), (u'enough', 'RB'), (u'to', 'TO'), (u'keep', 'VB'), (u'you', 'PRP'), (u'motivated', 'VBN')]
+myvp: [['identify', 'reasons'], ['keep', 'you']]
+dobj:  identify ( reasons )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'identify', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 57
+tagged_sent: [(u'if', 'IN'), (u'thats', 'NNS'), (u'the', 'DT'), (u'case', 'NN'), (u'it', 'PRP'), (u'may', 'MD'), (u'be', 'VB'), (u'important', 'JJ'), (u'to', 'TO'), (u'remind', 'VB'), (u'yourself', 'PRP'), (u'of', 'IN'), (u'why', 'WRB'), (u'that', 'DT'), (u'goal', 'NN'), (u'is', 'VBZ'), (u'meaningful', 'JJ'), (u'to', 'TO'), (u'you', 'PRP'), (u'and', 'CC'), (u'why', 'WRB'), (u'you', 'PRP'), (u'hope', 'VBP'), (u'to', 'TO'), (u'achieve', 'VB'), (u'it', 'PRP')]
+myvp: [['remind', 'yourself'], ['achieve', 'it']]
+dobj:  thats ( case )
+dobj:  remind ( yourself )
+dobj:  achieve ( it )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', u'thats', '', '', '', '', '', '', '', u'remind', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'achieve', '']
+
+Sentence: 58
+tagged_sent: [(u'reflecting', 'VBG'), (u'on', 'IN'), (u'the', 'DT'), (u'outcome', 'NN'), (u'of', 'IN'), (u'that', 'DT'), (u'goal', 'NN'), (u'-', ':'), (u'both', 'CC'), (u'the', 'DT'), (u'positive', 'JJ'), (u'results', 'NNS'), (u'if', 'IN'), (u'you', 'PRP'), (u'succeed', 'VB'), (u'and', 'CC'), (u'the', 'DT'), (u'negative', 'JJ'), (u'results', 'NNS'), (u'if', 'IN'), (u'you', 'PRP'), (u'dont', 'VBP'), (u'-', ':'), (u'may', 'MD'), (u'help', 'VB'), (u'you', 'PRP'), (u'stay', 'VB'), (u'more', 'JJR'), (u'focused', 'JJ'), (u'and', 'CC'), (u'driven', 'VBN'), (u'over', 'RP'), (u'time', 'NN')]
+myvp: [['reflecting', 'outcome'], ['help', 'you']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'reflecting', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'help', '', '', '', '', '', '', '', '']
+
+Sentence: 59
+tagged_sent: [(u'do', 'VB'), (u'you', 'PRP'), (u'need', 'VB'), (u'to', 'TO'), (u'do', 'VB'), (u'well', 'RB'), (u'in', 'IN'), (u'a', 'DT'), (u'class', 'NN'), (u'to', 'TO'), (u'pass', 'VB')]
+myvp: [['do', 'you']]
+label:    [1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'do', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 60
+tagged_sent: [(u'are', 'VBP'), (u'you', 'PRP'), (u'trying', 'VBG'), (u'to', 'TO'), (u'improve', 'VB'), (u'your', 'PRP$'), (u'grades', 'NNS'), (u'overall', 'JJ')]
+myvp: [['are', 'you'], ['improve', 'grades']]
+dobj:  improve ( grades )
+label:    [0, 0, 1, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'are', '', '', '', u'improve', '', '', '']
+
+Sentence: 61
+tagged_sent: [(u'perhaps', 'RB'), (u'you', 'PRP'), (u'want', 'VBP'), (u'to', 'TO'), (u'do', 'VB'), (u'well', 'RB'), (u'in', 'IN'), (u'a', 'DT'), (u'class', 'NN'), (u'so', 'IN'), (u'that', 'IN'), (u'you', 'PRP'), (u'can', 'MD'), (u'eventually', 'RB'), (u'seek', 'VB'), (u'employment', 'NN'), (u'in', 'IN'), (u'a', 'DT'), (u'related', 'JJ'), (u'field', 'NN')]
+myvp: [['seek', 'employment']]
+dobj:  seek ( employment )
+label:    [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', u'seek', '', '', '', '', '']
+
+Sentence: 62
+tagged_sent: [(u'if', 'IN'), (u'this', 'DT'), (u'is', 'VBZ'), (u'the', 'DT'), (u'case', 'NN'), (u'youll', 'NN'), (u'want', 'VBP'), (u'to', 'TO'), (u'learn', 'VB'), (u'as', 'RB'), (u'much', 'JJ'), (u'as', 'IN'), (u'possible', 'JJ'), (u'in', 'IN'), (u'that', 'DT'), (u'class', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 63
+tagged_sent: [(u'set', 'VBN'), (u'up', 'RP'), (u'a', 'DT'), (u'reward', 'NN'), (u'system', 'NN'), (u'to', 'TO'), (u'stay', 'VB'), (u'motivated', 'JJ')]
+myvp: []
+dobj:  set ( system )
+label:    [1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'set', '', '', '', '', '', '', '']
+
+Sentence: 64
+tagged_sent: [(u'some', 'DT'), (u'people', 'NNS'), (u'work', 'VBP'), (u'best', 'RB'), (u'when', 'WRB'), (u'they', 'PRP'), (u'know', 'VBP'), (u'there', 'EX'), (u'is', 'VBZ'), (u'some', 'DT'), (u'type', 'NN'), (u'of', 'IN'), (u'reward', 'NN'), (u'to', 'TO'), (u'be', 'VB'), (u'had', 'VBN')]
+myvp: []
+label:    [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 65
+tagged_sent: [(u'having', 'VBG'), (u'a', 'DT'), (u'self-imposed', 'JJ'), (u'reward', 'NN'), (u'system', 'NN'), (u'helps', 'VBZ'), (u'you', 'PRP'), (u'stay', 'VBP'), (u'motivated', 'VBN'), (u'and', 'CC'), (u'track', 'VB'), (u'your', 'PRP$'), (u'progress', 'NN'), (u'so', 'RB'), (u'youll', 'RB'), (u'know', 'VBP'), (u'whether', 'IN'), (u'or', 'CC'), (u'not', 'RB'), (u'you', 'PRP'), (u'deserve', 'VBP'), (u'your', 'PRP$'), (u'treat', 'NN'), (u'for', 'IN'), (u'the', 'DT'), (u'day', 'NN'), (u'week', 'NN'), (u'month', 'NN'), (u'or', 'CC'), (u'semester', 'NN')]
+myvp: [['having', 'reward', 'system'], ['track', 'progress'], ['deserve', 'treat']]
+dobj:  track ( progress )
+dobj:  deserve ( treat )
+label:    [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'having', '', '', '', '', '', '', '', '', '', u'track', '', '', '', '', '', '', '', '', '', u'deserve', '', '', '', '', '', '', '', '', '']
+
+Sentence: 66
+tagged_sent: [(u'consider', 'VB'), (u'setting', 'VBG'), (u'incremental', 'JJ'), (u'rewards', 'NNS')]
+myvp: [['setting', 'rewards']]
+dobj:  setting ( rewards )
+label:    [0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0]
+temp_tag_act: ['', u'setting', '', '']
+
+Sentence: 67
+tagged_sent: [(u'set', 'VBN'), (u'smaller', 'JJR'), (u'rewards', 'NNS'), (u'for', 'IN'), (u'minor', 'JJ'), (u'mile', 'NN'), (u'markers', 'NNS'), (u'and', 'CC'), (u'bigger', 'JJR'), (u'rewards', 'NNS'), (u'for', 'IN'), (u'accomplishing', 'VBG'), (u'the', 'DT'), (u'hardest', 'JJS'), (u'parts', 'NNS'), (u'of', 'IN'), (u'your', 'PRP$'), (u'goal', 'NN')]
+myvp: []
+dobj:  set ( rewards )
+dobj:  accomplishing ( parts )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'set', '', '', '', '', '', '', '', '', '', '', u'accomplishing', '', '', '', '', '', '']
+
+Sentence: 68
+tagged_sent: [(u'imagine', 'NN'), (u'climbing', 'VBG'), (u'a', 'DT'), (u'set', 'NN'), (u'of', 'IN'), (u'stairs', 'NNS')]
+myvp: [['climbing', 'set', 'stairs']]
+dobj:  climbing ( set )
+label:    [0, 1, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', u'climbing', '', '', '', '']
+
+Sentence: 69
+tagged_sent: [(u'each', 'DT'), (u'stair', 'NN'), (u'is', 'VBZ'), (u'a', 'DT'), (u'mini-goal', 'NN'), (u'that', 'WDT'), (u'essentially', 'RB'), (u'leads', 'VBZ'), (u'you', 'PRP'), (u'to', 'TO'), (u'the', 'DT'), (u'main', 'JJ'), (u'goal', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'topdecide', 'NN'), (u'on', 'IN'), (u'some', 'DT'), (u'type', 'NN'), (u'of', 'IN'), (u'reinforcer', 'NN'), (u'that', 'WDT'), (u'will', 'MD'), (u'help', 'VB'), (u'you', 'PRP'), (u'stay', 'VB'), (u'motivated', 'VBN')]
+myvp: [['help', 'you']]
+dobj:  leads ( you )
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'leads', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'help', '', '', '']
+
+Sentence: 70
+tagged_sent: [(u'it', 'PRP'), (u'can', 'MD'), (u'be', 'VB'), (u'a', 'DT'), (u'favorite', 'JJ'), (u'snack', 'NN'), (u'an', 'DT'), (u'event', 'NN'), (u'you', 'PRP'), (u'want', 'VBP'), (u'to', 'TO'), (u'go', 'VB'), (u'to', 'TO'), (u'a', 'DT'), (u'physical', 'JJ'), (u'object', 'NN'), (u'youd', 'NN'), (u'like', 'IN'), (u'to', 'TO'), (u'buy', 'VB'), (u'or', 'CC'), (u'even', 'RB'), (u'a', 'DT'), (u'vacation', 'NN'), (u'or', 'CC'), (u'time', 'NN'), (u'off', 'RP'), (u'from', 'IN'), (u'your', 'PRP$'), (u'normal', 'JJ'), (u'schedule', 'NN')]
+myvp: [['be', 'snack']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'be', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 71
+tagged_sent: [(u'use', 'NN'), (u'that', 'WDT'), (u'reward', 'NN'), (u'to', 'TO'), (u'motivate', 'VB'), (u'youagree', 'NN'), (u'in', 'IN'), (u'advance', 'NN'), (u'that', 'IN'), (u'you', 'PRP'), (u'wont', 'VBP'), (u'get', 'VB'), (u'to', 'TO'), (u'enjoy', 'VB'), (u'your', 'PRP$'), (u'reward', 'NN'), (u'unless', 'IN'), (u'you', 'PRP'), (u'accomplish', 'VB'), (u'your', 'PRP$'), (u'goal', 'NN')]
+myvp: [['motivate', 'youagree'], ['enjoy', 'reward'], ['accomplish', 'goal']]
+dobj:  use ( reward )
+dobj:  motivate ( youagree )
+dobj:  enjoy ( reward )
+dobj:  accomplish ( goal )
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'use', '', '', '', u'motivate', '', '', '', '', '', '', '', '', u'enjoy', '', '', '', '', u'accomplish', '', '']
+
+Sentence: 72
+tagged_sent: [(u'consider', 'VB'), (u'asking', 'VBG'), (u'a', 'DT'), (u'close', 'JJ'), (u'friend', 'NN'), (u'to', 'TO'), (u'either', 'DT'), (u'help', 'NN'), (u'you', 'PRP'), (u'stay', 'VBP'), (u'motivated', 'VBN'), (u'or', 'CC'), (u'prevent', 'VBP'), (u'you', 'PRP'), (u'from', 'IN'), (u'indulging', 'VBG'), (u'in', 'IN'), (u'your', 'PRP$'), (u'reward', 'NN'), (u'without', 'IN'), (u'success', 'NN')]
+myvp: [['asking', 'friend'], ['prevent', 'you']]
+dobj:  asking ( friend )
+dobj:  prevent ( you )
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'asking', '', '', '', '', '', '', '', '', '', '', u'prevent', '', '', '', '', '', '', '', '']
+
+Sentence: 73
+tagged_sent: [(u'having', 'VBG'), (u'a', 'DT'), (u'vaguely-defined', 'JJ'), (u'goal', 'NN'), (u'can', 'MD'), (u'make', 'VB'), (u'it', 'PRP'), (u'difficult', 'JJ'), (u'to', 'TO'), (u'follow', 'VB'), (u'through', 'IN'), (u'on', 'IN'), (u'your', 'PRP$'), (u'efforts', 'NNS'), (u'and', 'CC'), (u'track', 'VB'), (u'your', 'PRP$'), (u'progress', 'NN')]
+myvp: [['having', 'goal'], ['make', 'it'], ['track', 'progress']]
+dobj:  track ( progress )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'having', '', '', '', '', u'make', '', '', '', '', '', '', '', '', '', u'track', '', '']
+
+Sentence: 74
+tagged_sent: [(u'however', 'RB'), (u'having', 'VBG'), (u'a', 'DT'), (u'clear', 'JJ'), (u'well-defined', 'JJ'), (u'goal', 'NN'), (u'will', 'MD'), (u'help', 'VB'), (u'you', 'PRP'), (u'stay', 'VB'), (u'driven', 'RB'), (u'and', 'CC'), (u'know', 'VB'), (u'how', 'WRB'), (u'far', 'RB'), (u'youve', 'VBZ'), (u'come', 'VB')]
+myvp: [['help', 'you']]
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'help', '', '', '', '', '', '', '', '', '']
+
+Sentence: 75
+tagged_sent: [(u'remember', 'VB'), (u'to', 'TO'), (u'focus', 'VB'), (u'on', 'IN'), (u'either', 'CC'), (u'a', 'DT'), (u'process', 'NN'), (u'goal', 'NN'), (u'or', 'CC'), (u'an', 'DT'), (u'outcome', 'NN'), (u'goal', 'NN')]
+myvp: []
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 76
+tagged_sent: [(u'for', 'IN'), (u'example', 'NN'), (u'instead', 'RB'), (u'of', 'IN'), (u'just', 'RB'), (u'saying', 'VBG'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'is', 'VBZ'), (u'to', 'TO'), (u'get', 'VB'), (u'through', 'IN'), (u'your', 'PRP$'), (u'math', 'NN'), (u'class', 'NN'), (u'figure', 'NN'), (u'out', 'RP'), (u'what', 'WP'), (u'you', 'PRP'), (u'hope', 'VBP'), (u'to', 'TO'), (u'accomplish', 'VB')]
+myvp: [['saying', 'goal']]
+dobj:  saying ( goal )
+dobj:  hope ( what )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'saying', '', '', '', '', '', '', '', '', '', '', '', '', '', u'hope', '', '']
+
+Sentence: 77
+tagged_sent: [(u'do', 'VBP'), (u'you', 'PRP'), (u'want', 'VB'), (u'to', 'TO'), (u'become', 'VB'), (u'more', 'RBR'), (u'proficient', 'JJ'), (u'in', 'IN'), (u'math', 'NN'), (u'a', 'DT'), (u'process', 'NN'), (u'goal', 'NN'), (u'or', 'CC'), (u'earn', 'VB'), (u'a', 'DT'), (u'good', 'JJ'), (u'grade', 'NN'), (u'an', 'DT'), (u'outcome', 'NN'), (u'goal', 'NN')]
+myvp: [['do', 'you'], ['earn', 'grade']]
+dobj:  earn ( goal )
+label:    [1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'do', '', '', '', '', '', '', '', '', '', '', '', '', u'earn', '', '', '', '', '', '']
+
+Sentence: 78
+tagged_sent: [(u'whenever', 'WRB'), (u'you', 'PRP'), (u'set', 'VBP'), (u'a', 'DT'), (u'goal', 'NN'), (u'for', 'IN'), (u'yourself', 'PRP'), (u'its', 'PRP$'), (u'important', 'JJ'), (u'to', 'TO'), (u'recognize', 'VB'), (u'how', 'WRB'), (u'youve', 'NN'), (u'progressed', 'VBN'), (u'in', 'IN'), (u'working', 'VBG'), (u'towards', 'NNS'), (u'it', 'PRP')]
+myvp: [['set', 'goal'], ['working', 'towards']]
+dobj:  set ( goal )
+dobj:  yourself ( important )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'set', '', '', '', u'yourself', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 79
+tagged_sent: [(u'thats', 'NNS'), (u'why', 'WRB'), (u'you', 'PRP'), (u'should', 'MD'), (u'always', 'RB'), (u'set', 'VB'), (u'goals', 'NNS'), (u'with', 'IN'), (u'clear', 'JJ'), (u'measurable', 'JJ'), (u'progress', 'NN'), (u'marks', 'NNS'), (u'and', 'CC'), (u'keep', 'VB'), (u'track', 'NN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'efforts', 'NNS'), (u'every', 'DT'), (u'step', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'way', 'NN')]
+myvp: [['set', 'goals'], ['keep', 'track']]
+dobj:  set ( goals )
+dobj:  keep ( track )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'set', '', '', '', '', '', '', '', u'keep', '', '', '', '', '', '', '', '', '']
+
+Sentence: 80
+tagged_sent: [(u'whenever', 'WRB'), (u'you', 'PRP'), (u'set', 'VBP'), (u'a', 'DT'), (u'goal', 'NN'), (u'for', 'IN'), (u'yourself', 'PRP'), (u'its', 'PRP$'), (u'important', 'JJ'), (u'to', 'TO'), (u'recognize', 'VB'), (u'how', 'WRB'), (u'youve', 'NN'), (u'progressed', 'VBN'), (u'in', 'IN'), (u'working', 'VBG'), (u'towards', 'NNS'), (u'it', 'PRP')]
+myvp: [['set', 'goal'], ['working', 'towards']]
+dobj:  set ( goal )
+dobj:  yourself ( important )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'set', '', '', '', u'yourself', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 81
+tagged_sent: [(u'thats', 'NNS'), (u'why', 'WRB'), (u'you', 'PRP'), (u'should', 'MD'), (u'always', 'RB'), (u'set', 'VB'), (u'goals', 'NNS'), (u'with', 'IN'), (u'clear', 'JJ'), (u'measurable', 'JJ'), (u'progress', 'NN'), (u'marks', 'NNS'), (u'and', 'CC'), (u'keep', 'VB'), (u'track', 'NN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'efforts', 'NNS'), (u'every', 'DT'), (u'step', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'way', 'NN')]
+myvp: [['set', 'goals'], ['keep', 'track']]
+dobj:  set ( goals )
+dobj:  keep ( track )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'set', '', '', '', '', '', '', '', u'keep', '', '', '', '', '', '', '', '', '']
+
+Sentence: 82
+tagged_sent: [(u'determine', 'NN'), (u'in', 'IN'), (u'advance', 'NN'), (u'how', 'WRB'), (u'you', 'PRP'), (u'will', 'MD'), (u'measure', 'VB'), (u'success', 'NN')]
+myvp: [['measure', 'success']]
+dobj:  measure ( success )
+label:    [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', u'measure', '']
+
+Sentence: 83
+tagged_sent: [(u'ask', 'VB'), (u'yourself', 'PRP'), (u'how', 'WRB'), (u'will', 'MD'), (u'i', 'VB'), (u'know', 'VB'), (u'when', 'WRB'), (u'ive', 'JJ'), (u'accomplished', 'VBN'), (u'my', 'PRP$'), (u'goal', 'NN')]
+myvp: [['ask', 'yourself'], ['accomplished', 'goal']]
+dobj:  ask ( yourself )
+dobj:  accomplished ( goal )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'ask', '', '', '', '', '', '', '', u'accomplished', '', '']
+
+Sentence: 84
+tagged_sent: [(u'choose', 'VB'), (u'both', 'DT'), (u'short-term', 'JJ'), (u'and', 'CC'), (u'long-term', 'JJ'), (u'measures', 'NNS'), (u'of', 'IN'), (u'successfor', 'JJ'), (u'example', 'NN'), (u'you', 'PRP'), (u'might', 'MD'), (u'measure', 'VB'), (u'success', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'short-term', 'JJ'), (u'by', 'IN'), (u'looking', 'VBG'), (u'at', 'IN'), (u'how', 'WRB'), (u'much', 'JJ'), (u'studying', 'NN'), (u'and', 'CC'), (u'homework', 'NN'), (u'you', 'PRP'), (u'get', 'VBP'), (u'done', 'VBN'), (u'in', 'IN'), (u'a', 'DT'), (u'week', 'NN'), (u'and', 'CC'), (u'in', 'IN'), (u'the', 'DT'), (u'long-term', 'JJ'), (u'by', 'IN'), (u'watching', 'VBG'), (u'how', 'WRB'), (u'your', 'PRP$'), (u'grades', 'NNS'), (u'improve', 'VBP'), (u'over', 'IN'), (u'the', 'DT'), (u'course', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'semester', 'NN')]
+myvp: [['measure', 'success'], ['done', 'week'], ['improve', 'course']]
+dobj:  choose ( measures )
+dobj:  measure ( success )
+dobj:  done ( studying )
+nsubjpass:  done ( you )
+dobj:  improve ( course )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'choose', '', '', '', '', '', '', '', '', '', '', u'measure', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'done', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 85
+tagged_sent: [(u'decide', 'VB'), (u'on', 'IN'), (u'action-oriented', 'JJ'), (u'steps', 'NNS'), (u'to', 'TO'), (u'accomplish', 'VB'), (u'your', 'PRP$'), (u'goal', 'NN')]
+myvp: [['decide', 'steps'], ['accomplish', 'goal']]
+dobj:  accomplish ( goal )
+label:    [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'decide', '', '', '', '', u'accomplish', '', '']
+
+Sentence: 86
+tagged_sent: [(u'even', 'RB'), (u'a', 'DT'), (u'good', 'JJ'), (u'well-defined', 'JJ'), (u'goal', 'NN'), (u'could', 'MD'), (u'be', 'VB'), (u'difficult', 'JJ'), (u'to', 'TO'), (u'achieve', 'VB'), (u'without', 'IN'), (u'a', 'DT'), (u'clear', 'JJ'), (u'action', 'NN'), (u'planwhen', 'NN'), (u'you', 'PRP'), (u'set', 'VBP'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'make', 'VBP'), (u'sure', 'JJ'), (u'you', 'PRP'), (u'include', 'VBP'), (u'action-oriented', 'JJ'), (u'steps', 'NNS'), (u'as', 'IN'), (u'part', 'NN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'development', 'NN')]
+myvp: [['achieve', 'action', 'planwhen'], ['set', 'goal'], ['make', 'you'], ['include', 'steps']]
+dobj:  include ( steps )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', u'achieve', '', '', '', '', '', '', u'set', '', '', u'make', '', '', u'include', '', '', '', '', '', '', '', '']
+
+Sentence: 87
+tagged_sent: [(u'that', 'DT'), (u'way', 'NN'), (u'youll', 'RB'), (u'know', 'VBP'), (u'what', 'WP'), (u'youre', 'NN'), (u'trying', 'VBG'), (u'to', 'TO'), (u'accomplish', 'VB'), (u'and', 'CC'), (u'more', 'RBR'), (u'importantly', 'RB'), (u'how', 'WRB'), (u'youll', 'JJ'), (u'get', 'NN'), (u'there', 'RB')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 88
+tagged_sent: [(u'decide', 'VB'), (u'on', 'IN'), (u'action-oriented', 'JJ'), (u'steps', 'NNS'), (u'to', 'TO'), (u'accomplish', 'VB'), (u'your', 'PRP$'), (u'goal', 'NN')]
+myvp: [['decide', 'steps'], ['accomplish', 'goal']]
+dobj:  accomplish ( goal )
+label:    [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'decide', '', '', '', '', u'accomplish', '', '']
+
+Sentence: 89
+tagged_sent: [(u'even', 'RB'), (u'a', 'DT'), (u'good', 'JJ'), (u'well-defined', 'JJ'), (u'goal', 'NN'), (u'could', 'MD'), (u'be', 'VB'), (u'difficult', 'JJ'), (u'to', 'TO'), (u'achieve', 'VB'), (u'without', 'IN'), (u'a', 'DT'), (u'clear', 'JJ'), (u'action', 'NN'), (u'planwhen', 'NN'), (u'you', 'PRP'), (u'set', 'VBP'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'make', 'VBP'), (u'sure', 'JJ'), (u'you', 'PRP'), (u'include', 'VBP'), (u'action-oriented', 'JJ'), (u'steps', 'NNS'), (u'as', 'IN'), (u'part', 'NN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'development', 'NN')]
+myvp: [['achieve', 'action', 'planwhen'], ['set', 'goal'], ['make', 'you'], ['include', 'steps']]
+dobj:  include ( steps )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', u'achieve', '', '', '', '', '', '', u'set', '', '', u'make', '', '', u'include', '', '', '', '', '', '', '', '']
+
+Sentence: 90
+tagged_sent: [(u'that', 'DT'), (u'way', 'NN'), (u'youll', 'RB'), (u'know', 'VBP'), (u'what', 'WP'), (u'youre', 'NN'), (u'trying', 'VBG'), (u'to', 'TO'), (u'accomplish', 'VB'), (u'and', 'CC'), (u'more', 'RBR'), (u'importantly', 'RB'), (u'how', 'WRB'), (u'youll', 'JJ'), (u'get', 'NN'), (u'there', 'RB')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 91
+tagged_sent: [(u'be', 'VB'), (u'very', 'RB'), (u'clear', 'JJ'), (u'in', 'IN'), (u'how', 'WRB'), (u'you', 'PRP'), (u'intend', 'VBP'), (u'to', 'TO'), (u'achieve', 'VB'), (u'your', 'PRP$'), (u'goal', 'NN')]
+myvp: [['achieve', 'goal']]
+dobj:  achieve ( goal )
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', u'achieve', '', '']
+
+Sentence: 92
+tagged_sent: [(u'think', 'VB'), (u'about', 'IN'), (u'the', 'DT'), (u'steps', 'NNS'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'will', 'MD'), (u'require', 'VB'), (u'both', 'DT'), (u'in', 'IN'), (u'the', 'DT'), (u'short-term', 'JJ'), (u'and', 'CC'), (u'in', 'IN'), (u'the', 'DT'), (u'long-term', 'JJ')]
+myvp: [['think', 'steps']]
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'think', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 93
+tagged_sent: [(u'focus', 'NN'), (u'on', 'IN'), (u'what', 'WP'), (u'specifically', 'RB'), (u'you', 'PRP'), (u'will', 'MD'), (u'need', 'VB'), (u'to', 'TO'), (u'do', 'VB')]
+myvp: []
+dobj:  do ( what )
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', u'do']
+
+Sentence: 94
+tagged_sent: [(u'for', 'IN'), (u'example', 'NN'), (u'action-oriented', 'JJ'), (u'steps', 'NNS'), (u'might', 'MD'), (u'include', 'VB'), (u'completing', 'VBG'), (u'your', 'PRP$'), (u'homework', 'NN'), (u'ahead', 'RB'), (u'of', 'IN'), (u'time', 'NN'), (u'reviewing', 'VBG'), (u'your', 'PRP$'), (u'notes', 'NNS'), (u'every', 'DT'), (u'day', 'NN'), (u'after', 'IN'), (u'class', 'NN'), (u'and', 'CC'), (u'arranging', 'VBG'), (u'a', 'DT'), (u'meeting', 'NN'), (u'with', 'IN'), (u'your', 'PRP$'), (u'instructor', 'NN')]
+myvp: [['reviewing', 'notes'], ['arranging', 'meeting']]
+dobj:  completing ( homework )
+dobj:  reviewing ( notes )
+dobj:  arranging ( meeting )
+label:    [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', u'completing', '', '', '', '', '', u'reviewing', '', '', '', '', '', '', '', u'arranging', '', '', '', '', '']
+
+Sentence: 95
+tagged_sent: [(u'its', 'PRP$'), (u'important', 'JJ'), (u'to', 'TO'), (u'dream', 'VB'), (u'big', 'JJ'), (u'but', 'CC'), (u'its', 'PRP$'), (u'also', 'RB'), (u'important', 'JJ'), (u'to', 'TO'), (u'know', 'VB'), (u'what', 'WP'), (u'you', 'PRP'), (u'can', 'MD'), (u'realistically', 'VB'), (u'accomplish', 'JJ'), (u'with', 'IN'), (u'the', 'DT'), (u'materials', 'NNS'), (u'you', 'PRP'), (u'currently', 'RB'), (u'possess', 'VBP'), (u'and', 'CC'), (u'the', 'DT'), (u'time', 'NN'), (u'frame', 'JJ'), (u'youre', 'NN'), (u'given', 'VBN')]
+myvp: []
+dobj:  dream ( big )
+dobj:  accomplish ( what )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'dream', '', '', '', '', '', '', '', '', '', '', '', u'accomplish', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 96
+tagged_sent: [(u'dont', 'NNS'), (u'bite', 'VBD'), (u'off', 'RP'), (u'more', 'RBR'), (u'than', 'IN'), (u'you', 'PRP'), (u'can', 'MD'), (u'chew', 'VB'), (u'but', 'CC'), (u'at', 'IN'), (u'the', 'DT'), (u'same', 'JJ'), (u'time', 'NN'), (u'dont', 'JJ'), (u'give', 'VB'), (u'yourself', 'PRP'), (u'a', 'DT'), (u'task', 'NN'), (u'thats', 'VBZ'), (u'too', 'RB'), (u'easy', 'JJ')]
+myvp: [['give', 'yourself']]
+dobj:  dont ( bite )
+dobj:  give ( task )
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'dont', '', '', '', '', '', '', '', '', '', '', '', '', '', u'give', '', '', '', '', '', '']
+
+Sentence: 97
+tagged_sent: [(u'its', 'PRP$'), (u'important', 'JJ'), (u'to', 'TO'), (u'dream', 'VB'), (u'big', 'JJ'), (u'but', 'CC'), (u'its', 'PRP$'), (u'also', 'RB'), (u'important', 'JJ'), (u'to', 'TO'), (u'know', 'VB'), (u'what', 'WP'), (u'you', 'PRP'), (u'can', 'MD'), (u'realistically', 'VB'), (u'accomplish', 'JJ'), (u'with', 'IN'), (u'the', 'DT'), (u'materials', 'NNS'), (u'you', 'PRP'), (u'currently', 'RB'), (u'possess', 'VBP'), (u'and', 'CC'), (u'the', 'DT'), (u'time', 'NN'), (u'frame', 'JJ'), (u'youre', 'NN'), (u'given', 'VBN')]
+myvp: []
+dobj:  dream ( big )
+dobj:  accomplish ( what )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'dream', '', '', '', '', '', '', '', '', '', '', '', u'accomplish', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 98
+tagged_sent: [(u'dont', 'NNS'), (u'bite', 'VBD'), (u'off', 'RP'), (u'more', 'RBR'), (u'than', 'IN'), (u'you', 'PRP'), (u'can', 'MD'), (u'chew', 'VB'), (u'but', 'CC'), (u'at', 'IN'), (u'the', 'DT'), (u'same', 'JJ'), (u'time', 'NN'), (u'dont', 'JJ'), (u'give', 'VB'), (u'yourself', 'PRP'), (u'a', 'DT'), (u'task', 'NN'), (u'thats', 'VBZ'), (u'too', 'RB'), (u'easy', 'JJ')]
+myvp: [['give', 'yourself']]
+dobj:  dont ( bite )
+dobj:  give ( task )
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'dont', '', '', '', '', '', '', '', '', '', '', '', '', '', u'give', '', '', '', '', '', '']
+
+Sentence: 99
+tagged_sent: [(u'an', 'DT'), (u'example', 'NN'), (u'of', 'IN'), (u'a', 'DT'), (u'realistic', 'JJ'), (u'goal', 'NN'), (u'would', 'MD'), (u'be', 'VB'), (u'to', 'TO'), (u'improve', 'VB'), (u'your', 'PRP$'), (u'course', 'NN'), (u'grade', 'NN'), (u'by', 'IN'), (u'one', 'CD'), (u'letter', 'NN'), (u'before', 'IN'), (u'the', 'DT'), (u'end', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'semesteran', 'NN'), (u'unrealistic', 'JJ'), (u'goal', 'NN'), (u'by', 'IN'), (u'comparison', 'NN'), (u'would', 'MD'), (u'be', 'VB'), (u'to', 'TO'), (u'turn', 'VB'), (u'an', 'DT'), (u'f', 'NN'), (u'into', 'IN'), (u'an', 'DT'), (u'a', 'DT'), (u'by', 'IN'), (u'the', 'DT'), (u'end', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'semester', 'NN')]
+myvp: [['improve', 'course', 'grade'], ['turn', 'f']]
+dobj:  improve ( grade )
+dobj:  turn ( an )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', u'improve', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'turn', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 100
+tagged_sent: [(u'be', 'VB'), (u'aware', 'JJ'), (u'of', 'IN'), (u'what', 'WP'), (u'could', 'MD'), (u'potentially', 'RB'), (u'hinder', 'VB'), (u'your', 'PRP$'), (u'success', 'NN'), (u'and', 'CC'), (u'plan', 'NN'), (u'accordingly', 'RB'), (u'so', 'RB'), (u'that', 'IN'), (u'these', 'DT'), (u'obstacles', 'NNS'), (u'do', 'VBP'), (u'not', 'RB'), (u'impede', 'VB'), (u'your', 'PRP$'), (u'progress', 'NN'), (u'towards', 'IN'), (u'accomplishing', 'VBG'), (u'your', 'PRP$'), (u'goal', 'NN')]
+myvp: [['hinder', 'success'], ['impede', 'progress'], ['accomplishing', 'goal']]
+dobj:  hinder ( success )
+dobj:  impede ( progress )
+dobj:  accomplishing ( goal )
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', u'hinder', '', '', '', '', '', '', '', '', '', '', '', u'impede', '', '', '', u'accomplishing', '', '']
+
+Sentence: 101
+tagged_sent: [(u'give', 'VB'), (u'yourself', 'PRP'), (u'a', 'DT'), (u'reasonable', 'JJ'), (u'time', 'NN'), (u'frameif', 'JJ'), (u'youre', 'NN'), (u'working', 'VBG'), (u'within', 'IN'), (u'a', 'DT'), (u'school', 'NN'), (u'calendar', 'NN'), (u'the', 'DT'), (u'end', 'NN'), (u'of', 'IN'), (u'that', 'DT'), (u'semester', 'NN'), (u'might', 'MD'), (u'be', 'VB'), (u'the', 'DT'), (u'end', 'NN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'time', 'NN'), (u'frame', 'NN')]
+myvp: [['give', 'yourself'], ['working', 'school', 'calendar'], ['be', 'end']]
+dobj:  give ( youre )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'give', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 102
+tagged_sent: [(u'however', 'RB'), (u'theres', 'NNS'), (u'still', 'RB'), (u'plenty', 'NN'), (u'of', 'IN'), (u'flexibility', 'NN'), (u'in', 'IN'), (u'terms', 'NNS'), (u'of', 'IN'), (u'what', 'WP'), (u'can', 'MD'), (u'be', 'VB'), (u'done', 'VBN'), (u'and', 'CC'), (u'when', 'WRB'), (u'it', 'PRP'), (u'needs', 'VBZ'), (u'to', 'TO'), (u'be', 'VB'), (u'done', 'VBN'), (u'by', 'IN')]
+myvp: []
+nsubjpass:  done ( what )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', u'done', '', '', '', '', '', '', '', '']
+
+Sentence: 103
+tagged_sent: [(u'give', 'VB'), (u'yourself', 'PRP'), (u'a', 'DT'), (u'reasonable', 'JJ'), (u'time', 'NN'), (u'frameif', 'JJ'), (u'youre', 'NN'), (u'working', 'VBG'), (u'within', 'IN'), (u'a', 'DT'), (u'school', 'NN'), (u'calendar', 'NN'), (u'the', 'DT'), (u'end', 'NN'), (u'of', 'IN'), (u'that', 'DT'), (u'semester', 'NN'), (u'might', 'MD'), (u'be', 'VB'), (u'the', 'DT'), (u'end', 'NN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'time', 'NN'), (u'frame', 'NN')]
+myvp: [['give', 'yourself'], ['working', 'school', 'calendar'], ['be', 'end']]
+dobj:  give ( youre )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'give', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 104
+tagged_sent: [(u'however', 'RB'), (u'theres', 'NNS'), (u'still', 'RB'), (u'plenty', 'NN'), (u'of', 'IN'), (u'flexibility', 'NN'), (u'in', 'IN'), (u'terms', 'NNS'), (u'of', 'IN'), (u'what', 'WP'), (u'can', 'MD'), (u'be', 'VB'), (u'done', 'VBN'), (u'and', 'CC'), (u'when', 'WRB'), (u'it', 'PRP'), (u'needs', 'VBZ'), (u'to', 'TO'), (u'be', 'VB'), (u'done', 'VBN'), (u'by', 'IN')]
+myvp: []
+nsubjpass:  done ( what )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', u'done', '', '', '', '', '', '', '', '']
+
+Sentence: 105
+tagged_sent: [(u'decide', 'NN'), (u'in', 'IN'), (u'advance', 'NN'), (u'when', 'WRB'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'needs', 'NNS'), (u'to', 'TO'), (u'be', 'VB'), (u'accomplished', 'VBN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '']
+
+Sentence: 106
+tagged_sent: [(u'once', 'RB'), (u'you', 'PRP'), (u'have', 'VBP'), (u'a', 'DT'), (u'firm', 'JJ'), (u'deadline', 'NN'), (u'work', 'VB'), (u'your', 'PRP$'), (u'way', 'NN'), (u'backwards', 'NNS'), (u'to', 'TO'), (u'determine', 'VB'), (u'when', 'WRB'), (u'you', 'PRP'), (u'need', 'VBP'), (u'to', 'TO'), (u'begin', 'VB'), (u'your', 'PRP$'), (u'work', 'NN'), (u'and', 'CC'), (u'when', 'WRB'), (u'various', 'JJ'), (u'milestones', 'NNS'), (u'along', 'IN'), (u'the', 'DT'), (u'way', 'NN'), (u'must', 'MD'), (u'be', 'VB'), (u'met', 'VBN')]
+myvp: [['have', 'deadline'], ['work', 'way', 'backwards'], ['begin', 'work']]
+dobj:  work ( way )
+dobj:  begin ( work )
+nsubjpass:  met ( milestones )
+label:    [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', u'have', '', '', '', u'work', '', '', '', '', '', '', '', '', '', u'begin', '', u'work', '', '', '', '', '', '', '', '', '', u'met']
+
+Sentence: 107
+tagged_sent: [(u'for', 'IN'), (u'example', 'NN'), (u'if', 'IN'), (u'youre', 'NN'), (u'working', 'VBG'), (u'within', 'IN'), (u'the', 'DT'), (u'time', 'NN'), (u'frame', 'NN'), (u'of', 'IN'), (u'a', 'DT'), (u'semester', 'NN'), (u'you', 'PRP'), (u'might', 'MD'), (u'decide', 'VB'), (u'that', 'IN'), (u'youll', 'JJ'), (u'accomplish', 'VB'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'before', 'IN'), (u'finals', 'NNS'), (u'week', 'NN')]
+myvp: [['working', 'time', 'frame'], ['accomplish', 'goal']]
+dobj:  accomplish ( goal )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'working', '', '', '', '', '', '', '', '', '', '', '', '', u'accomplish', '', '', '', '', '']
+
+Sentence: 108
+tagged_sent: [(u'that', 'DT'), (u'means', 'VBZ'), (u'working', 'VBG'), (u'backwards', 'NNS'), (u'to', 'TO'), (u'figure', 'VB'), (u'out', 'RP'), (u'what', 'WP'), (u'needs', 'VBZ'), (u'to', 'TO'), (u'be', 'VB'), (u'completed', 'VBN'), (u'and', 'CC'), (u'when', 'WRB')]
+myvp: [['working', 'backwards']]
+label:    [0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'working', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 109
+tagged_sent: [(u'working', 'VBG'), (u'towards', 'NNS'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'a', 'DT'), (u'well-planned', 'JJ'), (u'smart', 'JJ'), (u'goal', 'NN'), (u'is', 'VBZ'), (u'meaningless', 'JJ'), (u'if', 'IN'), (u'you', 'PRP'), (u'dont', 'VBP'), (u'keep', 'VB'), (u'track', 'NN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'deadlines', 'NNS'), (u'and', 'CC'), (u'do', 'VBP'), (u'the', 'DT'), (u'necessary', 'JJ'), (u'work', 'NN'), (u'along', 'IN'), (u'the', 'DT'), (u'way', 'NN')]
+myvp: [['working', 'towards'], ['keep', 'track'], ['do', 'work']]
+dobj:  working ( goal )
+dobj:  keep ( track )
+dobj:  do ( work )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'working', '', '', '', '', '', '', '', '', '', '', '', '', u'keep', '', '', '', '', '', u'do', '', '', '', '', '', '']
+
+Sentence: 110
+tagged_sent: [(u'youll', 'RB'), (u'need', 'NN'), (u'to', 'TO'), (u'put', 'VB'), (u'in', 'IN'), (u'a', 'DT'), (u'lot', 'NN'), (u'of', 'IN'), (u'effort', 'NN'), (u'if', 'IN'), (u'you', 'PRP'), (u'hope', 'VBP'), (u'to', 'TO'), (u'accomplish', 'VB'), (u'that', 'DT'), (u'goal', 'NN'), (u'but', 'CC'), (u'with', 'IN'), (u'proper', 'JJ'), (u'planning', 'VBG'), (u'you', 'PRP'), (u'should', 'MD'), (u'be', 'VB'), (u'able', 'JJ'), (u'to', 'TO'), (u'balance', 'VB'), (u'that', 'DT'), (u'work', 'NN'), (u'very', 'RB'), (u'comfortably', 'RB')]
+myvp: [['put', 'lot'], ['accomplish', 'goal'], ['planning', 'you'], ['balance', 'work']]
+dobj:  accomplish ( goal )
+dobj:  balance ( work )
+label:    [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'put', '', '', '', '', '', '', '', '', '', u'accomplish', '', '', '', '', '', '', '', '', '', '', '', u'balance', '', '', '', '']
+
+Sentence: 111
+tagged_sent: [(u'schedule', 'VB'), (u'your', 'PRP$'), (u'work', 'NN'), (u'time', 'NN'), (u'and', 'CC'), (u'your', 'PRP$'), (u'deadline', 'NN'), (u'on', 'IN'), (u'your', 'PRP$'), (u'calendarget', 'NN'), (u'into', 'IN'), (u'the', 'DT'), (u'habit', 'NN'), (u'of', 'IN'), (u'setting', 'VBG'), (u'aside', 'JJ'), (u'work', 'NN'), (u'and', 'CC'), (u'study', 'NN'), (u'time', 'NN'), (u'each', 'DT'), (u'day', 'NN'), (u'and', 'CC'), (u'sticking', 'VBG'), (u'to', 'TO'), (u'your', 'PRP$'), (u'routine', 'NN')]
+myvp: [['schedule', 'work', 'time'], ['setting', 'work']]
+dobj:  schedule ( time )
+dobj:  setting ( time )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'schedule', '', '', '', '', '', '', '', '', '', '', '', '', '', u'setting', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 112
+tagged_sent: [(u'offer', 'NN'), (u'yourself', 'PRP'), (u'a', 'DT'), (u'reward', 'NN'), (u'if', 'IN'), (u'youre', 'NN'), (u'able', 'JJ'), (u'to', 'TO'), (u'meet', 'VB'), (u'your', 'PRP$'), (u'goal', 'NN'), (u'on', 'IN'), (u'timefor', 'JJ'), (u'example', 'NN'), (u'you', 'PRP'), (u'might', 'MD'), (u'treat', 'VB'), (u'yourself', 'PRP'), (u'to', 'TO'), (u'a', 'DT'), (u'nice', 'JJ'), (u'dinner', 'NN'), (u'or', 'CC'), (u'buy', 'VB'), (u'yourself', 'PRP'), (u'something', 'NN'), (u'special', 'JJ'), (u'if', 'IN'), (u'you', 'PRP'), (u'improve', 'VBP'), (u'your', 'PRP$'), (u'grade', 'NN'), (u'within', 'IN'), (u'your', 'PRP$'), (u'given', 'VBN'), (u'time', 'NN'), (u'frame', 'NN')]
+myvp: [['meet', 'goal'], ['treat', 'yourself'], ['buy', 'yourself'], ['improve', 'grade'], ['given', 'time', 'frame']]
+dobj:  meet ( goal )
+dobj:  treat ( yourself )
+dobj:  buy ( yourself )
+dobj:  treat ( something )
+dobj:  improve ( grade )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', u'meet', '', '', '', '', '', '', '', u'treat', '', '', '', '', '', '', u'buy', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 113
+tagged_sent: [(u'remove', 'VB'), (u'distractions', 'NNS'), (u'or', 'CC'), (u'remove', 'VB'), (u'yourself', 'PRP'), (u'from', 'IN'), (u'distracting', 'VBG'), (u'situations', 'NNS')]
+myvp: [['remove', 'distractions'], ['remove', 'yourself'], ['distracting', 'situations']]
+dobj:  remove ( distractions )
+dobj:  remove ( yourself )
+label:    [1, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'remove', '', '', u'remove', '', '', '', '']
+
+Sentence: 114
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'cant', 'VBP'), (u'work', 'NN'), (u'at', 'IN'), (u'home', 'NN'), (u'or', 'CC'), (u'in', 'IN'), (u'your', 'PRP$'), (u'dorm', 'NN'), (u'room', 'NN'), (u'due', 'JJ'), (u'to', 'TO'), (u'distractions', 'NNS'), (u'there', 'RB'), (u'study', 'VBP'), (u'in', 'IN'), (u'the', 'DT'), (u'library', 'NN'), (u'and', 'CC'), (u'keep', 'VB'), (u'your', 'PRP$'), (u'phone', 'NN'), (u'turned', 'VBD'), (u'off', 'RP')]
+myvp: [['cant', 'work'], ['study', 'library'], ['keep', 'phone']]
+dobj:  cant ( work )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'cant', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 115
+tagged_sent: [(u'let', 'VB'), (u'your', 'PRP$'), (u'friends', 'NNS'), (u'know', 'VBP'), (u'that', 'IN'), (u'you', 'PRP'), (u'may', 'MD'), (u'not', 'RB'), (u'be', 'VB'), (u'available', 'JJ'), (u'as', 'IN'), (u'much', 'JJ'), (u'for', 'IN'), (u'social', 'JJ'), (u'events', 'NNS'), (u'while', 'IN'), (u'you', 'PRP'), (u'work', 'VBP'), (u'to', 'TO'), (u'meet', 'VB'), (u'your', 'PRP$'), (u'deadlines', 'NNS')]
+myvp: [['let', 'friends'], ['know', 'you'], ['meet', 'deadlines']]
+dobj:  meet ( deadlines )
+label:    [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'let', '', '', u'know', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'meet', '', '']
+
+Sentence: 116
+tagged_sent: [(u'youll', 'RB'), (u'need', 'NN'), (u'to', 'TO'), (u'avoid', 'VB'), (u'temptation', 'NN'), (u'by', 'IN'), (u'simply', 'RB'), (u'avoiding', 'VBG'), (u'those', 'DT'), (u'social', 'JJ'), (u'events', 'NNS'), (u'altogether', 'RB'), (u'that', 'DT'), (u'would', 'MD'), (u'interrupt', 'VB'), (u'your', 'PRP$'), (u'studies', 'NNS')]
+myvp: [['avoid', 'temptation'], ['avoiding', 'events'], ['interrupt', 'studies']]
+dobj:  avoid ( temptation )
+dobj:  avoiding ( events )
+dobj:  interrupt ( studies )
+label:    [0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', u'avoid', '', '', '', u'avoiding', '', '', '', '', '', '', u'interrupt', '', '']
+
+Sentence: 117
+tagged_sent: [(u'make', 'VB'), (u'sure', 'JJ'), (u'you', 'PRP'), (u'give', 'VBP'), (u'yourself', 'PRP'), (u'enough', 'JJ'), (u'time', 'NN'), (u'before', 'IN'), (u'each', 'DT'), (u'deadline', 'NN'), (u'to', 'TO'), (u'get', 'VB'), (u'the', 'DT'), (u'necessary', 'JJ'), (u'work', 'NN'), (u'done', 'VBN')]
+myvp: [['make', 'you'], ['give', 'yourself'], ['get', 'work']]
+dobj:  give ( time )
+dobj:  get ( work )
+label:    [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1]
+temp_tag: [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'make', '', '', u'give', '', '', '', '', '', '', '', u'get', '', '', '', '']
+
+Sentence: 118
+tagged_sent: [(u'youll', 'NN'), (u'still', 'RB'), (u'have', 'VBP'), (u'the', 'DT'), (u'same', 'JJ'), (u'amount', 'NN'), (u'of', 'IN'), (u'work', 'NN'), (u'to', 'TO'), (u'do', 'VB'), (u'if', 'IN'), (u'you', 'PRP'), (u'procrastinate', 'VBP'), (u'but', 'CC'), (u'youll', 'VBP'), (u'have', 'VBP'), (u'less', 'JJR'), (u'time', 'NN'), (u'and', 'CC'), (u'more', 'JJR'), (u'stress', 'NN'), (u'if', 'IN'), (u'you', 'PRP'), (u'put', 'VBP'), (u'it', 'PRP'), (u'off', 'RP')]
+myvp: [['have', 'amount'], ['put', 'it']]
+dobj:  have ( amount )
+dobj:  have ( time )
+dobj:  put ( it )
+label:    [0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', u'have', '', '', '', '', '', '', '', '', '', '', '', '', u'have', '', '', '', '', '', '', '', u'put', '', '']
+
+Sentence: 119
+tagged_sent: [(u'identify', 'VB'), (u'any', 'DT'), (u'potential', 'JJ'), (u'obstaclesmost', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'potential', 'JJ'), (u'obstacles', 'NNS'), (u'youll', 'JJ'), (u'face', 'NN'), (u'are', 'VBP'), (u'likely', 'JJ'), (u'of', 'IN'), (u'your', 'PRP$'), (u'own', 'JJ'), (u'creation', 'NN'), (u'but', 'CC'), (u'by', 'IN'), (u'being', 'VBG'), (u'aware', 'JJ'), (u'of', 'IN'), (u'them', 'PRP'), (u'in', 'IN'), (u'advance', 'NN'), (u'you', 'PRP'), (u'can', 'MD'), (u'reduce', 'VB'), (u'the', 'DT'), (u'risk', 'NN'), (u'of', 'IN'), (u'failure', 'NN')]
+myvp: [['identify', 'obstaclesmost'], ['reduce', 'risk']]
+dobj:  reduce ( risk )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'identify', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'reduce', '', '', '', '']
+
+Sentence: 120
+tagged_sent: [(u'some', 'DT'), (u'common', 'JJ'), (u'obstacles', 'NNS'), (u'to', 'TO'), (u'school', 'NN'), (u'success', 'NN'), (u'include', 'VBP'), (u'conflicting', 'VBG'), (u'deadlines', 'NNS'), (u'extracurricular', 'JJ'), (u'activities', 'NNS'), (u'spending', 'VBG'), (u'too', 'RB'), (u'much', 'JJ'), (u'time', 'NN'), (u'with', 'IN'), (u'friends', 'NNS'), (u'and', 'CC'), (u'distractions', 'NNS'), (u'like', 'IN'), (u'tv', 'NN'), (u'the', 'DT'), (u'internet', 'NN'), (u'and', 'CC'), (u'video', 'NN'), (u'games', 'NNS')]
+myvp: [['conflicting', 'deadlines'], ['spending', 'time']]
+dobj:  spending ( time )
+dobj:  tv ( games )
+label:    [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'conflicting', '', '', '', u'spending', '', '', '', '', '', '', '', '', u'tv', '', '', '', '', '']
+
+Sentence: 121
+tagged_sent: [(u'set', 'VBN'), (u'limits', 'NNS'), (u'for', 'IN'), (u'yourselfits', 'NNS'), (u'okay', 'VBP'), (u'to', 'TO'), (u'spend', 'VB'), (u'some', 'DT'), (u'time', 'NN'), (u'doing', 'VBG'), (u'fun', 'JJ'), (u'things', 'NNS'), (u'but', 'CC'), (u'you', 'PRP'), (u'have', 'VBP'), (u'to', 'TO'), (u'balance', 'VB'), (u'work', 'NN'), (u'and', 'CC'), (u'play', 'NN'), (u'time', 'NN')]
+myvp: [['set', 'limits'], ['spend', 'time'], ['doing', 'things'], ['balance', 'work']]
+dobj:  set ( limits )
+dobj:  spend ( time )
+dobj:  doing ( things )
+dobj:  balance ( time )
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'set', '', '', '', '', '', u'spend', '', '', u'doing', '', '', '', '', '', '', u'balance', '', '', '', '']
+
+Sentence: 122
+tagged_sent: [(u'for', 'IN'), (u'example', 'NN'), (u'you', 'PRP'), (u'might', 'MD'), (u'decide', 'VB'), (u'that', 'IN'), (u'youll', 'JJ'), (u'allow', 'VB'), (u'yourself', 'PRP'), (u'30', 'CD'), (u'minutes', 'NNS'), (u'of', 'IN'), (u'video', 'JJ'), (u'games', 'NNS'), (u'or', 'CC'), (u'an', 'DT'), (u'hour', 'NN'), (u'with', 'IN'), (u'friends', 'NNS'), (u'but', 'CC'), (u'only', 'RB'), (u'after', 'IN'), (u'two', 'CD'), (u'hours', 'NNS'), (u'of', 'IN'), (u'studying', 'VBG')]
+myvp: [['allow', 'yourself']]
+dobj:  allow ( minutes )
+label:    [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'allow', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 123
+tagged_sent: [(u'once', 'RB'), (u'youve', 'RB'), (u'identified', 'VBN'), (u'the', 'DT'), (u'potential', 'JJ'), (u'obstacles', 'NNS'), (u'to', 'TO'), (u'your', 'PRP$'), (u'success', 'NN'), (u'you', 'PRP'), (u'can', 'MD'), (u'work', 'VB'), (u'around', 'RP'), (u'them', 'PRP'), (u'accordingly', 'RB'), (u'on', 'IN'), (u'your', 'PRP$'), (u'own', 'JJ'), (u'schedule', 'NN')]
+myvp: [['identified', 'obstacles']]
+dobj:  identified ( obstacles )
+dobj:  work ( them )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'identified', '', '', '', '', '', '', '', '', u'work', '', '', '', '', '', '', '']
+
+Sentence: 124
+tagged_sent: [(u'triage', 'VB'), (u'your', 'PRP$'), (u'worksometimes', 'NNS'), (u'it', 'PRP'), (u'makes', 'VBZ'), (u'the', 'DT'), (u'most', 'RBS'), (u'sense', 'NN'), (u'to', 'TO'), (u'start', 'VB'), (u'your', 'PRP$'), (u'work', 'NN'), (u'where', 'WRB'), (u'its', 'PRP$'), (u'easiest', 'JJS')]
+myvp: [['triage', 'worksometimes'], ['start', 'work']]
+dobj:  triage ( worksometimes )
+dobj:  makes ( sense )
+dobj:  start ( work )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'triage', '', '', '', u'makes', '', '', '', '', u'start', '', '', '', '', '']
+
+Sentence: 125
+tagged_sent: [(u'however', 'RB'), (u'if', 'IN'), (u'youre', 'NN'), (u'worried', 'VBD'), (u'about', 'IN'), (u'budgeting', 'VBG'), (u'your', 'PRP$'), (u'time', 'NN'), (u'you', 'PRP'), (u'may', 'MD'), (u'find', 'VB'), (u'it', 'PRP'), (u'helpful', 'JJ'), (u'to', 'TO'), (u'focus', 'VB'), (u'on', 'IN'), (u'the', 'DT'), (u'most', 'RBS'), (u'difficult', 'JJ'), (u'or', 'CC'), (u'time-consuming', 'JJ'), (u'tasks', 'NNS'), (u'first', 'RB'), (u'rather', 'RB'), (u'than', 'IN'), (u'saving', 'VBG'), (u'them', 'PRP'), (u'for', 'IN'), (u'last', 'JJ')]
+myvp: [['budgeting', 'time'], ['find', 'it'], ['saving', 'them']]
+dobj:  budgeting ( time )
+dobj:  saving ( them )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'budgeting', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'saving', '', '', '']
+
+Sentence: 126
+tagged_sent: [(u'the', 'DT'), (u'difficult', 'JJ'), (u'parts', 'NNS'), (u'of', 'IN'), (u'an', 'DT'), (u'assignment', 'NN'), (u'may', 'MD'), (u'require', 'VB'), (u'additional', 'JJ'), (u'periodicals', 'NNS'), (u'assistance', 'NN'), (u'from', 'IN'), (u'an', 'DT'), (u'instructor', 'NN'), (u'and', 'CC'), (u'other', 'JJ'), (u'resources', 'NNS'), (u'that', 'WDT'), (u'could', 'MD'), (u'be', 'VB'), (u'difficult', 'JJ'), (u'to', 'TO'), (u'attain', 'VB'), (u'on', 'IN'), (u'short', 'JJ'), (u'notice', 'NN')]
+myvp: [['require', 'periodicals', 'assistance'], ['attain', 'notice']]
+dobj:  require ( assistance )
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'require', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 127
+tagged_sent: [(u'in', 'IN'), (u'addition', 'NN'), (u'to', 'TO'), (u'doing', 'VBG'), (u'the', 'DT'), (u'difficult', 'JJ'), (u'work', 'NN'), (u'up', 'RB'), (u'front', 'RB'), (u'you', 'PRP'), (u'should', 'MD'), (u'also', 'RB'), (u'be', 'VB'), (u'aware', 'JJ'), (u'of', 'IN'), (u'any', 'DT'), (u'assignments', 'NNS'), (u'that', 'WDT'), (u'build', 'VBP'), (u'off', 'IN'), (u'of', 'IN'), (u'other', 'JJ'), (u'assignments', 'NNS')]
+myvp: [['doing', 'work']]
+dobj:  doing ( work )
+label:    [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'doing', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 128
+tagged_sent: [(u'these', 'DT'), (u'may', 'MD'), (u'require', 'VB'), (u'you', 'PRP'), (u'to', 'TO'), (u'complete', 'VB'), (u'other', 'JJ'), (u'work', 'NN'), (u'before', 'IN'), (u'moving', 'VBG'), (u'on', 'IN'), (u'to', 'TO'), (u'that', 'DT'), (u'assignment', 'NN')]
+myvp: [['require', 'you'], ['complete', 'work']]
+dobj:  require ( you )
+dobj:  complete ( work )
+label:    [0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'require', '', '', u'complete', '', '', '', '', '', '', '', '']
+
+Sentence: 129
+tagged_sent: [(u'remember', 'VB'), (u'that', 'IN'), (u'the', 'DT'), (u'more', 'JJR'), (u'time', 'NN'), (u'you', 'PRP'), (u'give', 'VBP'), (u'yourself', 'PRP'), (u'the', 'DT'), (u'easier', 'JJR'), (u'it', 'PRP'), (u'will', 'MD'), (u'be', 'VB'), (u'to', 'TO'), (u'get', 'VB'), (u'your', 'PRP$'), (u'most', 'RBS'), (u'difficult', 'JJ'), (u'work', 'NN'), (u'done', 'VBN'), (u'on', 'IN'), (u'time', 'NN')]
+myvp: [['give', 'yourself'], ['done', 'time']]
+dobj:  give ( yourself )
+dobj:  get ( work )
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', u'give', '', '', '', '', '', '', '', u'get', '', '', '', '', '', '', '']
+
+Sentence: 130
+tagged_sent: [(u'find', 'VB'), (u'support', 'NN'), (u'from', 'IN'), (u'friends', 'NNS'), (u'family', 'NN'), (u'and', 'CC'), (u'teachershaving', 'VBG'), (u'support', 'NN'), (u'can', 'MD'), (u'make', 'VB'), (u'a', 'DT'), (u'huge', 'JJ'), (u'difference', 'NN'), (u'in', 'IN'), (u'your', 'PRP$'), (u'success', 'NN'), (u'rate', 'NN')]
+myvp: [['find', 'support'], ['teachershaving', 'support'], ['make', 'difference']]
+dobj:  find ( support )
+dobj:  make ( difference )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'find', '', '', '', '', '', '', '', '', u'make', '', '', '', '', '', '', '']
+
+Sentence: 131
+tagged_sent: [(u'not', 'RB'), (u'only', 'RB'), (u'will', 'MD'), (u'the', 'DT'), (u'people', 'NNS'), (u'in', 'IN'), (u'your', 'PRP$'), (u'support', 'NN'), (u'network', 'NN'), (u'help', 'NN'), (u'you', 'PRP'), (u'stay', 'VBP'), (u'motivated', 'VBN'), (u'they', 'PRP'), (u'can', 'MD'), (u'also', 'RB'), (u'celebrate', 'VB'), (u'with', 'IN'), (u'you', 'PRP'), (u'once', 'RB'), (u'youve', 'VB'), (u'accomplished', 'VB'), (u'your', 'PRP$'), (u'goal', 'NN')]
+myvp: [['stay', 'they'], ['celebrate', 'you'], ['accomplished', 'goal']]
+dobj:  accomplished ( goal )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', u'stay', '', '', '', '', u'celebrate', '', '', '', '', u'accomplished', '', '']
+
+Sentence: 132
+tagged_sent: [(u'once', 'RB'), (u'youve', 'JJ'), (u'identified', 'VBN'), (u'people', 'NNS'), (u'who', 'WP'), (u'can', 'MD'), (u'help', 'VB'), (u'support', 'VB'), (u'you', 'PRP'), (u'along', 'IN'), (u'the', 'DT'), (u'way', 'NN'), (u'let', 'VBD'), (u'those', 'DT'), (u'individuals', 'NNS'), (u'know', 'VBP'), (u'what', 'WP'), (u'you', 'PRP'), (u'need', 'VBP'), (u'from', 'IN'), (u'them', 'PRP')]
+myvp: [['identified', 'people'], ['support', 'you'], ['let', 'individuals'], ['need', 'them']]
+dobj:  support ( you )
+dobj:  need ( what )
+label:    [0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', u'identified', '', '', '', '', u'support', '', '', '', '', '', '', '', '', '', '', u'need', '', '']
+
+Sentence: 133
+tagged_sent: [(u'some', 'DT'), (u'people', 'NNS'), (u'might', 'MD'), (u'be', 'VB'), (u'better', 'JJR'), (u'at', 'IN'), (u'offering', 'VBG'), (u'kind', 'NN'), (u'words', 'NNS'), (u'of', 'IN'), (u'encouragement', 'NN'), (u'while', 'IN'), (u'others', 'NNS'), (u'may', 'MD'), (u'be', 'VB'), (u'good', 'JJ'), (u'at', 'IN'), (u'getting', 'VBG'), (u'you', 'PRP'), (u'to', 'TO'), (u'stay', 'VB'), (u'focused', 'JJ'), (u'or', 'CC'), (u'getting', 'VBG'), (u'you', 'PRP'), (u'back', 'VBP'), (u'to', 'TO'), (u'work', 'VB'), (u'when', 'WRB'), (u'youve', 'NN'), (u'started', 'VBD'), (u'to', 'TO'), (u'slack', 'VB')]
+myvp: [['offering', 'kind', 'words'], ['getting', 'you'], ['getting', 'you']]
+dobj:  offering ( words )
+dobj:  getting ( you )
+dobj:  getting ( you )
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', u'offering', '', '', '', '', '', '', '', '', '', '', u'getting', '', '', '', '', '', u'getting', '', '', '', '', '', '', '', '', '']
+
+Sentence: 134
+tagged_sent: [(u'there', 'EX'), (u'are', 'VBP'), (u'many', 'JJ'), (u'reasons', 'NNS'), (u'for', 'IN'), (u'why', 'WRB'), (u'a', 'DT'), (u'person', 'NN'), (u'may', 'MD'), (u'not', 'RB'), (u'have', 'VB'), (u'childrenit', 'NN'), (u'may', 'MD'), (u'be', 'VB'), (u'due', 'JJ'), (u'to', 'TO'), (u'a', 'DT'), (u'lack', 'NN'), (u'of', 'IN'), (u'desire', 'NN'), (u'an', 'DT'), (u'unwilling', 'JJ'), (u'partner', 'NN'), (u'or', 'CC'), (u'the', 'DT'), (u'biological', 'JJ'), (u'inability', 'NN'), (u'to', 'TO'), (u'reproduce', 'VB')]
+myvp: [['are', 'reasons'], ['have', 'childrenit']]
+dobj:  have ( childrenit )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'are', '', '', '', '', '', '', '', '', u'have', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 135
+tagged_sent: [(u'in', 'IN'), (u'the', 'DT'), (u'circumstance', 'NN'), (u'of', 'IN'), (u'involuntary', 'JJ'), (u'childlessness', 'NN'), (u'as', 'IN'), (u'in', 'IN'), (u'the', 'DT'), (u'two', 'CD'), (u'latter', 'NN'), (u'cases', 'NNS'), (u'it', 'PRP'), (u'is', 'VBZ'), (u'not', 'RB'), (u'uncommon', 'JJ'), (u'to', 'TO'), (u'experience', 'VB'), (u'grief', 'NN'), (u'and', 'CC'), (u'a', 'DT'), (u'certain', 'JJ'), (u'apprehension', 'NN'), (u'about', 'IN'), (u'having', 'VBG'), (u'a', 'DT'), (u'life', 'NN'), (u'without', 'IN'), (u'children', 'NNS')]
+myvp: [['experience', 'grief'], ['having', 'life']]
+dobj:  experience ( grief )
+dobj:  having ( life )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'experience', '', '', '', '', '', '', u'having', '', '', '', '']
+
+Sentence: 136
+tagged_sent: [(u'however', 'RB'), (u'you', 'PRP'), (u'can', 'MD'), (u'cope', 'VB'), (u'and', 'CC'), (u'learn', 'VB'), (u'to', 'TO'), (u'move', 'VB'), (u'on', 'IN')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 1, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 137
+tagged_sent: [(u'acknowledge', 'VB'), (u'your', 'PRP$'), (u'emotions', 'NNS'), (u'however', 'RB'), (u'varied', 'IN'), (u'they', 'PRP'), (u'are', 'VBP'), (u'and', 'CC'), (u'make', 'VBP'), (u'it', 'PRP'), (u'a', 'DT'), (u'point', 'NN'), (u'to', 'TO'), (u'express', 'VB'), (u'them', 'PRP'), (u'outwardly', 'RB')]
+myvp: [['acknowledge', 'emotions'], ['make', 'it'], ['express', 'them']]
+dobj:  make ( it )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'acknowledge', '', '', '', '', '', '', '', u'make', '', '', '', '', '', '', '']
+
+Sentence: 138
+tagged_sent: [(u'the', 'DT'), (u'way', 'NN'), (u'you', 'PRP'), (u'express', 'VBP'), (u'yourself', 'PRP'), (u'is', 'VBZ'), (u'personal', 'JJ'), (u'to', 'TO'), (u'you', 'PRP'), (u'and', 'CC'), (u'may', 'MD'), (u'involve', 'VB'), (u'crying', 'VBG'), (u'screaming', 'VBG'), (u'laughing', 'VBG'), (u'singing', 'VBG'), (u'writing', 'VBG'), (u'talking', 'VBG'), (u'or', 'CC'), (u'any', 'DT'), (u'other', 'JJ'), (u'of', 'IN'), (u'the', 'DT'), (u'countless', 'NN'), (u'forms', 'NNS'), (u'of', 'IN'), (u'self-expression', 'NN')]
+myvp: [['express', 'yourself']]
+dobj:  laughing ( singing )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'express', '', '', '', '', '', '', '', '', '', '', u'laughing', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 139
+tagged_sent: [(u'assess', 'RB'), (u'your', 'PRP$'), (u'reality', 'NN'), (u'as', 'IN'), (u'it', 'PRP'), (u'isif', 'VBZ'), (u'you', 'PRP'), (u'know', 'VBP'), (u'that', 'IN'), (u'you', 'PRP'), (u'will', 'MD'), (u'not', 'RB'), (u'have', 'VB'), (u'children', 'NNS'), (u'then', 'RB'), (u'you', 'PRP'), (u'must', 'MD'), (u'accept', 'VB'), (u'that', 'IN'), (u'fact', 'NN'), (u'before', 'IN'), (u'you', 'PRP'), (u'can', 'MD'), (u'move', 'VB'), (u'forward', 'RB')]
+myvp: [['know', 'you'], ['have', 'children'], ['accept', 'fact']]
+dobj:  assess ( reality )
+dobj:  have ( children )
+dobj:  accept ( fact )
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'assess', '', '', '', '', '', '', u'know', '', '', '', '', u'have', '', '', '', '', u'accept', '', '', '', '', '', '', '']
+
+Sentence: 140
+tagged_sent: [(u'consciously', 'RB'), (u'incorporate', 'VB'), (u'the', 'DT'), (u'following', 'JJ'), (u'practices', 'NNS'), (u'into', 'IN'), (u'your', 'PRP$'), (u'daily', 'JJ'), (u'lifeimagine', 'VB'), (u'your', 'PRP$'), (u'future', 'NN'), (u'without', 'IN'), (u'children', 'NNS')]
+myvp: [['incorporate', 'practices'], ['lifeimagine', 'future']]
+dobj:  incorporate ( practices )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'incorporate', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 141
+tagged_sent: [(u'make', 'VB'), (u'plans', 'NNS'), (u'for', 'IN'), (u'yourself', 'PRP'), (u'that', 'WDT'), (u'revolve', 'VBP'), (u'around', 'IN'), (u'not', 'RB'), (u'having', 'VBG'), (u'kids', 'NNS')]
+myvp: [['make', 'plans'], ['having', 'kids']]
+dobj:  make ( plans )
+dobj:  having ( kids )
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: [u'make', '', '', '', '', '', '', '', u'having', '']
+
+Sentence: 142
+tagged_sent: [(u'envision', 'VB'), (u'your', 'PRP$'), (u'plans', 'NNS'), (u'coming', 'VBG'), (u'to', 'TO'), (u'fruition', 'NN'), (u'and', 'CC'), (u'you', 'PRP'), (u'being', 'VBG'), (u'happy', 'JJ'), (u'in', 'IN'), (u'those', 'DT'), (u'plansremove', 'JJ'), (u'painful', 'JJ'), (u'reminders', 'NNS'), (u'from', 'IN'), (u'sight', 'NN')]
+myvp: [['envision', 'plans']]
+dobj:  envision ( plans )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'envision', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 143
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'have', 'VBP'), (u'baby', 'VBN'), (u'items', 'NNS'), (u'that', 'IN'), (u'you', 'PRP'), (u'acquired', 'VBD'), (u'in', 'IN'), (u'the', 'DT'), (u'hopes', 'NNS'), (u'of', 'IN'), (u'having', 'VBG'), (u'a', 'DT'), (u'baby', 'NN'), (u'pack', 'VB'), (u'them', 'PRP'), (u'away', 'RB'), (u'or', 'CC'), (u'give', 'VB'), (u'them', 'PRP'), (u'to', 'TO'), (u'someone', 'NN'), (u'who', 'WP'), (u'will', 'MD'), (u'use', 'VB'), (u'them', 'PRP')]
+myvp: [['have', 'items'], ['acquired', 'hopes'], ['having', 'baby'], ['pack', 'them'], ['give', 'them'], ['use', 'them']]
+dobj:  have ( items )
+dobj:  pack ( them )
+dobj:  give ( them )
+dobj:  use ( them )
+label:    [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', u'have', '', '', '', '', '', '', '', '', '', '', '', '', u'pack', '', '', '', u'give', '', '', '', '', '', u'use', '']
+
+Sentence: 144
+tagged_sent: [(u'put', 'VB'), (u'things', 'NNS'), (u'into', 'IN'), (u'perspectiveremember', 'NN'), (u'that', 'IN'), (u'everyone', 'NN'), (u'must', 'MD'), (u'deal', 'VB'), (u'with', 'IN'), (u'unwanted', 'JJ'), (u'life', 'NN'), (u'circumstances', 'NNS'), (u'at', 'IN'), (u'times', 'NNS'), (u'whether', 'IN'), (u'it', 'PRP'), (u'be', 'VB'), (u'death', 'NN'), (u'illness', 'NN'), (u'or', 'CC'), (u'involuntary', 'JJ'), (u'childlessness', 'NN')]
+myvp: [['put', 'things'], ['deal', 'life', 'circumstances'], ['be', 'death', 'illness']]
+dobj:  put ( things )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'put', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 145
+tagged_sent: [(u'relating', 'VBG'), (u'to', 'TO'), (u'others', 'NNS'), (u'on', 'IN'), (u'this', 'DT'), (u'level', 'NN'), (u'may', 'MD'), (u'help', 'VB'), (u'you', 'PRP'), (u'feel', 'VB'), (u'less', 'JJR'), (u'alone', 'RB')]
+myvp: [['help', 'you']]
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'help', '', '', '', '']
+
+Sentence: 146
+tagged_sent: [(u'maintain', 'VB'), (u'your', 'PRP$'), (u'healthget', 'NN'), (u'the', 'DT'), (u'appropriate', 'JJ'), (u'amount', 'NN'), (u'of', 'IN'), (u'sleep', 'NN'), (u'and', 'CC'), (u'make', 'VB'), (u'sure', 'JJ'), (u'you', 'PRP'), (u'are', 'VBP'), (u'eating', 'VBG'), (u'well', 'RB')]
+myvp: [['maintain', 'healthget'], ['make', 'you']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'maintain', '', '', '', '', '', '', '', '', u'make', '', '', '', '', '']
+
+Sentence: 147
+tagged_sent: [(u'neglecting', 'VBG'), (u'your', 'PRP$'), (u'physical', 'JJ'), (u'health', 'NN'), (u'can', 'MD'), (u'complicate', 'VB'), (u'the', 'DT'), (u'acceptance', 'NN'), (u'process', 'NN')]
+myvp: [['neglecting', 'health'], ['complicate', 'acceptance', 'process']]
+dobj:  complicate ( process )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'neglecting', '', '', '', '', u'complicate', '', '', '']
+
+Sentence: 148
+tagged_sent: [(u'learn', 'NN'), (u'about', 'IN'), (u'the', 'DT'), (u'stages', 'NNS'), (u'of', 'IN'), (u'griefaccepting', 'VBG'), (u'not', 'RB'), (u'having', 'VBG'), (u'children', 'NNS'), (u'is', 'VBZ'), (u'similar', 'JJ'), (u'to', 'TO'), (u'any', 'DT'), (u'type', 'NN'), (u'of', 'IN'), (u'serious', 'JJ'), (u'loss', 'NN'), (u'in', 'IN'), (u'that', 'DT'), (u'you', 'PRP'), (u'will', 'MD'), (u'experience', 'VB'), (u'grief', 'NN'), (u'in', 'IN'), (u'its', 'PRP$'), (u'many', 'JJ'), (u'forms', 'NNS')]
+myvp: [['having', 'children'], ['experience', 'grief']]
+dobj:  experience ( grief )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'having', '', '', '', '', '', '', '', '', '', '', '', '', '', u'experience', '', '', '', '', '']
+
+Sentence: 149
+tagged_sent: [(u'understanding', 'VBG'), (u'how', 'WRB'), (u'grief', 'JJ'), (u'manifests', 'NNS'), (u'will', 'MD'), (u'prepare', 'VB'), (u'you', 'PRP'), (u'to', 'TO'), (u'be', 'VB'), (u'able', 'JJ'), (u'to', 'TO'), (u'manage', 'VB'), (u'it', 'PRP')]
+myvp: [['prepare', 'you'], ['manage', 'it']]
+dobj:  prepare ( you )
+dobj:  manage ( it )
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', u'prepare', '', '', '', '', '', u'manage', '']
+
+Sentence: 150
+tagged_sent: [(u'you', 'PRP'), (u'may', 'MD'), (u'be', 'VB'), (u'in', 'IN'), (u'disbelief', 'NN'), (u'and', 'CC'), (u'mentally', 'RB'), (u'unwilling', 'JJ'), (u'to', 'TO'), (u'accept', 'VB'), (u'the', 'DT'), (u'reality', 'NN'), (u'of', 'IN'), (u'not', 'RB'), (u'having', 'VBG'), (u'kids', 'NNS')]
+myvp: [['be', 'disbelief'], ['accept', 'reality'], ['having', 'kids']]
+dobj:  accept ( reality )
+dobj:  having ( kids )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', u'be', '', '', '', '', '', '', u'accept', '', '', '', '', u'having', '']
+
+Sentence: 151
+tagged_sent: [(u'you', 'PRP'), (u'may', 'MD'), (u'begin', 'VB'), (u'to', 'TO'), (u'question', 'NN'), (u'or', 'CC'), (u'blame', 'VB'), (u'yourself', 'PRP'), (u'for', 'IN'), (u'not', 'RB'), (u'having', 'VBG'), (u'children', 'NNS'), (u'and', 'CC'), (u'this', 'DT'), (u'can', 'MD'), (u'lead', 'VB'), (u'to', 'TO'), (u'unnecessary', 'JJ'), (u'guilt', 'NN')]
+myvp: [['blame', 'yourself'], ['having', 'children']]
+dobj:  question ( yourself )
+dobj:  having ( children )
+label:    [0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'question', '', u'blame', '', '', '', u'having', '', '', '', '', '', '', '', '']
+
+Sentence: 152
+tagged_sent: [(u'the', 'DT'), (u'anger', 'NN'), (u'associated', 'VBN'), (u'with', 'IN'), (u'grief', 'NN'), (u'is', 'VBZ'), (u'not', 'RB'), (u'necessarily', 'RB'), (u'aimed', 'VBN'), (u'at', 'IN'), (u'a', 'DT'), (u'person', 'NN'), (u'or', 'CC'), (u'a', 'DT'), (u'thing', 'NN'), (u'but', 'CC'), (u'rather', 'RB'), (u'at', 'IN'), (u'the', 'DT'), (u'circumstance', 'NN'), (u'itself', 'PRP')]
+myvp: [['associated', 'grief'], ['aimed', 'person']]
+nsubjpass:  aimed ( anger )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'associated', '', '', '', '', '', u'aimed', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 153
+tagged_sent: [(u'when', 'WRB'), (u'the', 'DT'), (u'reality', 'NN'), (u'of', 'IN'), (u'involuntary', 'JJ'), (u'childlessness', 'NN'), (u'sets', 'NNS'), (u'in', 'IN'), (u'it', 'PRP'), (u'may', 'MD'), (u'cause', 'VB'), (u'a', 'DT'), (u'sense', 'NN'), (u'of', 'IN'), (u'panic', 'NN'), (u'or', 'CC'), (u'anxietythe', 'JJ'), (u'physical', 'JJ'), (u'symptoms', 'NNS'), (u'of', 'IN'), (u'grief', 'JJ'), (u'include', 'VBP'), (u'insomnia', 'JJ'), (u'irregular', 'JJ'), (u'appetite', 'NN'), (u'changes', 'NNS'), (u'headaches', 'NNS'), (u'unexplained', 'VBD'), (u'body', 'NN'), (u'aches', 'NNS'), (u'nausea', 'NN'), (u'and', 'CC'), (u'fatigue', 'NN')]
+myvp: [['cause', 'sense'], ['unexplained', 'body', 'aches', 'nausea']]
+dobj:  cause ( sense )
+dobj:  anxietythe ( symptoms )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', u'cause', '', '', '', '', '', u'anxietythe', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 154
+tagged_sent: [(u'seek', 'JJ'), (u'emotional', 'JJ'), (u'supportgetting', 'NN'), (u'outside', 'IN'), (u'help', 'NN'), (u'is', 'VBZ'), (u'extremely', 'RB'), (u'important', 'JJ'), (u'to', 'TO'), (u'the', 'DT'), (u'process', 'NN'), (u'of', 'IN'), (u'coping', 'VBG'), (u'with', 'IN'), (u'not', 'RB'), (u'having', 'VBG'), (u'kids', 'NNS')]
+myvp: [['having', 'kids']]
+dobj:  having ( kids )
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'having', '']
+
+Sentence: 155
+tagged_sent: [(u'there', 'EX'), (u'are', 'VBP'), (u'many', 'JJ'), (u'places', 'NNS'), (u'you', 'PRP'), (u'can', 'MD'), (u'go', 'VB'), (u'for', 'IN'), (u'this', 'DT'), (u'type', 'NN'), (u'of', 'IN'), (u'supportfind', 'NN'), (u'a', 'DT'), (u'therapist', 'NN'), (u'or', 'CC'), (u'counselor', 'NN'), (u'whom', 'WP'), (u'you', 'PRP'), (u'feel', 'VBP'), (u'comfortable', 'JJ'), (u'with', 'IN'), (u'if', 'IN'), (u'you', 'PRP'), (u'feel', 'VBP'), (u'that', 'IN'), (u'you', 'PRP'), (u'are', 'VBP'), (u'experiencing', 'VBG'), (u'obstacles', 'NNS'), (u'to', 'TO'), (u'overcoming', 'VBG'), (u'uncomfortable', 'JJ'), (u'emotions', 'NNS')]
+myvp: [['are', 'places'], ['go', 'type'], ['feel', 'you'], ['experiencing', 'obstacles'], ['overcoming', 'emotions']]
+dobj:  go ( therapist )
+dobj:  comfortable ( whom )
+dobj:  experiencing ( obstacles )
+dobj:  overcoming ( emotions )
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag_act: ['', u'are', '', '', '', '', u'go', '', '', '', '', '', '', '', '', '', '', '', '', u'comfortable', '', '', '', '', '', '', '', u'experiencing', '', '', u'overcoming', '', '']
+
+Sentence: 156
+tagged_sent: [(u'search', 'NN'), (u'online', 'NN'), (u'and', 'CC'), (u'in', 'IN'), (u'your', 'PRP$'), (u'local', 'JJ'), (u'newspapers', 'NNS'), (u'for', 'IN'), (u'support', 'NN'), (u'groups', 'NNS'), (u'for', 'IN'), (u'the', 'DT'), (u'involuntarily', 'JJ'), (u'childlessconnecting', 'NN'), (u'with', 'IN'), (u'other', 'JJ'), (u'people', 'NNS'), (u'who', 'WP'), (u'share', 'NN'), (u'your', 'PRP$'), (u'experience', 'NN'), (u'can', 'MD'), (u'be', 'VB'), (u'a', 'DT'), (u'great', 'JJ'), (u'source', 'NN'), (u'of', 'IN'), (u'comfort', 'NN')]
+myvp: [['be', 'source']]
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'be', '', '', '', '', '']
+
+Sentence: 157
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'belong', 'VBP'), (u'to', 'TO'), (u'a', 'DT'), (u'church', 'NN'), (u'or', 'CC'), (u'other', 'JJ'), (u'religious', 'JJ'), (u'institution', 'NN'), (u'then', 'RB'), (u'you', 'PRP'), (u'may', 'MD'), (u'be', 'VB'), (u'able', 'JJ'), (u'to', 'TO'), (u'receive', 'VB'), (u'free', 'JJ'), (u'counseling', 'NN'), (u'from', 'IN'), (u'someone', 'NN'), (u'you', 'PRP'), (u'already', 'RB'), (u'know', 'VBP'), (u'and', 'CC'), (u'trust', 'VBP')]
+myvp: [['receive', 'counseling']]
+dobj:  receive ( counseling )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'receive', '', '', '', '', '', '', '', '', '']
+
+Sentence: 158
+tagged_sent: [(u'expressing', 'VBG'), (u'what', 'WP'), (u'you', 'PRP'), (u'are', 'VBP'), (u'going', 'VBG'), (u'through', 'IN'), (u'to', 'TO'), (u'people', 'NNS'), (u'who', 'WP'), (u'love', 'VBP'), (u'and', 'CC'), (u'care', 'VBP'), (u'about', 'IN'), (u'you', 'PRP'), (u'can', 'MD'), (u'be', 'VB'), (u'a', 'DT'), (u'healthy', 'JJ'), (u'way', 'NN'), (u'of', 'IN'), (u'dealing', 'VBG'), (u'with', 'IN'), (u'the', 'DT'), (u'grief', 'NN'), (u'of', 'IN'), (u'not', 'RB'), (u'having', 'VBG'), (u'children', 'NNS')]
+myvp: [['care', 'you'], ['be', 'way'], ['dealing', 'grief'], ['having', 'children']]
+dobj:  going ( what )
+dobj:  having ( children )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', u'going', '', '', '', '', '', '', u'care', '', '', '', u'be', '', '', '', '', u'dealing', '', '', '', '', '', u'having', '']
+
+Sentence: 159
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'love', 'VBP'), (u'children', 'NNS'), (u'consider', 'VB'), (u'other', 'JJ'), (u'ways', 'NNS'), (u'to', 'TO'), (u'have', 'VB'), (u'children', 'NNS'), (u'in', 'IN'), (u'your', 'PRP$'), (u'life', 'NN')]
+myvp: [['love', 'children'], ['consider', 'ways'], ['have', 'children']]
+dobj:  consider ( ways )
+dobj:  have ( children )
+label:    [0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'love', '', u'consider', '', '', '', u'have', '', '', '', '']
+
+Sentence: 160
+tagged_sent: [(u'you', 'PRP'), (u'dont', 'VBP'), (u'need', 'VB'), (u'to', 'TO'), (u'be', 'VB'), (u'a', 'DT'), (u'parent', 'NN'), (u'in', 'IN'), (u'order', 'NN'), (u'to', 'TO'), (u'help', 'VB'), (u'them', 'PRP'), (u'and', 'CC'), (u'watch', 'VB'), (u'them', 'PRP'), (u'grow', 'VB')]
+myvp: [['be', 'parent'], ['help', 'them'], ['watch', 'them']]
+dobj:  help ( them )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'be', '', '', '', '', '', u'help', '', '', '', '', '']
+
+Sentence: 161
+tagged_sent: [(u'help', 'NN'), (u'friends', 'NNS'), (u'and', 'CC'), (u'family', 'NN'), (u'members', 'NNS'), (u'with', 'IN'), (u'their', 'PRP$'), (u'childrenbabysit', 'NN'), (u'for', 'IN'), (u'your', 'PRP$'), (u'best', 'JJS'), (u'friend', 'NN'), (u'or', 'CC'), (u'spend', 'VB'), (u'time', 'NN'), (u'at', 'IN'), (u'your', 'PRP$'), (u'brothers', 'NNS'), (u'house', 'NN'), (u'playing', 'VBG'), (u'with', 'IN'), (u'and', 'CC'), (u'caring', 'VBG'), (u'for', 'IN'), (u'his', 'PRP$'), (u'children', 'NNS')]
+myvp: [['spend', 'time']]
+dobj:  help ( friends )
+dobj:  spend ( time )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'help', '', '', '', '', '', '', '', '', '', '', '', '', u'spend', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 162
+tagged_sent: [(u'the', 'DT'), (u'children', 'NNS'), (u'will', 'MD'), (u'enjoy', 'VB'), (u'playing', 'VBG'), (u'with', 'IN'), (u'you', 'PRP'), (u'and', 'CC'), (u'the', 'DT'), (u'adults', 'NNS'), (u'will', 'MD'), (u'be', 'VB'), (u'thankful', 'JJ'), (u'for', 'IN'), (u'the', 'DT'), (u'extra', 'JJ'), (u'help', 'NN')]
+myvp: []
+label:    [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 163
+tagged_sent: [(u'consider', 'VB'), (u'volunteering', 'VBG'), (u'at', 'IN'), (u'a', 'DT'), (u'place', 'NN'), (u'where', 'WRB'), (u'you', 'PRP'), (u'can', 'MD'), (u'work', 'VB'), (u'with', 'IN'), (u'children', 'NNS')]
+myvp: [['volunteering', 'place'], ['work', 'children']]
+label:    [1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', u'volunteering', '', '', '', '', '', '', u'work', '', '']
+
+Sentence: 164
+tagged_sent: [(u'try', 'VB'), (u'becoming', 'VBG'), (u'an', 'DT'), (u'aide', 'NN'), (u'teaching', 'VBG'), (u'underprivileged', 'JJ'), (u'children', 'NNS'), (u'volunteering', 'VBG'), (u'for', 'IN'), (u'church', 'NN'), (u'programs', 'NNS'), (u'coming', 'VBG'), (u'as', 'IN'), (u'a', 'DT'), (u'guest', 'NN'), (u'to', 'TO'), (u'schools', 'NNS'), (u'eg', 'RB'), (u'to', 'TO'), (u'talk', 'VB'), (u'about', 'IN'), (u'your', 'PRP$'), (u'job', 'NN'), (u'or', 'CC'), (u'working', 'VBG'), (u'with', 'IN'), (u'disabled', 'JJ'), (u'children', 'NNS')]
+myvp: [['becoming', 'aide'], ['teaching', 'children'], ['volunteering', 'church', 'programs'], ['coming', 'guest'], ['working', 'children']]
+dobj:  teaching ( children )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'becoming', '', '', u'teaching', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 165
+tagged_sent: [(u'take', 'VB'), (u'a', 'DT'), (u'job', 'NN'), (u'in', 'IN'), (u'which', 'WDT'), (u'you', 'PRP'), (u'will', 'MD'), (u'be', 'VB'), (u'expected', 'VBN'), (u'to', 'TO'), (u'work', 'VB'), (u'with', 'IN'), (u'children', 'NNS')]
+myvp: [['take', 'job'], ['work', 'children']]
+dobj:  take ( job )
+nsubjpass:  expected ( you )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'take', '', '', '', '', '', '', '', u'expected', '', '', '', '']
+
+Sentence: 166
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'want', 'VBP'), (u'children', 'NNS'), (u'but', 'CC'), (u'have', 'VBP'), (u'an', 'DT'), (u'unwilling', 'JJ'), (u'partner', 'NN'), (u'the', 'DT'), (u'decision', 'NN'), (u'to', 'TO'), (u'not', 'RB'), (u'have', 'VB'), (u'children', 'NNS'), (u'can', 'MD'), (u'put', 'VB'), (u'a', 'DT'), (u'great', 'JJ'), (u'deal', 'NN'), (u'of', 'IN'), (u'stress', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'relationship', 'NN')]
+myvp: [['want', 'children'], ['have', 'partner'], ['have', 'children'], ['put', 'deal']]
+dobj:  want ( children )
+dobj:  have ( partner )
+dobj:  have ( children )
+dobj:  put ( deal )
+label:    [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'want', '', '', u'have', '', '', '', '', '', '', '', u'have', '', '', u'put', '', '', '', '', '', '', '', '']
+
+Sentence: 167
+tagged_sent: [(u'it', 'PRP'), (u'may', 'MD'), (u'be', 'VB'), (u'difficult', 'JJ'), (u'to', 'TO'), (u'avoid', 'VB'), (u'withholding', 'VBG'), (u'resentment', 'JJ'), (u'toward', 'IN'), (u'your', 'PRP$'), (u'partner', 'NN'), (u'and', 'CC'), (u'you', 'PRP'), (u'will', 'MD'), (u'need', 'VB'), (u'to', 'TO'), (u'rebuild', 'VB'), (u'the', 'DT'), (u'relationship', 'NN'), (u'once', 'IN'), (u'you', 'PRP'), (u'learn', 'VBP'), (u'to', 'TO'), (u'cope', 'VB'), (u'with', 'IN'), (u'not', 'RB'), (u'having', 'VBG'), (u'children', 'NNS')]
+myvp: [['rebuild', 'relationship'], ['having', 'children']]
+dobj:  avoid ( resentment )
+dobj:  rebuild ( relationship )
+dobj:  having ( children )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', u'avoid', '', '', '', '', '', '', '', '', '', '', u'rebuild', '', '', '', '', '', '', '', '', '', u'having', '']
+
+Sentence: 168
+tagged_sent: [(u'keep', 'VB'), (u'communication', 'NN'), (u'clear', 'JJ'), (u'with', 'IN'), (u'your', 'PRP$'), (u'partnertell', 'FW'), (u'them', 'PRP'), (u'that', 'IN'), (u'having', 'VBG'), (u'kids', 'NNS'), (u'is', 'VBZ'), (u'very', 'RB'), (u'important', 'JJ'), (u'to', 'TO'), (u'you', 'PRP'), (u'and', 'CC'), (u'ask', 'VB'), (u'why', 'WRB'), (u'they', 'PRP'), (u'dont', 'VBP'), (u'want', 'VBP'), (u'kids', 'NNS')]
+myvp: [['keep', 'communication'], ['having', 'kids'], ['want', 'kids']]
+dobj:  having ( kids )
+dobj:  want ( kids )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: [u'keep', '', '', '', '', '', '', '', u'having', '', '', '', '', '', '', '', '', '', '', '', u'want', '']
+
+Sentence: 169
+tagged_sent: [(u'then', 'RB'), (u'listen', 'VBZ'), (u'carefullytry', 'NN'), (u'to', 'TO'), (u'find', 'VB'), (u'some', 'DT'), (u'middle', 'JJ'), (u'ground', 'NN'), (u'would', 'MD'), (u'they', 'PRP'), (u'be', 'VB'), (u'okay', 'VBN'), (u'with', 'IN'), (u'having', 'VBG'), (u'kids', 'NNS'), (u'in', 'IN'), (u'five', 'CD'), (u'years', 'NNS')]
+myvp: [['find', 'ground'], ['having', 'kids']]
+dobj:  having ( kids )
+label:    [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'find', '', '', '', '', '', '', '', '', u'having', '', '', '', '']
+
+Sentence: 170
+tagged_sent: [(u'what', 'WP'), (u'about', 'IN'), (u'deciding', 'VBG'), (u'to', 'TO'), (u'wait', 'VB'), (u'and', 'CC'), (u'to', 'TO'), (u'discuss', 'VB'), (u'it', 'PRP'), (u'again', 'RB'), (u'a', 'DT'), (u'few', 'JJ'), (u'years', 'NNS'), (u'from', 'IN'), (u'now', 'RB')]
+myvp: [['discuss', 'it']]
+dobj:  discuss ( it )
+label:    [0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'discuss', '', '', '', '', '', '', '']
+
+Sentence: 171
+tagged_sent: [(u'try', 'NN'), (u'to', 'TO'), (u'find', 'VB'), (u'a', 'DT'), (u'solution', 'NN'), (u'that', 'WDT'), (u'can', 'MD'), (u'satisfy', 'VB'), (u'you', 'PRP'), (u'both', 'DT')]
+myvp: [['find', 'solution'], ['satisfy', 'you']]
+dobj:  find ( solution )
+dobj:  satisfy ( you )
+label:    [1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', u'find', '', '', '', '', u'satisfy', '', '']
+
+Sentence: 172
+tagged_sent: [(u'in', 'IN'), (u'order', 'NN'), (u'to', 'TO'), (u'accept', 'VB'), (u'not', 'RB'), (u'having', 'VBG'), (u'kids', 'NNS'), (u'due', 'JJ'), (u'to', 'TO'), (u'infertility', 'VB'), (u'it', 'PRP'), (u'is', 'VBZ'), (u'important', 'JJ'), (u'that', 'IN'), (u'you', 'PRP'), (u'not', 'RB'), (u'place', 'VB'), (u'blame', 'NN'), (u'on', 'IN'), (u'yourself', 'PRP'), (u'or', 'CC'), (u'your', 'PRP$'), (u'partner', 'NN')]
+myvp: [['having', 'kids'], ['infertility', 'it'], ['place', 'blame']]
+dobj:  place ( blame )
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'having', '', '', '', u'infertility', '', '', '', '', '', '', u'place', '', '', '', '', '', '']
+
+Sentence: 173
+tagged_sent: [(u'take', 'VB'), (u'time', 'NN'), (u'to', 'TO'), (u'recover', 'VB'), (u'physically', 'RB'), (u'and', 'CC'), (u'emotionally', 'RB'), (u'from', 'IN'), (u'any', 'DT'), (u'medical', 'JJ'), (u'treatments', 'NNS'), (u'you', 'PRP'), (u'and/or', 'VBP'), (u'your', 'PRP$'), (u'partner', 'NN'), (u'may', 'MD'), (u'have', 'VB'), (u'endured', 'VBN'), (u'and', 'CC'), (u'recognize', 'VB'), (u'that', 'IN'), (u'the', 'DT'), (u'stress', 'NN'), (u'from', 'IN'), (u'those', 'DT'), (u'treatments', 'NNS'), (u'is', 'VBZ'), (u'likely', 'JJ'), (u'complicating', 'VBG'), (u'your', 'PRP$'), (u'ability', 'NN'), (u'to', 'TO'), (u'cope', 'VB'), (u'with', 'IN'), (u'not', 'RB'), (u'having', 'VBG'), (u'children', 'NNS')]
+myvp: [['take', 'time'], ['recognize', 'stress'], ['complicating', 'ability'], ['having', 'children']]
+dobj:  take ( time )
+dobj:  complicating ( ability )
+dobj:  having ( children )
+label:    [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: [u'take', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'complicating', '', '', '', '', '', '', u'having', '']
+
+Sentence: 174
+tagged_sent: [(u'take', 'VB'), (u'time', 'NN'), (u'for', 'IN'), (u'yourselfchildlessness', 'NN'), (u'does', 'VBZ'), (u'not', 'RB'), (u'mean', 'VB'), (u'an', 'DT'), (u'end', 'NN'), (u'to', 'TO'), (u'happiness', 'VB')]
+myvp: [['take', 'time'], ['mean', 'end']]
+dobj:  take ( time )
+dobj:  mean ( end )
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'take', '', '', '', '', '', u'mean', '', '', '', '']
+
+Sentence: 175
+tagged_sent: [(u'spend', 'JJ'), (u'time', 'NN'), (u'with', 'IN'), (u'people', 'NNS'), (u'you', 'PRP'), (u'love', 'VBP'), (u'take', 'VB'), (u'a', 'DT'), (u'long', 'JJ'), (u'bubble', 'JJ'), (u'bath', 'NN'), (u'work', 'NN'), (u'on', 'IN'), (u'your', 'PRP$'), (u'hobbies', 'NNS'), (u'and', 'CC'), (u'do', 'VBP'), (u'things', 'NNS'), (u'that', 'WDT'), (u'matter', 'VBP'), (u'to', 'TO'), (u'you', 'PRP')]
+myvp: [['do', 'things']]
+dobj:  spend ( time )
+dobj:  take ( work )
+dobj:  do ( things )
+label:    [1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'spend', '', '', '', '', '', u'take', '', '', '', '', '', '', '', '', '', u'do', '', '', '', '', '']
+
+Sentence: 176
+tagged_sent: [(u'you', 'PRP'), (u'do', 'VBP'), (u'not', 'RB'), (u'need', 'VB'), (u'children', 'NNS'), (u'to', 'TO'), (u'live', 'VB'), (u'a', 'DT'), (u'positive', 'JJ'), (u'meaningful', 'JJ'), (u'life', 'NN')]
+myvp: [['need', 'children']]
+dobj:  need ( children )
+dobj:  live ( life )
+label:    [0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'need', '', '', u'live', '', '', '', '']
+
+Sentence: 177
+tagged_sent: [(u'expert', 'NN'), (u'reviewed', 'VBD'), (u'how', 'WRB'), (u'to', 'TO'), (u'accept', 'VB'), (u'donations', 'NNS'), (u'online', 'VB')]
+myvp: [['accept', 'donations']]
+dobj:  accept ( donations )
+label:    [0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', u'accept', '', '']
+
+Sentence: 178
+tagged_sent: [(u'a', 'DT'), (u'nonprofit', 'JJ'), (u'organization', 'NN'), (u'can', 'MD'), (u'reduce', 'VB'), (u'fundraising', 'VBG'), (u'costs', 'NNS'), (u'and', 'CC'), (u'attract', 'VB'), (u'more', 'JJR'), (u'donors', 'NNS'), (u'by', 'IN'), (u'enabling', 'VBG'), (u'online', 'JJ'), (u'donations', 'NNS')]
+myvp: [['enabling', 'donations']]
+dobj:  reduce ( costs )
+dobj:  attract ( donors )
+dobj:  enabling ( donations )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', u'reduce', '', '', '', u'attract', '', '', '', u'enabling', '', '']
+
+Sentence: 179
+tagged_sent: [(u'the', 'DT'), (u'two', 'CD'), (u'methods', 'NNS'), (u'for', 'IN'), (u'accepting', 'VBG'), (u'online', 'JJ'), (u'donations', 'NNS'), (u'include', 'VBP'), (u'opening', 'VBG'), (u'a', 'DT'), (u'merchant', 'NN'), (u'account', 'NN'), (u'with', 'IN'), (u'a', 'DT'), (u'financial', 'JJ'), (u'institution', 'NN'), (u'or', 'CC'), (u'working', 'VBG'), (u'with', 'IN'), (u'a', 'DT'), (u'third-party', 'JJ'), (u'payment', 'NN'), (u'processor', 'NN')]
+myvp: [['accepting', 'donations'], ['opening', 'merchant', 'account']]
+dobj:  accepting ( donations )
+dobj:  opening ( account )
+label:    [0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'accepting', '', '', '', u'opening', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 180
+tagged_sent: [(u'the', 'DT'), (u'method', 'NN'), (u'a', 'DT'), (u'you', 'PRP'), (u'choose', 'VBP'), (u'may', 'MD'), (u'depend', 'VB'), (u'on', 'IN'), (u'your', 'PRP$'), (u'total', 'JJ'), (u'operating', 'NN'), (u'budget', 'NN'), (u'your', 'PRP$'), (u'goals', 'NNS'), (u'for', 'IN'), (u'branding', 'VBG'), (u'your', 'PRP$'), (u'company', 'NN'), (u'and', 'CC'), (u'how', 'WRB'), (u'convenient', 'JJ'), (u'and', 'CC'), (u'automated', 'VBD'), (u'you', 'PRP'), (u'want', 'VBP'), (u'the', 'DT'), (u'process', 'NN'), (u'to', 'TO'), (u'be', 'VB')]
+myvp: [['branding', 'company'], ['automated', 'you'], ['want', 'process']]
+dobj:  depend ( goals )
+dobj:  branding ( company )
+dobj:  want ( process )
+label:    [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', u'depend', '', '', '', '', '', '', '', '', u'branding', '', '', '', '', '', '', '', '', u'want', '', '', '', '']
+
+Sentence: 181
+tagged_sent: [(u'to', 'TO'), (u'learn', 'VB'), (u'more', 'JJR'), (u'about', 'IN'), (u'starting', 'VBG'), (u'a', 'DT'), (u'nonprofit', 'JJ'), (u'check', 'NN'), (u'out', 'IN'), (u'how', 'WRB'), (u'to', 'TO'), (u'start', 'VB'), (u'a', 'DT'), (u'501c3', 'CD'), (u'nonprofit', 'JJ'), (u'organization', 'NN')]
+myvp: [['starting', 'check'], ['start', 'organization']]
+dobj:  learn ( more )
+dobj:  starting ( check )
+dobj:  start ( organization )
+label:    [0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', u'learn', '', '', u'starting', '', '', '', '', '', '', u'start', '', '', '', '']
+
+Sentence: 182
+tagged_sent: [(u'setting', 'VBG'), (u'up', 'RP'), (u'an', 'DT'), (u'online', 'JJ'), (u'merchant', 'NN'), (u'account', 'NN'), (u'a', 'DT'), (u'merchant', 'NN'), (u'account', 'NN'), (u'is', 'VBZ'), (u'a', 'DT'), (u'bank', 'NN'), (u'account', 'NN'), (u'that', 'WDT'), (u'allows', 'VBZ'), (u'you', 'PRP'), (u'to', 'TO'), (u'accept', 'VB'), (u'credit', 'NN'), (u'card', 'NN'), (u'payments', 'NNS')]
+myvp: [['accept', 'credit', 'card', 'payments']]
+dobj:  setting ( account )
+dobj:  allows ( you )
+dobj:  accept ( payments )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'setting', '', '', '', '', '', '', '', '', '', '', '', '', '', u'allows', '', '', u'accept', '', '', '']
+
+Sentence: 183
+tagged_sent: [(u'the', 'DT'), (u'bank', 'NN'), (u'has', 'VBZ'), (u'a', 'DT'), (u'processing', 'NN'), (u'relationship', 'NN'), (u'with', 'IN'), (u'the', 'DT'), (u'credit', 'NN'), (u'card', 'NN'), (u'companiesa', 'NN'), (u'nonprofit', 'JJ'), (u'organization', 'NN'), (u'can', 'MD'), (u'establish', 'VB'), (u'a', 'DT'), (u'merchant', 'NN'), (u'account', 'NN'), (u'with', 'IN'), (u'any', 'DT'), (u'bank', 'NN'), (u'or', 'CC'), (u'credit', 'NN'), (u'card', 'NN'), (u'company', 'NN')]
+myvp: [['establish', 'merchant', 'account']]
+dobj:  has ( relationship )
+dobj:  establish ( account )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'has', '', '', '', '', '', '', '', '', '', '', '', u'establish', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 184
+tagged_sent: [(u'merchant', 'NN'), (u'accounts', 'NNS'), (u'often', 'RB'), (u'have', 'VBP'), (u'various', 'JJ'), (u'fees', 'NNS'), (u'attached', 'VBN'), (u'to', 'TO'), (u'themchoose', 'VB'), (u'how', 'WRB'), (u'you', 'PRP'), (u'want', 'VBP'), (u'to', 'TO'), (u'accept', 'VB'), (u'payments', 'NNS')]
+myvp: [['have', 'fees'], ['accept', 'payments']]
+dobj:  have ( fees )
+dobj:  accept ( payments )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', u'have', '', '', '', '', '', '', '', '', '', u'accept', '']
+
+Sentence: 185
+tagged_sent: [(u'decide', 'NN'), (u'which', 'WDT'), (u'credit', 'NN'), (u'card', 'NN'), (u'brands', 'NNS'), (u'you', 'PRP'), (u'want', 'VBP'), (u'to', 'TO'), (u'be', 'VB'), (u'able', 'JJ'), (u'to', 'TO'), (u'accept', 'VB'), (u'such', 'JJ'), (u'as', 'IN'), (u'visa', 'JJ'), (u'mastercard', 'NN'), (u'and', 'CC'), (u'american', 'JJ'), (u'express', 'NN')]
+myvp: []
+dobj:  express ( which )
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'express']
+
+Sentence: 186
+tagged_sent: [(u'also', 'RB'), (u'you', 'PRP'), (u'may', 'MD'), (u'want', 'VB'), (u'to', 'TO'), (u'allow', 'VB'), (u'your', 'PRP$'), (u'donors', 'NNS'), (u'to', 'TO'), (u'submit', 'VB'), (u'debits', 'NNS'), (u'directly', 'RB'), (u'from', 'IN'), (u'their', 'PRP$'), (u'checking', 'NN'), (u'accounts', 'NNS')]
+myvp: [['allow', 'donors'], ['submit', 'debits']]
+dobj:  allow ( donors )
+dobj:  submit ( debits )
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'allow', '', '', '', u'submit', '', '', '', '', '', '']
+
+Sentence: 187
+tagged_sent: [(u'anticipate', 'VB'), (u'the', 'DT'), (u'volume', 'NN'), (u'of', 'IN'), (u'donations', 'NNS'), (u'you', 'PRP'), (u'expect', 'VBP'), (u'to', 'TO'), (u'received', 'VB'), (u'and', 'CC'), (u'whether', 'IN'), (u'or', 'CC'), (u'not', 'RB'), (u'you', 'PRP'), (u'will', 'MD'), (u'be', 'VB'), (u'processing', 'VBG'), (u'recurring', 'VBG'), (u'donations', 'NNS')]
+myvp: [['anticipate', 'volume'], ['recurring', 'donations']]
+dobj:  anticipate ( volume )
+dobj:  processing ( donations )
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'anticipate', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'processing', '', '']
+
+Sentence: 188
+tagged_sent: [(u'merchant', 'NN'), (u'account', 'NN'), (u'providers', 'NNS'), (u'charge', 'VBP'), (u'many', 'JJ'), (u'different', 'JJ'), (u'kinds', 'NNS'), (u'of', 'IN'), (u'feesthe', 'JJ'), (u'kinds', 'NNS'), (u'of', 'IN'), (u'fees', 'NNS'), (u'and', 'CC'), (u'the', 'DT'), (u'amounts', 'NNS'), (u'charged', 'VBD'), (u'vary', 'NN')]
+myvp: [['charged', 'vary']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'charged', '']
+
+Sentence: 189
+tagged_sent: [(u'compare', 'VB'), (u'different', 'JJ'), (u'financial', 'JJ'), (u'institutions', 'NNS'), (u'to', 'TO'), (u'find', 'VB'), (u'one', 'NN'), (u'with', 'IN'), (u'a', 'DT'), (u'fee', 'NN'), (u'structure', 'NN'), (u'that', 'IN'), (u'suits', 'NNS'), (u'your', 'PRP$'), (u'needs', 'NNS')]
+myvp: [['find', 'one']]
+dobj:  compare ( institutions )
+dobj:  find ( one )
+dobj:  suits ( needs )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'compare', '', '', '', '', u'find', '', '', '', '', '', '', u'suits', '', '']
+
+Sentence: 190
+tagged_sent: [(u'merchant', 'NN'), (u'accounts', 'NNS'), (u'charge', 'VBP'), (u'two', 'CD'), (u'types', 'NNS'), (u'transaction', 'NN'), (u'of', 'IN'), (u'feesthe', 'NN'), (u'first', 'RB'), (u'is', 'VBZ'), (u'a', 'DT'), (u'per-item', 'JJ'), (u'flat', 'JJ'), (u'rate', 'NN'), (u'that', 'IN'), (u'you', 'PRP'), (u'will', 'MD'), (u'be', 'VB'), (u'charged', 'VBN'), (u'for', 'IN'), (u'each', 'DT'), (u'credit', 'NN'), (u'card', 'NN'), (u'transaction', 'NN')]
+myvp: [['charge', 'types', 'transaction']]
+dobj:  charge ( types )
+nsubjpass:  charged ( you )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'charge', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'charged', '', '', '', '', '']
+
+Sentence: 191
+tagged_sent: [(u'the', 'DT'), (u'second', 'JJ'), (u'is', 'VBZ'), (u'a', 'DT'), (u'percentage', 'NN'), (u'fee', 'NN'), (u'which', 'WDT'), (u'charges', 'VBZ'), (u'you', 'PRP'), (u'a', 'DT'), (u'percentage', 'NN'), (u'of', 'IN'), (u'each', 'DT'), (u'transactionpercentage', 'NN'), (u'transaction', 'NN'), (u'fees', 'NNS'), (u'may', 'MD'), (u'be', 'VB'), (u'assessed', 'VBN'), (u'in', 'IN'), (u'a', 'DT'), (u'tiered', 'JJ'), (u'fashion', 'NN')]
+myvp: []
+nsubjpass:  assessed ( fees )
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'assessed', '', '', '', '']
+
+Sentence: 192
+tagged_sent: [(u'different', 'JJ'), (u'types', 'NNS'), (u'of', 'IN'), (u'transactions', 'NNS'), (u'are', 'VBP'), (u'classified', 'VBN'), (u'into', 'IN'), (u'specific', 'JJ'), (u'tiers', 'NNS'), (u'each', 'DT'), (u'with', 'IN'), (u'its', 'PRP$'), (u'own', 'JJ'), (u'rateother', 'NN'), (u'fees', 'NNS'), (u'associated', 'VBN'), (u'with', 'IN'), (u'a', 'DT'), (u'merchant', 'NN'), (u'account', 'NN'), (u'may', 'MD'), (u'include', 'VB'), (u'set', 'VB'), (u'up', 'RP'), (u'fees', 'NNS'), (u'address', 'IN'), (u'verification', 'NN'), (u'monthly', 'RB'), (u'and', 'CC'), (u'annual', 'JJ'), (u'maintenance', 'NN'), (u'fees', 'NNS'), (u'and', 'CC'), (u'gateway', 'JJ'), (u'access', 'NN'), (u'fees', 'NNS')]
+myvp: [['classified', 'tiers'], ['associated', 'merchant', 'account']]
+nsubjpass:  classified ( types )
+dobj:  set ( fees )
+dobj:  address ( monthly )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'classified', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'set', '', '', u'address', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 193
+tagged_sent: [(u'evaluate', 'JJ'), (u'merchant', 'NN'), (u'account', 'NN'), (u'providersin', 'NN'), (u'addition', 'NN'), (u'to', 'TO'), (u'considering', 'VBG'), (u'the', 'DT'), (u'fees', 'NNS'), (u'they', 'PRP'), (u'charge', 'VBP'), (u'evaluate', 'JJ'), (u'merchant', 'NN'), (u'account', 'NN'), (u'providers', 'NNS'), (u'based', 'VBN'), (u'on', 'IN'), (u'the', 'DT'), (u'services', 'NNS'), (u'they', 'PRP'), (u'provide', 'VBP')]
+myvp: [['considering', 'fees'], ['charge', 'merchant', 'account', 'providers'], ['based', 'services']]
+dobj:  evaluate ( addition )
+dobj:  considering ( fees )
+dobj:  evaluate ( providers )
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'evaluate', '', '', '', '', '', u'considering', '', '', '', '', u'evaluate', '', '', '', '', '', '', '', '', '']
+
+Sentence: 194
+tagged_sent: [(u'different', 'JJ'), (u'merchant', 'NN'), (u'account', 'NN'), (u'providers', 'NNS'), (u'have', 'VBP'), (u'different', 'JJ'), (u'software', 'NN'), (u'requirements', 'NNS'), (u'and', 'CC'), (u'customer', 'NN'), (u'support', 'NN'), (u'optionssome', 'NN'), (u'institutions', 'NNS'), (u'provide', 'VBP'), (u'you', 'PRP'), (u'with', 'IN'), (u'software', 'NN'), (u'and', 'CC'), (u'payment', 'NN'), (u'acceptance', 'NN'), (u'options', 'NNS'), (u'while', 'IN'), (u'others', 'NNS'), (u'require', 'VBP'), (u'you', 'PRP'), (u'to', 'TO'), (u'purchase', 'VB'), (u'these', 'DT'), (u'separately', 'RB'), (u'from', 'IN'), (u'a', 'DT'), (u'different', 'JJ'), (u'provider', 'NN')]
+myvp: [['have', 'software', 'requirements'], ['provide', 'you'], ['require', 'you']]
+dobj:  have ( requirements )
+dobj:  provide ( you )
+dobj:  require ( you )
+dobj:  purchase ( these )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'have', '', '', '', '', '', '', '', '', u'provide', '', '', '', '', '', '', '', '', '', u'require', '', '', u'purchase', '', '', '', '', '', '']
+
+Sentence: 195
+tagged_sent: [(u'find', 'VB'), (u'out', 'RP'), (u'how', 'WRB'), (u'easily', 'RB'), (u'you', 'PRP'), (u'can', 'MD'), (u'customize', 'VB'), (u'your', 'PRP$'), (u'website', 'JJ'), (u'invoices', 'NNS'), (u'payment', 'NN'), (u'forms', 'NNS'), (u'and', 'CC'), (u'payment', 'NN'), (u'communications', 'NNS')]
+myvp: []
+dobj:  customize ( forms )
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', u'customize', '', '', '', '', '', '', '', '']
+
+Sentence: 196
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'don\xa1\xaft', 'VBP'), (u'have', 'VBP'), (u'a', 'DT'), (u'lot', 'NN'), (u'of', 'IN'), (u'technical', 'JJ'), (u'expertise', 'NN'), (u'you', 'PRP'), (u'want', 'VBP'), (u'these', 'DT'), (u'processes', 'NNS'), (u'to', 'TO'), (u'be', 'VB'), (u'as', 'RB'), (u'automated', 'VBN'), (u'as', 'IN'), (u'possible', 'JJ')]
+myvp: [['have', 'lot'], ['want', 'processes']]
+dobj:  have ( lot )
+dobj:  want ( processes )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'have', '', '', '', '', '', '', u'want', '', '', '', '', '', '', '', '']
+
+Sentence: 197
+tagged_sent: [(u'choose', 'VB'), (u'a', 'DT'), (u'merchant', 'NN'), (u'account', 'NN'), (u'provider', 'NN'), (u'with', 'IN'), (u'a', 'DT'), (u'proven', 'JJ'), (u'reputation', 'NN'), (u'of', 'IN'), (u'secure', 'NN'), (u'transactions', 'NNS'), (u'that', 'WDT'), (u'protect', 'VBP'), (u'your', 'PRP$'), (u'donors\xa1\xaf', 'JJ'), (u'financial', 'JJ'), (u'information', 'NN')]
+myvp: [['choose', 'merchant', 'account', 'provider']]
+dobj:  choose ( provider )
+dobj:  protect ( donors )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'choose', '', '', '', '', '', '', '', '', '', '', '', '', u'protect', '', '', '', '']
+
+Sentence: 198
+tagged_sent: [(u'apply', 'NN'), (u'for', 'IN'), (u'the', 'DT'), (u'merchant', 'NN'), (u'accountonce', 'NN'), (u'you', 'PRP'), (u'have', 'VBP'), (u'chosen', 'VBN'), (u'a', 'DT'), (u'provider', 'NN'), (u'understand', 'NN'), (u'that', 'IN'), (u'they', 'PRP'), (u'may', 'MD'), (u'put', 'VB'), (u'you', 'PRP'), (u'through', 'IN'), (u'a', 'DT'), (u'rigorous', 'JJ'), (u'application', 'NN'), (u'process', 'NN'), (u'before', 'IN'), (u'allowing', 'VBG'), (u'you', 'PRP'), (u'to', 'TO'), (u'accept', 'VB'), (u'credit', 'NN'), (u'card', 'NN'), (u'payments', 'NNS')]
+myvp: [['chosen', 'provider', 'understand'], ['put', 'you'], ['allowing', 'you'], ['accept', 'credit', 'card', 'payments']]
+dobj:  put ( you )
+dobj:  allowing ( you )
+dobj:  accept ( payments )
+label:    [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'chosen', '', '', '', '', '', '', u'put', '', '', '', '', '', '', '', u'allowing', '', '', u'accept', '', '', '']
+
+Sentence: 199
+tagged_sent: [(u'expect', 'VB'), (u'to', 'TO'), (u'provide', 'VB'), (u'financial', 'JJ'), (u'records', 'NNS'), (u'and', 'CC'), (u'information', 'NN'), (u'about', 'IN'), (u'your', 'PRP$'), (u'business', 'NN'), (u'model', 'NN')]
+myvp: [['provide', 'records']]
+dobj:  provide ( records )
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'provide', '', '', '', '', '', '', '', '']
+
+Sentence: 200
+tagged_sent: [(u'in', 'IN'), (u'addition', 'NN'), (u'you', 'PRP'), (u'may', 'MD'), (u'be', 'VB'), (u'asked', 'VBN'), (u'for', 'IN'), (u'personal', 'JJ'), (u'financial', 'JJ'), (u'informationyou', 'NN'), (u'should', 'MD'), (u'also', 'RB'), (u'expect', 'VB'), (u'them', 'PRP'), (u'to', 'TO'), (u'run', 'VB'), (u'a', 'DT'), (u'credit', 'NN'), (u'check', 'NN'), (u'on', 'IN'), (u'you', 'PRP')]
+myvp: [['expect', 'them'], ['run', 'credit', 'check']]
+nsubjpass:  asked ( you )
+dobj:  expect ( them )
+dobj:  run ( check )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'asked', '', '', '', '', '', '', u'expect', '', '', u'run', '', '', '', '', '']
+
+Sentence: 201
+tagged_sent: [(u'understand', 'VB'), (u'the', 'DT'), (u'advantages', 'NNS'), (u'and', 'CC'), (u'disadvantages', 'NNS'), (u'of', 'IN'), (u'a', 'DT'), (u'merchant', 'NN'), (u'accountwith', 'VBZ'), (u'a', 'DT'), (u'merchant', 'NN'), (u'account', 'NN'), (u'the', 'DT'), (u'name', 'NN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'organization', 'NN'), (u'appears', 'VBZ'), (u'on', 'IN'), (u'all', 'DT'), (u'financial', 'JJ'), (u'transactions', 'NNS'), (u'so', 'IN'), (u'donors', 'NNS'), (u'see', 'VBP'), (u'your', 'PRP$'), (u'name', 'NN'), (u'on', 'IN'), (u'their', 'PRP$'), (u'credit', 'NN'), (u'card', 'NN'), (u'statements', 'NNS'), (u'which', 'WDT'), (u'is', 'VBZ'), (u'important', 'JJ'), (u'for', 'IN'), (u'branding', 'VBG')]
+myvp: [['understand', 'advantages'], ['see', 'name']]
+dobj:  understand ( advantages )
+dobj:  see ( name )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'understand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'see', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 202
+tagged_sent: [(u'also', 'RB'), (u'funds', 'NNS'), (u'arrive', 'VBP'), (u'in', 'IN'), (u'your', 'PRP$'), (u'account', 'NN'), (u'quicklybegin', 'NN'), (u'accepting', 'VBG'), (u'payments', 'NNS')]
+myvp: [['accepting', 'payments']]
+dobj:  accepting ( payments )
+label:    [0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'accepting', '']
+
+Sentence: 203
+tagged_sent: [(u'log', 'NN'), (u'in', 'IN'), (u'to', 'TO'), (u'your', 'PRP$'), (u'merchant', 'NN'), (u'account', 'NN'), (u'softwareenter', 'VB'), (u'your', 'PRP$'), (u'donor\xa1\xafs', 'JJ'), (u'payment', 'NN'), (u'information', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 204
+tagged_sent: [(u'click', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'collect', 'JJ'), (u'payment', 'NN'), (u'buttonthe', 'NN'), (u'credit', 'NN'), (u'card', 'NN'), (u'transaction', 'NN'), (u'will', 'MD'), (u'then', 'RB'), (u'be', 'VB'), (u'processed', 'VBN'), (u'and', 'CC'), (u'the', 'DT'), (u'funds', 'NNS'), (u'will', 'MD'), (u'be', 'VB'), (u'deposited', 'VBN'), (u'into', 'IN'), (u'your', 'PRP$'), (u'account', 'NN')]
+myvp: []
+nsubjpass:  processed ( transaction )
+nsubjpass:  deposited ( funds )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', u'processed', '', '', '', '', '', u'deposited', '', '', '']
+
+Sentence: 205
+tagged_sent: [(u'choosing', 'VBG'), (u'a', 'DT'), (u'third-party', 'JJ'), (u'processor', 'NN'), (u'if', 'IN'), (u'you', 'PRP'), (u'don\xa1\xaft', 'VBP'), (u'want', 'VBP'), (u'to', 'TO'), (u'deal', 'VB'), (u'with', 'IN'), (u'setting', 'VBG'), (u'up', 'RP'), (u'a', 'DT'), (u'merchant', 'NN'), (u'account', 'NN'), (u'a', 'DT'), (u'third-party', 'JJ'), (u'processor', 'NN'), (u'will', 'MD'), (u'use', 'VB'), (u'their', 'PRP$'), (u'merchant', 'NN'), (u'account', 'NN'), (u'to', 'TO'), (u'accept', 'VB'), (u'credit', 'NN'), (u'card', 'NN'), (u'donations', 'NNS'), (u'on', 'IN'), (u'your', 'PRP$'), (u'behalf', 'NN')]
+myvp: [['choosing', 'processor'], ['use', 'merchant', 'account'], ['accept', 'credit', 'card', 'donations']]
+dobj:  choosing ( processor )
+dobj:  don ( t )
+dobj:  setting ( account )
+dobj:  use ( account )
+dobj:  accept ( donations )
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'choosing', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 206
+tagged_sent: [(u'you', 'PRP'), (u'will', 'MD'), (u'be', 'VB'), (u'charged', 'VBN'), (u'a', 'DT'), (u'processing', 'VBG'), (u'fee', 'NN'), (u'by', 'IN'), (u'the', 'DT'), (u'third-party', 'NN'), (u'processoralso', 'NN'), (u'expect', 'VBP'), (u'delays', 'NNS'), (u'in', 'IN'), (u'transferring', 'VBG'), (u'the', 'DT'), (u'money', 'NN'), (u'to', 'TO'), (u'your', 'PRP$'), (u'account', 'NN')]
+myvp: [['processing', 'fee'], ['expect', 'delays'], ['transferring', 'money']]
+nsubjpass:  charged ( you )
+dobj:  charged ( fee )
+dobj:  expect ( delays )
+dobj:  transferring ( money )
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'charged', '', u'processing', '', '', '', '', '', u'expect', '', '', u'transferring', '', '', '', '', '']
+
+Sentence: 207
+tagged_sent: [(u'the', 'DT'), (u'fees', 'NNS'), (u'charged', 'VBN'), (u'by', 'IN'), (u'a', 'DT'), (u'third-party', 'JJ'), (u'processor', 'NN'), (u'are', 'VBP'), (u'typically', 'RB'), (u'a', 'DT'), (u'percentage', 'NN'), (u'of', 'IN'), (u'each', 'DT'), (u'transactionfind', 'NN'), (u'a', 'DT'), (u'third-party', 'JJ'), (u'processor', 'NN'), (u'that', 'WDT'), (u'specializes', 'VBZ'), (u'in', 'IN'), (u'working', 'VBG'), (u'with', 'IN'), (u'nonprofits', 'NNS')]
+myvp: [['charged', 'processor'], ['are', 'percentage'], ['working', 'nonprofits']]
+dobj:  transactionfind ( processor )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', u'charged', '', '', '', '', u'are', '', '', '', '', '', u'transactionfind', '', '', '', '', '', '', u'working', '', '']
+
+Sentence: 208
+tagged_sent: [(u'these', 'DT'), (u'companies', 'NNS'), (u'have', 'VBP'), (u'centralized', 'VBN'), (u'websites', 'NNS'), (u'to', 'TO'), (u'which', 'WDT'), (u'donors', 'NNS'), (u'are', 'VBP'), (u'referred', 'VBN')]
+myvp: [['have', 'websites']]
+dobj:  centralized ( websites )
+nsubjpass:  referred ( donors )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 1, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', u'have', u'centralized', '', '', '', '', '', u'referred']
+
+Sentence: 209
+tagged_sent: [(u'they', 'PRP'), (u'not', 'RB'), (u'only', 'RB'), (u'provide', 'VB'), (u'credit', 'NN'), (u'card', 'NN'), (u'processing', 'VBG'), (u'but', 'CC'), (u'they', 'PRP'), (u'also', 'RB'), (u'send', 'VBP'), (u'acknowledgement', 'JJ'), (u'notices', 'NNS'), (u'to', 'TO'), (u'donors', 'NNS')]
+myvp: [['provide', 'credit', 'card'], ['send', 'notices']]
+dobj:  provide ( processing )
+dobj:  send ( notices )
+label:    [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'provide', '', '', '', '', '', '', u'send', '', '', '', '']
+
+Sentence: 210
+tagged_sent: [(u'consider', 'VB'), (u'using', 'VBG'), (u'paypal', 'NN')]
+myvp: [['using', 'paypal']]
+dobj:  using ( paypal )
+label:    [1, 1, 0]
+temp_tag: [0, 1, 0]
+temp_tag_act: ['', u'using', '']
+
+Sentence: 211
+tagged_sent: [(u'paypal', 'NN'), (u'also', 'RB'), (u'offers', 'VBZ'), (u'opportunities', 'NNS'), (u'for', 'IN'), (u'nonprofits', 'NNS'), (u'to', 'TO'), (u'accept', 'VB'), (u'donations', 'NNS'), (u'online', 'VB')]
+myvp: [['accept', 'donations']]
+dobj:  offers ( opportunities )
+dobj:  accept ( donations )
+label:    [0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', u'offers', '', '', '', '', u'accept', '', '']
+
+Sentence: 212
+tagged_sent: [(u'they', 'PRP'), (u'have', 'VBP'), (u'a', 'DT'), (u'donate', 'NN'), (u'button', 'NN'), (u'that', 'IN'), (u'nonprofits', 'NNS'), (u'can', 'MD'), (u'easily', 'RB'), (u'integrate', 'VB'), (u'into', 'IN'), (u'their', 'PRP$'), (u'websites', 'NNS')]
+myvp: [['have', 'donate', 'button']]
+dobj:  have ( button )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'have', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 213
+tagged_sent: [(u'they', 'PRP'), (u'also', 'RB'), (u'offer', 'VBP'), (u'widgets', 'NNS'), (u'that', 'IN'), (u'organizations', 'NNS'), (u'can', 'MD'), (u'put', 'VB'), (u'on', 'IN'), (u'their', 'PRP$'), (u'social', 'JJ'), (u'networking', 'NN'), (u'sites', 'NNS'), (u'like', 'IN'), (u'facebook', 'NN'), (u'and', 'CC'), (u'twitter', 'NN')]
+myvp: [['offer', 'widgets']]
+dobj:  offer ( widgets )
+label:    [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'offer', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 214
+tagged_sent: [(u'they', 'PRP'), (u'offer', 'VBP'), (u'low', 'JJ'), (u'transaction', 'NN'), (u'fees', 'NNS'), (u'for', 'IN'), (u'nonprofits', 'NNS'), (u'and', 'CC'), (u'they', 'PRP'), (u'don\xa1\xaft', 'VBP'), (u'charge', 'VBP'), (u'any', 'DT'), (u'set', 'VB'), (u'up', 'RP'), (u'or', 'CC'), (u'recurring', 'VBG'), (u'monthly', 'JJ'), (u'fees', 'NNS')]
+myvp: [['offer', 'transaction', 'fees'], ['recurring', 'fees']]
+dobj:  don ( charge )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', u'offer', '', '', '', '', '', '', '', '', '', '', '', '', '', u'recurring', '', '']
+
+Sentence: 215
+tagged_sent: [(u'understand', 'VB'), (u'the', 'DT'), (u'advantages', 'NNS'), (u'and', 'CC'), (u'disadvantages', 'NNS'), (u'of', 'IN'), (u'a', 'DT'), (u'third-party', 'JJ'), (u'processorthird-party', 'JJ'), (u'processors', 'NNS'), (u'are', 'VBP'), (u'easy', 'JJ'), (u'to', 'TO'), (u'set', 'VB'), (u'up', 'RP'), (u'and', 'CC'), (u'manage', 'NN'), (u'and', 'CC'), (u'inexpensive', 'JJ'), (u'to', 'TO'), (u'maintain', 'VB')]
+myvp: [['understand', 'advantages']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'understand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 216
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'go', 'VBP'), (u'with', 'IN'), (u'a', 'DT'), (u'well-known', 'JJ'), (u'company', 'NN'), (u'you', 'PRP'), (u'can', 'MD'), (u'have', 'VB'), (u'confidence', 'NN'), (u'that', 'IN'), (u'your', 'PRP$'), (u'transactions', 'NNS'), (u'will', 'MD'), (u'be', 'VB'), (u'processed', 'VBN'), (u'quickly', 'RB'), (u'and', 'CC'), (u'accurately', 'RB')]
+myvp: [['go', 'company'], ['have', 'confidence']]
+dobj:  have ( confidence )
+nsubjpass:  processed ( transactions )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', u'go', '', '', '', '', '', '', u'have', '', '', '', '', '', '', u'processed', '', '', '']
+
+Sentence: 217
+tagged_sent: [(u'however', 'RB'), (u'your', 'PRP$'), (u'name', 'NN'), (u'does', 'VBZ'), (u'not', 'RB'), (u'appear', 'VB'), (u'on', 'IN'), (u'financial', 'JJ'), (u'transactions', 'NNS'), (u'on', 'IN'), (u'the', 'DT'), (u'donor\xa1\xafs', 'NN'), (u'credit', 'NN'), (u'card', 'NN'), (u'statementalso', 'NN'), (u'you', 'PRP'), (u'should', 'MD'), (u'expect', 'VB'), (u'a', 'DT'), (u'delay', 'NN'), (u'of', 'IN'), (u'a', 'DT'), (u'few', 'JJ'), (u'days', 'NNS'), (u'before', 'IN'), (u'funds', 'NNS'), (u'are', 'VBP'), (u'transferred', 'VBN'), (u'into', 'IN'), (u'your', 'PRP$'), (u'account', 'NN')]
+myvp: [['appear', 'transactions'], ['expect', 'delay']]
+dobj:  expect ( delay )
+nsubjpass:  transferred ( funds )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'appear', '', '', '', '', '', '', '', '', '', '', '', u'expect', '', '', '', '', '', '', '', '', '', u'transferred', '', '', '']
+
+Sentence: 218
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'solicit', 'VBP'), (u'donations', 'NNS'), (u'from', 'IN'), (u'residents', 'NNS'), (u'of', 'IN'), (u'a', 'DT'), (u'state', 'NN'), (u'you', 'PRP'), (u'will', 'MD'), (u'have', 'VB'), (u'to', 'TO'), (u'register', 'VB'), (u'your', 'PRP$'), (u'nonprofit', 'JJ'), (u'organization', 'NN'), (u'with', 'IN'), (u'that', 'DT'), (u'state', 'NN')]
+myvp: [['solicit', 'donations'], ['register', 'organization']]
+dobj:  solicit ( donations )
+dobj:  register ( organization )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'solicit', '', '', '', '', '', '', '', '', '', '', u'register', '', '', '', '', '', '']
+
+Sentence: 219
+tagged_sent: [(u'therefore', 'RB'), (u'you', 'PRP'), (u'may', 'MD'), (u'need', 'VB'), (u'to', 'TO'), (u'register', 'VB'), (u'your', 'PRP$'), (u'organization', 'NN'), (u'in', 'IN'), (u'more', 'JJR'), (u'than', 'IN'), (u'one', 'CD'), (u'state', 'NN')]
+myvp: [['register', 'organization']]
+dobj:  register ( organization )
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'register', '', '', '', '', '', '', '']
+
+Sentence: 220
+tagged_sent: [(u'states', 'NNS'), (u'may', 'MD'), (u'impose', 'VB'), (u'fines', 'NNS'), (u'or', 'CC'), (u'penalties', 'NNS'), (u'if', 'IN'), (u'you', 'PRP'), (u'fail', 'VBP'), (u'to', 'TO'), (u'register', 'VB')]
+myvp: [['impose', 'fines']]
+dobj:  impose ( fines )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'impose', '', '', '', '', '', '', '', '']
+
+Sentence: 221
+tagged_sent: [(u'also', 'RB'), (u'you', 'PRP'), (u'may', 'MD'), (u'have', 'VB'), (u'to', 'TO'), (u'cease', 'VB'), (u'activity', 'NN'), (u'in', 'IN'), (u'that', 'DT'), (u'state', 'NN'), (u'until', 'IN'), (u'you', 'PRP'), (u'register', 'VBP'), (u'there', 'EX')]
+myvp: [['cease', 'activity']]
+dobj:  cease ( activity )
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'cease', '', '', '', '', '', '', '', '']
+
+Sentence: 222
+tagged_sent: [(u'fill', 'VB'), (u'out', 'RP'), (u'an', 'DT'), (u'initial', 'JJ'), (u'registration', 'NN'), (u'applicationcontact', 'IN'), (u'the', 'DT'), (u'appropriate', 'JJ'), (u'state', 'NN'), (u'agency', 'NN'), (u'to', 'TO'), (u'file', 'VB'), (u'the', 'DT'), (u'registration', 'NN')]
+myvp: [['file', 'registration']]
+dobj:  fill ( applicationcontact )
+dobj:  file ( registration )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'fill', '', '', '', '', '', '', '', '', '', '', u'file', '', '']
+
+Sentence: 223
+tagged_sent: [(u'depending', 'VBG'), (u'on', 'IN'), (u'your', 'PRP$'), (u'organizations', 'NNS'), (u'size', 'NN'), (u'and', 'CC'), (u'type', 'NN'), (u'you', 'PRP'), (u'may', 'MD'), (u'be', 'VB'), (u'exempt', 'JJ'), (u'from', 'IN'), (u'having', 'VBG'), (u'to', 'TO'), (u'register', 'VB'), (u'with', 'IN'), (u'the', 'DT'), (u'state', 'NN')]
+myvp: [['register', 'state']]
+dobj:  depending ( size )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'depending', '', '', '', '', '', '', '', '', '', '', '', '', '', u'register', '', '', '']
+
+Sentence: 224
+tagged_sent: [(u'also', 'RB'), (u'the', 'DT'), (u'number', 'NN'), (u'of', 'IN'), (u'state', 'NN'), (u'residents', 'NNS'), (u'who', 'WP'), (u'donate', 'VBP'), (u'to', 'TO'), (u'your', 'PRP$'), (u'organization', 'NN'), (u'may', 'MD'), (u'exempt', 'VB'), (u'you', 'PRP'), (u'from', 'IN'), (u'registration', 'NN'), (u'requirements', 'NNS')]
+myvp: [['exempt', 'you']]
+dobj:  exempt ( you )
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', u'exempt', '', '', '', '']
+
+Sentence: 225
+tagged_sent: [(u'submit', 'NN'), (u'irs', 'NNS'), (u'form', 'VBP'), (u'990', 'CD')]
+myvp: []
+dobj:  submit ( form )
+label:    [1, 0, 1, 0]
+temp_tag: [1, 0, 0, 0]
+temp_tag_act: [u'submit', '', '', '']
+
+Sentence: 226
+tagged_sent: [(u'even', 'RB'), (u'though', 'IN'), (u'nonprofit', 'JJ'), (u'organizations', 'NNS'), (u'do', 'VBP'), (u'not', 'RB'), (u'file', 'VB'), (u'federal', 'JJ'), (u'income', 'NN'), (u'taxes', 'NNS'), (u'they', 'PRP'), (u'still', 'RB'), (u'need', 'VBP'), (u'to', 'TO'), (u'a', 'DT'), (u'federal', 'JJ'), (u'income', 'NN'), (u'tax', 'NN'), (u'return', 'NN'), (u'with', 'IN'), (u'the', 'DT'), (u'irs', 'NNS')]
+myvp: [['file', 'income', 'taxes']]
+dobj:  file ( taxes )
+label:    [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', u'file', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 227
+tagged_sent: [(u'irs', 'NNS'), (u'form', 'VBP'), (u'990', 'CD'), (u'allows', 'VBZ'), (u'the', 'DT'), (u'irs', 'NNS'), (u'and', 'CC'), (u'the', 'DT'), (u'public', 'NN'), (u'to', 'TO'), (u'evaluate', 'VB'), (u'how', 'WRB'), (u'your', 'PRP$'), (u'organization', 'NN'), (u'operates', 'NNS')]
+myvp: []
+dobj:  allows ( irs )
+label:    [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'allows', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 228
+tagged_sent: [(u'it', 'PRP'), (u'provides', 'VBZ'), (u'information', 'NN'), (u'about', 'IN'), (u'the', 'DT'), (u'organizations', 'NNS'), (u'mission', 'NN'), (u'programs', 'NNS'), (u'and', 'CC'), (u'financesit', 'NN'), (u'also', 'RB'), (u'discloses', 'VBZ'), (u'potential', 'JJ'), (u'conflicts', 'NNS'), (u'of', 'IN'), (u'interest', 'NN'), (u'and', 'CC'), (u'compensation', 'NN'), (u'of', 'IN'), (u'board', 'NN'), (u'members', 'NNS')]
+myvp: []
+dobj:  provides ( information )
+dobj:  discloses ( conflicts )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'provides', '', '', '', '', '', '', '', '', '', u'discloses', '', '', '', '', '', '', '', '', '']
+
+Sentence: 229
+tagged_sent: [(u'irs', 'NNS'), (u'form', 'NN'), (u'990', 'CD'), (u'also', 'RB'), (u'requires', 'VBZ'), (u'nonprofits', 'NNS'), (u'to', 'TO'), (u'include', 'VB'), (u'information', 'NN'), (u'about', 'IN'), (u'their', 'PRP$'), (u'registration', 'NN'), (u'with', 'IN'), (u'the', 'DT'), (u'state', 'NN')]
+myvp: [['include', 'information']]
+dobj:  requires ( nonprofits )
+dobj:  include ( information )
+label:    [0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'requires', '', '', u'include', '', '', '', '', '', '', '']
+
+Sentence: 230
+tagged_sent: [(u'you', 'PRP'), (u'should', 'MD'), (u'provide', 'VB'), (u'donors', 'NNS'), (u'with', 'IN'), (u'a', 'DT'), (u'written', 'VBN'), (u'communication', 'NN'), (u'or', 'CC'), (u'acknowledgement', 'NN'), (u'of', 'IN'), (u'donation', 'NN'), (u'if', 'IN'), (u'they', 'PRP'), (u'wish', 'VBP'), (u'to', 'TO'), (u'claim', 'VB'), (u'a', 'DT'), (u'charitable', 'JJ'), (u'donation', 'NN'), (u'on', 'IN'), (u'their', 'PRP$'), (u'tax', 'NN'), (u'return', 'NN')]
+myvp: [['provide', 'donors'], ['written', 'communication'], ['claim', 'donation']]
+dobj:  provide ( donors )
+dobj:  claim ( donation )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'provide', '', '', '', '', '', '', '', '', '', '', '', '', '', u'claim', '', '', '', '', '', '', '']
+
+Sentence: 231
+tagged_sent: [(u'setting', 'VBG'), (u'up', 'RP'), (u'your', 'PRP$'), (u'website', 'JJ'), (u'jakob', 'NN'), (u'nielsen', 'IN'), (u'a', 'DT'), (u'webpage', 'NN'), (u'design', 'NN'), (u'expert', 'NN'), (u'researched', 'VBD'), (u'the', 'DT'), (u'efficacy', 'NN'), (u'of', 'IN'), (u'website', 'JJ'), (u'design', 'NN'), (u'in', 'IN'), (u'getting', 'VBG'), (u'donors', 'NNS'), (u'to', 'TO'), (u'submit', 'VB'), (u'donations', 'NNS'), (u'to', 'TO'), (u'different', 'JJ'), (u'charities', 'NNS'), (u'online', 'VBP')]
+myvp: [['researched', 'efficacy'], ['getting', 'donors'], ['submit', 'donations']]
+dobj:  setting ( jakob )
+dobj:  researched ( efficacy )
+dobj:  getting ( donors )
+dobj:  submit ( donations )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'setting', '', '', '', '', '', '', '', '', '', u'researched', '', '', '', '', '', '', u'getting', '', '', u'submit', '', '', '', '', '']
+
+Sentence: 232
+tagged_sent: [(u'donors', 'NNS'), (u'not', 'RB'), (u'only', 'RB'), (u'expect', 'VB'), (u'a', 'DT'), (u'user-friendly', 'JJ'), (u'experience', 'NN'), (u'but', 'CC'), (u'they', 'PRP'), (u'also', 'RB'), (u'want', 'VBP'), (u'information', 'NN'), (u'about', 'IN'), (u'the', 'DT'), (u'organizations', 'NNS'), (u'mission', 'NN'), (u'and', 'CC'), (u'how', 'WRB'), (u'the', 'DT'), (u'funds', 'NNS'), (u'will', 'MD'), (u'be', 'VB'), (u'used', 'VBN')]
+myvp: [['expect', 'experience'], ['want', 'information']]
+dobj:  expect ( experience )
+dobj:  want ( information )
+nsubjpass:  used ( funds )
+label:    [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', u'expect', '', '', '', '', '', '', u'want', '', '', '', '', '', '', '', '', '', '', '', u'used']
+
+Sentence: 233
+tagged_sent: [(u'include', 'VB'), (u'information', 'NN'), (u'about', 'IN'), (u'your', 'PRP$'), (u'missionbefore', 'NN'), (u'donors', 'NNS'), (u'commit', 'VBP'), (u'to', 'TO'), (u'submitting', 'VBG'), (u'a', 'DT'), (u'donation', 'NN'), (u'they', 'PRP'), (u'want', 'VBP'), (u'to', 'TO'), (u'see', 'VB'), (u'information', 'NN'), (u'about', 'IN'), (u'your', 'PRP$'), (u'goals', 'NNS'), (u'and', 'CC'), (u'work', 'NN')]
+myvp: [['include', 'information'], ['submitting', 'donation'], ['see', 'information']]
+dobj:  submitting ( donation )
+dobj:  see ( information )
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'include', '', '', '', '', '', '', '', u'submitting', '', '', '', '', '', u'see', '', '', '', '', '', '']
+
+Sentence: 234
+tagged_sent: [(u'write', 'VB'), (u'a', 'DT'), (u'mission', 'NN'), (u'statement', 'NN'), (u'and', 'CC'), (u'display', 'VB'), (u'it', 'PRP'), (u'prominently', 'RB'), (u'on', 'IN'), (u'the', 'DT'), (u'homepage', 'NN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'website', 'NN')]
+myvp: [['write', 'mission', 'statement'], ['display', 'it']]
+dobj:  write ( statement )
+dobj:  display ( it )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'write', '', '', '', '', u'display', '', '', '', '', '', '', '', '']
+
+Sentence: 235
+tagged_sent: [(u'donors', 'NNS'), (u'want', 'VBP'), (u'to', 'TO'), (u'give', 'VB'), (u'to', 'TO'), (u'organizations', 'NNS'), (u'that', 'WDT'), (u'share', 'NN'), (u'their', 'PRP$'), (u'ideals', 'NNS'), (u'and', 'CC'), (u'values', 'NNS')]
+myvp: []
+dobj:  give ( ideals )
+label:    [0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'give', '', '', '', '', '', '', '', '']
+
+Sentence: 236
+tagged_sent: [(u'but', 'CC'), (u'they', 'PRP'), (u'also', 'RB'), (u'want', 'VBP'), (u'to', 'TO'), (u'know', 'VB'), (u'how', 'WRB'), (u'you', 'PRP'), (u'plan', 'VBP'), (u'to', 'TO'), (u'achieve', 'VB'), (u'your', 'PRP$'), (u'goals', 'NNS')]
+myvp: [['achieve', 'goals']]
+dobj:  achieve ( goals )
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', u'achieve', '', '']
+
+Sentence: 237
+tagged_sent: [(u'provide', 'VB'), (u'details', 'NNS'), (u'about', 'IN'), (u'how', 'WRB'), (u'you', 'PRP'), (u'use', 'VBP'), (u'donations', 'NNS')]
+myvp: [['provide', 'details'], ['use', 'donations']]
+dobj:  provide ( details )
+dobj:  use ( donations )
+label:    [1, 0, 0, 0, 0, 1, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: [u'provide', '', '', '', '', u'use', '']
+
+Sentence: 238
+tagged_sent: [(u'list', 'NN'), (u'any', 'DT'), (u'pertinent', 'NN'), (u'details', 'NNS'), (u'about', 'IN'), (u'how', 'WRB'), (u'the', 'DT'), (u'funds', 'NNS'), (u'you', 'PRP'), (u'receive', 'VBP'), (u'are', 'VBP'), (u'to', 'TO'), (u'be', 'VB'), (u'used', 'VBN'), (u'to', 'TO'), (u'accomplish', 'VB'), (u'your', 'PRP$'), (u'goals', 'NNS')]
+myvp: [['accomplish', 'goals']]
+dobj:  list ( details )
+dobj:  accomplish ( goals )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'list', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'accomplish', '', '']
+
+Sentence: 239
+tagged_sent: [(u'donors', 'NNS'), (u'want', 'VBP'), (u'reassurance', 'NN'), (u'that', 'IN'), (u'their', 'PRP$'), (u'money', 'NN'), (u'is', 'VBZ'), (u'going', 'VBG'), (u'to', 'TO'), (u'the', 'DT'), (u'cause', 'NN'), (u'they', 'PRP'), (u'want', 'VBP'), (u'to', 'TO'), (u'support', 'VB')]
+myvp: [['want', 'reassurance']]
+dobj:  want ( reassurance )
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', u'want', '', '', '', '', '', '', '', '', '', '', u'want', '', '']
+
+Sentence: 240
+tagged_sent: [(u'they', 'PRP'), (u'are', 'VBP'), (u'more', 'RBR'), (u'likely', 'JJ'), (u'to', 'TO'), (u'donate', 'VB'), (u'if', 'IN'), (u'they', 'PRP'), (u'know', 'VBP'), (u'your', 'PRP$'), (u'organization', 'NN'), (u'is', 'VBZ'), (u'trustworthy', 'JJ')]
+myvp: [['know', 'organization']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', u'know', '', '', '', '']
+
+Sentence: 241
+tagged_sent: [(u'make', 'VB'), (u'your', 'PRP$'), (u'site', 'NN'), (u'user-friendlymake', 'JJ'), (u'sure', 'JJ'), (u'all', 'DT'), (u'of', 'IN'), (u'your', 'PRP$'), (u'content', 'NN'), (u'is', 'VBZ'), (u'clearly', 'RB'), (u'written', 'VBN'), (u'and', 'CC'), (u'doesn\xa1\xaft', 'JJ'), (u'include', 'VBP'), (u'confusing', 'VBG'), (u'terms', 'NNS'), (u'or', 'CC'), (u'have', 'VBP'), (u'missing', 'VBG'), (u'information', 'NN')]
+myvp: [['make', 'site'], ['confusing', 'terms'], ['missing', 'information']]
+dobj:  make ( site )
+nsubjpass:  written ( all )
+dobj:  include ( terms )
+dobj:  missing ( information )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: [u'make', '', '', '', '', '', '', '', '', '', '', u'written', '', '', u'include', '', '', '', '', u'missing', '']
+
+Sentence: 242
+tagged_sent: [(u'donors', 'NNS'), (u'want', 'VBP'), (u'to', 'TO'), (u'be', 'VB'), (u'able', 'JJ'), (u'to', 'TO'), (u'have', 'VB'), (u'all', 'DT'), (u'of', 'IN'), (u'their', 'PRP$'), (u'questions', 'NNS'), (u'answered', 'VBN'), (u'before', 'IN'), (u'donating', 'VBG')]
+myvp: []
+dobj:  have ( all )
+label:    [0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', u'have', '', '', '', '', '', '', '']
+
+Sentence: 243
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'are', 'VBP'), (u'part', 'NN'), (u'of', 'IN'), (u'a', 'DT'), (u'larger', 'JJR'), (u'parent', 'NN'), (u'site', 'NN'), (u'make', 'VBP'), (u'your', 'PRP$'), (u'site', 'NN'), (u'look', 'NN'), (u'and', 'CC'), (u'operate', 'VB'), (u'similarly', 'RB'), (u'to', 'TO'), (u'the', 'DT'), (u'parent', 'NN'), (u'site', 'NN')]
+myvp: [['are', 'part'], ['make', 'site', 'look']]
+dobj:  make ( look )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'are', '', '', '', '', '', '', u'make', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 244
+tagged_sent: [(u'also', 'RB'), (u'make', 'VBP'), (u'it', 'PRP'), (u'easy', 'JJ'), (u'for', 'IN'), (u'donors', 'NNS'), (u'to', 'TO'), (u'find', 'VB'), (u'the', 'DT'), (u'donate', 'NN'), (u'buttonthe', 'NN'), (u'fifth', 'JJ'), (u'taste', 'NN'), (u'called', 'VBN'), (u'umami', 'NN'), (u'or', 'CC'), (u'savory', 'NN'), (u'flavor', 'NN'), (u'has', 'VBZ'), (u'been', 'VBN'), (u'used', 'VBN'), (u'by', 'IN'), (u'japanese', 'JJ'), (u'cooks', 'NNS'), (u'for', 'IN'), (u'about', 'IN'), (u'1200', 'CD'), (u'years', 'NNS')]
+myvp: [['make', 'it'], ['find', 'donate', 'buttonthe'], ['called', 'umami'], ['used', 'cooks']]
+dobj:  find ( taste )
+nsubjpass:  used ( umami )
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'make', '', '', '', '', '', u'find', '', '', '', '', '', '', '', '', '', '', '', '', u'used', '', '', '', '', '', '', '']
+
+Sentence: 245
+tagged_sent: [(u'the', 'DT'), (u'fifth', 'JJ'), (u'taste', 'NN'), (u'is', 'VBZ'), (u'hard', 'JJ'), (u'to', 'TO'), (u'describe', 'VB'), (u'yet', 'RB'), (u'unlike', 'IN'), (u'salty', 'NN'), (u'sour', 'JJ'), (u'sweet', 'NN'), (u'or', 'CC'), (u'bitterwhile', 'VB'), (u'the', 'DT'), (u'word', 'NN'), (u'umami', 'NN'), (u'is', 'VBZ'), (u'used', 'VBN'), (u'to', 'TO'), (u'describe', 'VB'), (u'this', 'DT'), (u'taste', 'NN'), (u'in', 'IN'), (u'most', 'JJS'), (u'languages', 'NNS'), (u'it', 'PRP'), (u'has', 'VBZ'), (u'also', 'RB'), (u'been', 'VBN'), (u'described', 'VBN'), (u'as', 'IN'), (u'meaty', 'NN'), (u'roasted', 'VBN'), (u'earthy', 'JJ'), (u'or', 'CC'), (u'simply', 'RB'), (u'delicious', 'JJ'), (u'by', 'IN'), (u'chinese', 'JJ'), (u'cooks', 'NNS')]
+myvp: [['bitterwhile', 'word'], ['describe', 'taste'], ['described', 'meaty']]
+nsubjpass:  used ( umami )
+dobj:  describe ( taste )
+nsubjpass:  described ( it )
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', u'bitterwhile', '', '', '', '', u'used', '', u'describe', '', '', '', '', '', '', '', '', '', u'described', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 246
+tagged_sent: [(u'the', 'DT'), (u'taste', 'NN'), (u'is', 'VBZ'), (u'created', 'VBN'), (u'in', 'IN'), (u'foods', 'NNS'), (u'that', 'WDT'), (u'combine', 'VBP'), (u'glutamates', 'NNS'), (u'and', 'CC'), (u'nucleotidessince', 'NN'), (u'it', 'PRP'), (u'has', 'VBZ'), (u'been', 'VBN'), (u'newly', 'RB'), (u'introduced', 'VBN'), (u'as', 'IN'), (u'a', 'DT'), (u'concept', 'NN'), (u'in', 'IN'), (u'western', 'JJ'), (u'recipes', 'NNS'), (u'you', 'PRP'), (u'may', 'MD'), (u'wonder', 'VB'), (u'how', 'WRB'), (u'to', 'TO'), (u'incorporate', 'VB'), (u'it', 'PRP'), (u'into', 'IN'), (u'your', 'PRP$'), (u'cooking', 'NN')]
+myvp: [['combine', 'glutamates'], ['introduced', 'concept'], ['incorporate', 'it']]
+nsubjpass:  created ( taste )
+dobj:  combine ( glutamates )
+nsubjpass:  introduced ( it )
+dobj:  incorporate ( it )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'created', '', '', '', u'combine', '', '', '', '', '', '', '', u'introduced', '', '', '', '', '', '', '', '', '', '', '', u'incorporate', '', '', '', '']
+
+Sentence: 247
+tagged_sent: [(u'it', 'PRP'), (u'is', 'VBZ'), (u'already', 'RB'), (u'surprisingly', 'RB'), (u'common', 'JJ'), (u'in', 'IN'), (u'many', 'JJ'), (u'of', 'IN'), (u'the', 'DT'), (u'ingredients', 'NNS'), (u'we', 'PRP'), (u'use', 'VBP'), (u'in', 'IN'), (u'pasta', 'NN'), (u'salad', 'NN'), (u'and', 'CC'), (u'saucethere', 'NN'), (u'are', 'VBP'), (u'also', 'RB'), (u'many', 'JJ'), (u'new', 'JJ'), (u'ways', 'NNS'), (u'to', 'TO'), (u'create', 'VB'), (u'this', 'DT'), (u'flavor', 'NN'), (u'through', 'IN'), (u'fermented', 'VBN'), (u'fish', 'NN'), (u'and', 'CC'), (u'meat', 'NN'), (u'and', 'CC'), (u'vegetable', 'JJ'), (u'extracts', 'NNS')]
+myvp: [['use', 'pasta', 'salad'], ['create', 'flavor'], ['fermented', 'fish']]
+dobj:  create ( flavor )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', u'use', '', '', '', '', '', '', '', '', '', '', '', u'create', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 248
+tagged_sent: [(u'modern', 'JJ'), (u'western', 'JJ'), (u'cooks', 'NNS'), (u'are', 'VBP'), (u'just', 'RB'), (u'starting', 'VBG'), (u'to', 'TO'), (u'understand', 'VB'), (u'and', 'CC'), (u'use', 'VB'), (u'umami', 'JJ'), (u'paste', 'NN'), (u'and', 'CC'), (u'umami', 'JJ'), (u'flavors', 'NNS'), (u'in', 'IN'), (u'their', 'PRP$'), (u'dishes', 'NNS')]
+myvp: [['use', 'paste']]
+dobj:  understand ( paste )
+label:    [0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'understand', '', u'use', '', '', '', '', '', '', '', '']
+
+Sentence: 249
+tagged_sent: [(u'this', 'DT'), (u'article', 'NN'), (u'will', 'MD'), (u'help', 'VB'), (u'you', 'PRP'), (u'to', 'TO'), (u'add', 'VB'), (u'umami', 'JJ'), (u'to', 'TO'), (u'your', 'PRP$'), (u'cooking', 'NN')]
+myvp: [['help', 'you']]
+dobj:  help ( you )
+dobj:  add ( umami )
+label:    [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'help', '', '', u'add', '', '', '', '']
+
+Sentence: 250
+tagged_sent: [(u'it', 'PRP'), (u'will', 'MD'), (u'add', 'VB'), (u'a', 'DT'), (u'balanced', 'JJ'), (u'savory', 'NN'), (u'flavor', 'NN'), (u'to', 'TO'), (u'bitter', 'VB'), (u'or', 'CC'), (u'sweet', 'VB'), (u'pasta', 'JJ'), (u'dishesuse', 'NN'), (u'anchovies', 'NNS'), (u'to', 'TO'), (u'add', 'VB'), (u'the', 'DT'), (u'umami', 'JJ'), (u'taste', 'NN'), (u'to', 'TO'), (u'a', 'DT'), (u'variety', 'NN'), (u'of', 'IN'), (u'dishes', 'NNS')]
+myvp: [['add', 'savory', 'flavor'], ['sweet', 'dishesuse', 'anchovies'], ['add', 'taste']]
+dobj:  add ( flavor )
+dobj:  add ( taste )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'add', '', '', '', '', '', '', '', '', '', '', '', '', u'add', '', '', '', '', '', '', '', '']
+
+Sentence: 251
+tagged_sent: [(u'for', 'IN'), (u'example', 'NN'), (u'the', 'DT'), (u'classic', 'JJ'), (u'caesar', 'NN'), (u'salad', 'NN'), (u'places', 'NNS'), (u'dried', 'VBD'), (u'anchovies', 'NNS'), (u'on', 'IN'), (u'top', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'salad', 'NN'), (u'leaves', 'VBZ'), (u'croutons', 'NNS'), (u'and', 'CC'), (u'dressing', 'VBG'), (u'to', 'TO'), (u'impart', 'VB'), (u'extra', 'JJ'), (u'flavor', 'NN')]
+myvp: [['dried', 'anchovies'], ['impart', 'flavor']]
+dobj:  leaves ( croutons )
+dobj:  impart ( flavor )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'dried', '', '', '', '', '', '', u'leaves', '', '', '', '', u'impart', '', '']
+
+Sentence: 252
+tagged_sent: [(u'you', 'PRP'), (u'can', 'MD'), (u'also', 'RB'), (u'make', 'VB'), (u'or', 'CC'), (u'buy', 'VB'), (u'umami', 'JJ'), (u'butter', 'NN'), (u'to', 'TO'), (u'place', 'VB'), (u'on', 'IN'), (u'top', 'NN'), (u'of', 'IN'), (u'beef', 'NN'), (u'steak', 'NN'), (u'poultry', 'NN'), (u'or', 'CC'), (u'fish', 'NN')]
+myvp: [['buy', 'butter'], ['place', 'top']]
+dobj:  make ( butter )
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'make', '', u'buy', '', '', '', u'place', '', '', '', '', '', '', '', '']
+
+Sentence: 253
+tagged_sent: [(u'it', 'PRP'), (u'can', 'MD'), (u'be', 'VB'), (u'created', 'VBN'), (u'by', 'IN'), (u'combining', 'VBG'), (u'anchovy', 'JJ'), (u'paste', 'NN'), (u'with', 'IN'), (u'butter', 'NN')]
+myvp: [['combining', 'paste']]
+nsubjpass:  created ( it )
+dobj:  combining ( paste )
+label:    [0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'created', '', u'combining', '', '', '', '']
+
+Sentence: 254
+tagged_sent: [(u'you', 'PRP'), (u'can', 'MD'), (u'enhance', 'VB'), (u'pasta', 'NN'), (u'sauces', 'NNS'), (u'by', 'IN'), (u'adding', 'VBG'), (u'anchovy', 'JJ'), (u'paste', 'NN'), (u'to', 'TO'), (u'tomato', 'VB'), (u'paste', 'NN'), (u'when', 'WRB'), (u'producing', 'VBG'), (u'your', 'PRP$'), (u'homemade', 'NN'), (u'pasta', 'NN'), (u'sauce', 'NN')]
+myvp: [['enhance', 'pasta', 'sauces'], ['adding', 'paste'], ['tomato', 'paste'], ['producing', 'homemade', 'pasta', 'sauce']]
+dobj:  enhance ( sauces )
+dobj:  producing ( sauce )
+label:    [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'enhance', '', '', '', '', '', '', '', '', '', '', u'producing', '', '', '', '']
+
+Sentence: 255
+tagged_sent: [(u'the', 'DT'), (u'salt', 'NN'), (u'and', 'CC'), (u'oil', 'NN'), (u'inside', 'IN'), (u'the', 'DT'), (u'anchovy', 'NN'), (u'will', 'MD'), (u'boost', 'VB'), (u'the', 'DT'), (u'vegetable', 'JJ'), (u'and', 'CC'), (u'fruit', 'JJ'), (u'flavors', 'NNS'), (u'in', 'IN'), (u'the', 'DT'), (u'sauce113', 'JJ'), (u'g', 'NN'), (u'of', 'IN'), (u'tomatoes', 'NNS'), (u'also', 'RB'), (u'contain', 'VBP'), (u'00007', 'CD'), (u'oz', 'NN')]
+myvp: []
+dobj:  boost ( flavors )
+dobj:  contain ( oz )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', u'boost', '', '', '', '', '', '', '', '', '', '', '', '', u'contain', '', '']
+
+Sentence: 256
+tagged_sent: [(u'this', 'DT'), (u'is', 'VBZ'), (u'most', 'RBS'), (u'easily', 'RB'), (u'released', 'VBN'), (u'by', 'IN'), (u'the', 'DT'), (u'addition', 'NN'), (u'of', 'IN'), (u'alcohol', 'NN'), (u'to', 'TO'), (u'the', 'DT'), (u'tomatoestraditionally', 'RB'), (u'wine', 'NN'), (u'is', 'VBZ'), (u'added', 'VBN'), (u'to', 'TO'), (u'a', 'DT'), (u'tomato', 'NN'), (u'sauce', 'NN'), (u'to', 'TO'), (u'release', 'VB'), (u'the', 'DT'), (u'umami', 'JJ'), (u'flavor', 'NN'), (u'however', 'RB'), (u'it', 'PRP'), (u'can', 'MD'), (u'be', 'VB'), (u'done', 'VBN'), (u'more', 'RBR'), (u'efficiently', 'RB'), (u'and', 'CC'), (u'effectively', 'RB'), (u'with', 'IN'), (u'the', 'DT'), (u'addition', 'NN'), (u'of', 'IN'), (u'vodka', 'NN')]
+myvp: [['released', 'addition'], ['release', 'flavor']]
+nsubjpass:  released ( this )
+dobj:  release ( flavor )
+nsubjpass:  done ( it )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'released', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'release', '', '', '', '', '', '', '', u'done', '', '', '', '', '', '', '', '', '']
+
+Sentence: 257
+tagged_sent: [(u'add', 'VB'), (u'soy', 'JJ'), (u'sauce', 'NNS'), (u'fish', 'JJ'), (u'sauce', 'NN'), (u'or', 'CC'), (u'seaweed', 'VB'), (u'flakes', 'NNS'), (u'to', 'TO'), (u'asian', 'JJ'), (u'recipes', 'NNS'), (u'to', 'TO'), (u'activate', 'VB'), (u'the', 'DT'), (u'umami', 'JJ'), (u'taste', 'NN')]
+myvp: [['add', 'sauce'], ['seaweed', 'flakes'], ['activate', 'taste']]
+dobj:  add ( sauce )
+dobj:  asian ( recipes )
+dobj:  activate ( taste )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'add', '', '', '', '', '', '', '', '', u'asian', '', '', u'activate', '', '', '']
+
+Sentence: 258
+tagged_sent: [(u'they', 'PRP'), (u'can', 'MD'), (u'be', 'VB'), (u'added', 'VBN'), (u'during', 'IN'), (u'cooking', 'NN'), (u'or', 'CC'), (u'just', 'RB'), (u'aftercreate', 'VB'), (u'the', 'DT'), (u'umami', 'JJ'), (u'taste', 'NN'), (u'from', 'IN'), (u'making', 'VBG'), (u'miso', 'NNS'), (u'soup', 'NN')]
+myvp: [['aftercreate', 'taste'], ['making', 'miso', 'soup']]
+nsubjpass:  added ( they )
+dobj:  aftercreate ( taste )
+dobj:  making ( soup )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', u'added', '', '', '', '', u'aftercreate', '', '', '', '', u'making', '', '']
+
+Sentence: 259
+tagged_sent: [(u'miso', 'NN'), (u'soup', 'NN'), (u'is', 'VBZ'), (u'made', 'VBN'), (u'with', 'IN'), (u'dashi', 'JJ'), (u'broth', 'NNS'), (u'created', 'VBN'), (u'by', 'IN'), (u'heating', 'VBG'), (u'water', 'NN'), (u'and', 'CC'), (u'adding', 'VBG'), (u'edible', 'JJ'), (u'kelp', 'NN'), (u'and', 'CC'), (u'shavings', 'NNS'), (u'of', 'IN'), (u'fermented', 'JJ'), (u'tuna', 'NN')]
+myvp: [['heating', 'water'], ['adding', 'kelp']]
+nsubjpass:  made ( soup )
+dobj:  heating ( water )
+dobj:  adding ( kelp )
+label:    [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'made', '', '', '', '', '', u'heating', '', '', u'adding', '', '', '', '', '', '', '']
+
+Sentence: 260
+tagged_sent: [(u'you', 'PRP'), (u'can', 'MD'), (u'buy', 'VB'), (u'miso', 'JJ'), (u'soup', 'NN'), (u'mix', 'NN'), (u'in', 'IN'), (u'stores', 'NNS'), (u'as', 'IN'), (u'the', 'DT'), (u'original', 'JJ'), (u'ingredients', 'NNS'), (u'are', 'VBP'), (u'hard', 'JJ'), (u'to', 'TO'), (u'find', 'VB'), (u'in', 'IN'), (u'western', 'JJ'), (u'markets', 'NNS')]
+myvp: [['buy', 'soup', 'mix'], ['find', 'markets']]
+dobj:  buy ( mix )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'buy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 261
+tagged_sent: [(u'add', 'RB'), (u'cured', 'VBN'), (u'ham', 'NN'), (u'or', 'CC'), (u'bacon', 'NN'), (u'to', 'TO'), (u'any', 'DT'), (u'dish', 'JJ'), (u'to', 'TO'), (u'activate', 'VB'), (u'the', 'DT'), (u'umami', 'JJ'), (u'flavor', 'NN')]
+myvp: [['cured', 'ham'], ['activate', 'flavor']]
+dobj:  add ( ham )
+dobj:  activate ( flavor )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'add', u'cured', '', '', '', '', '', '', '', u'activate', '', '', '']
+
+Sentence: 262
+tagged_sent: [(u'the', 'DT'), (u'salt-curing', 'JJ'), (u'process', 'NN'), (u'creates', 'VBZ'), (u'a', 'DT'), (u'savory', 'JJ'), (u'flavor', 'NN'), (u'that', 'IN'), (u'pairs', 'VBZ'), (u'well', 'RB'), (u'with', 'IN'), (u'eggs', 'NNS'), (u'pastas', 'NNS'), (u'sandwiches', 'NNS'), (u'and', 'CC'), (u'many', 'JJ'), (u'other', 'JJ'), (u'kinds', 'NNS'), (u'of', 'IN'), (u'recipesgreen', 'JJ'), (u'peas', 'NNS'), (u'contain', 'VBP'), (u'a', 'DT'), (u'high', 'JJ'), (u'amount', 'NN'), (u'of', 'IN'), (u'glutamate', 'NN'), (u'and', 'CC'), (u'they', 'PRP'), (u'can', 'MD'), (u'be', 'VB'), (u'added', 'VBN'), (u'as', 'IN'), (u'a', 'DT'), (u'side', 'NN'), (u'dish', 'NN'), (u'or', 'CC'), (u'in', 'IN'), (u'a', 'DT'), (u'casserole', 'NN'), (u'to', 'TO'), (u'create', 'VB'), (u'a', 'DT'), (u'natural', 'JJ'), (u'low-sodium', 'JJ'), (u'savory', 'NN'), (u'flavor', 'NN')]
+myvp: [['contain', 'amount']]
+dobj:  creates ( flavor )
+dobj:  contain ( amount )
+nsubjpass:  added ( they )
+dobj:  create ( flavor )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'creates', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'contain', '', '', '', '', '', '', '', '', '', u'added', '', '', '', '', '', '', '', '', '', u'create', '', '', '', '', '']
+
+Sentence: 263
+tagged_sent: [(u'add', 'JJ'), (u'mature', 'NN'), (u'or', 'CC'), (u'dried', 'VBN'), (u'mushrooms', 'NNS'), (u'to', 'TO'), (u'a', 'DT'), (u'dish', 'NN'), (u'to', 'TO'), (u'produce', 'VB'), (u'the', 'DT'), (u'umami', 'JJ'), (u'flavor', 'NN')]
+myvp: [['dried', 'mushrooms'], ['produce', 'flavor']]
+dobj:  add ( mushrooms )
+dobj:  produce ( flavor )
+label:    [1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'add', '', '', u'dried', '', '', '', '', '', u'produce', '', '', '']
+
+Sentence: 264
+tagged_sent: [(u'one', 'CD'), (u'of', 'IN'), (u'the', 'DT'), (u'most', 'RBS'), (u'common', 'JJ'), (u'ways', 'NNS'), (u'to', 'TO'), (u'do', 'VB'), (u'this', 'DT'), (u'is', 'VBZ'), (u'to', 'TO'), (u'add', 'VB'), (u'either', 'DT'), (u'white', 'JJ'), (u'or', 'CC'), (u'black', 'JJ'), (u'truffle', 'JJ'), (u'oil', 'NN'), (u'on', 'IN'), (u'top', 'NN'), (u'of', 'IN'), (u'a', 'DT'), (u'dish', 'NN'), (u'or', 'CC'), (u'in', 'IN'), (u'the', 'DT'), (u'saucebuy', 'NN'), (u'umami', 'JJ'), (u'paste', 'NN'), (u'to', 'TO'), (u'use', 'VB'), (u'in', 'IN'), (u'a', 'DT'), (u'combination', 'NN'), (u'of', 'IN'), (u'any', 'DT'), (u'number', 'NN'), (u'of', 'IN'), (u'casserole', 'NN'), (u'or', 'CC'), (u'pasta', 'NN'), (u'dishes', 'NNS')]
+myvp: [['use', 'combination']]
+dobj:  do ( this )
+dobj:  add ( oil )
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'do', '', '', '', u'add', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'use', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 265
+tagged_sent: [(u'this', 'DT'), (u'paste', 'NN'), (u'is', 'VBZ'), (u'usually', 'RB'), (u'made', 'VBN'), (u'from', 'IN'), (u'mushrooms', 'NNS'), (u'tomatoes', 'NNS'), (u'parmesan', 'VBP'), (u'cheese', 'JJ'), (u'balsamic', 'JJ'), (u'vinegar', 'NN'), (u'and', 'CC'), (u'black', 'JJ'), (u'olivesyou', 'NN'), (u'can', 'MD'), (u'use', 'VB'), (u'it', 'PRP'), (u'in', 'IN'), (u'the', 'DT'), (u'following', 'JJ'), (u'ways', 'NNS')]
+myvp: [['use', 'it']]
+nsubjpass:  made ( paste )
+dobj:  use ( it )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'made', '', '', '', '', '', '', '', '', '', '', '', u'use', '', '', '', '', '']
+
+Sentence: 266
+tagged_sent: [(u'spread', 'VB'), (u'a', 'DT'), (u'thin', 'JJ'), (u'layer', 'NN'), (u'on', 'IN'), (u'crostini', 'NN'), (u'burgers', 'NNS'), (u'or', 'CC'), (u'sandwichesyou', 'NN'), (u'can', 'MD'), (u'also', 'RB'), (u'mix', 'VB'), (u'it', 'PRP'), (u'into', 'IN'), (u'dips', 'NNS'), (u'and', 'CC'), (u'mayonnaise', 'NN')]
+myvp: [['spread', 'layer'], ['mix', 'it']]
+dobj:  mix ( it )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'spread', '', '', '', '', '', '', '', '', '', '', u'mix', '', '', '', '', '']
+
+
+
+total_actions: 797
+right_actions: 449
+tag_actions: 552
+recall: 0.563363
+precision: 0.813406
+f_measure: 0.665678
+accuracy: 0.915748
+Time cost 808s

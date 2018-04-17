@@ -1,0 +1,1115 @@
+
+
+Sentence 1: The most difficult aspect of cooking healthily today is sorting through all of the conflicting information about nutrition that bombards us.
+sorting  VBG  nsubj  aspect  NN
+aspect  NN  det  The  DT
+aspect  NN  amod  difficult  JJ
+difficult  JJ  advmod  most  RBS
+aspect  NN  nmod  cooking  NN
+cooking  NN  case  of  IN
+sorting  VBG  nsubj  today  NN
+today  NN  amod  healthily  JJ
+sorting  VBG  aux  is  VBZ
+sorting  VBG  nmod  all  DT
+all  DT  case  through  IN
+all  DT  nmod  information  NN
+information  NN  case  of  IN
+information  NN  det  the  DT
+information  NN  amod  conflicting  VBG
+information  NN  nmod  nutrition  NN
+nutrition  NN  case  about  IN
+information  NN  acl:relcl  bombards  VBZ
+bombards  VBZ  nsubj  that  WDT
+bombards  VBZ  dobj  us  PRP
+
+Sentence 2: Healthy cooking is an important decision that will prevent many chronic illnesses and dysfunctions, as well as keep you feeling and looking your best.
+decision  NN  nsubj  cooking  NN
+cooking  NN  amod  Healthy  JJ
+decision  NN  cop  is  VBZ
+decision  NN  det  an  DT
+decision  NN  amod  important  JJ
+decision  NN  acl:relcl  prevent  VB
+prevent  VB  nsubj  that  WDT
+prevent  VB  aux  will  MD
+prevent  VB  dobj  illnesses  NNS
+illnesses  NNS  amod  many  JJ
+illnesses  NNS  amod  chronic  JJ
+illnesses  NNS  cc  and  CC
+illnesses  NNS  conj  dysfunctions  NNS
+prevent  VB  cc  as  RB
+as  RB  mwe  well  RB
+as  RB  mwe  as  IN
+prevent  VB  conj  keep  VB
+keep  VB  dep  feeling  VBG
+feeling  VBG  nsubj  you  PRP
+feeling  VBG  cc  and  CC
+feeling  VBG  conj  looking  VBG
+feeling  VBG  dobj  best  JJS
+best  JJS  nmod:poss  your  PRP$
+
+Sentence 3: The keys to healthy cooking include getting back to whole foods, using fresh ingredients and choosing the right proportions of healthy foods like fruits and vegetables.
+include  VBP  nsubj  keys  NNS
+keys  NNS  det  The  DT
+keys  NNS  nmod  cooking  NN
+cooking  NN  case  to  TO
+cooking  NN  amod  healthy  JJ
+include  VBP  ccomp  getting  VBG
+getting  VBG  advmod  back  RB
+getting  VBG  nmod  foods  NNS
+foods  NNS  case  to  TO
+foods  NNS  amod  whole  JJ
+getting  VBG  conj  using  VBG
+using  VBG  dobj  ingredients  NNS
+ingredients  NNS  amod  fresh  JJ
+getting  VBG  cc  and  CC
+getting  VBG  conj  choosing  VBG
+choosing  VBG  dobj  proportions  NNS
+proportions  NNS  det  the  DT
+proportions  NNS  amod  right  JJ
+proportions  NNS  nmod  foods  NNS
+foods  NNS  case  of  IN
+foods  NNS  amod  healthy  JJ
+foods  NNS  nmod  fruits  NNS
+fruits  NNS  case  like  IN
+fruits  NNS  cc  and  CC
+fruits  NNS  conj  vegetables  NNS
+
+Sentence 4: Include Fruit
+Fruit  NNP  compound  Include  NNP
+
+Sentence 5: Use fresh, local fruit that is in season.
+Use  VB  dobj  fruit  NN
+fruit  NN  amod  fresh  JJ
+fruit  NN  amod  local  JJ
+fruit  NN  acl:relcl  season  NN
+season  NN  nsubj  that  WDT
+season  NN  cop  is  VBZ
+season  NN  case  in  IN
+
+Sentence 6: Cook with citrus in the spring, berries in summer and apples and pumpkin in the fall.
+Cook  VB  nmod  citrus  NNS
+citrus  NNS  case  with  IN
+citrus  NNS  nmod  spring  NN
+spring  NN  case  in  IN
+spring  NN  det  the  DT
+citrus  NNS  conj  berries  NNS
+berries  NNS  nmod  summer  NN
+summer  NN  case  in  IN
+summer  NN  cc  and  CC
+summer  NN  conj  apples  NNS
+citrus  NNS  cc  and  CC
+citrus  NNS  conj  pumpkin  NN
+pumpkin  NN  nmod  fall  NN
+fall  NN  case  in  IN
+fall  NN  det  the  DT
+
+Sentence 7: Food prepared at the peak of its freshness has unbeatable flavor and nutritional value.
+has  VBZ  nsubj  Food  NNP
+Food  NNP  acl  prepared  VBN
+prepared  VBN  nmod  peak  NN
+peak  NN  case  at  IN
+peak  NN  det  the  DT
+peak  NN  nmod  freshness  NN
+freshness  NN  case  of  IN
+freshness  NN  nmod:poss  its  PRP$
+has  VBZ  dobj  value  NN
+value  NN  amod  unbeatable  JJ
+value  NN  amod  flavor  JJ
+flavor  JJ  cc  and  CC
+flavor  JJ  conj  nutritional  JJ
+
+Sentence 8: Avoid adding table sugar to fruit dishes.
+Avoid  VBN  xcomp  adding  VBG
+adding  VBG  dobj  sugar  NN
+sugar  NN  compound  table  NN
+adding  VBG  nmod  dishes  NNS
+dishes  NNS  case  to  TO
+dishes  NNS  compound  fruit  NN
+
+Sentence 9: Instead, choose healthy ways to enhance the flavor of fruit in your cooking.
+choose  VB  advmod  Instead  RB
+choose  VB  dobj  ways  NNS
+ways  NNS  amod  healthy  JJ
+choose  VB  xcomp  enhance  VB
+enhance  VB  mark  to  TO
+enhance  VB  dobj  flavor  NN
+flavor  NN  det  the  DT
+flavor  NN  nmod  fruit  NN
+fruit  NN  case  of  IN
+enhance  VB  nmod  cooking  NN
+cooking  NN  case  in  IN
+cooking  NN  nmod:poss  your  PRP$
+
+Sentence 10: For example, serve baked apples with frozen yogurt, cinnamon, walnuts and dried cranberries; or add balsamic vinegar to strawberries to bring out their natural sweetness.
+serve  VB  nmod  example  NN
+example  NN  case  For  IN
+serve  VB  dobj  apples  NNS
+apples  NNS  amod  baked  JJ
+serve  VB  nmod  yogurt  NN
+yogurt  NN  case  with  IN
+yogurt  NN  amod  frozen  JJ
+yogurt  NN  appos  cinnamon  NNP
+yogurt  NN  appos  walnuts  NNS
+walnuts  NNS  cc  and  CC
+walnuts  NNS  conj  cranberries  NNS
+cranberries  NNS  amod  dried  JJ
+serve  VB  cc  or  CC
+serve  VB  conj  add  VB
+add  VB  dobj  vinegar  NN
+vinegar  NN  amod  balsamic  JJ
+add  VB  nmod  strawberries  NNS
+strawberries  NNS  case  to  TO
+add  VB  advcl  bring  VB
+bring  VB  mark  to  TO
+bring  VB  compound:prt  out  RP
+bring  VB  dobj  sweetness  NN
+sweetness  NN  nmod:poss  their  PRP$
+sweetness  NN  amod  natural  JJ
+
+Sentence 11: Don’t forget juices and dried fruits.
+forget  VBP  nsubj  Don’t  NNP
+forget  VBP  dobj  juices  NNS
+forget  VBP  cc  and  CC
+forget  VBP  conj  dried  VBD
+dried  VBD  dobj  fruits  NNS
+
+Sentence 12: Fruit juice and dried fruit, when used in moderation, is a healthy addition to many meals.
+addition  NN  nsubj  juice  NN
+juice  NN  compound  Fruit  NNP
+juice  NN  cc  and  CC
+juice  NN  conj  fruit  NN
+fruit  NN  compound  dried  NN
+juice  NN  acl:relcl  used  VBN
+used  VBN  advmod  when  WRB
+used  VBN  nmod  moderation  NN
+moderation  NN  case  in  IN
+addition  NN  cop  is  VBZ
+addition  NN  det  a  DT
+addition  NN  amod  healthy  JJ
+addition  NN  nmod  meals  NNS
+meals  NNS  case  to  TO
+meals  NNS  amod  many  JJ
+
+Sentence 13: Cook a dish like Moroccan chicken with dried plums to boost the fiber content of the dish, or use freshly squeezed orange juice to give a citrus kick to a salad dressing.
+Cook  VB  dobj  dish  NN
+dish  NN  det  a  DT
+dish  NN  nmod  chicken  NN
+chicken  NN  case  like  IN
+chicken  NN  compound  Moroccan  NNP
+Cook  VB  nmod  plums  NNS
+plums  NNS  case  with  IN
+plums  NNS  amod  dried  JJ
+Cook  VB  advcl  boost  VB
+boost  VB  mark  to  TO
+boost  VB  dobj  content  NN
+content  NN  det  the  DT
+content  NN  compound  fiber  NN
+content  NN  nmod  dish  NN
+dish  NN  case  of  IN
+dish  NN  det  the  DT
+Cook  VB  cc  or  CC
+Cook  VB  conj  use  VB
+use  VB  dobj  juice  NN
+juice  NN  advmod  freshly  RB
+juice  NN  amod  squeezed  JJ
+juice  NN  amod  orange  JJ
+use  VB  advcl  give  VB
+give  VB  mark  to  TO
+give  VB  ccomp  kick  NN
+kick  NN  nsubj  citrus  NNS
+citrus  NNS  det  a  DT
+kick  NN  nmod  dressing  NN
+dressing  NN  case  to  TO
+dressing  NN  det  a  DT
+dressing  NN  compound  salad  NN
+
+Sentence 14: Use fruit purees in place of fat when baking.
+purees  VBZ  nsubj  fruit  NN
+fruit  NN  compound  Use  NN
+purees  VBZ  nmod  place  NN
+place  NN  case  in  IN
+place  NN  nmod  fat  NN
+fat  NN  case  of  IN
+purees  VBZ  advcl  baking  VBG
+baking  VBG  advmod  when  WRB
+
+Sentence 15: Applesauce is a great substitute for vegetable oil in muffin and bread recipes.
+substitute  NN  nsubj  Applesauce  NNP
+substitute  NN  cop  is  VBZ
+substitute  NN  det  a  DT
+substitute  NN  amod  great  JJ
+substitute  NN  nmod  oil  NN
+oil  NN  case  for  IN
+oil  NN  compound  vegetable  NN
+oil  NN  nmod  recipes  NNS
+recipes  NNS  case  in  IN
+recipes  NNS  compound  muffin  NN
+muffin  NN  cc  and  CC
+muffin  NN  conj  bread  NN
+
+Sentence 16: You’ll have to do some research to calculate just how much fat you can replace with fruit in your recipes, but the fruit can add the same moisture to your dishes without making your fingers greasy, so it’s worth it.
+have  VBP  nsubj  You’ll  NNP
+have  VBP  xcomp  do  VB
+do  VB  mark  to  TO
+do  VB  dobj  research  NN
+research  NN  det  some  DT
+research  NN  acl  calculate  VB
+calculate  VB  mark  to  TO
+calculate  VB  ccomp  replace  VB
+replace  VB  dobj  much  RB
+much  RB  advmod  just  RB
+much  RB  advmod  how  WRB
+much  RB  amod  fat  JJ
+replace  VB  nsubj  you  PRP
+replace  VB  aux  can  MD
+replace  VB  nmod  fruit  NN
+fruit  NN  case  with  IN
+fruit  NN  nmod  recipes  NNS
+recipes  NNS  case  in  IN
+recipes  NNS  nmod:poss  your  PRP$
+have  VBP  cc  but  CC
+have  VBP  conj  add  VB
+add  VB  nsubj  fruit  NN
+fruit  NN  det  the  DT
+add  VB  aux  can  MD
+add  VB  dobj  moisture  NN
+moisture  NN  det  the  DT
+moisture  NN  amod  same  JJ
+add  VB  nmod  dishes  NNS
+dishes  NNS  case  to  TO
+dishes  NNS  nmod:poss  your  PRP$
+add  VB  advcl  making  VBG
+making  VBG  mark  without  IN
+making  VBG  dobj  fingers  NNS
+fingers  NNS  nmod:poss  your  PRP$
+making  VBG  advmod  greasy  RB
+add  VB  advcl  it’s  VBG
+it’s  VBG  advmod  so  RB
+it’s  VBG  nmod  it  PRP
+it  PRP  case  worth  IN
+
+Sentence 17: Prepare Vegetables
+Vegetables  NNS  amod  Prepare  JJ
+
+Sentence 18: Buy fresh vegetables in season.
+Buy  VB  dobj  vegetables  NNS
+vegetables  NNS  amod  fresh  JJ
+Buy  VB  nmod  season  NN
+season  NN  case  in  IN
+
+Sentence 19: Asparagus, spinach and scallions are best in the spring.
+best  JJS  nsubj  Asparagus  NNS
+Asparagus  NNS  conj  spinach  NN
+Asparagus  NNS  cc  and  CC
+Asparagus  NNS  conj  scallions  NNS
+best  JJS  cop  are  VBP
+best  JJS  nmod  spring  NN
+spring  NN  case  in  IN
+spring  NN  det  the  DT
+
+Sentence 20: Many vegetables, like tomatoes, squash and Swiss chard are good in the summer.
+good  JJ  nsubj  vegetables  NNS
+vegetables  NNS  amod  Many  JJ
+good  JJ  nmod  tomatoes  NNS
+tomatoes  NNS  case  like  IN
+good  JJ  nsubj  squash  NN
+squash  NN  cc  and  CC
+squash  NN  conj  chard  NN
+chard  NN  amod  Swiss  JJ
+good  JJ  cop  are  VBP
+good  JJ  nmod  summer  NN
+summer  NN  case  in  IN
+summer  NN  det  the  DT
+
+Sentence 21: Root vegetables like acorn or butternut squash bring warmth to any autumn table.
+bring  VBP  nsubj  vegetables  NNS
+vegetables  NNS  compound  Root  NN
+vegetables  NNS  nmod  squash  NN
+squash  NN  case  like  IN
+squash  NN  compound  acorn  NN
+acorn  NN  cc  or  CC
+acorn  NN  conj  butternut  NN
+bring  VBP  dobj  warmth  NN
+bring  VBP  nmod  table  NN
+table  NN  case  to  TO
+table  NN  det  any  DT
+table  NN  compound  autumn  NN
+
+Sentence 22: And if you live in a warm climate, you can explore options of cultivating your own vegetable gardens to get the most selection based on your tastes.
+explore  VB  cc  And  CC
+explore  VB  advcl  live  VBP
+live  VBP  mark  if  IN
+live  VBP  nsubj  you  PRP
+live  VBP  nmod  climate  NN
+climate  NN  case  in  IN
+climate  NN  det  a  DT
+climate  NN  amod  warm  JJ
+explore  VB  nsubj  you  PRP
+explore  VB  aux  can  MD
+explore  VB  dobj  options  NNS
+options  NNS  acl  cultivating  VBG
+cultivating  VBG  mark  of  IN
+cultivating  VBG  dobj  gardens  NNS
+gardens  NNS  nmod:poss  your  PRP$
+gardens  NNS  amod  own  JJ
+gardens  NNS  compound  vegetable  NN
+cultivating  VBG  advcl  get  VB
+get  VB  mark  to  TO
+get  VB  dobj  selection  NN
+selection  NN  det  the  DT
+selection  NN  amod  most  JJS
+get  VB  advcl  tastes  NNS
+tastes  NNS  case  based  VBN
+tastes  NNS  case  on  IN
+tastes  NNS  nmod:poss  your  PRP$
+
+Sentence 23: Choose healthy cooking methods when you prepare vegetables.
+Choose  VB  dobj  methods  NNS
+methods  NNS  amod  healthy  JJ
+methods  NNS  compound  cooking  NN
+Choose  VB  advcl  prepare  VBP
+prepare  VBP  advmod  when  WRB
+prepare  VBP  nsubj  you  PRP
+prepare  VBP  dobj  vegetables  NNS
+
+Sentence 24: Burying vegetables in butter, preparing them with animal fat or dousing them in oil adds many extra calories without adding nutritional value.
+adds  VBZ  csubj  Burying  VBG
+Burying  VBG  dobj  vegetables  NNS
+vegetables  NNS  nmod  butter  NN
+butter  NN  case  in  IN
+Burying  VBG  conj  preparing  VBG
+preparing  VBG  dobj  them  PRP
+preparing  VBG  nmod  fat  NN
+fat  NN  case  with  IN
+fat  NN  compound  animal  NN
+Burying  VBG  cc  or  CC
+Burying  VBG  conj  dousing  VBG
+dousing  VBG  dobj  them  PRP
+dousing  VBG  nmod  oil  NN
+oil  NN  case  in  IN
+adds  VBZ  dobj  calories  NNS
+calories  NNS  amod  many  JJ
+calories  NNS  amod  extra  JJ
+adds  VBZ  advcl  adding  VBG
+adding  VBG  mark  without  IN
+adding  VBG  dobj  value  NN
+value  NN  amod  nutritional  JJ
+
+Sentence 25: Try steaming or roasting with a little bit of olive oil for nutritious and delicious preparations.
+Try  VB  xcomp  steaming  VBG
+steaming  VBG  cc  or  CC
+steaming  VBG  conj  roasting  VBG
+steaming  VBG  nmod  bit  NN
+bit  NN  case  with  IN
+bit  NN  det  a  DT
+bit  NN  amod  little  JJ
+bit  NN  nmod  oil  NN
+oil  NN  case  of  IN
+oil  NN  amod  olive  JJ
+oil  NN  nmod  preparations  NNS
+preparations  NNS  case  for  IN
+preparations  NNS  amod  nutritious  JJ
+nutritious  JJ  cc  and  CC
+nutritious  JJ  conj  delicious  JJ
+
+Sentence 26: Even though too much fat is not beneficial, adding some plant-based fats like olive or walnut oil to your deep greens (like leafy greens, broccoli and Brussels sprouts) actually helps your body absorb more of their nutrients.
+helps  VBZ  csubj  beneficial  JJ
+beneficial  JJ  advmod  Even  RB
+beneficial  JJ  mark  though  IN
+beneficial  JJ  nsubj  fat  NN
+fat  NN  amod  much  JJ
+much  JJ  advmod  too  RB
+beneficial  JJ  cop  is  VBZ
+beneficial  JJ  neg  not  RB
+beneficial  JJ  xcomp  adding  VBG
+adding  VBG  dobj  fats  NNS
+fats  NNS  det  some  DT
+fats  NNS  amod  plant-based  JJ
+fats  NNS  nmod  oil  NN
+oil  NN  case  like  IN
+oil  NN  compound  olive  NN
+olive  NN  cc  or  CC
+olive  NN  conj  walnut  NN
+adding  VBG  nmod  greens  NNS
+greens  NNS  case  to  TO
+greens  NNS  nmod:poss  your  PRP$
+greens  NNS  amod  deep  JJ
+helps  VBZ  dep  like  VB
+like  VB  dobj  sprouts  NNS
+sprouts  NNS  amod  leafy  JJ
+sprouts  NNS  compound  greens  NNS
+greens  NNS  conj  broccoli  NNP
+greens  NNS  cc  and  CC
+greens  NNS  conj  Brussels  NNP
+helps  VBZ  advmod  actually  RB
+helps  VBZ  ccomp  absorb  VB
+absorb  VB  nsubj  body  NN
+body  NN  nmod:poss  your  PRP$
+absorb  VB  dobj  more  JJR
+more  JJR  nmod  nutrients  NNS
+nutrients  NNS  case  of  IN
+nutrients  NNS  nmod:poss  their  PRP$
+
+Sentence 27: Don’t forget frozen as an option.
+forget  VBP  nsubj  Don’t  NNP
+forget  VBP  xcomp  frozen  JJ
+forget  VBP  nmod  option  NN
+option  NN  case  as  IN
+option  NN  det  an  DT
+
+Sentence 28: Freezing vegetables in season and storing them for future use is an easy way to get the flavor of the harvest all year round.
+way  NN  csubj  Freezing  VBG
+Freezing  VBG  dobj  vegetables  NNS
+vegetables  NNS  nmod  season  NN
+season  NN  case  in  IN
+Freezing  VBG  cc  and  CC
+Freezing  VBG  conj  storing  VBG
+storing  VBG  dobj  them  PRP
+storing  VBG  nmod  use  NN
+use  NN  case  for  IN
+use  NN  amod  future  JJ
+way  NN  cop  is  VBZ
+way  NN  det  an  DT
+way  NN  amod  easy  JJ
+way  NN  acl  get  VB
+get  VB  mark  to  TO
+get  VB  dobj  flavor  NN
+flavor  NN  det  the  DT
+flavor  NN  nmod  harvest  NN
+harvest  NN  case  of  IN
+harvest  NN  det  the  DT
+harvest  NN  advmod  round  RB
+round  RB  nmod:npmod  year  NN
+year  NN  det  all  DT
+
+Sentence 29: For quick dishes, choose frozen, pre-chopped organic vegetables from your grocery store.
+choose  VB  nmod  dishes  NNS
+dishes  NNS  case  For  IN
+dishes  NNS  amod  quick  JJ
+choose  VB  dobj  vegetables  NNS
+vegetables  NNS  amod  frozen  JJ
+vegetables  NNS  amod  pre-chopped  JJ
+vegetables  NNS  amod  organic  JJ
+choose  VB  nmod  store  NN
+store  NN  case  from  IN
+store  NN  nmod:poss  your  PRP$
+store  NN  compound  grocery  NN
+
+Sentence 30: Choose Whole Grains
+Choose  VB  dobj  Grains  NNS
+Grains  NNS  amod  Whole  JJ
+
+Sentence 31: Avoid refined carbohydrates.
+Avoid  VB  dobj  carbohydrates  NNS
+carbohydrates  NNS  amod  refined  JJ
+
+Sentence 32: For example, choose to replace white bread with whole wheat or rye.
+choose  VB  nmod  example  NN
+example  NN  case  For  IN
+choose  VB  xcomp  replace  VB
+replace  VB  mark  to  TO
+replace  VB  dobj  bread  NN
+bread  NN  amod  white  JJ
+replace  VB  nmod  wheat  NN
+wheat  NN  case  with  IN
+wheat  NN  amod  whole  JJ
+wheat  NN  cc  or  CC
+wheat  NN  conj  rye  NN
+
+Sentence 33: Also, whole wheat pastas have improved greatly in quality since they were first introduced to the market.
+improved  VBN  advmod  Also  RB
+improved  VBN  nsubj  pastas  NNS
+pastas  NNS  amod  whole  JJ
+pastas  NNS  compound  wheat  NN
+improved  VBN  aux  have  VBP
+improved  VBN  advmod  greatly  RB
+improved  VBN  nmod  quality  NN
+quality  NN  case  in  IN
+improved  VBN  advcl  introduced  VBN
+introduced  VBN  mark  since  IN
+introduced  VBN  nsubjpass  they  PRP
+introduced  VBN  auxpass  were  VBD
+introduced  VBN  advmod  first  RB
+introduced  VBN  nmod  market  NN
+market  NN  case  to  TO
+market  NN  det  the  DT
+
+Sentence 34: Cook creatively with whole grains.
+Cook  VB  advmod  creatively  RB
+Cook  VB  nmod  grains  NNS
+grains  NNS  case  with  IN
+grains  NNS  amod  whole  JJ
+
+Sentence 35: For instance, add barley to beef stew or make a whole grain pilaf with sliced almonds and dried fruit.
+add  VB  nmod  instance  NN
+instance  NN  case  For  IN
+add  VB  dobj  barley  NN
+add  VB  nmod  stew  NN
+stew  NN  case  to  TO
+stew  NN  compound  beef  NN
+add  VB  cc  or  CC
+add  VB  conj  make  VB
+make  VB  dobj  pilaf  NN
+pilaf  NN  det  a  DT
+pilaf  NN  amod  whole  JJ
+pilaf  NN  compound  grain  NN
+make  VB  nmod  almonds  NNS
+almonds  NNS  case  with  IN
+almonds  NNS  amod  sliced  JJ
+add  VB  cc  and  CC
+add  VB  conj  dried  VBD
+dried  VBD  dobj  fruit  NN
+
+Sentence 36: Try something new.
+Try  VB  dobj  something  NN
+something  NN  amod  new  JJ
+
+Sentence 37: Learn to cook with quinoa, spelt or couscous so that you can have a break from rice and pasta.
+Learn  VB  xcomp  cook  VB
+cook  VB  mark  to  TO
+cook  VB  nmod  quinoa  NN
+quinoa  NN  case  with  IN
+quinoa  NN  conj  spelt  NN
+quinoa  NN  cc  or  CC
+quinoa  NN  conj  couscous  NNS
+Learn  VB  advcl  have  VB
+have  VB  mark  so  RB
+so  RB  mwe  that  IN
+have  VB  nsubj  you  PRP
+have  VB  aux  can  MD
+have  VB  dobj  break  NN
+break  NN  det  a  DT
+break  NN  nmod  rice  NN
+rice  NN  case  from  IN
+rice  NN  cc  and  CC
+rice  NN  conj  pasta  NN
+
+Sentence 38: Select Healthy Proteins in the Right Proportions
+Proteins  NNPS  compound  Select  NNP
+Proteins  NNPS  amod  Healthy  JJ
+Proteins  NNPS  nmod  Proportions  NNPS
+Proportions  NNPS  case  in  IN
+Proportions  NNPS  det  the  DT
+Proportions  NNPS  compound  Right  NNP
+
+Sentence 39: Choose proteins high in omega-3 fatty acids.
+Choose  VB  xcomp  high  JJ
+high  JJ  nsubj  proteins  NNS
+high  JJ  nmod  acids  NNS
+acids  NNS  case  in  IN
+acids  NNS  amod  omega-3  JJ
+acids  NNS  compound  fatty  NN
+
+Sentence 40: Foods like salmon and omega-3 enriched eggs are great sources of omega-3 fatty acids.
+sources  NNS  nsubj  Foods  NNP
+Foods  NNP  nmod  eggs  NNS
+eggs  NNS  case  like  IN
+eggs  NNS  compound  salmon  NN
+salmon  NN  cc  and  CC
+salmon  NN  conj  omega-3  JJ
+eggs  NNS  compound  enriched  NN
+sources  NNS  cop  are  VBP
+sources  NNS  amod  great  JJ
+sources  NNS  nmod  acids  NNS
+acids  NNS  case  of  IN
+acids  NNS  amod  omega-3  JJ
+acids  NNS  compound  fatty  NN
+
+Sentence 41: These nutrients promote healthy brain function as well as cardiovascular health.
+promote  VBP  nsubj  nutrients  NNS
+nutrients  NNS  det  These  DT
+promote  VBP  dobj  function  NN
+function  NN  amod  healthy  JJ
+function  NN  compound  brain  NN
+function  NN  cc  as  RB
+as  RB  mwe  well  RB
+as  RB  mwe  as  IN
+function  NN  conj  health  NN
+health  NN  amod  cardiovascular  JJ
+
+Sentence 42: Remember non-meat sources of protein.
+Remember  VB  dobj  sources  NNS
+sources  NNS  amod  non-meat  JJ
+sources  NNS  nmod  protein  NN
+protein  NN  case  of  IN
+
+Sentence 43: You can eat servings of protein that are lower in calories and higher in fiber by choosing proteins like beans or tofu.
+eat  VB  nsubj  You  PRP
+eat  VB  aux  can  MD
+eat  VB  dobj  servings  NNS
+servings  NNS  nmod  protein  NN
+protein  NN  case  of  IN
+servings  NNS  acl:relcl  lower  JJR
+lower  JJR  nsubj  that  WDT
+lower  JJR  cop  are  VBP
+lower  JJR  nmod  calories  NNS
+calories  NNS  case  in  IN
+lower  JJR  cc  and  CC
+lower  JJR  conj  higher  JJR
+lower  JJR  nmod  fiber  NN
+fiber  NN  case  in  IN
+lower  JJR  advcl  choosing  VBG
+choosing  VBG  mark  by  IN
+choosing  VBG  dobj  proteins  NNS
+choosing  VBG  nmod  beans  NNS
+beans  NNS  case  like  IN
+beans  NNS  cc  or  CC
+beans  NNS  conj  tofu  NN
+
+Sentence 44: Chop up some tofu and add it to soup or serve bean and cheese enchiladas with a side of rice in place of meat enchiladas.
+Chop  VB  compound:prt  up  RP
+Chop  VB  dobj  tofu  NN
+tofu  NN  det  some  DT
+Chop  VB  cc  and  CC
+Chop  VB  conj  add  VB
+add  VB  dobj  it  PRP
+add  VB  nmod  soup  NN
+soup  NN  case  to  TO
+Chop  VB  cc  or  CC
+Chop  VB  conj  serve  VB
+serve  VB  dobj  enchiladas  NNS
+enchiladas  NNS  compound  bean  NN
+bean  NN  cc  and  CC
+bean  NN  conj  cheese  NN
+serve  VB  nmod  side  NN
+side  NN  case  with  IN
+side  NN  det  a  DT
+side  NN  nmod  rice  NN
+rice  NN  case  of  IN
+serve  VB  nmod  place  NN
+place  NN  case  in  IN
+place  NN  nmod  enchiladas  NNS
+enchiladas  NNS  case  of  IN
+enchiladas  NNS  compound  meat  NN
+
+Sentence 45: Watch your portion size.
+Watch  VB  dobj  size  NN
+size  NN  nmod:poss  your  PRP$
+size  NN  compound  portion  NN
+
+Sentence 46: A good rule of thumb is to remember that a serving size of protein is about the size of a deck of cards.
+is  VBZ  nsubj  rule  NN
+rule  NN  det  A  DT
+rule  NN  amod  good  JJ
+rule  NN  nmod  thumb  NN
+thumb  NN  case  of  IN
+is  VBZ  xcomp  remember  VB
+remember  VB  mark  to  TO
+remember  VB  ccomp  size  NN
+size  NN  mark  that  IN
+size  NN  nsubj  size  NN
+size  NN  det  a  DT
+size  NN  amod  serving  JJ
+size  NN  nmod  protein  NN
+protein  NN  case  of  IN
+size  NN  cop  is  VBZ
+size  NN  case  about  IN
+size  NN  det  the  DT
+size  NN  nmod  deck  NN
+deck  NN  case  of  IN
+deck  NN  det  a  DT
+deck  NN  nmod  cards  NNS
+cards  NNS  case  of  IN
+
+Sentence 47: Generally, a piece of meat or other protein should be no larger or thicker than your palm.
+larger  JJR  advmod  Generally  RB
+larger  JJR  nsubj  piece  NN
+piece  NN  det  a  DT
+piece  NN  nmod  protein  NN
+protein  NN  case  of  IN
+protein  NN  compound  meat  NN
+meat  NN  cc  or  CC
+meat  NN  conj  other  JJ
+larger  JJR  aux  should  MD
+larger  JJR  cop  be  VB
+larger  JJR  neg  no  RB
+larger  JJR  cc  or  CC
+larger  JJR  conj  thicker  JJ
+thicker  JJ  nmod  palm  NN
+palm  NN  case  than  IN
+palm  NN  nmod:poss  your  PRP$
+
+Sentence 48: Include Healthy Dairy
+Dairy  NNP  compound  Include  NNP
+Dairy  NNP  compound  Healthy  NNP
+
+Sentence 49: Learn to cook with low-fat dairy options.
+Learn  VB  xcomp  cook  VB
+cook  VB  mark  to  TO
+cook  VB  nmod  options  NNS
+options  NNS  case  with  IN
+options  NNS  amod  low-fat  JJ
+options  NNS  compound  dairy  NN
+
+Sentence 50: In many recipes, heavy cream or whole milk can be replaced with low-fat or skim milk.
+replaced  VBN  nmod  recipes  NNS
+recipes  NNS  case  In  IN
+recipes  NNS  amod  many  JJ
+replaced  VBN  nsubjpass  cream  NN
+cream  NN  amod  heavy  JJ
+cream  NN  cc  or  CC
+cream  NN  conj  milk  NN
+milk  NN  amod  whole  JJ
+replaced  VBN  aux  can  MD
+replaced  VBN  auxpass  be  VB
+replaced  VBN  nmod  milk  NN
+milk  NN  case  with  IN
+milk  NN  compound  low-fat  NN
+low-fat  NN  cc  or  CC
+low-fat  NN  conj  skim  NN
+
+Sentence 51: Be careful when baking to stick to reduced fat dairy rather than fat-free dairy.
+careful  JJ  cop  Be  VB
+careful  JJ  ccomp  baking  VBG
+baking  VBG  advmod  when  WRB
+baking  VBG  xcomp  stick  VB
+stick  VB  mark  to  TO
+stick  VB  nmod  dairy  NN
+dairy  NN  case  to  TO
+dairy  NN  amod  reduced  JJ
+dairy  NN  amod  fat  JJ
+dairy  NN  cc  rather  RB
+rather  RB  mwe  than  IN
+dairy  NN  conj  dairy  NN
+dairy  NN  amod  fat-free  JJ
+
+Sentence 52: Become more versatile with yogurt.
+Become  VB  xcomp  versatile  JJ
+versatile  JJ  advmod  more  RBR
+versatile  JJ  nmod  yogurt  NN
+yogurt  NN  case  with  IN
+
+Sentence 53: Yogurt is delicious eaten out of the container, but plain yogurt can also be served in soups or used as a marinade for meats.
+delicious  JJ  nsubj  Yogurt  NNP
+delicious  JJ  cop  is  VBZ
+delicious  JJ  dep  eaten  VBN
+eaten  VBN  compound:prt  out  RP
+eaten  VBN  nmod  container  NN
+container  NN  case  of  IN
+container  NN  det  the  DT
+delicious  JJ  cc  but  CC
+delicious  JJ  conj  served  VBN
+served  VBN  nsubjpass  yogurt  NN
+yogurt  NN  amod  plain  JJ
+served  VBN  aux  can  MD
+served  VBN  advmod  also  RB
+served  VBN  auxpass  be  VB
+served  VBN  nmod  soups  NNS
+soups  NNS  case  in  IN
+served  VBN  cc  or  CC
+served  VBN  conj  used  VBN
+used  VBN  nmod  marinade  NN
+marinade  NN  case  as  IN
+marinade  NN  det  a  DT
+marinade  NN  nmod  meats  NNS
+meats  NNS  case  for  IN
+
+Sentence 54: Salmon served with a lemon and dill yogurt sauce, for example, makes a nutrient-packed and elegant meal.
+served  VBD  nsubj  Salmon  NNP
+served  VBD  advcl  makes  VBZ
+makes  VBZ  mark  with  IN
+makes  VBZ  nsubj  lemon  JJ
+lemon  JJ  det  a  DT
+lemon  JJ  cc  and  CC
+lemon  JJ  conj  sauce  NN
+sauce  NN  amod  dill  JJ
+sauce  NN  compound  yogurt  NN
+lemon  JJ  nmod  example  NN
+example  NN  case  for  IN
+makes  VBZ  dobj  meal  NN
+meal  NN  det  a  DT
+meal  NN  amod  nutrient-packed  JJ
+nutrient-packed  JJ  cc  and  CC
+nutrient-packed  JJ  conj  elegant  JJ
+
+Sentence 55: Look to food from Middle Eastern and Indian cultures to inspire you to find more ways to use yogurt in your cooking.
+Look  VB  nmod  food  NN
+food  NN  case  to  TO
+food  NN  nmod  Eastern  NNP
+Eastern  NNP  case  from  IN
+Eastern  NNP  compound  Middle  NNP
+Eastern  NNP  cc  and  CC
+Eastern  NNP  conj  cultures  NNS
+cultures  NNS  amod  Indian  JJ
+Look  VB  xcomp  inspire  VB
+inspire  VB  mark  to  TO
+inspire  VB  dobj  you  PRP
+inspire  VB  xcomp  find  VB
+find  VB  mark  to  TO
+find  VB  dobj  ways  NNS
+ways  NNS  amod  more  JJR
+ways  NNS  acl  use  VB
+use  VB  mark  to  TO
+use  VB  dobj  yogurt  NN
+use  VB  nmod  cooking  NN
+cooking  NN  case  in  IN
+cooking  NN  nmod:poss  your  PRP$
+
+Sentence 56: Focus on flavor instead of quantity when cooking with cheese.
+Focus  VB  nmod  flavor  NN
+flavor  NN  case  on  IN
+flavor  NN  nmod  quantity  NN
+quantity  NN  case  instead  RB
+instead  RB  mwe  of  IN
+Focus  VB  advcl  cooking  VBG
+cooking  VBG  advmod  when  WRB
+cooking  VBG  nmod  cheese  NN
+cheese  NN  case  with  IN
+
+Sentence 57: If you purchase a high-quality, flavorful cheese, then you can use less cheese and still add flavor to your cooking.
+use  VB  advcl  purchase  VB
+purchase  VB  mark  If  IN
+purchase  VB  nsubj  you  PRP
+purchase  VB  dobj  cheese  NN
+cheese  NN  det  a  DT
+cheese  NN  amod  high-quality  JJ
+cheese  NN  amod  flavorful  JJ
+use  VB  nsubj  you  PRP
+you  PRP  advmod  then  RB
+use  VB  aux  can  MD
+use  VB  dobj  cheese  NN
+cheese  NN  amod  less  JJR
+use  VB  cc  and  CC
+use  VB  conj  add  VB
+add  VB  advmod  still  RB
+add  VB  dobj  flavor  NN
+add  VB  nmod  cooking  NN
+cooking  NN  case  to  TO
+cooking  NN  nmod:poss  your  PRP$
+
+Sentence 58: Grate pecorino on top off a pizza and cut down on the mozzarella, or sprinkle a little bit of Gorgonzola on a salad instead of heaps of mild cheddar.
+top  VBP  nsubj  pecorino  NNP
+pecorino  NNP  compound  Grate  NNP
+top  VBP  advmod  on  RB
+top  VBP  compound:prt  off  RP
+top  VBP  dobj  pizza  NN
+pizza  NN  det  a  DT
+top  VBP  cc  and  CC
+top  VBP  conj  cut  VBD
+cut  VBD  compound:prt  down  RP
+cut  VBD  nmod  mozzarella  NN
+mozzarella  NN  case  on  IN
+mozzarella  NN  det  the  DT
+top  VBP  cc  or  CC
+top  VBP  conj  sprinkle  VBP
+sprinkle  VBP  dobj  bit  NN
+bit  NN  det  a  DT
+bit  NN  amod  little  JJ
+bit  NN  nmod  Gorgonzola  NNP
+Gorgonzola  NNP  case  of  IN
+sprinkle  VBP  nmod  salad  NN
+salad  NN  case  on  IN
+salad  NN  det  a  DT
+salad  NN  nmod  heaps  NNS
+heaps  NNS  case  instead  RB
+instead  RB  mwe  of  IN
+heaps  NNS  nmod  cheddar  NN
+cheddar  NN  case  of  IN
+cheddar  NN  amod  mild  JJ
+
+Sentence 59: Use Healthier Fats in a Strategic Way
+Use  VB  dobj  Fats  NNP
+Fats  NNP  compound  Healthier  NNP
+Fats  NNP  nmod  Way  NNP
+Way  NNP  case  in  IN
+Way  NNP  det  a  DT
+Way  NNP  compound  Strategic  NNP
+
+Sentence 60: Choose oils and fatty foods that are low in saturated fat.
+Choose  VB  dobj  oils  NNS
+oils  NNS  cc  and  CC
+oils  NNS  conj  foods  NNS
+foods  NNS  compound  fatty  NN
+oils  NNS  acl:relcl  low  JJ
+low  JJ  nsubj  that  WDT
+low  JJ  cop  are  VBP
+low  JJ  nmod  fat  NN
+fat  NN  case  in  IN
+fat  NN  amod  saturated  JJ
+
+Sentence 61: Olive oil and canola oil are the healthiest oils that you can use in your cooking.
+oils  NNS  nsubj  oil  NN
+oil  NN  amod  Olive  JJ
+oil  NN  cc  and  CC
+oil  NN  conj  oil  NN
+oil  NN  compound  canola  NN
+oils  NNS  cop  are  VBP
+oils  NNS  det  the  DT
+oils  NNS  amod  healthiest  JJ
+oils  NNS  dep  use  VB
+use  VB  mark  that  IN
+use  VB  nsubj  you  PRP
+use  VB  aux  can  MD
+use  VB  nmod  cooking  NN
+cooking  NN  case  in  IN
+cooking  NN  nmod:poss  your  PRP$
+
+Sentence 62: Other nut and seed oils also make healthy choices.
+make  VBP  nsubj  nut  NN
+nut  NN  amod  Other  JJ
+nut  NN  cc  and  CC
+nut  NN  conj  oils  NNS
+oils  NNS  compound  seed  NN
+make  VBP  advmod  also  RB
+make  VBP  dobj  choices  NNS
+choices  NNS  amod  healthy  JJ
+
+Sentence 63: Prepare fatty fish like salmon or mackerel instead of beef.
+fatty  VBP  nsubj  Prepare  NNP
+fatty  VBP  advmod  fish  RB
+fatty  VBP  dep  like  VB
+like  VB  dobj  salmon  NN
+salmon  NN  cc  or  CC
+salmon  NN  conj  mackerel  NN
+salmon  NN  nmod  beef  NN
+beef  NN  case  instead  RB
+instead  RB  mwe  of  IN
+
+Sentence 64: Avocados are also an excellent source of healthy fats.
+source  NN  nsubj  Avocados  NNS
+source  NN  cop  are  VBP
+source  NN  advmod  also  RB
+source  NN  det  an  DT
+source  NN  amod  excellent  JJ
+source  NN  nmod  fats  NNS
+fats  NNS  case  of  IN
+fats  NNS  amod  healthy  JJ
+
+Sentence 65: Avoid trans fats.
+trans  VBZ  nsubj  Avoid  NNP
+trans  VBZ  dobj  fats  NNS
+
+Sentence 66: Trans fats are found in foods that have been hydrogenated so that they can maintain shelf stability at room temperature.
+found  VBN  nsubjpass  fats  NNS
+fats  NNS  compound  Trans  NNP
+found  VBN  auxpass  are  VBP
+found  VBN  nmod  foods  NNS
+foods  NNS  case  in  IN
+foods  NNS  acl:relcl  hydrogenated  VBN
+hydrogenated  VBN  nsubjpass  that  WDT
+hydrogenated  VBN  aux  have  VBP
+hydrogenated  VBN  auxpass  been  VBN
+hydrogenated  VBN  advcl  maintain  VB
+maintain  VB  mark  so  RB
+so  RB  mwe  that  IN
+maintain  VB  nsubj  they  PRP
+maintain  VB  aux  can  MD
+maintain  VB  dobj  stability  NN
+stability  NN  compound  shelf  NN
+maintain  VB  nmod  temperature  NN
+temperature  NN  case  at  IN
+temperature  NN  compound  room  NN
+
+Sentence 67: These fats are universally understood to be bad for your health, and they hide in places you might not expect.
+understood  VBN  nsubjpass  fats  NNS
+fats  NNS  det  These  DT
+understood  VBN  auxpass  are  VBP
+understood  VBN  advmod  universally  RB
+understood  VBN  xcomp  bad  JJ
+bad  JJ  mark  to  TO
+bad  JJ  cop  be  VB
+bad  JJ  nmod  health  NN
+health  NN  case  for  IN
+health  NN  nmod:poss  your  PRP$
+understood  VBN  cc  and  CC
+understood  VBN  conj  hide  VB
+hide  VB  nsubj  they  PRP
+hide  VB  nmod  places  NNS
+places  NNS  case  in  IN
+places  NNS  acl:relcl  expect  VB
+expect  VB  nsubj  you  PRP
+expect  VB  aux  might  MD
+expect  VB  neg  not  RB
+
+Sentence 68: Before you roll a piece of chicken in bread crumbs, check the package to make sure that the crumbs don’t contain trans fats.
+check  VB  advcl  roll  VBP
+roll  VBP  mark  Before  IN
+roll  VBP  nsubj  you  PRP
+roll  VBP  dobj  piece  NN
+piece  NN  det  a  DT
+piece  NN  nmod  chicken  NN
+chicken  NN  case  of  IN
+chicken  NN  nmod  crumbs  NNS
+crumbs  NNS  case  in  IN
+crumbs  NNS  compound  bread  NN
+check  VB  dobj  package  NN
+package  NN  det  the  DT
+package  NN  acl  make  VB
+make  VB  mark  to  TO
+make  VB  xcomp  sure  JJ
+make  VB  ccomp  contain  VBP
+contain  VBP  mark  that  IN
+contain  VBP  nsubj  don’t  NN
+don’t  NN  det  the  DT
+don’t  NN  compound  crumbs  NNS
+contain  VBP  dobj  fats  NNS
+fats  NNS  amod  trans  JJ
+
+Sentence 69: Also, avoid margarine and shortening in your cooking whenever possible.
+avoid  VB  advmod  Also  RB
+avoid  VB  xcomp  possible  JJ
+possible  JJ  nsubj  margarine  NN
+margarine  NN  cc  and  CC
+margarine  NN  conj  shortening  NN
+margarine  NN  nmod  whenever  NN
+whenever  NN  case  in  IN
+whenever  NN  nmod:poss  your  PRP$
+whenever  NN  amod  cooking  JJ
+
+Sentence 70: Remember that quality can lower quantity.
+Remember  VB  ccomp  lower  VB
+lower  VB  mark  that  IN
+lower  VB  nsubj  quality  NN
+lower  VB  aux  can  MD
+lower  VB  dobj  quantity  NN
+
+Sentence 71: Investing in an excellent olive oil for cooking allows you to put more flavor in your food even while using less oil.
+allows  VBZ  csubj  Investing  VBG
+Investing  VBG  nmod  oil  NN
+oil  NN  case  in  IN
+oil  NN  det  an  DT
+oil  NN  amod  excellent  JJ
+oil  NN  compound  olive  NN
+oil  NN  nmod  cooking  NN
+cooking  NN  case  for  IN
+allows  VBZ  dobj  you  PRP
+allows  VBZ  xcomp  put  VB
+put  VB  mark  to  TO
+put  VB  dobj  flavor  NN
+flavor  NN  amod  more  JJR
+put  VB  nmod  food  NN
+food  NN  case  in  IN
+food  NN  nmod:poss  your  PRP$
+put  VB  advcl  using  VBG
+using  VBG  advmod  even  RB
+using  VBG  mark  while  IN
+using  VBG  dobj  oil  NN
+oil  NN  amod  less  JJR
+
+Sentence 72: Another idea is to choose a creamy European butter; the intense flavor will allow you to cut the butter content in your cooking by at least one-third.
+is  VBZ  nsubj  idea  NN
+idea  NN  det  Another  DT
+is  VBZ  xcomp  choose  VB
+choose  VB  mark  to  TO
+choose  VB  dobj  butter  NN
+butter  NN  det  a  DT
+butter  NN  amod  creamy  JJ
+butter  NN  amod  European  JJ
+is  VBZ  parataxis  allow  VB
+allow  VB  nsubj  flavor  NN
+flavor  NN  det  the  DT
+flavor  NN  amod  intense  JJ
+allow  VB  aux  will  MD
+allow  VB  dobj  you  PRP
+allow  VB  xcomp  cut  VB
+cut  VB  mark  to  TO
+cut  VB  dobj  content  NN
+content  NN  det  the  DT
+content  NN  compound  butter  NN
+content  NN  nmod  cooking  NN
+cooking  NN  case  in  IN
+cooking  NN  nmod:poss  your  PRP$
+cut  VB  nmod  one-third  NN
+one-third  NN  case  by  IN
+one-third  NN  nmod:npmod  least  JJS
+least  JJS  case  at  IN

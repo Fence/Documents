@@ -1,0 +1,1093 @@
+
+
+Sentence 1: If you have more than one Google account linked to your Android device, you can't really pick one account to use over the other.
+pick  VB  advcl  have  VBP
+have  VBP  mark  If  IN
+have  VBP  nsubj  you  PRP
+have  VBP  dobj  account  NN
+account  NN  nummod  Google  CD
+Google  CD  advmod  more  JJR
+more  JJR  mwe  than  IN
+Google  CD  compound  one  CD
+account  NN  acl  linked  VBN
+linked  VBN  nmod  device  NN
+device  NN  case  to  TO
+device  NN  nmod:poss  your  PRP$
+device  NN  compound  Android  NNP
+pick  VB  nsubj  you  PRP
+pick  VB  aux  ca  MD
+pick  VB  neg  n't  RB
+pick  VB  advmod  really  RB
+pick  VB  dobj  account  NN
+account  NN  nummod  one  CD
+pick  VB  xcomp  use  VB
+use  VB  mark  to  TO
+use  VB  compound:prt  over  RP
+use  VB  dobj  other  JJ
+other  JJ  det  the  DT
+
+Sentence 2: What you can do is set which account you want to sync the Android device to.
+set  VBN  csubjpass  do  VB
+do  VB  dobj  What  WP
+do  VB  nsubj  you  PRP
+do  VB  aux  can  MD
+set  VBN  auxpass  is  VBZ
+set  VBN  ccomp  account  VBP
+account  VBP  nsubj  which  WDT
+account  VBP  ccomp  want  VBP
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  sync  VB
+sync  VB  mark  to  TO
+sync  VB  dobj  device  NN
+device  NN  det  the  DT
+device  NN  compound  Android  NNP
+sync  VB  nmod  to  TO
+
+Sentence 3: You can also change the Google sign-in on Google+ and Google Play once you've linked an account.
+change  VB  nsubj  You  PRP
+change  VB  aux  can  MD
+change  VB  advmod  also  RB
+change  VB  dobj  sign-in  NN
+sign-in  NN  det  the  DT
+sign-in  NN  compound  Google  NNP
+change  VB  nmod  +  NNP
++  NNP  case  on  IN
++  NNP  compound  Google  NNP
++  NNP  cc  and  CC
++  NNP  conj  Play  NNP
+Play  NNP  compound  Google  NNP
+change  VB  advcl  linked  VBN
+linked  VBN  mark  once  IN
+linked  VBN  nsubj  you  PRP
+linked  VBN  aux  've  VBP
+linked  VBN  dobj  account  NN
+account  NN  det  an  DT
+
+Sentence 4: Changing the sign-in on Google Play allows you to save game data and purchases to that particular account you signed in to.
+signed  VBD  dep  allows  VBZ
+allows  VBZ  csubj  Changing  VBG
+Changing  VBG  dobj  sign-in  NN
+sign-in  NN  det  the  DT
+Changing  VBG  nmod  Play  NNP
+Play  NNP  case  on  IN
+Play  NNP  compound  Google  NNP
+allows  VBZ  dobj  you  PRP
+allows  VBZ  xcomp  save  VB
+save  VB  mark  to  TO
+save  VB  dobj  data  NNS
+data  NNS  compound  game  NN
+data  NNS  cc  and  CC
+data  NNS  conj  purchases  NNS
+save  VB  nmod  account  NN
+account  NN  case  to  TO
+account  NN  det  that  DT
+account  NN  amod  particular  JJ
+signed  VBD  nsubj  you  PRP
+signed  VBD  compound:prt  in  RP
+signed  VBD  nmod  to  TO
+
+Sentence 5: Changing and Adding Google Sign-ins to Sync
+Changing  VBG  cc  and  CC
+Changing  VBG  conj  Adding  VBG
+Changing  VBG  dobj  Sign-ins  NNP
+Sign-ins  NNP  compound  Google  NNP
+Sign-ins  NNP  nmod  Sync  NNP
+Sync  NNP  case  to  TO
+
+Sentence 6: Open the device Settings.
+Open  VB  dobj  Settings  NNS
+Settings  NNS  det  the  DT
+Settings  NNS  compound  device  NN
+
+Sentence 7: Changing Google accounts is really not possible as all the existing Google accounts linked to the device remain synced at all times.
+possible  JJ  nsubj  accounts  NNS
+accounts  NNS  compound  Changing  NNP
+accounts  NNS  compound  Google  NNP
+possible  JJ  cop  is  VBZ
+possible  JJ  advmod  really  RB
+possible  JJ  neg  not  RB
+possible  JJ  advcl  remain  VBP
+remain  VBP  mark  as  IN
+remain  VBP  nsubj  accounts  NNS
+accounts  NNS  det:predet  all  PDT
+accounts  NNS  det  the  DT
+accounts  NNS  amod  existing  VBG
+accounts  NNS  compound  Google  NNP
+accounts  NNS  acl  linked  VBN
+linked  VBN  nmod  device  NN
+device  NN  case  to  TO
+device  NN  det  the  DT
+remain  VBP  xcomp  synced  JJ
+remain  VBP  nmod  times  NNS
+times  NNS  case  at  IN
+times  NNS  det  all  DT
+
+Sentence 8: You can, however, choose which Google account is to be synced with the Android.
+choose  VB  nsubj  You  PRP
+choose  VB  aux  can  MD
+choose  VB  advmod  however  RB
+choose  VB  ccomp  is  VBZ
+is  VBZ  dobj  which  WDT
+is  VBZ  nsubj  account  NN
+account  NN  compound  Google  NNP
+is  VBZ  xcomp  synced  VBN
+synced  VBN  mark  to  TO
+synced  VBN  auxpass  be  VB
+synced  VBN  nmod  Android  NNP
+Android  NNP  case  with  IN
+Android  NNP  det  the  DT
+
+Sentence 9: Locate the gear icon on the home screen or app drawer.
+Locate  VB  dobj  icon  NN
+icon  NN  det  the  DT
+icon  NN  compound  gear  NN
+Locate  VB  nmod  screen  NN
+screen  NN  case  on  IN
+screen  NN  det  the  DT
+screen  NN  compound  home  NN
+screen  NN  cc  or  CC
+screen  NN  conj  drawer  NN
+drawer  NN  compound  app  NN
+
+Sentence 10: Tap the icon to open the Settings menu.
+Tap  VB  dobj  icon  NN
+icon  NN  det  the  DT
+icon  NN  acl  open  VB
+open  VB  mark  to  TO
+open  VB  dobj  menu  NN
+menu  NN  det  the  DT
+menu  NN  compound  Settings  NNP
+
+Sentence 11: Go to Accounts.
+Go  VB  nmod  Accounts  NNPS
+Accounts  NNPS  case  to  TO
+
+Sentence 12: Scroll down the menu and locate "Accounts." On some devices, this may be a heading, with the list of accounts you can link to your device below it.
+heading  NN  ccomp  Scroll  VB
+Scroll  VB  compound:prt  down  RP
+Scroll  VB  dobj  menu  NN
+menu  NN  det  the  DT
+Scroll  VB  cc  and  CC
+Scroll  VB  conj  locate  VB
+locate  VB  discourse  Accounts  UH
+locate  VB  nmod  devices  NNS
+devices  NNS  case  On  IN
+devices  NNS  det  some  DT
+heading  NN  nsubj  this  DT
+heading  NN  aux  may  MD
+heading  NN  cop  be  VB
+heading  NN  det  a  DT
+heading  NN  nmod  list  NN
+list  NN  case  with  IN
+list  NN  det  the  DT
+list  NN  nmod  accounts  NNS
+accounts  NNS  case  of  IN
+accounts  NNS  acl:relcl  link  VB
+link  VB  nsubj  you  PRP
+link  VB  aux  can  MD
+link  VB  nmod  device  NN
+device  NN  case  to  TO
+device  NN  nmod:poss  your  PRP$
+link  VB  nmod  it  PRP
+it  PRP  case  below  IN
+
+Sentence 13: On others, it's an option you can tap to open the Accounts settings menu; tap the option.
+option  NN  nmod  others  NNS
+others  NNS  case  On  IN
+option  NN  nsubj  it  PRP
+option  NN  cop  's  VBZ
+option  NN  det  an  DT
+option  NN  acl:relcl  tap  VB
+tap  VB  nsubj  you  PRP
+tap  VB  aux  can  MD
+tap  VB  xcomp  open  VB
+open  VB  mark  to  TO
+open  VB  dobj  menu  NN
+menu  NN  det  the  DT
+menu  NN  amod  Accounts  JJ
+menu  NN  compound  settings  NNS
+menu  NN  dep  tap  VB
+tap  VB  dobj  option  NN
+option  NN  det  the  DT
+
+Sentence 14: Select "Google" from the list.
+Select  NNP  dep  Google  NNP
+Google  NNP  nmod  list  NN
+list  NN  case  from  IN
+list  NN  det  the  DT
+
+Sentence 15: The screen will then display all Google accounts you have linked to your device.
+display  VB  nsubj  screen  NN
+screen  NN  det  The  DT
+display  VB  aux  will  MD
+display  VB  advmod  then  RB
+display  VB  dobj  accounts  NNS
+accounts  NNS  det  all  DT
+accounts  NNS  compound  Google  NNP
+accounts  NNS  acl:relcl  linked  VBN
+linked  VBN  nsubj  you  PRP
+linked  VBN  aux  have  VBP
+linked  VBN  nmod  device  NN
+device  NN  case  to  TO
+device  NN  nmod:poss  your  PRP$
+
+Sentence 16: Select which account you would like to keep syncing with your device.
+like  VB  nsubj  Select  NNP
+Select  NNP  acl:relcl  account  VBP
+account  VBP  nsubj  which  WDT
+account  VBP  dobj  you  PRP
+like  VB  aux  would  MD
+like  VB  xcomp  keep  VB
+keep  VB  mark  to  TO
+keep  VB  xcomp  syncing  VBG
+syncing  VBG  nmod  device  NN
+device  NN  case  with  IN
+device  NN  nmod:poss  your  PRP$
+
+Sentence 17: The screen will display a list of options that can be synced to that particular account, like App Data, Calendar, Contacts, etc.
+display  VB  nsubj  screen  NN
+screen  NN  det  The  DT
+display  VB  aux  will  MD
+display  VB  dobj  list  NN
+list  NN  det  a  DT
+list  NN  nmod  options  NNS
+options  NNS  case  of  IN
+options  NNS  acl:relcl  synced  VBN
+synced  VBN  nsubjpass  that  WDT
+synced  VBN  aux  can  MD
+synced  VBN  auxpass  be  VB
+synced  VBN  nmod  account  NN
+account  NN  case  to  TO
+account  NN  det  that  DT
+account  NN  amod  particular  JJ
+synced  VBN  nmod  Contacts  NNS
+Contacts  NNS  case  like  IN
+Contacts  NNS  compound  App  NNP
+Contacts  NNS  compound  Data  NNP
+Contacts  NNS  appos  Calendar  NNP
+Contacts  NNS  dep  etc.  FW
+
+Sentence 18: To the right of these options are check boxes.
+are  VBP  nmod  right  NN
+right  NN  case  To  TO
+right  NN  det  the  DT
+right  NN  nmod  options  NNS
+options  NNS  case  of  IN
+options  NNS  det  these  DT
+are  VBP  nsubj  boxes  NNS
+boxes  NNS  compound  check  NN
+
+Sentence 19: Tap the checkbox of the option that you would like to sync to the Google account.
+Tap  VB  dobj  checkbox  NN
+checkbox  NN  det  the  DT
+checkbox  NN  nmod  option  NN
+option  NN  case  of  IN
+option  NN  det  the  DT
+Tap  VB  ccomp  like  VB
+like  VB  mark  that  IN
+like  VB  nsubj  you  PRP
+like  VB  aux  would  MD
+like  VB  nmod  sync  NN
+sync  NN  case  to  TO
+like  VB  nmod  account  NN
+account  NN  case  to  TO
+account  NN  det  the  DT
+account  NN  compound  Google  NNP
+
+Sentence 20: If you want to sync all options, just tap "Sync now" at the bottom of the screen.
+tap  VB  advcl  want  VBP
+want  VBP  mark  If  IN
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  sync  VB
+sync  VB  mark  to  TO
+sync  VB  dobj  options  NNS
+options  NNS  det  all  DT
+tap  VB  advmod  just  RB
+tap  VB  dobj  Sync  NNP
+Sync  NNP  advmod  now  RB
+tap  VB  nmod  bottom  NN
+bottom  NN  case  at  IN
+bottom  NN  det  the  DT
+bottom  NN  nmod  screen  NN
+screen  NN  case  of  IN
+screen  NN  det  the  DT
+
+Sentence 21: Disable all other accounts.
+Disable  VB  dobj  accounts  NNS
+accounts  NNS  det  all  DT
+accounts  NNS  amod  other  JJ
+
+Sentence 22: If you want your device to sync with only the Google account you selected, you can disable the sync abilities of the other accounts.
+disable  VB  advcl  want  VBP
+want  VBP  mark  If  IN
+want  VBP  nsubj  you  PRP
+want  VBP  dobj  device  NN
+device  NN  nmod:poss  your  PRP$
+want  VBP  nmod  sync  NN
+sync  NN  case  to  TO
+want  VBP  nmod  account  NN
+account  NN  case  with  IN
+account  NN  advmod  only  RB
+account  NN  det  the  DT
+account  NN  amod  Google  JJ
+account  NN  acl:relcl  selected  VBD
+selected  VBD  nsubj  you  PRP
+disable  VB  nsubj  you  PRP
+disable  VB  aux  can  MD
+disable  VB  dobj  abilities  NNS
+abilities  NNS  det  the  DT
+abilities  NNS  compound  sync  NN
+abilities  NNS  nmod  accounts  NNS
+accounts  NNS  case  of  IN
+accounts  NNS  det  the  DT
+accounts  NNS  amod  other  JJ
+
+Sentence 23: Go back to the Google accounts list, and tap the account you'd like to disable.
+Go  VB  compound:prt  back  RP
+Go  VB  nmod  list  NN
+list  NN  case  to  TO
+list  NN  det  the  DT
+list  NN  compound  Google  NNP
+list  NN  compound  accounts  NNS
+Go  VB  cc  and  CC
+Go  VB  conj  tap  VB
+tap  VB  dobj  account  NN
+account  NN  det  the  DT
+account  NN  acl:relcl  like  VB
+like  VB  nsubj  you  PRP
+like  VB  aux  'd  MD
+like  VB  xcomp  disable  VB
+disable  VB  mark  to  TO
+
+Sentence 24: Uncheck all the sync options of the Google account to disable it.
+Uncheck  VB  dobj  options  NNS
+options  NNS  det:predet  all  PDT
+options  NNS  det  the  DT
+options  NNS  compound  sync  NN
+options  NNS  nmod  account  NN
+account  NN  case  of  IN
+account  NN  det  the  DT
+account  NN  compound  Google  NNP
+Uncheck  VB  advcl  disable  VB
+disable  VB  mark  to  TO
+disable  VB  dobj  it  PRP
+
+Sentence 25: Repeat this for all other accounts.
+Repeat  NN  dep  this  DT
+this  DT  nmod  accounts  NNS
+accounts  NNS  case  for  IN
+accounts  NNS  det  all  DT
+accounts  NNS  amod  other  JJ
+
+Sentence 26: Add a Google account.
+Add  VB  dobj  account  NN
+account  NN  det  a  DT
+account  NN  compound  Google  NNP
+
+Sentence 27: If the Google account you want to use isn't yet linked, you have to add it first.
+have  VBP  advcl  linked  VBN
+linked  VBN  mark  If  IN
+linked  VBN  nsubjpass  account  NN
+account  NN  det  the  DT
+account  NN  compound  Google  NNP
+account  NN  acl:relcl  want  VBP
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  use  VB
+use  VB  mark  to  TO
+linked  VBN  auxpass  is  VBZ
+linked  VBN  neg  n't  RB
+linked  VBN  advmod  yet  RB
+have  VBP  nsubj  you  PRP
+have  VBP  xcomp  add  VB
+add  VB  mark  to  TO
+add  VB  dobj  it  PRP
+add  VB  advmod  first  RB
+
+Sentence 28: On the Account settings screen, tap "+ Add Account" and then select "Google." On the next screen, select "Existing" if you want to add an account you already have or "New" if you want to create a new one.
+select  VBP  nmod  screen  NN
+screen  NN  case  On  IN
+screen  NN  det  the  DT
+screen  NN  compound  Account  NNP
+screen  NN  compound  settings  NNS
+select  VBP  ccomp  tap  VB
+tap  VB  dobj  Account  NNP
+Account  NNP  compound  +  NNP
+Account  NNP  compound  Add  NNP
+tap  VB  cc  and  CC
+tap  VB  conj  select  VB
+select  VB  advmod  then  RB
+select  VB  dobj  Google  NNP
+Google  NNP  nmod  screen  NN
+screen  NN  dep  On  NNP
+screen  NN  det  the  DT
+screen  NN  amod  next  JJ
+select  VBP  xcomp  Existing  JJ
+select  VBP  advcl  want  VBP
+want  VBP  mark  if  IN
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  add  VB
+add  VB  mark  to  TO
+add  VB  dobj  account  NN
+account  NN  det  an  DT
+account  NN  acl:relcl  have  VBP
+have  VBP  nsubj  you  PRP
+have  VBP  advmod  already  RB
+account  NN  cc  or  CC
+account  NN  conj  New  NNP
+New  NNP  acl:relcl  want  VBP
+want  VBP  mark  if  IN
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  create  VB
+create  VB  mark  to  TO
+create  VB  dobj  one  NN
+one  NN  det  a  DT
+one  NN  amod  new  JJ
+
+Sentence 29: If you selected "Existing," enter the Google email and password of the account and then tap the right arrow at the bottom.
+enter  VB  csubj  selected  VBD
+selected  VBD  mark  If  IN
+selected  VBD  nsubj  you  PRP
+selected  VBD  xcomp  Existing  NNP
+enter  VB  dobj  email  NN
+email  NN  det  the  DT
+email  NN  amod  Google  JJ
+email  NN  cc  and  CC
+email  NN  conj  password  NN
+email  NN  nmod  account  NN
+account  NN  case  of  IN
+account  NN  det  the  DT
+enter  VB  cc  and  CC
+enter  VB  conj  tap  VB
+tap  VB  advmod  then  RB
+tap  VB  dobj  arrow  NN
+arrow  NN  det  the  DT
+arrow  NN  amod  right  JJ
+tap  VB  nmod  bottom  NN
+bottom  NN  case  at  IN
+bottom  NN  det  the  DT
+
+Sentence 30: Wait for the account to sign in and then tap "OK." Set up the Payment Info if you want (or skip it), and then select which sync options you would like.
+Wait  VB  nmod  account  NN
+account  NN  case  for  IN
+account  NN  det  the  DT
+account  NN  acl  sign  VB
+sign  VB  mark  to  TO
+sign  VB  compound:prt  in  RP
+Wait  VB  cc  and  CC
+Wait  VB  conj  tap  VB
+tap  VB  advmod  then  RB
+tap  VB  ccomp  Set  VB
+Set  VB  discourse  OK  UH
+Set  VB  compound:prt  up  RP
+Set  VB  dobj  Info  NNP
+Info  NNP  det  the  DT
+Info  NNP  compound  Payment  NNP
+Info  NNP  acl:relcl  want  VBP
+want  VBP  mark  if  IN
+want  VBP  nsubj  you  PRP
+want  VBP  dep  skip  VBG
+skip  VBG  cc  or  CC
+skip  VBG  dobj  it  PRP
+tap  VB  cc  and  CC
+tap  VB  conj  select  VB
+select  VB  advmod  then  RB
+select  VB  ccomp  like  VB
+like  VB  dobj  options  NNS
+options  NNS  det  which  WDT
+options  NNS  amod  sync  JJ
+like  VB  nsubj  you  PRP
+like  VB  aux  would  MD
+
+Sentence 31: When you're done, tap the right arrow.
+tap  VB  advcl  done  VBN
+done  VBN  advmod  When  WRB
+done  VBN  nsubjpass  you  PRP
+done  VBN  auxpass  're  VBP
+tap  VB  dobj  arrow  NN
+arrow  NN  det  the  DT
+arrow  NN  amod  right  JJ
+
+Sentence 32: If you selected "New," a screen will appear where you need to enter your first name and last name.
+appear  VB  advcl  selected  VBD
+selected  VBD  mark  If  IN
+selected  VBD  nsubj  you  PRP
+selected  VBD  xcomp  New  NNP
+appear  VB  nsubj  screen  NN
+screen  NN  det  a  DT
+appear  VB  aux  will  MD
+appear  VB  advcl  need  VBP
+need  VBP  advmod  where  WRB
+need  VBP  nsubj  you  PRP
+need  VBP  xcomp  enter  VB
+enter  VB  mark  to  TO
+enter  VB  dobj  name  NN
+name  NN  nmod:poss  your  PRP$
+name  NN  amod  first  JJ
+name  NN  cc  and  CC
+name  NN  conj  name  NN
+name  NN  amod  last  JJ
+
+Sentence 33: Fill in the details and tap the right arrow at the bottom.
+Fill  VB  nmod  details  NNS
+details  NNS  case  in  IN
+details  NNS  det  the  DT
+Fill  VB  cc  and  CC
+Fill  VB  conj  tap  VB
+tap  VB  dobj  arrow  NN
+arrow  NN  det  the  DT
+arrow  NN  amod  right  JJ
+tap  VB  nmod  bottom  NN
+bottom  NN  case  at  IN
+bottom  NN  det  the  DT
+
+Sentence 34: Enter the email ID you want to use, and move on to the next screen.
+Enter  VB  ccomp  ID  VBP
+ID  VBP  nsubj  email  NN
+email  NN  det  the  DT
+ID  VBP  ccomp  want  VBP
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  use  VB
+use  VB  mark  to  TO
+use  VB  cc  and  CC
+use  VB  conj  move  VB
+move  VB  compound:prt  on  RP
+move  VB  nmod  screen  NN
+screen  NN  case  to  TO
+screen  NN  det  the  DT
+screen  NN  amod  next  JJ
+
+Sentence 35: Create a password, and confirm it to complete the sign-in process.
+Create  VB  dobj  password  NN
+password  NN  det  a  DT
+Create  VB  cc  and  CC
+Create  VB  conj  confirm  VB
+confirm  VB  dobj  it  PRP
+confirm  VB  xcomp  complete  VB
+complete  VB  mark  to  TO
+complete  VB  dobj  process  NN
+process  NN  det  the  DT
+process  NN  amod  sign-in  JJ
+
+Sentence 36: Changing the Google Sign-In in the Google Play Store
+Changing  VBG  dobj  Sign-In  NNP
+Sign-In  NNP  det  the  DT
+Sign-In  NNP  compound  Google  NNP
+Sign-In  NNP  nmod  Store  NNP
+Store  NNP  case  in  IN
+Store  NNP  det  the  DT
+Store  NNP  compound  Google  NNP
+Store  NNP  compound  Play  NNP
+
+Sentence 37: Launch Google Play.
+Launch  VB  dobj  Play  NNP
+Play  NNP  compound  Google  NNP
+
+Sentence 38: On your home screen or app drawer, look for the white bag with the play icon on it.
+look  VB  nmod  screen  NN
+screen  NN  case  On  IN
+screen  NN  nmod:poss  your  PRP$
+screen  NN  compound  home  NN
+screen  NN  cc  or  CC
+screen  NN  conj  drawer  NN
+drawer  NN  compound  app  NN
+look  VB  nmod  bag  NN
+bag  NN  case  for  IN
+bag  NN  det  the  DT
+bag  NN  amod  white  JJ
+bag  NN  nmod  icon  NN
+icon  NN  case  with  IN
+icon  NN  det  the  DT
+icon  NN  compound  play  NN
+look  VB  nmod  it  PRP
+it  PRP  case  on  IN
+
+Sentence 39: Tap the icon to open the Google Play Store.
+Tap  VB  dobj  icon  NN
+icon  NN  det  the  DT
+icon  NN  acl  open  VB
+open  VB  mark  to  TO
+open  VB  dobj  Store  NNP
+Store  NNP  det  the  DT
+Store  NNP  compound  Google  NNP
+Store  NNP  compound  Play  NNP
+
+Sentence 40: Tap the 3-bar icon at the top left of the screen.
+Tap  VB  dobj  icon  NN
+icon  NN  det  the  DT
+icon  NN  amod  3-bar  JJ
+Tap  VB  nmod  left  NN
+left  NN  case  at  IN
+left  NN  det  the  DT
+left  NN  amod  top  JJ
+left  NN  nmod  screen  NN
+screen  NN  case  of  IN
+screen  NN  det  the  DT
+
+Sentence 41: This will open the Play Store menu.
+open  VB  nsubj  This  DT
+open  VB  aux  will  MD
+open  VB  dobj  menu  NN
+menu  NN  det  the  DT
+menu  NN  compound  Play  NNP
+menu  NN  compound  Store  NNP
+
+Sentence 42: It will also display the profile picture, name, and Gmail address of the current account the Play Store is signed in to.
+signed  VBN  dep  display  VB
+display  VB  nsubj  It  PRP
+display  VB  aux  will  MD
+display  VB  advmod  also  RB
+display  VB  dobj  picture  NN
+picture  NN  det  the  DT
+picture  NN  compound  profile  NN
+picture  NN  conj  name  NN
+picture  NN  cc  and  CC
+picture  NN  conj  address  NN
+address  NN  compound  Gmail  NNP
+address  NN  nmod  account  NN
+account  NN  case  of  IN
+account  NN  det  the  DT
+account  NN  amod  current  JJ
+signed  VBN  nsubjpass  Store  NNP
+Store  NNP  det  the  DT
+Store  NNP  compound  Play  NNP
+signed  VBN  auxpass  is  VBZ
+signed  VBN  compound:prt  in  RP
+signed  VBN  nmod  to  TO
+
+Sentence 43: View the different sign-ins.
+View  NNP  dep  sign-ins  NNS
+sign-ins  NNS  det  the  DT
+sign-ins  NNS  amod  different  JJ
+
+Sentence 44: Tap the down arrow to the right of the Gmail address.
+Tap  VB  dobj  arrow  NN
+arrow  NN  det  the  DT
+arrow  NN  amod  down  JJ
+Tap  VB  nmod  right  NN
+right  NN  case  to  TO
+right  NN  det  the  DT
+right  NN  nmod  address  NN
+address  NN  case  of  IN
+address  NN  det  the  DT
+address  NN  compound  Gmail  NNP
+
+Sentence 45: A list of Google accounts linked to the device will drop down.
+drop  VB  nsubj  list  NN
+list  NN  det  A  DT
+list  NN  nmod  accounts  NNS
+accounts  NNS  case  of  IN
+accounts  NNS  compound  Google  NNP
+accounts  NNS  acl  linked  VBN
+linked  VBN  nmod  device  NN
+device  NN  case  to  TO
+device  NN  det  the  DT
+drop  VB  aux  will  MD
+drop  VB  compound:prt  down  RP
+
+Sentence 46: In order for the Google account to appear here, it must first be added through the Settings (step 6 of method 1).
+added  VBN  nmod  order  NN
+order  NN  case  In  IN
+order  NN  nmod  account  NN
+account  NN  case  for  IN
+account  NN  det  the  DT
+account  NN  compound  Google  NNP
+account  NN  acl  appear  VB
+appear  VB  mark  to  TO
+appear  VB  advmod  here  RB
+added  VBN  nsubjpass  it  PRP
+added  VBN  aux  must  MD
+added  VBN  advmod  first  RB
+added  VBN  auxpass  be  VB
+added  VBN  nmod  Settings  NNPS
+Settings  NNPS  case  through  IN
+Settings  NNPS  det  the  DT
+Settings  NNPS  dep  step  NN
+step  NN  nummod  6  CD
+step  NN  nmod  method  NN
+method  NN  case  of  IN
+method  NN  nummod  1  CD
+
+Sentence 47: Tap the Google sign-in you would like to use for Google Play.
+like  VB  nmod  sign-in  NN
+sign-in  NN  case  Tap  IN
+sign-in  NN  det  the  DT
+sign-in  NN  compound  Google  NNP
+like  VB  nsubj  you  PRP
+like  VB  aux  would  MD
+like  VB  xcomp  use  VB
+use  VB  mark  to  TO
+use  VB  nmod  Play  NNP
+Play  NNP  case  for  IN
+Play  NNP  compound  Google  NNP
+
+Sentence 48: Any downloads and purchases on Google Play after this will now be saved under the selected account.
+saved  VBN  nsubjpass  downloads  NNS
+downloads  NNS  det  Any  DT
+downloads  NNS  cc  and  CC
+downloads  NNS  conj  purchases  NNS
+downloads  NNS  nmod  Play  NNP
+Play  NNP  case  on  IN
+Play  NNP  compound  Google  NNP
+Play  NNP  nmod  this  DT
+this  DT  case  after  IN
+saved  VBN  aux  will  MD
+saved  VBN  advmod  now  RB
+saved  VBN  auxpass  be  VB
+saved  VBN  nmod  account  NN
+account  NN  case  under  IN
+account  NN  det  the  DT
+account  NN  amod  selected  VBN
+
+Sentence 49: Changing the Google Sign-In in Google+
+Changing  VBG  dobj  Sign-In  NNP
+Sign-In  NNP  det  the  DT
+Sign-In  NNP  compound  Google  NNP
+Sign-In  NNP  nmod  +  NNP
++  NNP  case  in  IN
++  NNP  compound  Google  NNP
+
+Sentence 50: Launch Google+.
+Launch  VB  dobj  +  NNP
++  NNP  compound  Google  NNP
+
+Sentence 51: Look for the red icon with "g+" in your home screen or app drawer.
+Look  VB  nmod  icon  NN
+icon  NN  case  for  IN
+icon  NN  det  the  DT
+icon  NN  amod  red  JJ
+Look  VB  nmod  +  NN
++  NN  case  with  IN
++  NN  compound  g  NN
++  NN  nmod  screen  NN
+screen  NN  case  in  IN
+screen  NN  nmod:poss  your  PRP$
+screen  NN  compound  home  NN
+screen  NN  cc  or  CC
+screen  NN  conj  drawer  NN
+drawer  NN  compound  app  NN
+
+Sentence 52: Tap it to open the Google+ app.
+Tap  VB  dobj  it  PRP
+Tap  VB  xcomp  open  VB
+open  VB  mark  to  TO
+open  VB  dobj  app  NN
+app  NN  det  the  DT
+app  NN  compound  Google  NNP
+app  NN  compound  +  NNP
+
+Sentence 53: Add a Google account.
+Add  VB  dobj  account  NN
+account  NN  det  a  DT
+account  NN  compound  Google  NNP
+
+Sentence 54: If the sign-in you want to use is not yet linked to your Google+ app, you must first add it.
+add  VB  advcl  linked  VBN
+linked  VBN  mark  If  IN
+linked  VBN  nsubjpass  sign-in  NN
+sign-in  NN  det  the  DT
+sign-in  NN  acl:relcl  want  VBP
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  use  VB
+use  VB  mark  to  TO
+linked  VBN  auxpass  is  VBZ
+linked  VBN  neg  not  RB
+linked  VBN  advmod  yet  RB
+linked  VBN  nmod  app  NN
+app  NN  case  to  TO
+app  NN  nmod:poss  your  PRP$
+app  NN  compound  Google  NNP
+app  NN  compound  +  NNP
+add  VB  nsubj  you  PRP
+add  VB  aux  must  MD
+add  VB  advmod  first  RB
+add  VB  dobj  it  PRP
+
+Sentence 55: Tap the 3-dot icon at the top right of the screen, and from the menu that appears, tap "Settings."
+Tap  VB  dobj  icon  NN
+icon  NN  det  the  DT
+icon  NN  amod  3-dot  JJ
+Tap  VB  nmod  right  NN
+right  NN  case  at  IN
+right  NN  det  the  DT
+right  NN  amod  top  JJ
+right  NN  nmod  screen  NN
+screen  NN  case  of  IN
+screen  NN  det  the  DT
+right  NN  cc  and  CC
+right  NN  conj  menu  NN
+menu  NN  case  from  IN
+menu  NN  det  the  DT
+menu  NN  acl:relcl  appears  VBZ
+appears  VBZ  nsubj  that  WDT
+Tap  VB  dep  tap  VB
+tap  VB  dobj  Settings  NNS
+
+Sentence 56: Go down to the middle of the Settings menu to locate the Account Settings section.
+Go  VB  advmod  down  RB
+down  RB  nmod  middle  NN
+middle  NN  case  to  TO
+middle  NN  det  the  DT
+middle  NN  nmod  menu  NN
+menu  NN  case  of  IN
+menu  NN  det  the  DT
+menu  NN  compound  Settings  NNP
+Go  VB  xcomp  locate  VB
+locate  VB  mark  to  TO
+locate  VB  dobj  section  NN
+section  NN  det  the  DT
+section  NN  compound  Account  NNP
+section  NN  compound  Settings  NNP
+
+Sentence 57: The Account Settings will list all the Google accounts currently linked to your Android device.
+list  VB  nsubj  Settings  NNP
+Settings  NNP  det  The  DT
+Settings  NNP  compound  Account  NNP
+list  VB  aux  will  MD
+list  VB  dobj  accounts  NNS
+accounts  NNS  det:predet  all  PDT
+accounts  NNS  det  the  DT
+accounts  NNS  compound  Google  NNP
+accounts  NNS  acl  linked  VBN
+linked  VBN  advmod  currently  RB
+linked  VBN  nmod  device  NN
+device  NN  case  to  TO
+device  NN  nmod:poss  your  PRP$
+device  NN  compound  Android  NNP
+
+Sentence 58: Tap the Google sign-in you want to use for the Google+ app.
+want  VBP  nmod  sign-in  NN
+sign-in  NN  case  Tap  IN
+sign-in  NN  det  the  DT
+sign-in  NN  compound  Google  NNP
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  use  VB
+use  VB  mark  to  TO
+use  VB  nmod  app  NN
+app  NN  case  for  IN
+app  NN  det  the  DT
+app  NN  compound  Google  NNP
+app  NN  compound  +  NNP
+
+Sentence 59: Change the Google sign-in.
+Change  VB  dobj  sign-in  NN
+sign-in  NN  det  the  DT
+sign-in  NN  compound  Google  NNP
+
+Sentence 60: Once you've linked the Google account, go back to the home screen.
+go  VB  advcl  linked  VBN
+linked  VBN  mark  Once  IN
+linked  VBN  nsubj  you  PRP
+linked  VBN  aux  've  VBP
+linked  VBN  dobj  account  NN
+account  NN  det  the  DT
+account  NN  compound  Google  NNP
+go  VB  compound:prt  back  RP
+go  VB  nmod  screen  NN
+screen  NN  case  to  TO
+screen  NN  det  the  DT
+screen  NN  compound  home  NN
+
+Sentence 61: There will be a down arrow next to the account name at the top header; tap this arrow and a list of linked accounts will appear.
+arrow  NN  expl  There  EX
+arrow  NN  aux  will  MD
+arrow  NN  cop  be  VB
+arrow  NN  det  a  DT
+arrow  NN  amod  down  JJ
+arrow  NN  advmod  next  JJ
+next  JJ  nmod  name  NN
+name  NN  case  to  TO
+name  NN  det  the  DT
+name  NN  compound  account  NN
+arrow  NN  nmod  header  NN
+header  NN  case  at  IN
+header  NN  det  the  DT
+header  NN  amod  top  JJ
+arrow  NN  parataxis  appear  VB
+appear  VB  csubj  tap  VB
+tap  VB  dobj  arrow  NN
+arrow  NN  det  this  DT
+arrow  NN  cc  and  CC
+arrow  NN  conj  list  NN
+list  NN  det  a  DT
+list  NN  nmod  accounts  NNS
+accounts  NNS  case  of  IN
+accounts  NNS  amod  linked  VBN
+appear  VB  aux  will  MD
+
+Sentence 62: Tap on the account you would like to sign in with, and Google+ will change accounts.
+like  VB  nsubj  Tap  VB
+Tap  VB  nmod  account  NN
+account  NN  case  on  IN
+account  NN  det  the  DT
+like  VB  nsubj  you  PRP
+like  VB  aux  would  MD
+like  VB  xcomp  sign  VB
+sign  VB  mark  to  TO
+sign  VB  compound:prt  in  RP
+sign  VB  nmod  with  IN
+like  VB  cc  and  CC
+like  VB  conj  change  VB
+change  VB  nsubj  +  NNP
++  NNP  compound  Google  NNP
+change  VB  aux  will  MD
+change  VB  dobj  accounts  NNS
+
+Sentence 63: Changing the Google Sign-In in Gmail
+Changing  VBG  dobj  Sign-In  NNP
+Sign-In  NNP  det  the  DT
+Sign-In  NNP  compound  Google  NNP
+Sign-In  NNP  nmod  Gmail  NNP
+Gmail  NNP  case  in  IN
+
+Sentence 64: Launch the Gmail app.
+Launch  VB  dobj  app  NN
+app  NN  det  the  DT
+app  NN  compound  Gmail  NNP
+
+Sentence 65: Locate the Gmail app icon on your home screen or app drawer.
+Locate  VB  dobj  icon  NN
+icon  NN  det  the  DT
+icon  NN  compound  Gmail  NNP
+icon  NN  compound  app  NN
+Locate  VB  nmod  screen  NN
+screen  NN  case  on  IN
+screen  NN  nmod:poss  your  PRP$
+screen  NN  compound  home  NN
+screen  NN  cc  or  CC
+screen  NN  conj  drawer  NN
+drawer  NN  compound  app  NN
+
+Sentence 66: It's the envelope with the letter "G" in it.
+envelope  NN  nsubj  It  PRP
+envelope  NN  cop  's  VBZ
+envelope  NN  det  the  DT
+envelope  NN  nmod  G  NNP
+G  NNP  case  with  IN
+G  NNP  det  the  DT
+G  NNP  compound  letter  NN
+envelope  NN  nmod  it  PRP
+it  PRP  case  in  IN
+
+Sentence 67: Tap to open.
+Tap  VB  xcomp  open  VB
+open  VB  mark  to  TO
+
+Sentence 68: Tap the 3-bar icon at the top left of the screen.
+Tap  VB  dobj  icon  NN
+icon  NN  det  the  DT
+icon  NN  amod  3-bar  JJ
+Tap  VB  nmod  left  NN
+left  NN  case  at  IN
+left  NN  det  the  DT
+left  NN  amod  top  JJ
+left  NN  nmod  screen  NN
+screen  NN  case  of  IN
+screen  NN  det  the  DT
+
+Sentence 69: This will open the app menu.
+open  VB  nsubj  This  DT
+open  VB  aux  will  MD
+open  VB  dobj  menu  NN
+menu  NN  det  the  DT
+menu  NN  compound  app  NN
+
+Sentence 70: The first section of the menu will list all the Google accounts linked to your Android device.
+list  VB  nsubj  section  NN
+section  NN  det  The  DT
+section  NN  amod  first  JJ
+section  NN  nmod  menu  NN
+menu  NN  case  of  IN
+menu  NN  det  the  DT
+list  VB  aux  will  MD
+list  VB  dobj  accounts  NNS
+accounts  NNS  det:predet  all  PDT
+accounts  NNS  det  the  DT
+accounts  NNS  compound  Google  NNP
+accounts  NNS  acl  linked  VBN
+linked  VBN  nmod  device  NN
+device  NN  case  to  TO
+device  NN  nmod:poss  your  PRP$
+device  NN  compound  Android  NNP
+
+Sentence 71: Change the Google sign-in.
+Change  VB  dobj  sign-in  NN
+sign-in  NN  det  the  DT
+sign-in  NN  compound  Google  NNP
+
+Sentence 72: Tap on the Google account you would like to use for the Gmail app.
+account  VBP  nsubj  Tap  VB
+Tap  VB  nmod  Google  NNP
+Google  NNP  case  on  IN
+Google  NNP  det  the  DT
+account  VBP  ccomp  like  VB
+like  VB  nsubj  you  PRP
+like  VB  aux  would  MD
+like  VB  xcomp  use  VB
+use  VB  mark  to  TO
+use  VB  nmod  app  NN
+app  NN  case  for  IN
+app  NN  det  the  DT
+app  NN  compound  Gmail  NNP
+
+Sentence 73: If the account is not synced, tap "Sync now" to have Gmail sync the emails of that account.
+tap  VB  advcl  synced  JJ
+synced  JJ  mark  If  IN
+synced  JJ  nsubj  account  NN
+account  NN  det  the  DT
+synced  JJ  cop  is  VBZ
+synced  JJ  neg  not  RB
+tap  VB  dep  Sync  VBN
+Sync  VBN  advmod  now  RB
+Sync  VBN  xcomp  have  VB
+have  VB  mark  to  TO
+have  VB  dobj  emails  NNS
+emails  NNS  compound  Gmail  NNP
+emails  NNS  compound  sync  NNPS
+emails  NNS  dep  the  VBP
+emails  NNS  nmod  account  NN
+account  NN  case  of  IN
+account  NN  det  that  DT
+
+Sentence 74: This might take a while, depending on the bulk of the emails the app needs to sync.
+needs  VBZ  dep  take  VB
+take  VB  nsubj  This  DT
+take  VB  aux  might  MD
+take  VB  dobj  while  NN
+while  NN  det  a  DT
+take  VB  advcl  bulk  NN
+bulk  NN  case  depending  VBG
+bulk  NN  case  on  IN
+bulk  NN  det  the  DT
+bulk  NN  nmod  emails  NNS
+emails  NNS  case  of  IN
+emails  NNS  det  the  DT
+needs  VBZ  nsubj  app  NN
+app  NN  det  the  DT
+needs  VBZ  nmod  sync  NN
+sync  NN  case  to  TO
+
+Sentence 75: If the account you want to use is not listed, you must first add it to your device through the settings (method 1, step 6).
+add  VB  advcl  listed  VBN
+listed  VBN  mark  If  IN
+listed  VBN  nsubjpass  account  NN
+account  NN  det  the  DT
+account  NN  acl:relcl  want  VBP
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  use  VB
+use  VB  mark  to  TO
+listed  VBN  auxpass  is  VBZ
+listed  VBN  neg  not  RB
+add  VB  nsubj  you  PRP
+add  VB  aux  must  MD
+add  VB  advmod  first  RB
+add  VB  dobj  it  PRP
+add  VB  nmod  device  NN
+device  NN  case  to  TO
+device  NN  nmod:poss  your  PRP$
+add  VB  nmod  settings  NNS
+settings  NNS  case  through  IN
+settings  NNS  det  the  DT
+settings  NNS  appos  method  NN
+method  NN  nummod  1  CD
+method  NN  dep  step  NN
+step  NN  nummod  6  CD

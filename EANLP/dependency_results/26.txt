@@ -1,0 +1,1729 @@
+text_num: 25 total sentences: 155  total words: 1567
+
+Sentence 0: Connecting two computers directly to each other allows you to transfer files faster than any other method and can also let you share one computer s internet connection with the other
+Connecting  VBG  dobj  computers  NNS
+computers  NNS  nummod  two  CD
+Connecting  VBG  advmod  directly  RB
+Connecting  VBG  nmod  other  JJ
+other  JJ  case  to  TO
+other  JJ  det  each  DT
+Connecting  VBG  dep  allows  VBZ
+allows  VBZ  dobj  you  PRP
+allows  VBZ  xcomp  transfer  VB
+transfer  VB  mark  to  TO
+transfer  VB  dobj  files  NNS
+transfer  VB  advmod  faster  RBR
+transfer  VB  nmod  method  NN
+method  NN  case  than  IN
+method  NN  det  any  DT
+method  NN  amod  other  JJ
+allows  VBZ  cc  and  CC
+allows  VBZ  conj  let  VB
+let  VB  aux  can  MD
+let  VB  advmod  also  RB
+let  VB  dobj  you  PRP
+Connecting  VBG  nsubj  share  NN
+share  NN  acl:relcl  connection  NN
+connection  NN  nsubj  computer  NN
+computer  NN  nummod  one  CD
+connection  NN  cop  s  VBZ
+connection  NN  compound  internet  NN
+connection  NN  nmod  other  JJ
+other  JJ  case  with  IN
+other  JJ  det  the  DT
+
+Sentence 1: The process varies depending on whether you are sharing files or an internet connection as well as what operating system s you are using
+varies  VBZ  nsubj  process  NN
+process  NN  det  The  DT
+varies  VBZ  xcomp  depending  VBG
+depending  VBG  compound:prt  on  RP
+depending  VBG  dobj  sharing  VBG
+sharing  VBG  mark  whether  IN
+sharing  VBG  nsubj  you  PRP
+sharing  VBG  aux  are  VBP
+sharing  VBG  dobj  files  NNS
+files  NNS  cc  or  CC
+files  NNS  conj  connection  NN
+connection  NN  det  an  DT
+connection  NN  compound  internet  NN
+sharing  VBG  cc  as  RB
+as  RB  mwe  well  RB
+as  RB  mwe  as  IN
+sharing  VBG  conj  s  VBZ
+s  VBZ  dobj  what  WP
+s  VBZ  nsubj  system  NN
+system  NN  amod  operating  VBG
+s  VBZ  ccomp  using  VBG
+using  VBG  nsubj  you  PRP
+using  VBG  aux  are  VBP
+
+Sentence 2: Sharing Files Windows to Windows
+Sharing  VBG  dobj  Windows  NNP
+Windows  NNP  compound  Files  NNP
+Sharing  VBG  nmod  Windows  NNP
+Windows  NNP  case  to  TO
+
+Sentence 3: Disable the wireless adapters on the computers optional
+Disable  VB  dobj  adapters  NNS
+adapters  NNS  det  the  DT
+adapters  NNS  amod  wireless  JJ
+Disable  VB  nmod  optional  NN
+optional  NN  case  on  IN
+optional  NN  det  the  DT
+optional  NN  compound  computers  NNS
+
+Sentence 4: If either computer has the wireless network adapter turn it off when connecting the computers
+has  VBZ  mark  If  IN
+has  VBZ  nsubj  computer  NN
+computer  NN  det  either  DT
+has  VBZ  ccomp  turn  VB
+turn  VB  nsubj  adapter  NN
+adapter  NN  det  the  DT
+adapter  NN  amod  wireless  JJ
+adapter  NN  compound  network  NN
+turn  VB  dobj  it  PRP
+turn  VB  compound:prt  off  RP
+turn  VB  advcl  connecting  VBG
+connecting  VBG  advmod  when  WRB
+connecting  VBG  dobj  computers  NNS
+computers  NNS  det  the  DT
+
+Sentence 5: This will help prevent network conflicts
+help  VB  nsubj  This  DT
+help  VB  aux  will  MD
+help  VB  xcomp  prevent  VB
+prevent  VB  dobj  conflicts  NNS
+conflicts  NNS  compound  network  NN
+
+Sentence 6: Click the Start menu type ncpa cpl and press Enter
+Click  VB  dobj  cpl  NN
+cpl  NN  det  the  DT
+cpl  NN  compound  Start  NNP
+cpl  NN  compound  menu  NN
+cpl  NN  compound  type  NN
+cpl  NN  compound  ncpa  NN
+cpl  NN  cc  and  CC
+cpl  NN  conj  Enter  NNS
+Enter  NNS  compound  press  NN
+
+Sentence 7: Right-click on your wireless connection and select Disable
+Right-click  VB  nmod  connection  NN
+connection  NN  case  on  IN
+connection  NN  nmod:poss  your  PRP$
+connection  NN  amod  wireless  JJ
+Right-click  VB  cc  and  CC
+Right-click  VB  conj  select  VB
+select  VB  dobj  Disable  NNP
+
+Sentence 8: Connect the two computers using an Ethernet cable
+Connect  VB  dep  using  VBG
+using  VBG  nsubj  computers  NNS
+computers  NNS  det  the  DT
+computers  NNS  nummod  two  CD
+using  VBG  dobj  cable  NN
+cable  NN  det  an  DT
+cable  NN  compound  Ethernet  NNP
+
+Sentence 9: Newer computers can use a standard Ethernet cable as the network adapter will automatically detect that you are connecting two computers
+use  VB  nsubj  computers  NNS
+computers  NNS  compound  Newer  NNP
+use  VB  aux  can  MD
+use  VB  dobj  cable  NN
+cable  NN  det  a  DT
+cable  NN  amod  standard  JJ
+cable  NN  compound  Ethernet  NNP
+use  VB  advcl  detect  VB
+detect  VB  mark  as  IN
+detect  VB  nsubj  adapter  NN
+adapter  NN  det  the  DT
+adapter  NN  compound  network  NN
+detect  VB  aux  will  MD
+detect  VB  advmod  automatically  RB
+detect  VB  ccomp  connecting  VBG
+connecting  VBG  mark  that  IN
+connecting  VBG  nsubj  you  PRP
+connecting  VBG  aux  are  VBP
+connecting  VBG  dobj  computers  NNS
+computers  NNS  nummod  two  CD
+
+Sentence 10: Older computers may need to use a crossover cable which is a standard Ethernet cable with the connection reversed on one end
+need  VB  nsubj  computers  NNS
+computers  NNS  amod  Older  JJR
+need  VB  aux  may  MD
+need  VB  xcomp  use  VB
+use  VB  mark  to  TO
+use  VB  dobj  cable  NN
+cable  NN  det  a  DT
+cable  NN  compound  crossover  NN
+cable  NN  acl:relcl  cable  NN
+cable  NN  nsubj  which  WDT
+cable  NN  cop  is  VBZ
+cable  NN  det  a  DT
+cable  NN  amod  standard  JJ
+cable  NN  compound  Ethernet  NNP
+cable  NN  nmod  connection  NN
+connection  NN  case  with  IN
+connection  NN  det  the  DT
+connection  NN  acl  reversed  VBN
+reversed  VBN  nmod  end  NN
+end  NN  case  on  IN
+end  NN  nummod  one  CD
+
+Sentence 11: Return to the computer that you want to share something from
+Return  NN  nmod  computer  NN
+computer  NN  case  to  TO
+computer  NN  det  the  DT
+Return  NN  dep  want  VBP
+want  VBP  mark  that  IN
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  share  VB
+share  VB  mark  to  TO
+share  VB  dobj  something  NN
+share  VB  nmod  from  IN
+
+Sentence 12: While you will be able to share files back and forth between both computers it is usually easiest to set up sharing on your most modern computer
+able  JJ  mark  While  IN
+able  JJ  nsubj  you  PRP
+able  JJ  aux  will  MD
+able  JJ  cop  be  VB
+able  JJ  xcomp  share  VB
+share  VB  mark  to  TO
+share  VB  dobj  files  NNS
+share  VB  advmod  back  RB
+back  RB  cc  and  CC
+back  RB  conj  forth  RB
+share  VB  nmod  computers  NNS
+computers  NNS  case  between  IN
+computers  NNS  det  both  DT
+computers  NNS  acl:relcl  easiest  VBG
+easiest  VBG  nsubj  it  PRP
+easiest  VBG  aux  is  VBZ
+easiest  VBG  advmod  usually  RB
+easiest  VBG  xcomp  set  VB
+set  VB  mark  to  TO
+set  VB  compound:prt  up  RP
+set  VB  xcomp  sharing  VBG
+sharing  VBG  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  nmod:poss  your  PRP$
+computer  NN  amod  most  JJS
+computer  NN  amod  modern  JJ
+
+Sentence 13: Right-click on the network connection icon in the System Tray
+Right-click  VB  nmod  icon  NN
+icon  NN  case  on  IN
+icon  NN  det  the  DT
+icon  NN  compound  network  NN
+icon  NN  compound  connection  NN
+icon  NN  nmod  Tray  NNP
+Tray  NNP  case  in  IN
+Tray  NNP  det  the  DT
+Tray  NNP  compound  System  NNP
+
+Sentence 14: Select Open Network and Sharing Center
+Network  NNP  compound  Select  NNP
+Network  NNP  compound  Open  NNP
+Network  NNP  cc  and  CC
+Network  NNP  conj  Center  NNP
+Center  NNP  compound  Sharing  NNP
+
+Sentence 15: Click the Local Area Connection link next to Unidentified network
+Click  VB  dobj  link  NN
+link  NN  det  the  DT
+link  NN  amod  Local  JJ
+link  NN  compound  Area  NNP
+link  NN  compound  Connection  NN
+Click  VB  advmod  next  JJ
+next  JJ  nmod  network  NN
+network  NN  case  to  TO
+network  NN  compound  Unidentified  NNP
+
+Sentence 16: This will open the details of the new connection between the two computers
+open  VB  nsubj  This  DT
+open  VB  aux  will  MD
+open  VB  dobj  details  NNS
+details  NNS  det  the  DT
+details  NNS  nmod  connection  NN
+connection  NN  case  of  IN
+connection  NN  det  the  DT
+connection  NN  amod  new  JJ
+connection  NN  nmod  computers  NNS
+computers  NNS  case  between  IN
+computers  NNS  det  the  DT
+computers  NNS  nummod  two  CD
+
+Sentence 17: Select Internet Protocol Version 4 and click Properties
+Version  NNP  compound  Select  NNP
+Version  NNP  compound  Internet  NNP
+Version  NNP  compound  Protocol  NNP
+Version  NNP  dep  4  CD
+4  CD  cc  and  CC
+4  CD  conj  Properties  NNP
+Properties  NNP  compound  click  NNP
+
+Sentence 18: Select Use the following IP address
+Use  NNP  compound  Select  NNP
+Use  NNP  dep  address  NN
+address  NN  det  the  DT
+address  NN  amod  following  JJ
+address  NN  compound  IP  NNP
+
+Sentence 19: This will allow you to manually enter an IP address
+allow  VB  nsubj  This  DT
+allow  VB  aux  will  MD
+allow  VB  dobj  you  PRP
+allow  VB  xcomp  enter  VB
+enter  VB  mark  to  TO
+enter  VB  advmod  manually  RB
+enter  VB  dobj  address  NN
+address  NN  det  an  DT
+address  NN  compound  IP  NNP
+
+Sentence 20: Enter an IP address
+Enter  VB  dobj  address  NN
+address  NN  det  an  DT
+address  NN  compound  IP  NNP
+
+Sentence 21: Since you aren t using the internet the IP address can actually be anything
+t  VBP  nmod  you  PRP
+you  PRP  case  Since  IN
+t  VBP  nsubj  aren  NN
+t  VBP  xcomp  using  VBG
+using  VBG  dobj  internet  NN
+internet  NN  det  the  DT
+internet  NN  acl:relcl  anything  NN
+anything  NN  nsubj  address  NN
+address  NN  det  the  DT
+address  NN  compound  IP  NNP
+anything  NN  aux  can  MD
+anything  NN  advmod  actually  RB
+anything  NN  cop  be  VB
+
+Sentence 22: For ease of explanation set the IP address to 192 168 1 10
+ease  NN  case  For  IN
+ease  NN  nmod  explanation  NN
+explanation  NN  case  of  IN
+explanation  NN  acl  set  VBN
+set  VBN  dobj  address  NN
+address  NN  det  the  DT
+address  NN  compound  IP  NNP
+set  VBN  nmod  10  CD
+10  CD  case  to  TO
+10  CD  nummod  168  CD
+168  CD  compound  192  CD
+10  CD  compound  1  CD
+
+Sentence 23: Press Tab to automatically set the subnet mask
+set  VB  nsubj  Tab  NNP
+Tab  NNP  compound  Press  NNP
+set  VB  mark  to  TO
+set  VB  advmod  automatically  RB
+set  VB  dobj  mask  NN
+mask  NN  det  the  DT
+mask  NN  amod  subnet  JJ
+
+Sentence 24: Click OK
+Click  VB  xcomp  OK  JJ
+
+Sentence 25: Go to the second computer
+Go  VB  nmod  computer  NN
+computer  NN  case  to  TO
+computer  NN  det  the  DT
+computer  NN  amod  second  JJ
+
+Sentence 26: Open the Network and Sharing Center like you did on the first PC
+Open  VB  dobj  Center  NNP
+Center  NNP  det  the  DT
+Center  NNP  compound  Network  NNP
+Network  NNP  cc  and  CC
+Network  NNP  conj  Sharing  NNP
+Open  VB  advcl  did  VBD
+did  VBD  mark  like  IN
+did  VBD  nsubj  you  PRP
+did  VBD  nmod  PC  NN
+PC  NN  case  on  IN
+PC  NN  det  the  DT
+PC  NN  amod  first  JJ
+
+Sentence 27: Click the Local Area Connection link next to Unidentified network
+Click  VB  dobj  link  NN
+link  NN  det  the  DT
+link  NN  amod  Local  JJ
+link  NN  compound  Area  NNP
+link  NN  compound  Connection  NN
+Click  VB  advmod  next  JJ
+next  JJ  nmod  network  NN
+network  NN  case  to  TO
+network  NN  compound  Unidentified  NNP
+
+Sentence 28: This will open the details of the new connection between the two computers
+open  VB  nsubj  This  DT
+open  VB  aux  will  MD
+open  VB  dobj  details  NNS
+details  NNS  det  the  DT
+details  NNS  nmod  connection  NN
+connection  NN  case  of  IN
+connection  NN  det  the  DT
+connection  NN  amod  new  JJ
+connection  NN  nmod  computers  NNS
+computers  NNS  case  between  IN
+computers  NNS  det  the  DT
+computers  NNS  nummod  two  CD
+
+Sentence 29: Select Internet Protocol Version 4 and click Properties
+Version  NNP  compound  Select  NNP
+Version  NNP  compound  Internet  NNP
+Version  NNP  compound  Protocol  NNP
+Version  NNP  dep  4  CD
+4  CD  cc  and  CC
+4  CD  conj  Properties  NNP
+Properties  NNP  compound  click  NNP
+
+Sentence 30: Select Use the following IP address
+Use  NNP  compound  Select  NNP
+Use  NNP  dep  address  NN
+address  NN  det  the  DT
+address  NN  amod  following  JJ
+address  NN  compound  IP  NNP
+
+Sentence 31: This will allow you to manually enter an IP address for the second computer
+allow  VB  nsubj  This  DT
+allow  VB  aux  will  MD
+allow  VB  dobj  you  PRP
+allow  VB  xcomp  enter  VB
+enter  VB  mark  to  TO
+enter  VB  advmod  manually  RB
+enter  VB  dobj  address  NN
+address  NN  det  an  DT
+address  NN  compound  IP  NNP
+address  NN  nmod  computer  NN
+computer  NN  case  for  IN
+computer  NN  det  the  DT
+computer  NN  amod  second  JJ
+
+Sentence 32: Enter in an IP address with a different set of last digits
+Enter  VB  nmod  address  NN
+address  NN  case  in  IN
+address  NN  det  an  DT
+address  NN  compound  IP  NNP
+Enter  VB  nmod  set  NN
+set  NN  case  with  IN
+set  NN  det  a  DT
+set  NN  amod  different  JJ
+set  NN  nmod  digits  NNS
+digits  NNS  case  of  IN
+digits  NNS  amod  last  JJ
+
+Sentence 33: Since we used 192 168 1 10 for the first computer enter 192 168 1 11 for the second one
+used  VBD  mark  Since  IN
+used  VBD  nsubj  we  PRP
+used  VBD  ccomp  enter  VBP
+enter  VBP  nsubj  10  CD
+10  CD  nummod  168  CD
+168  CD  compound  192  CD
+10  CD  compound  1  CD
+10  CD  nmod  computer  NN
+computer  NN  case  for  IN
+computer  NN  det  the  DT
+computer  NN  amod  first  JJ
+enter  VBP  dobj  11  CD
+11  CD  nummod  168  CD
+168  CD  compound  192  CD
+11  CD  compound  1  CD
+11  CD  nmod  one  NN
+one  NN  case  for  IN
+one  NN  det  the  DT
+one  NN  amod  second  JJ
+
+Sentence 34: Press Tab to automatically set the subnet mask
+set  VB  nsubj  Tab  NNP
+Tab  NNP  compound  Press  NNP
+set  VB  mark  to  TO
+set  VB  advmod  automatically  RB
+set  VB  dobj  mask  NN
+mask  NN  det  the  DT
+mask  NN  amod  subnet  JJ
+
+Sentence 35: Click OK
+Click  VB  xcomp  OK  JJ
+
+Sentence 36: The two computers are now on a private network between the two of them
+network  NN  nsubj  computers  NNS
+computers  NNS  det  The  DT
+computers  NNS  nummod  two  CD
+network  NN  cop  are  VBP
+network  NN  advmod  now  RB
+network  NN  case  on  IN
+network  NN  det  a  DT
+network  NN  amod  private  JJ
+network  NN  nmod  two  CD
+two  CD  case  between  IN
+two  CD  det  the  DT
+two  CD  nmod  them  PRP
+them  PRP  case  of  IN
+
+Sentence 37: Return to the computer you want to share something from
+Return  NN  nmod  computer  NN
+computer  NN  case  to  TO
+computer  NN  det  the  DT
+computer  NN  acl:relcl  want  VBP
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  share  VB
+share  VB  mark  to  TO
+share  VB  dobj  something  NN
+share  VB  nmod  from  IN
+
+Sentence 38: Locate the drive file or folder that you want to share with the second computer
+Locate  VB  dobj  file  NN
+file  NN  det  the  DT
+file  NN  compound  drive  NN
+Locate  VB  cc  or  CC
+Locate  VB  conj  folder  VB
+folder  VB  ccomp  want  VBP
+want  VBP  mark  that  IN
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  share  VB
+share  VB  mark  to  TO
+share  VB  nmod  computer  NN
+computer  NN  case  with  IN
+computer  NN  det  the  DT
+computer  NN  amod  second  JJ
+
+Sentence 39: Right-click on the object you want to share and click Properties
+Right-click  VB  nmod  object  NN
+object  NN  case  on  IN
+object  NN  det  the  DT
+object  NN  acl:relcl  want  VBP
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  share  VB
+share  VB  mark  to  TO
+share  VB  cc  and  CC
+share  VB  conj  click  VB
+share  VB  dobj  Properties  NNP
+
+Sentence 40: Click the Sharing tab
+Click  VB  dobj  tab  NN
+tab  NN  det  the  DT
+tab  NN  amod  Sharing  JJ
+
+Sentence 41: Advanced Sharing and check the Share this folder box
+Sharing  NNP  compound  Advanced  NNP
+Sharing  NNP  cc  and  CC
+Sharing  NNP  conj  check  NN
+Sharing  NNP  dep  Share  NN
+Share  NN  det  the  DT
+Share  NN  dep  box  NN
+box  NN  det  this  DT
+box  NN  amod  folder  JJ
+
+Sentence 42: -----LONG_TEXT_SEPARATOR-----
+-----  NNP  compound  -----  NNP
+-----  NNP  compound  LONG_TEXT_SEPARATOR  NNP
+
+Sentence 43: Click the
+Click  VB  dobj  the  DT
+
+Sentence 44: Permissions button and check the Allow box next to Full Control
+Permissions  VB  dobj  button  NN
+Permissions  VB  cc  and  CC
+Permissions  VB  conj  check  VB
+check  VB  dobj  box  NN
+box  NN  det  the  DT
+box  NN  amod  Allow  JJ
+check  VB  advmod  next  JJ
+next  JJ  nmod  Control  NNP
+Control  NNP  case  to  TO
+Control  NNP  compound  Full  NNP
+
+Sentence 45: This allows the second computer to read and write to the shared folder
+allows  VBZ  nsubj  This  DT
+allows  VBZ  dobj  computer  NN
+computer  NN  det  the  DT
+computer  NN  amod  second  JJ
+computer  NN  acl  read  VB
+read  VB  mark  to  TO
+read  VB  cc  and  CC
+read  VB  conj  write  VB
+read  VB  nmod  folder  NN
+folder  NN  case  to  TO
+folder  NN  det  the  DT
+folder  NN  amod  shared  JJ
+
+Sentence 46: Click Apply
+Apply  NNP  compound  Click  NNP
+
+Sentence 47: Return to the objects Properties window and select the
+Return  VB  nmod  window  NN
+window  NN  case  to  TO
+window  NN  det  the  DT
+window  NN  compound  objects  NNP
+window  NN  compound  Properties  NNP
+Return  VB  cc  and  CC
+Return  VB  conj  select  VB
+select  VB  dobj  the  DT
+
+Sentence 48: Security tab
+tab  NNP  compound  Security  NNP
+
+Sentence 49: Ensure that Everyone is listed in the list of users
+Ensure  VB  ccomp  listed  VBN
+listed  VBN  mark  that  IN
+listed  VBN  nsubjpass  Everyone  NN
+listed  VBN  auxpass  is  VBZ
+listed  VBN  nmod  list  NN
+list  NN  case  in  IN
+list  NN  det  the  DT
+list  NN  nmod  users  NNS
+users  NNS  case  of  IN
+
+Sentence 50: If not click the Add
+If  IN  neg  not  RB
+If  IN  parataxis  Add  NNP
+Add  NNP  dep  the  DT
+
+Sentence 51: button and follow the prompts to add Everyone
+button  VB  cc  and  CC
+button  VB  conj  follow  VB
+button  VB  dobj  prompts  NN
+prompts  NN  det  the  DT
+button  VB  advcl  add  VB
+add  VB  mark  to  TO
+add  VB  dobj  Everyone  NN
+
+Sentence 52: Click the Start menu on the computer that is accessing the shared folder
+Click  VB  dobj  menu  NN
+menu  NN  det  the  DT
+menu  NN  compound  Start  NNP
+Click  VB  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  det  the  DT
+computer  NN  acl:relcl  accessing  VBG
+accessing  VBG  nsubj  that  WDT
+accessing  VBG  aux  is  VBZ
+accessing  VBG  dobj  folder  NN
+folder  NN  det  the  DT
+folder  NN  amod  shared  VBN
+
+Sentence 53: In our example this is the second computer
+computer  NN  nmod  example  NN
+example  NN  case  In  IN
+example  NN  nmod:poss  our  PRP$
+computer  NN  nsubj  this  DT
+computer  NN  cop  is  VBZ
+computer  NN  det  the  DT
+computer  NN  amod  second  JJ
+
+Sentence 54: IP address and press Enter
+IP  VB  dobj  Enter  NNS
+Enter  NNS  compound  address  NN
+address  NN  cc  and  CC
+address  NN  conj  press  NN
+
+Sentence 55: Using the IP addresses we entered above you would type 192 168 1 10
+Using  VBG  ccomp  addresses  VBZ
+addresses  VBZ  nsubj  IP  NNP
+IP  NNP  det  the  DT
+addresses  VBZ  ccomp  entered  VBD
+entered  VBD  nsubj  we  PRP
+entered  VBD  nmod  you  PRP
+you  PRP  case  above  IN
+Using  VBG  dep  would  MD
+Using  VBG  nsubj  type  NN
+type  NN  dep  168  CD
+168  CD  compound  192  CD
+168  CD  dep  10  CD
+10  CD  nummod  1  CD
+
+Sentence 56: Navigate the shared files
+Navigate  VB  dobj  files  NNS
+files  NNS  det  the  DT
+files  NNS  amod  shared  VBN
+
+Sentence 57: You will now see all of the folders that you have shared on the first computer
+see  VB  nsubj  You  PRP
+see  VB  aux  will  MD
+see  VB  advmod  now  RB
+see  VB  dobj  all  DT
+all  DT  nmod  folders  NNS
+folders  NNS  case  of  IN
+folders  NNS  det  the  DT
+see  VB  ccomp  shared  VBN
+shared  VBN  mark  that  IN
+shared  VBN  nsubj  you  PRP
+shared  VBN  aux  have  VBP
+shared  VBN  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  det  the  DT
+computer  NN  amod  first  JJ
+
+Sentence 58: If your permissions were set correctly you can copy delete and add files to these shared folders
+set  VBN  mark  If  IN
+set  VBN  nsubjpass  permissions  NNS
+permissions  NNS  nmod:poss  your  PRP$
+set  VBN  auxpass  were  VBD
+set  VBN  advmod  correctly  RB
+set  VBN  ccomp  copy  VB
+copy  VB  nsubj  you  PRP
+copy  VB  aux  can  MD
+copy  VB  dobj  delete  NN
+copy  VB  cc  and  CC
+copy  VB  conj  add  VB
+add  VB  dobj  files  NNS
+add  VB  nmod  folders  NNS
+folders  NNS  case  to  TO
+folders  NNS  det  these  DT
+folders  NNS  amod  shared  VBN
+
+Sentence 59: Sharing Files Windows to Mac
+Sharing  VBG  dobj  Windows  NNP
+Windows  NNP  compound  Files  NNP
+Sharing  VBG  nmod  Mac  NNP
+Mac  NNP  case  to  TO
+
+Sentence 60: Open the Control Panel on your Windows computer
+Open  VB  dobj  Panel  NNP
+Panel  NNP  det  the  DT
+Panel  NNP  compound  Control  NNP
+Open  VB  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  nmod:poss  your  PRP$
+computer  NN  compound  Windows  NNP
+
+Sentence 61: You will need to enable your Guest account for the easiest connection
+need  VB  nsubj  You  PRP
+need  VB  aux  will  MD
+need  VB  xcomp  enable  VB
+enable  VB  mark  to  TO
+enable  VB  dobj  account  NN
+account  NN  nmod:poss  your  PRP$
+account  NN  compound  Guest  NNP
+enable  VB  nmod  connection  NN
+connection  NN  case  for  IN
+connection  NN  det  the  DT
+connection  NN  amod  easiest  JJS
+
+Sentence 62: Click User Accounts and then click Manage another account
+Click  VB  dobj  Accounts  NNPS
+Accounts  NNPS  compound  User  NNP
+Click  VB  cc  and  CC
+Click  VB  conj  click  VB
+click  VB  advmod  then  RB
+click  VB  iobj  Manage  NNP
+click  VB  dobj  account  NN
+account  NN  det  another  DT
+
+Sentence 63: This will allow you to add the Guest account to your computer
+allow  VB  nsubj  This  DT
+allow  VB  aux  will  MD
+allow  VB  dobj  you  PRP
+allow  VB  xcomp  add  VB
+add  VB  mark  to  TO
+add  VB  dobj  account  NN
+account  NN  det  the  DT
+account  NN  compound  Guest  NNP
+add  VB  nmod  computer  NN
+computer  NN  case  to  TO
+computer  NN  nmod:poss  your  PRP$
+
+Sentence 64: you can remove it later when you re done transferring files
+remove  VB  nsubj  you  PRP
+remove  VB  aux  can  MD
+remove  VB  dobj  it  PRP
+remove  VB  advmod  later  RB
+remove  VB  advcl  re  VBP
+re  VBP  advmod  when  WRB
+re  VBP  nsubj  you  PRP
+re  VBP  dep  done  VBN
+done  VBN  xcomp  transferring  VBG
+transferring  VBG  dobj  files  NNS
+
+Sentence 65: Click the Guest Account and then click
+Click  VB  dobj  Account  NNP
+Account  NNP  det  the  DT
+Account  NNP  compound  Guest  NNP
+Click  VB  cc  and  CC
+Click  VB  conj  click  VB
+click  VB  advmod  then  RB
+
+Sentence 66: Turn On
+Turn  VB  nmod  On  IN
+
+Sentence 67: This will enable the Guest account
+enable  VB  nsubj  This  DT
+enable  VB  aux  will  MD
+enable  VB  dobj  account  NN
+account  NN  det  the  DT
+account  NN  compound  Guest  NNP
+
+Sentence 68: Return to the Control Panel and select Network and Sharing Center
+Return  JJ  nmod  Panel  NNP
+Panel  NNP  case  to  TO
+Panel  NNP  det  the  DT
+Panel  NNP  compound  Control  NNP
+Panel  NNP  cc  and  CC
+Panel  NNP  conj  Network  NNP
+Network  NNP  compound  select  NNP
+Return  JJ  cc  and  CC
+Return  JJ  conj  Sharing  VBG
+Sharing  VBG  dobj  Center  NNP
+
+Sentence 69: There is one more change you will need to make before connecting the computers
+is  VBZ  expl  There  EX
+is  VBZ  nsubj  change  NN
+change  NN  nummod  one  CD
+change  NN  amod  more  JJR
+change  NN  acl:relcl  need  VB
+need  VB  nsubj  you  PRP
+need  VB  aux  will  MD
+need  VB  xcomp  make  VB
+make  VB  mark  to  TO
+make  VB  advcl  connecting  VBG
+connecting  VBG  mark  before  IN
+connecting  VBG  dobj  computers  NNS
+computers  NNS  det  the  DT
+
+Sentence 70: Click Change advanced sharing settings
+advanced  VBD  nsubj  Change  NNP
+Change  NNP  compound  Click  NNP
+advanced  VBD  xcomp  sharing  VBG
+sharing  VBG  dobj  settings  NNS
+
+Sentence 71: Scroll down and select Turn off password protected sharing
+Scroll  VB  compound:prt  down  RP
+Scroll  VB  cc  and  CC
+Scroll  VB  conj  select  VB
+select  VB  dobj  Turn  NN
+Turn  NN  dep  off  RP
+Turn  NN  dep  sharing  NN
+sharing  NN  amod  protected  VBN
+protected  VBN  dep  password  NN
+
+Sentence 72: Connect the two computers using an Ethernet cable
+Connect  VB  dep  using  VBG
+using  VBG  nsubj  computers  NNS
+computers  NNS  det  the  DT
+computers  NNS  nummod  two  CD
+using  VBG  dobj  cable  NN
+cable  NN  det  an  DT
+cable  NN  compound  Ethernet  NNP
+
+Sentence 73: Nearly all modern computers can use a standard Ethernet cable
+use  VB  nsubj  computers  NNS
+computers  NNS  advmod  Nearly  RB
+computers  NNS  det  all  DT
+computers  NNS  amod  modern  JJ
+use  VB  aux  can  MD
+use  VB  dobj  cable  NN
+cable  NN  det  a  DT
+cable  NN  amod  standard  JJ
+cable  NN  compound  Ethernet  NNP
+
+Sentence 74: If you cannot make the connection you may need to use a crossover Ethernet cable
+make  VB  mark  If  IN
+make  VB  nsubj  you  PRP
+make  VB  aux  can  MD
+make  VB  neg  not  RB
+make  VB  dobj  connection  NN
+connection  NN  det  the  DT
+connection  NN  acl:relcl  need  VB
+need  VB  nsubj  you  PRP
+need  VB  aux  may  MD
+need  VB  xcomp  use  VB
+use  VB  mark  to  TO
+use  VB  dobj  cable  NN
+cable  NN  det  a  DT
+cable  NN  compound  crossover  NN
+cable  NN  compound  Ethernet  NN
+
+Sentence 75: Click the Start menu on the Windows computer
+Click  VB  dobj  menu  NN
+menu  NN  det  the  DT
+menu  NN  compound  Start  NNP
+Click  VB  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  det  the  DT
+computer  NN  compound  Windows  NNP
+
+Sentence 76: Type ncpa cpl and press Enter
+Type  VB  dobj  cpl  NN
+cpl  NN  compound  ncpa  NN
+cpl  NN  cc  and  CC
+cpl  NN  conj  Enter  NNS
+Enter  NNS  compound  press  NN
+
+Sentence 77: Double-click on the Local Area Connection
+Double-click  VB  nmod  Connection  NN
+Connection  NN  case  on  IN
+Connection  NN  det  the  DT
+Connection  NN  amod  Local  JJ
+Connection  NN  compound  Area  NNP
+
+Sentence 78: This will let you change the settings for your new connection between the two computers
+let  VB  nsubj  This  DT
+let  VB  aux  will  MD
+let  VB  ccomp  change  VB
+change  VB  nsubj  you  PRP
+change  VB  dobj  settings  NNS
+settings  NNS  det  the  DT
+change  VB  nmod  connection  NN
+connection  NN  case  for  IN
+connection  NN  nmod:poss  your  PRP$
+connection  NN  amod  new  JJ
+connection  NN  nmod  computers  NNS
+computers  NNS  case  between  IN
+computers  NNS  det  the  DT
+computers  NNS  nummod  two  CD
+
+Sentence 79: Click the
+Click  VB  dobj  the  DT
+
+Sentence 80: button and note the Auto-configuration IPv4 Address
+button  NN  cc  and  CC
+button  NN  conj  note  NN
+button  NN  dep  IPv4  NNS
+IPv4  NNS  det  the  DT
+IPv4  NNS  amod  Auto-configuration  JJ
+button  NN  appos  Address  NNP
+
+Sentence 81: Locate the drive file or folder that you want to share with the Mac
+Locate  VB  dobj  file  NN
+file  NN  det  the  DT
+file  NN  compound  drive  NN
+Locate  VB  cc  or  CC
+Locate  VB  conj  folder  VB
+folder  VB  ccomp  want  VBP
+want  VBP  mark  that  IN
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  share  VB
+share  VB  mark  to  TO
+share  VB  nmod  Mac  NNP
+Mac  NNP  case  with  IN
+Mac  NNP  det  the  DT
+
+Sentence 82: If you want to share everything on your computer select your hard drive to share
+want  VBP  mark  If  IN
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  share  VB
+share  VB  mark  to  TO
+share  VB  ccomp  select  VB
+select  VB  nsubj  everything  NN
+everything  NN  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  nmod:poss  your  PRP$
+select  VB  dobj  drive  NN
+drive  NN  nmod:poss  your  PRP$
+drive  NN  amod  hard  JJ
+select  VB  nmod  share  NN
+share  NN  case  to  TO
+
+Sentence 83: Right-click on the object you want to share
+Right-click  VB  nmod  object  NN
+object  NN  case  on  IN
+object  NN  det  the  DT
+object  NN  acl:relcl  want  VBP
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  share  VB
+share  VB  mark  to  TO
+
+Sentence 84: Select Share With and click Specific people
+Select  VB  dobj  Share  NN
+Select  VB  nmod  With  IN
+Select  VB  cc  and  CC
+Select  VB  conj  click  VB
+click  VB  dobj  people  NNS
+people  NNS  amod  Specific  JJ
+
+Sentence 85: Type Guest and click
+Guest  NNP  compound  Type  NNP
+Guest  NNP  cc  and  CC
+Guest  NNP  conj  click  NN
+
+Sentence 86: Make sure that Guest is spelled with a capital G
+Make  VB  xcomp  sure  JJ
+Make  VB  ccomp  spelled  VBN
+spelled  VBN  mark  that  IN
+spelled  VBN  nsubjpass  Guest  NNP
+spelled  VBN  auxpass  is  VBZ
+spelled  VBN  nmod  G  NNP
+G  NNP  case  with  IN
+G  NNP  det  a  DT
+G  NNP  compound  capital  NN
+
+Sentence 87: Click Read in the Permission Level column next to the Guest entry
+Click  VB  dobj  Read  NNP
+Read  NNP  nmod  column  NN
+column  NN  case  in  IN
+column  NN  det  the  DT
+column  NN  compound  Permission  NN
+column  NN  compound  Level  NN
+column  NN  advmod  next  JJ
+next  JJ  nmod  entry  NN
+entry  NN  case  to  TO
+entry  NN  det  the  DT
+entry  NN  compound  Guest  NNP
+
+Sentence 88: Select Read Write
+Write  NNP  compound  Select  NNP
+Write  NNP  compound  Read  NNP
+
+Sentence 89: Click Next to share the folder
+Click  VB  dobj  Next  NNP
+Click  VB  xcomp  share  VB
+share  VB  mark  to  TO
+share  VB  dobj  folder  NN
+folder  NN  det  the  DT
+
+Sentence 90: Open a Finder window on your Mac
+Open  VB  dobj  window  NN
+window  NN  det  a  DT
+window  NN  compound  Finder  NNP
+Open  VB  nmod  Mac  NNP
+Mac  NNP  case  on  IN
+Mac  NNP  nmod:poss  your  PRP$
+
+Sentence 91: Press Command K to open the Connect to Server window
+K  NNP  compound  Press  NNP
+K  NNP  compound  Command  NNP
+K  NNP  dep  open  VB
+open  VB  mark  to  TO
+open  VB  dobj  Connect  NN
+Connect  NN  det  the  DT
+open  VB  nmod  window  NN
+window  NN  case  to  TO
+window  NN  compound  Server  NN
+
+Sentence 92: smb IP address
+address  NNP  compound  smb  NNP
+address  NNP  compound  IP  NNP
+
+Sentence 93: Use the IP address that you found in Step 9
+Use  VB  dobj  address  NN
+address  NN  det  the  DT
+address  NN  compound  IP  NNP
+Use  VB  ccomp  found  VBD
+found  VBD  mark  that  IN
+found  VBD  nsubj  you  PRP
+found  VBD  nmod  Step  NN
+Step  NN  case  in  IN
+Step  NN  nummod  9  CD
+
+Sentence 94: Click Connect
+Connect  NNP  compound  Click  NNP
+
+Sentence 95: Select Guest as your login
+Guest  NNP  compound  Select  NNP
+Guest  NNP  nmod  login  NN
+login  NN  case  as  IN
+login  NN  nmod:poss  your  PRP$
+
+Sentence 96: Click Connect to make the connection
+Click  VB  xcomp  Connect  VB
+Connect  VB  xcomp  make  VB
+make  VB  mark  to  TO
+make  VB  dobj  connection  NN
+connection  NN  det  the  DT
+
+Sentence 97: Select the shared folder and click
+Select  NNP  dep  folder  NN
+folder  NN  det  the  DT
+folder  NN  amod  shared  JJ
+folder  NN  cc  and  CC
+folder  NN  conj  click  NN
+
+Sentence 98: Depending on what you shared on your Windows PC you may have one or more folders available here
+shared  VBD  dep  Depending  VBG
+shared  VBD  mark  on  IN
+shared  VBD  dobj  what  WP
+shared  VBD  nsubj  you  PRP
+shared  VBD  ccomp  have  VB
+have  VB  nmod  PC  NN
+PC  NN  case  on  IN
+PC  NN  nmod:poss  your  PRP$
+PC  NN  compound  Windows  NNP
+have  VB  nsubj  you  PRP
+have  VB  aux  may  MD
+have  VB  dobj  folders  NNS
+folders  NNS  nummod  one  CD
+one  CD  cc  or  CC
+one  CD  conj  more  JJR
+folders  NNS  amod  available  JJ
+have  VB  advmod  here  RB
+
+Sentence 99: Navigate the shared files
+Navigate  VB  dobj  files  NNS
+files  NNS  det  the  DT
+files  NNS  amod  shared  VBN
+
+Sentence 100: Now that a connection has been established you can share files back and forth using the shared folder you set on your Windows computer
+Now  RB  dep  established  VBN
+established  VBN  mark  that  IN
+established  VBN  nsubjpass  connection  NN
+connection  NN  det  a  DT
+established  VBN  aux  has  VBZ
+established  VBN  auxpass  been  VBN
+established  VBN  ccomp  share  VB
+share  VB  nsubj  you  PRP
+share  VB  aux  can  MD
+share  VB  dobj  files  NNS
+share  VB  advmod  back  RB
+back  RB  cc  and  CC
+back  RB  conj  forth  RB
+share  VB  xcomp  using  VBG
+using  VBG  dobj  folder  NN
+folder  NN  det  the  DT
+folder  NN  amod  shared  VBN
+folder  NN  acl:relcl  set  VBD
+set  VBD  nsubj  you  PRP
+set  VBD  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  nmod:poss  your  PRP$
+computer  NN  compound  Windows  NNP
+
+Sentence 101: You can use your Mac to pull files from this folder or add files from your Mac to be accessed on your Windows computer
+use  VB  nsubj  You  PRP
+use  VB  aux  can  MD
+use  VB  dobj  Mac  NNP
+Mac  NNP  nmod:poss  your  PRP$
+use  VB  advcl  pull  VB
+pull  VB  mark  to  TO
+pull  VB  dobj  files  NNS
+pull  VB  nmod  folder  NN
+folder  NN  case  from  IN
+folder  NN  det  this  DT
+pull  VB  cc  or  CC
+pull  VB  conj  add  VB
+add  VB  dobj  files  NNS
+add  VB  nmod  Mac  NN
+Mac  NN  case  from  IN
+Mac  NN  nmod:poss  your  PRP$
+Mac  NN  acl  accessed  VBN
+accessed  VBN  mark  to  TO
+accessed  VBN  auxpass  be  VB
+accessed  VBN  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  nmod:poss  your  PRP$
+computer  NN  compound  Windows  NNP
+
+Sentence 102: -----LONG_TEXT_SEPARATOR-----
+-----  NNP  compound  -----  NNP
+-----  NNP  compound  LONG_TEXT_SEPARATOR  NNP
+
+Sentence 103: Sharing Files Mac to Mac
+Sharing  VBG  dobj  Mac  NNP
+Mac  NNP  compound  Files  NNP
+Sharing  VBG  nmod  Mac  NNP
+Mac  NNP  case  to  TO
+
+Sentence 104: Obtain a Thunderbolt cable
+Obtain  VB  dobj  cable  NN
+cable  NN  det  a  DT
+cable  NN  compound  Thunderbolt  NNP
+
+Sentence 105: Thunderbolt offers the fastest and easiest way to connect two Macs for file sharing
+offers  VBZ  nsubj  Thunderbolt  NNP
+offers  VBZ  dobj  fastest  JJS
+fastest  JJS  dep  the  DT
+fastest  JJS  cc  and  CC
+fastest  JJS  conj  easiest  JJS
+fastest  JJS  dep  way  NN
+offers  VBZ  xcomp  connect  VB
+connect  VB  mark  to  TO
+connect  VB  dobj  Macs  NNS
+Macs  NNS  nummod  two  CD
+Macs  NNS  nmod  sharing  NN
+sharing  NN  case  for  IN
+sharing  NN  compound  file  NN
+
+Sentence 106: Nearly all modern Macs support Thunderbolt connections
+support  VBP  nsubj  Macs  NNS
+Macs  NNS  advmod  Nearly  RB
+Macs  NNS  det  all  DT
+Macs  NNS  amod  modern  JJ
+support  VBP  dobj  connections  NNS
+connections  NNS  compound  Thunderbolt  NNP
+
+Sentence 107: Power down the computer you want to access files from
+Power  NNP  nmod  computer  NN
+computer  NN  case  down  IN
+computer  NN  det  the  DT
+computer  NN  acl:relcl  want  VBP
+want  VBP  nsubj  you  PRP
+want  VBP  xcomp  access  VB
+access  VB  mark  to  TO
+access  VB  dobj  files  NNS
+access  VB  nmod  from  IN
+
+Sentence 108: The Thunderbolt connection essentially turns the second Mac into an external hard drive so you won t actually be booting it into the operating system
+turns  VBZ  nsubj  connection  NN
+connection  NN  det  The  DT
+connection  NN  compound  Thunderbolt  NNP
+turns  VBZ  advmod  essentially  RB
+turns  VBZ  dobj  Mac  NNP
+Mac  NNP  det  the  DT
+Mac  NNP  amod  second  JJ
+turns  VBZ  nmod  drive  NN
+drive  NN  case  into  IN
+drive  NN  det  an  DT
+drive  NN  amod  external  JJ
+drive  NN  amod  hard  JJ
+drive  NN  dep  won  VBD
+won  VBD  mark  so  IN
+won  VBD  nsubj  you  PRP
+won  VBD  ccomp  t  VBP
+t  VBP  advmod  actually  RB
+t  VBP  dep  booting  VBG
+booting  VBG  aux  be  VB
+booting  VBG  dobj  it  PRP
+booting  VBG  nmod  system  NN
+system  NN  case  into  IN
+system  NN  det  the  DT
+system  NN  amod  operating  VBG
+
+Sentence 109: Connect the two Macs using the Thunderbolt cable
+Connect  VB  dep  using  VBG
+using  VBG  nsubj  Macs  NNS
+Macs  NNS  det  the  DT
+Macs  NNS  nummod  two  CD
+using  VBG  dobj  cable  NN
+cable  NN  det  the  DT
+cable  NN  compound  Thunderbolt  NNP
+
+Sentence 110: There is only one way that a Thunderbolt cable can be connected
+is  VBZ  expl  There  EX
+is  VBZ  nsubj  way  NN
+way  NN  advmod  only  RB
+way  NN  nummod  one  CD
+is  VBZ  ccomp  connected  VBN
+connected  VBN  mark  that  IN
+connected  VBN  nsubjpass  cable  NN
+cable  NN  det  a  DT
+cable  NN  compound  Thunderbolt  NNP
+connected  VBN  aux  can  MD
+connected  VBN  auxpass  be  VB
+
+Sentence 111: Turn on the second Mac while holding down its T key
+Turn  VB  nmod  while  NN
+while  NN  case  on  IN
+while  NN  det  the  DT
+while  NN  amod  second  JJ
+while  NN  compound  Mac  NNP
+while  NN  acl  holding  VBG
+holding  VBG  compound:prt  down  RP
+holding  VBG  dobj  key  NN
+key  NN  nmod:poss  its  PRP$
+key  NN  compound  T  NNP
+
+Sentence 112: This will boot the Mac into Target Disk mode
+boot  VB  nsubj  This  DT
+boot  VB  aux  will  MD
+boot  VB  dobj  Mac  NNP
+Mac  NNP  det  the  DT
+boot  VB  nmod  mode  NN
+mode  NN  case  into  IN
+mode  NN  compound  Target  NNP
+mode  NN  compound  Disk  NN
+
+Sentence 113: Wait for the Thunderbolt logo to appear
+Wait  VB  nmod  logo  NN
+logo  NN  case  for  IN
+logo  NN  det  the  DT
+logo  NN  compound  Thunderbolt  NNP
+Wait  VB  xcomp  appear  VB
+appear  VB  mark  to  TO
+
+Sentence 114: It should show up after a few seconds
+show  VB  nsubj  It  PRP
+show  VB  aux  should  MD
+show  VB  compound:prt  up  RP
+show  VB  nmod  seconds  NNS
+seconds  NNS  case  after  IN
+seconds  NNS  det  a  DT
+seconds  NNS  amod  few  JJ
+
+Sentence 115: You can now release T
+release  VB  nsubj  You  PRP
+release  VB  aux  can  MD
+release  VB  advmod  now  RB
+release  VB  dobj  T  NNP
+
+Sentence 116: Access the hard drive on your first Mac
+Access  NNS  dep  drive  NN
+drive  NN  det  the  DT
+drive  NN  amod  hard  JJ
+drive  NN  nmod  Mac  NNP
+Mac  NNP  case  on  IN
+Mac  NNP  nmod:poss  your  PRP$
+Mac  NNP  amod  first  JJ
+
+Sentence 117: Your second Mac s hard drive will appear as an external hard drive on your first Mac
+appear  VB  nsubj  drive  NN
+drive  NN  nmod:poss  Your  PRP$
+drive  NN  amod  second  JJ
+drive  NN  compound  Mac  NNP
+drive  NN  compound  s  NNP
+drive  NN  amod  hard  JJ
+appear  VB  aux  will  MD
+appear  VB  nmod  drive  NN
+drive  NN  case  as  IN
+drive  NN  det  an  DT
+drive  NN  amod  external  JJ
+drive  NN  amod  hard  JJ
+drive  NN  nmod  Mac  NNP
+Mac  NNP  case  on  IN
+Mac  NNP  nmod:poss  your  PRP$
+Mac  NNP  amod  first  JJ
+
+Sentence 118: You can open it to access and transfer any files you d like
+open  VB  nsubj  You  PRP
+open  VB  aux  can  MD
+open  VB  dobj  it  PRP
+open  VB  xcomp  access  VB
+access  VB  mark  to  TO
+access  VB  cc  and  CC
+access  VB  conj  transfer  VB
+access  VB  dobj  files  NNS
+files  NNS  det  any  DT
+files  NNS  acl:relcl  like  VBP
+like  VBP  nsubj  you  PRP
+like  VBP  advmod  d  RB
+
+Sentence 119: Thunderbolt offers one of the fastest connections available so files will transfer very quickly
+offers  VBZ  nsubj  Thunderbolt  NNP
+offers  VBZ  xcomp  available  JJ
+available  JJ  nsubj  one  CD
+one  CD  nmod  connections  NNS
+connections  NNS  case  of  IN
+connections  NNS  det  the  DT
+connections  NNS  amod  fastest  JJS
+offers  VBZ  advcl  transfer  VB
+transfer  VB  mark  so  IN
+transfer  VB  nsubj  files  NNS
+transfer  VB  aux  will  MD
+transfer  VB  advmod  quickly  RB
+quickly  RB  advmod  very  RB
+
+Sentence 120: Sharing Internet Windows
+Windows  NNP  compound  Sharing  NNP
+Windows  NNP  compound  Internet  NNP
+
+Sentence 121: Connect the two computers using an Ethernet cable
+Connect  VB  dep  using  VBG
+using  VBG  nsubj  computers  NNS
+computers  NNS  det  the  DT
+computers  NNS  nummod  two  CD
+using  VBG  dobj  cable  NN
+cable  NN  det  an  DT
+cable  NN  compound  Ethernet  NNP
+
+Sentence 122: Newer computers can use a standard Ethernet cable as the network adapter will automatically detect that you are connecting two computers
+use  VB  nsubj  computers  NNS
+computers  NNS  compound  Newer  NNP
+use  VB  aux  can  MD
+use  VB  dobj  cable  NN
+cable  NN  det  a  DT
+cable  NN  amod  standard  JJ
+cable  NN  compound  Ethernet  NNP
+use  VB  advcl  detect  VB
+detect  VB  mark  as  IN
+detect  VB  nsubj  adapter  NN
+adapter  NN  det  the  DT
+adapter  NN  compound  network  NN
+detect  VB  aux  will  MD
+detect  VB  advmod  automatically  RB
+detect  VB  ccomp  connecting  VBG
+connecting  VBG  mark  that  IN
+connecting  VBG  nsubj  you  PRP
+connecting  VBG  aux  are  VBP
+connecting  VBG  dobj  computers  NNS
+computers  NNS  nummod  two  CD
+
+Sentence 123: Older computers may need to use a crossover cable which is a standard Ethernet cable with the connection reversed on one end
+need  VB  nsubj  computers  NNS
+computers  NNS  amod  Older  JJR
+need  VB  aux  may  MD
+need  VB  xcomp  use  VB
+use  VB  mark  to  TO
+use  VB  dobj  cable  NN
+cable  NN  det  a  DT
+cable  NN  compound  crossover  NN
+cable  NN  acl:relcl  cable  NN
+cable  NN  nsubj  which  WDT
+cable  NN  cop  is  VBZ
+cable  NN  det  a  DT
+cable  NN  amod  standard  JJ
+cable  NN  compound  Ethernet  NNP
+cable  NN  nmod  connection  NN
+connection  NN  case  with  IN
+connection  NN  det  the  DT
+connection  NN  acl  reversed  VBN
+reversed  VBN  nmod  end  NN
+end  NN  case  on  IN
+end  NN  nummod  one  CD
+
+Sentence 124: You can use internet connection sharing to share your internet connection with any computer that can connect via Ethernet regardless of operating system
+use  VB  nsubj  You  PRP
+use  VB  aux  can  MD
+use  VB  dobj  connection  NN
+connection  NN  compound  internet  NN
+connection  NN  acl  sharing  VBG
+sharing  VBG  xcomp  share  VB
+share  VB  mark  to  TO
+share  VB  dobj  connection  NN
+connection  NN  nmod:poss  your  PRP$
+connection  NN  compound  internet  NN
+share  VB  nmod  computer  NN
+computer  NN  case  with  IN
+computer  NN  det  any  DT
+computer  NN  acl:relcl  connect  VB
+connect  VB  nsubj  that  WDT
+connect  VB  aux  can  MD
+connect  VB  nmod  Ethernet  NNP
+Ethernet  NNP  case  via  IN
+share  VB  advmod  regardless  RB
+regardless  RB  nmod  system  NN
+system  NN  case  of  IN
+system  NN  amod  operating  VBG
+
+Sentence 125: Click the Start menu on the Windows computer that has internet access
+Click  VB  dobj  menu  NN
+menu  NN  det  the  DT
+menu  NN  amod  Start  JJ
+menu  NN  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  det  the  DT
+computer  NN  compound  Windows  NNP
+menu  NN  acl:relcl  has  VBZ
+has  VBZ  nsubj  that  WDT
+has  VBZ  dobj  access  NN
+access  NN  compound  internet  NN
+
+Sentence 126: Type ncpa cpl and press Enter
+Type  VB  dobj  cpl  NN
+cpl  NN  compound  ncpa  NN
+cpl  NN  cc  and  CC
+cpl  NN  conj  Enter  NNS
+Enter  NNS  compound  press  NN
+
+Sentence 127: Right-click on the connection you use to get internet
+Right-click  VB  nmod  connection  NN
+connection  NN  case  on  IN
+connection  NN  det  the  DT
+connection  NN  acl:relcl  use  VBP
+use  VBP  nsubj  you  PRP
+use  VBP  xcomp  get  VB
+get  VB  mark  to  TO
+get  VB  dobj  internet  NN
+
+Sentence 128: Select Properties
+Properties  NNPS  compound  Select  NNP
+
+Sentence 129: Click the Sharing tab
+Click  VB  dobj  tab  NN
+tab  NN  det  the  DT
+tab  NN  amod  Sharing  JJ
+
+Sentence 130: This will allow you to share that connection s internet access
+allow  VB  nsubj  This  DT
+allow  VB  aux  will  MD
+allow  VB  dobj  you  PRP
+allow  VB  xcomp  share  VB
+share  VB  mark  to  TO
+share  VB  ccomp  access  NN
+access  NN  mark  that  IN
+access  NN  nsubj  connection  NN
+access  NN  cop  s  VBZ
+access  NN  compound  internet  NN
+
+Sentence 131: Check the Allow other network users to connect through this computer s Internet connection box
+Check  VB  dobj  users  NNS
+users  NNS  det  the  DT
+users  NNS  amod  Allow  JJ
+users  NNS  amod  other  JJ
+users  NNS  compound  network  NN
+Check  VB  advcl  connect  VB
+connect  VB  mark  to  TO
+connect  VB  nmod  computer  NN
+computer  NN  case  through  IN
+computer  NN  det  this  DT
+Check  VB  nsubj  box  NN
+box  NN  nummod  s  CD
+box  NN  compound  Internet  NN
+box  NN  compound  connection  NN
+
+Sentence 132: Click OK
+Click  VB  xcomp  OK  JJ
+
+Sentence 133: Browse the internet on the second computer
+Browse  VB  dobj  internet  NN
+internet  NN  det  the  DT
+Browse  VB  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  det  the  DT
+computer  NN  amod  second  JJ
+
+Sentence 134: Once internet connection sharing has been activated on the first computer the second computer should immediately have access to the internet
+activated  VBN  mark  Once  IN
+activated  VBN  nsubjpass  sharing  NN
+sharing  NN  compound  internet  NN
+sharing  NN  compound  connection  NN
+activated  VBN  aux  has  VBZ
+activated  VBN  auxpass  been  VBN
+activated  VBN  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  det  the  DT
+computer  NN  amod  first  JJ
+computer  NN  acl:relcl  have  VB
+have  VB  nsubj  computer  NN
+computer  NN  det  the  DT
+computer  NN  amod  second  JJ
+have  VB  aux  should  MD
+have  VB  advmod  immediately  RB
+have  VB  dobj  access  NN
+have  VB  nmod  internet  NN
+internet  NN  case  to  TO
+internet  NN  det  the  DT
+
+Sentence 135: Sharing Internet Mac
+Mac  NNP  compound  Sharing  NNP
+Mac  NNP  compound  Internet  NNP
+
+Sentence 136: Connect the two computers using an Ethernet cable
+Connect  VB  dep  using  VBG
+using  VBG  nsubj  computers  NNS
+computers  NNS  det  the  DT
+computers  NNS  nummod  two  CD
+using  VBG  dobj  cable  NN
+cable  NN  det  an  DT
+cable  NN  compound  Ethernet  NNP
+
+Sentence 137: Newer computers can use a standard Ethernet cable as the network adapter will automatically detect that you are connecting two computers
+use  VB  nsubj  computers  NNS
+computers  NNS  compound  Newer  NNP
+use  VB  aux  can  MD
+use  VB  dobj  cable  NN
+cable  NN  det  a  DT
+cable  NN  amod  standard  JJ
+cable  NN  compound  Ethernet  NNP
+use  VB  advcl  detect  VB
+detect  VB  mark  as  IN
+detect  VB  nsubj  adapter  NN
+adapter  NN  det  the  DT
+adapter  NN  compound  network  NN
+detect  VB  aux  will  MD
+detect  VB  advmod  automatically  RB
+detect  VB  ccomp  connecting  VBG
+connecting  VBG  mark  that  IN
+connecting  VBG  nsubj  you  PRP
+connecting  VBG  aux  are  VBP
+connecting  VBG  dobj  computers  NNS
+computers  NNS  nummod  two  CD
+
+Sentence 138: Older computers may need to use a crossover cable which is a standard Ethernet cable with the connection reversed on one end
+need  VB  nsubj  computers  NNS
+computers  NNS  amod  Older  JJR
+need  VB  aux  may  MD
+need  VB  xcomp  use  VB
+use  VB  mark  to  TO
+use  VB  dobj  cable  NN
+cable  NN  det  a  DT
+cable  NN  compound  crossover  NN
+cable  NN  acl:relcl  cable  NN
+cable  NN  nsubj  which  WDT
+cable  NN  cop  is  VBZ
+cable  NN  det  a  DT
+cable  NN  amod  standard  JJ
+cable  NN  compound  Ethernet  NNP
+cable  NN  nmod  connection  NN
+connection  NN  case  with  IN
+connection  NN  det  the  DT
+connection  NN  acl  reversed  VBN
+reversed  VBN  nmod  end  NN
+end  NN  case  on  IN
+end  NN  nummod  one  CD
+
+Sentence 139: You can use internet connection sharing to share your internet connection with any computer that can connect via Ethernet regardless of operating system
+use  VB  nsubj  You  PRP
+use  VB  aux  can  MD
+use  VB  dobj  connection  NN
+connection  NN  compound  internet  NN
+connection  NN  acl  sharing  VBG
+sharing  VBG  xcomp  share  VB
+share  VB  mark  to  TO
+share  VB  dobj  connection  NN
+connection  NN  nmod:poss  your  PRP$
+connection  NN  compound  internet  NN
+share  VB  nmod  computer  NN
+computer  NN  case  with  IN
+computer  NN  det  any  DT
+computer  NN  acl:relcl  connect  VB
+connect  VB  nsubj  that  WDT
+connect  VB  aux  can  MD
+connect  VB  nmod  Ethernet  NNP
+Ethernet  NNP  case  via  IN
+share  VB  advmod  regardless  RB
+regardless  RB  nmod  system  NN
+system  NN  case  of  IN
+system  NN  amod  operating  VBG
+
+Sentence 140: Click the Apple menu on your Mac that has internet access and select System Preferences
+Click  VB  dobj  menu  NN
+menu  NN  det  the  DT
+menu  NN  compound  Apple  NNP
+Click  VB  nmod  Mac  NNP
+Mac  NNP  case  on  IN
+Mac  NNP  nmod:poss  your  PRP$
+Mac  NNP  acl:relcl  has  VBZ
+has  VBZ  nsubj  that  WDT
+has  VBZ  dobj  access  NN
+access  NN  compound  internet  NN
+Click  VB  cc  and  CC
+Click  VB  conj  select  VB
+select  VB  dobj  Preferences  NNP
+Preferences  NNP  compound  System  NNP
+
+Sentence 141: Select Sharing from the System Preferences menu
+Select  NNP  dep  Sharing  VBG
+Sharing  VBG  nmod  menu  NN
+menu  NN  case  from  IN
+menu  NN  det  the  DT
+menu  NN  compound  System  NNP
+menu  NN  compound  Preferences  NNPS
+
+Sentence 142: Click the Internet Sharing option in the left frame
+Click  VB  dobj  Internet  NN
+Internet  NN  det  the  DT
+Internet  NN  acl  Sharing  VBG
+Sharing  VBG  dobj  option  NN
+option  NN  nmod  frame  NN
+frame  NN  case  in  IN
+frame  NN  det  the  DT
+frame  NN  amod  left  JJ
+
+Sentence 143: Do not check the box yet
+check  VB  aux  Do  VB
+check  VB  neg  not  RB
+check  VB  dobj  box  NN
+box  NN  det  the  DT
+check  VB  advmod  yet  RB
+
+Sentence 144: Select your Mac s internet connection from the drop-down menu
+Select  NNP  dep  connection  NN
+connection  NN  nmod:poss  your  PRP$
+connection  NN  compound  Mac  NNP
+connection  NN  nummod  s  CD
+connection  NN  compound  internet  NN
+connection  NN  nmod  menu  NN
+menu  NN  case  from  IN
+menu  NN  det  the  DT
+menu  NN  amod  drop-down  JJ
+
+Sentence 145: If you are connecting two computer s via Ethernet you ll usually be sharing your Wi-Fi connection
+connecting  VBG  mark  If  IN
+connecting  VBG  nsubj  you  PRP
+connecting  VBG  aux  are  VBP
+connecting  VBG  dobj  s  NNS
+s  NNS  nummod  two  CD
+s  NNS  compound  computer  NN
+s  NNS  nmod  Ethernet  NNP
+Ethernet  NNP  case  via  IN
+s  NNS  acl:relcl  sharing  VBG
+sharing  VBG  nsubj  you  PRP
+sharing  VBG  aux  ll  VBP
+sharing  VBG  advmod  usually  RB
+sharing  VBG  aux  be  VB
+sharing  VBG  dobj  connection  NN
+connection  NN  nmod:poss  your  PRP$
+connection  NN  amod  Wi-Fi  JJ
+
+Sentence 146: Older Macs will display Airport instead of Wi-Fi
+display  VB  nsubj  Macs  NNS
+Macs  NNS  amod  Older  JJR
+display  VB  aux  will  MD
+display  VB  dobj  Airport  NNP
+Airport  NNP  nmod  Wi-Fi  NNP
+Wi-Fi  NNP  case  instead  RB
+instead  RB  mwe  of  IN
+
+Sentence 147: -----LONG_TEXT_SEPARATOR-----
+-----  NNP  compound  -----  NNP
+-----  NNP  compound  LONG_TEXT_SEPARATOR  NNP
+
+Sentence 148: Check the Ethernet option in the To computers using list
+Check  VB  dobj  option  NN
+option  NN  det  the  DT
+option  NN  compound  Ethernet  NNP
+Check  VB  nmod  the  DT
+the  DT  case  in  IN
+the  DT  nmod  computers  NNS
+computers  NNS  case  To  TO
+computers  NNS  acl  using  VBG
+using  VBG  dobj  list  NN
+
+Sentence 149: This will share the connection with any computer connected via Ethernet
+share  VB  nsubj  This  DT
+share  VB  aux  will  MD
+share  VB  dobj  connection  NN
+connection  NN  det  the  DT
+share  VB  nmod  computer  NN
+computer  NN  case  with  IN
+computer  NN  det  any  DT
+computer  NN  acl  connected  VBN
+connected  VBN  nmod  Ethernet  NNP
+Ethernet  NNP  case  via  IN
+
+Sentence 150: Check the Internet Sharing box
+Check  VB  dobj  Internet  NN
+Internet  NN  det  the  DT
+Internet  NN  acl  Sharing  VBG
+Sharing  VBG  dobj  box  NN
+
+Sentence 151: Click Start if prompted
+Click  VB  dobj  Start  NNP
+Click  VB  advcl  prompted  VBD
+prompted  VBD  mark  if  IN
+
+Sentence 152: Browse the internet on the second computer
+Browse  VB  dobj  internet  NN
+internet  NN  det  the  DT
+Browse  VB  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  det  the  DT
+computer  NN  amod  second  JJ
+
+Sentence 153: Once internet connection sharing has been activated on the first computer the second computer should immediately have access to the internet
+activated  VBN  mark  Once  IN
+activated  VBN  nsubjpass  sharing  NN
+sharing  NN  compound  internet  NN
+sharing  NN  compound  connection  NN
+activated  VBN  aux  has  VBZ
+activated  VBN  auxpass  been  VBN
+activated  VBN  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  det  the  DT
+computer  NN  amod  first  JJ
+computer  NN  acl:relcl  have  VB
+have  VB  nsubj  computer  NN
+computer  NN  det  the  DT
+computer  NN  amod  second  JJ
+have  VB  aux  should  MD
+have  VB  advmod  immediately  RB
+have  VB  dobj  access  NN
+have  VB  nmod  internet  NN
+internet  NN  case  to  TO
+internet  NN  det  the  DT
+
+Sentence 154: It may take a moment for the second computer to retrieve a new IP address
+take  VB  nsubj  It  PRP
+take  VB  aux  may  MD
+take  VB  dobj  moment  NN
+moment  NN  det  a  DT
+moment  NN  nmod  computer  NN
+computer  NN  case  for  IN
+computer  NN  det  the  DT
+computer  NN  amod  second  JJ
+take  VB  advcl  retrieve  VB
+retrieve  VB  mark  to  TO
+retrieve  VB  dobj  address  NN
+address  NN  det  a  DT
+address  NN  amod  new  JJ
+address  NN  compound  IP  NNP

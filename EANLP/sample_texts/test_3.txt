@@ -1,0 +1,1164 @@
+
+
+Sentence 1: Boxing a table can be a great way to make any table look great and can be a good idea for any banquet or catered event.
+look  VBP  nsubj  Boxing  NNP
+Boxing  NNP  acl:relcl  way  NN
+way  NN  nsubj  table  NN
+table  NN  det  a  DT
+way  NN  aux  can  MD
+way  NN  cop  be  VB
+way  NN  det  a  DT
+way  NN  amod  great  JJ
+way  NN  acl  make  VB
+make  VB  mark  to  TO
+make  VB  dobj  table  NN
+table  NN  det  any  DT
+look  VBP  xcomp  great  JJ
+look  VBP  cc  and  CC
+look  VBP  conj  idea  NN
+idea  NN  aux  can  MD
+idea  NN  cop  be  VB
+idea  NN  det  a  DT
+idea  NN  amod  good  JJ
+idea  NN  nmod  event  NN
+event  NN  case  for  IN
+event  NN  det  any  DT
+event  NN  amod  banquet  JJ
+banquet  JJ  cc  or  CC
+banquet  JJ  conj  catered  JJ
+
+Sentence 2: The only thing you will need to know is how to correctly fold and level the tablecloth.
+is  VBZ  nsubj  thing  NN
+thing  NN  det  The  DT
+thing  NN  amod  only  JJ
+thing  NN  acl:relcl  need  VB
+need  VB  nsubj  you  PRP
+need  VB  aux  will  MD
+need  VB  xcomp  know  VB
+know  VB  mark  to  TO
+is  VBZ  ccomp  fold  VB
+fold  VB  advmod  how  WRB
+fold  VB  mark  to  TO
+fold  VB  advmod  correctly  RB
+fold  VB  cc  and  CC
+fold  VB  conj  level  VB
+fold  VB  dobj  tablecloth  NN
+tablecloth  NN  det  the  DT
+
+Sentence 3: Try practicing your table boxing skills to get the technique down and make your tables look crisp, clean, and professionally set.
+look  VBP  csubj  Try  VB
+Try  VB  xcomp  practicing  VBG
+practicing  VBG  dobj  skills  NNS
+skills  NNS  nmod:poss  your  PRP$
+skills  NNS  compound  table  NN
+skills  NNS  compound  boxing  NN
+practicing  VBG  advcl  get  VB
+get  VB  mark  to  TO
+get  VB  dobj  technique  NN
+technique  NN  det  the  DT
+get  VB  compound:prt  down  RP
+Try  VB  cc  and  CC
+Try  VB  conj  make  VB
+make  VB  dobj  tables  NNS
+tables  NNS  nmod:poss  your  PRP$
+look  VBP  xcomp  clean  VB
+clean  VB  discourse  crisp  UH
+clean  VB  cc  and  CC
+clean  VB  conj  set  VBN
+set  VBN  advmod  professionally  RB
+
+Sentence 4: Positioning the Cloth.
+Positioning  VBG  dobj  Cloth  NNP
+Cloth  NNP  det  the  DT
+
+Sentence 5: Get the right size tablecloth.
+Get  VB  dobj  tablecloth  NN
+tablecloth  NN  det  the  DT
+tablecloth  NN  amod  right  JJ
+tablecloth  NN  compound  size  NN
+
+Sentence 6: Using a tablecloth that is the right size is important when boxing a table.
+important  JJ  csubj  Using  VBG
+Using  VBG  dobj  tablecloth  NN
+tablecloth  NN  det  a  DT
+tablecloth  NN  acl:relcl  size  NN
+size  NN  nsubj  that  WDT
+size  NN  cop  is  VBZ
+size  NN  det  the  DT
+size  NN  amod  right  JJ
+important  JJ  cop  is  VBZ
+important  JJ  advcl  boxing  VBZ
+boxing  VBZ  advmod  when  WRB
+boxing  VBZ  dobj  table  NN
+table  NN  det  a  DT
+
+Sentence 7: A tablecloth that can't fully cover the table won't look quite right when finished.
+look  VB  nsubj  tablecloth  NN
+tablecloth  NN  det  A  DT
+tablecloth  NN  acl:relcl  cover  VB
+cover  VB  nsubj  that  WDT
+cover  VB  aux  ca  MD
+cover  VB  neg  n't  RB
+cover  VB  advmod  fully  RB
+cover  VB  dobj  table  NN
+table  NN  det  the  DT
+look  VB  aux  wo  MD
+look  VB  neg  n't  RB
+look  VB  advmod  right  RB
+right  RB  advmod  quite  RB
+right  RB  advcl  finished  VBD
+finished  VBD  advmod  when  WRB
+
+Sentence 8: Make sure you measure your table and use a tablecloth that fits to get the best results.
+Make  VB  xcomp  sure  JJ
+sure  JJ  ccomp  measure  VB
+measure  VB  nsubj  you  PRP
+measure  VB  dobj  table  NN
+table  NN  nmod:poss  your  PRP$
+measure  VB  cc  and  CC
+measure  VB  conj  use  VB
+use  VB  dobj  tablecloth  NN
+tablecloth  NN  det  a  DT
+tablecloth  NN  acl:relcl  fits  VBZ
+fits  VBZ  nsubj  that  WDT
+fits  VBZ  xcomp  get  VB
+get  VB  mark  to  TO
+get  VB  dobj  results  NNS
+results  NNS  det  the  DT
+results  NNS  amod  best  JJS
+
+Sentence 9: The tablecloth will need to cover the table and reach the floor.
+need  VB  nsubj  tablecloth  NN
+tablecloth  NN  det  The  DT
+need  VB  aux  will  MD
+need  VB  xcomp  cover  VB
+cover  VB  mark  to  TO
+cover  VB  dobj  table  NN
+table  NN  det  the  DT
+cover  VB  cc  and  CC
+cover  VB  conj  reach  VB
+reach  VB  dobj  floor  NN
+floor  NN  det  the  DT
+
+Sentence 10: For example, a rectangular table that is 70" wide and 180" long will need a tablecloth that is 128" wide and 238" long.
+need  VB  nmod  example  NN
+example  NN  case  For  IN
+need  VB  nsubj  table  NN
+table  NN  det  a  DT
+table  NN  amod  rectangular  JJ
+table  NN  acl:relcl  70  VBG
+70  VBG  nsubj  that  WDT
+70  VBG  aux  is  VBZ
+70  VBG  dobj  wide  CD
+wide  CD  cc  and  CC
+wide  CD  conj  180  CD
+need  VB  advmod  long  RB
+need  VB  aux  will  MD
+need  VB  dobj  tablecloth  NN
+tablecloth  NN  det  a  DT
+tablecloth  NN  acl:relcl  128  CD
+128  CD  nsubj  that  WDT
+128  CD  cop  is  VBZ
+need  VB  advmod  wide  JJ
+wide  JJ  cc  and  CC
+wide  JJ  conj  238  JJ
+need  VB  advmod  long  RB
+
+Sentence 11: Place the cloth over the table.
+Place  VB  dobj  cloth  NN
+cloth  NN  det  the  DT
+Place  VB  nmod  table  NN
+table  NN  case  over  IN
+table  NN  det  the  DT
+
+Sentence 12: Before you can box a table, you'll need to place a tablecloth over it.
+need  VB  advcl  box  VB
+box  VB  mark  Before  IN
+box  VB  nsubj  you  PRP
+box  VB  aux  can  MD
+box  VB  dobj  table  NN
+table  NN  det  a  DT
+need  VB  nsubj  you  PRP
+need  VB  aux  'll  MD
+need  VB  xcomp  place  VB
+place  VB  mark  to  TO
+place  VB  dobj  tablecloth  NN
+tablecloth  NN  det  a  DT
+tablecloth  NN  nmod  it  PRP
+it  PRP  case  over  IN
+
+Sentence 13: You don't need to be exact just yet.
+need  VB  nsubj  You  PRP
+need  VB  aux  do  VBP
+need  VB  neg  n't  RB
+need  VB  xcomp  exact  JJ
+exact  JJ  mark  to  TO
+exact  JJ  cop  be  VB
+exact  JJ  advmod  yet  RB
+yet  RB  advmod  just  RB
+
+Sentence 14: Simply toss the table cloth over the table, covering the surface of the tabletop.
+toss  VB  advmod  Simply  RB
+toss  VB  dobj  cloth  NN
+cloth  NN  det  the  DT
+cloth  NN  compound  table  NN
+toss  VB  nmod  table  NN
+table  NN  case  over  IN
+table  NN  det  the  DT
+toss  VB  advcl  covering  VBG
+covering  VBG  dobj  surface  NN
+surface  NN  det  the  DT
+surface  NN  nmod  tabletop  NN
+tabletop  NN  case  of  IN
+tabletop  NN  det  the  DT
+
+Sentence 15: Even up the ends of the tablecloth.
+ends  VBZ  advmod  up  RB
+up  RB  advmod  Even  RB
+ends  VBZ  nsubj  the  DT
+ends  VBZ  nmod  tablecloth  NN
+tablecloth  NN  case  of  IN
+tablecloth  NN  det  the  DT
+
+Sentence 16: Once the tablecloth has been placed over the table, you can begin to level the cloth out on each end.
+begin  VB  advcl  placed  VBN
+placed  VBN  mark  Once  IN
+placed  VBN  nsubjpass  tablecloth  NN
+tablecloth  NN  det  the  DT
+placed  VBN  aux  has  VBZ
+placed  VBN  auxpass  been  VBN
+placed  VBN  nmod  table  NN
+table  NN  case  over  IN
+table  NN  det  the  DT
+begin  VB  nsubj  you  PRP
+begin  VB  aux  can  MD
+begin  VB  xcomp  level  VB
+level  VB  mark  to  TO
+level  VB  dobj  cloth  NN
+cloth  NN  det  the  DT
+level  VB  compound:prt  out  RP
+level  VB  nmod  end  NN
+end  NN  case  on  IN
+end  NN  det  each  DT
+
+Sentence 17: The tablecloth should cover the table evenly, with both ends of it having the same length of cloth covering them.
+cover  VB  nsubj  tablecloth  NN
+tablecloth  NN  det  The  DT
+cover  VB  aux  should  MD
+cover  VB  dobj  table  NN
+table  NN  det  the  DT
+cover  VB  advmod  evenly  RB
+cover  VB  nmod  ends  NNS
+ends  NNS  case  with  IN
+ends  NNS  det  both  DT
+ends  NNS  acl  having  VBG
+having  VBG  mark  of  IN
+having  VBG  nsubj  it  PRP
+having  VBG  advcl  covering  VBG
+covering  VBG  nsubj  length  NN
+length  NN  det  the  DT
+length  NN  amod  same  JJ
+length  NN  nmod  cloth  NN
+cloth  NN  case  of  IN
+covering  VBG  dobj  them  PRP
+
+Sentence 18: Make sure that the edges of the tablecloth near the floor are hanging at an equal length.
+Make  VB  xcomp  sure  JJ
+Make  VB  ccomp  hanging  VBG
+hanging  VBG  mark  that  IN
+hanging  VBG  nsubj  edges  NNS
+edges  NNS  det  the  DT
+edges  NNS  nmod  tablecloth  NN
+tablecloth  NN  case  of  IN
+tablecloth  NN  det  the  DT
+tablecloth  NN  nmod  floor  NN
+floor  NN  case  near  IN
+floor  NN  det  the  DT
+hanging  VBG  aux  are  VBP
+hanging  VBG  nmod  length  NN
+length  NN  case  at  IN
+length  NN  det  an  DT
+length  NN  amod  equal  JJ
+
+Sentence 19: Both ends of the table should have an equal length of cloth.
+have  VB  nsubj  ends  NNS
+ends  NNS  det  Both  DT
+ends  NNS  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+have  VB  aux  should  MD
+have  VB  dobj  length  NN
+length  NN  det  an  DT
+length  NN  amod  equal  JJ
+length  NN  nmod  cloth  NN
+cloth  NN  case  of  IN
+
+Sentence 20: The lower edges of the tablecloth should either be touching or just above the floor.
+touching  VBG  nsubj  edges  NNS
+edges  NNS  det  The  DT
+edges  NNS  amod  lower  JJR
+edges  NNS  nmod  tablecloth  NN
+tablecloth  NN  case  of  IN
+tablecloth  NN  det  the  DT
+touching  VBG  aux  should  MD
+touching  VBG  advmod  either  RB
+touching  VBG  aux  be  VB
+touching  VBG  dobj  just  RB
+just  RB  cc  or  CC
+just  RB  nmod  floor  NN
+floor  NN  case  above  IN
+floor  NN  det  the  DT
+
+Sentence 21: Level the front side of the cloth.
+Level  NNP  dep  side  NN
+side  NN  det  the  DT
+side  NN  amod  front  JJ
+side  NN  nmod  cloth  NN
+cloth  NN  case  of  IN
+cloth  NN  det  the  DT
+
+Sentence 22: The front side of the tablecloth is the side that guests will most likely noticed.
+side  NN  nsubj  side  NN
+side  NN  det  The  DT
+side  NN  amod  front  JJ
+side  NN  nmod  tablecloth  NN
+tablecloth  NN  case  of  IN
+tablecloth  NN  det  the  DT
+side  NN  cop  is  VBZ
+side  NN  det  the  DT
+side  NN  ccomp  noticed  VBD
+noticed  VBD  mark  that  IN
+noticed  VBD  nsubj  guests  NNS
+noticed  VBD  aux  will  MD
+noticed  VBD  advmod  likely  RB
+likely  RB  advmod  most  RBS
+
+Sentence 23: For this reason, it is important that you make sure the front edge is level along its length.
+important  JJ  nmod  reason  NN
+reason  NN  case  For  IN
+reason  NN  det  this  DT
+important  JJ  nsubj  it  PRP
+important  JJ  cop  is  VBZ
+important  JJ  ccomp  make  VBP
+make  VBP  mark  that  IN
+make  VBP  nsubj  you  PRP
+make  VBP  xcomp  sure  JJ
+sure  JJ  ccomp  level  NN
+level  NN  nsubj  edge  NN
+edge  NN  det  the  DT
+edge  NN  amod  front  JJ
+level  NN  cop  is  VBZ
+level  NN  nmod  length  NN
+length  NN  case  along  IN
+length  NN  nmod:poss  its  PRP$
+
+Sentence 24: Neither side should be higher or lower than the other.
+higher  JJR  nsubj  side  NN
+side  NN  det  Neither  DT
+higher  JJR  aux  should  MD
+higher  JJR  cop  be  VB
+higher  JJR  cc  or  CC
+higher  JJR  conj  lower  JJR
+higher  JJR  nmod  other  JJ
+other  JJ  case  than  IN
+other  JJ  det  the  DT
+
+Sentence 25: Take a few moments to make sure the front, lower edge is level with the floor.
+Take  VB  dobj  moments  NNS
+moments  NNS  det  a  DT
+moments  NNS  amod  few  JJ
+Take  VB  xcomp  make  VB
+make  VB  mark  to  TO
+make  VB  xcomp  sure  JJ
+sure  JJ  ccomp  level  NN
+level  NN  nsubj  edge  NN
+edge  NN  det  the  DT
+edge  NN  amod  front  JJ
+edge  NN  amod  lower  JJR
+level  NN  cop  is  VBZ
+level  NN  nmod  floor  NN
+floor  NN  case  with  IN
+floor  NN  det  the  DT
+
+Sentence 26: The front side of the cloth should barely touch the floor.
+touch  VB  nsubj  side  NN
+side  NN  det  The  DT
+side  NN  amod  front  JJ
+side  NN  nmod  cloth  NN
+cloth  NN  case  of  IN
+cloth  NN  det  the  DT
+touch  VB  aux  should  MD
+touch  VB  advmod  barely  RB
+touch  VB  dobj  floor  NN
+floor  NN  det  the  DT
+
+Sentence 27: An unleveled front edge can make the rest of the table boxing unleveled in turn.
+make  VB  nsubj  edge  NN
+edge  NN  det  An  DT
+edge  NN  amod  unleveled  JJ
+edge  NN  compound  front  NN
+make  VB  aux  can  MD
+make  VB  dobj  rest  NN
+rest  NN  det  the  DT
+rest  NN  nmod  boxing  NN
+boxing  NN  case  of  IN
+boxing  NN  det  the  DT
+boxing  NN  compound  table  NN
+boxing  NN  acl  unleveled  VBN
+unleveled  VBN  nmod  turn  NN
+turn  NN  case  in  IN
+
+Sentence 28: Beginning to Box the Table.
+Table  NNP  case  Beginning  VBG
+Table  NNP  case  to  TO
+Table  NNP  compound  Box  NNP
+Table  NNP  det  the  DT
+
+Sentence 29: Hold the front corner in place with your left hand.
+Hold  VB  dobj  corner  NN
+corner  NN  det  the  DT
+corner  NN  amod  front  JJ
+Hold  VB  nmod  place  NN
+place  NN  case  in  IN
+place  NN  nmod  hand  NN
+hand  NN  case  with  IN
+hand  NN  nmod:poss  your  PRP$
+hand  NN  amod  left  JJ
+
+Sentence 30: Stand on one edge of the table and use your left hand to secure the left corner of the table cloth.
+Stand  VB  nmod  edge  NN
+edge  NN  case  on  IN
+edge  NN  nummod  one  CD
+edge  NN  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+Stand  VB  cc  and  CC
+Stand  VB  conj  use  VB
+use  VB  dobj  hand  NN
+hand  NN  nmod:poss  your  PRP$
+hand  NN  amod  left  JJ
+use  VB  advcl  secure  VB
+secure  VB  mark  to  TO
+secure  VB  dobj  corner  NN
+corner  NN  det  the  DT
+corner  NN  amod  left  JJ
+corner  NN  nmod  cloth  NN
+cloth  NN  case  of  IN
+cloth  NN  det  the  DT
+cloth  NN  compound  table  NN
+
+Sentence 31: It's recommend that you use your pointer and middle fingers to hold the cloth in place.
+recommend  VBP  nsubj  It  PRP
+It  PRP  case  's  POS
+recommend  VBP  ccomp  use  VBP
+use  VBP  mark  that  IN
+use  VBP  nsubj  you  PRP
+use  VBP  dobj  pointer  NN
+pointer  NN  nmod:poss  your  PRP$
+pointer  NN  cc  and  CC
+pointer  NN  conj  fingers  NNS
+fingers  NNS  compound  middle  NN
+use  VBP  xcomp  hold  VB
+hold  VB  mark  to  TO
+hold  VB  dobj  cloth  NN
+cloth  NN  det  the  DT
+cloth  NN  nmod  place  NN
+place  NN  case  in  IN
+
+Sentence 32: Holding the table cloth at this point will help prevent the cloth from shifting and will keep the angles looking clean and sharp.
+help  VB  csubj  Holding  VBG
+Holding  VBG  dobj  cloth  NN
+cloth  NN  det  the  DT
+cloth  NN  compound  table  NN
+Holding  VBG  nmod  point  NN
+point  NN  case  at  IN
+point  NN  det  this  DT
+help  VB  aux  will  MD
+help  VB  xcomp  prevent  VB
+prevent  VB  dobj  cloth  NN
+cloth  NN  det  the  DT
+prevent  VB  nmod  shifting  VBG
+shifting  VBG  case  from  IN
+help  VB  cc  and  CC
+help  VB  conj  keep  VB
+keep  VB  aux  will  MD
+keep  VB  dobj  angles  NNS
+angles  NNS  det  the  DT
+angles  NNS  acl  looking  VBG
+looking  VBG  xcomp  clean  JJ
+clean  JJ  cc  and  CC
+clean  JJ  conj  sharp  JJ
+
+Sentence 33: Lift the lower right corner up.
+Lift  VB  dobj  corner  NN
+corner  NN  det  the  DT
+corner  NN  amod  lower  JJR
+corner  NN  compound  right  NN
+Lift  VB  compound:prt  up  RP
+
+Sentence 34: While holding the cloth in place with your left hand, reach down with your right hand and grab the lower corner of the tablecloth.
+reach  VB  advcl  holding  VBG
+holding  VBG  mark  While  IN
+holding  VBG  dobj  cloth  NN
+cloth  NN  det  the  DT
+cloth  NN  nmod  place  NN
+place  NN  case  in  IN
+holding  VBG  nmod  hand  NN
+hand  NN  case  with  IN
+hand  NN  nmod:poss  your  PRP$
+hand  NN  amod  left  JJ
+reach  VB  compound:prt  down  RP
+reach  VB  nmod  hand  NN
+hand  NN  case  with  IN
+hand  NN  nmod:poss  your  PRP$
+hand  NN  amod  right  JJ
+reach  VB  cc  and  CC
+reach  VB  conj  grab  VB
+grab  VB  dobj  corner  NN
+corner  NN  det  the  DT
+corner  NN  amod  lower  JJR
+corner  NN  nmod  tablecloth  NN
+tablecloth  NN  case  of  IN
+tablecloth  NN  det  the  DT
+
+Sentence 35: Once you've got the lower right corner of the cloth in hand, you can start to bring it up and over the table top.
+start  VB  advcl  got  VBN
+got  VBN  mark  Once  IN
+got  VBN  nsubj  you  PRP
+got  VBN  aux  've  VBP
+got  VBN  dobj  corner  NN
+corner  NN  det  the  DT
+corner  NN  amod  lower  JJR
+corner  NN  compound  right  NN
+corner  NN  nmod  cloth  NN
+cloth  NN  case  of  IN
+cloth  NN  det  the  DT
+cloth  NN  nmod  hand  NN
+hand  NN  case  in  IN
+start  VB  nsubj  you  PRP
+start  VB  aux  can  MD
+start  VB  dep  bring  VB
+bring  VB  mark  to  TO
+bring  VB  dobj  it  PRP
+bring  VB  compound:prt  up  RP
+bring  VB  cc  and  CC
+bring  VB  conj  top  NN
+top  NN  case  over  IN
+top  NN  det  the  DT
+top  NN  compound  table  NN
+
+Sentence 36: It may be helpful to hold the rest of the cloth in place with your thighs by standing against the table.
+helpful  JJ  nsubj  It  PRP
+helpful  JJ  aux  may  MD
+helpful  JJ  cop  be  VB
+helpful  JJ  xcomp  hold  VB
+hold  VB  mark  to  TO
+hold  VB  dobj  rest  NN
+rest  NN  det  the  DT
+rest  NN  nmod  cloth  NN
+cloth  NN  case  of  IN
+cloth  NN  det  the  DT
+cloth  NN  nmod  place  NN
+place  NN  case  in  IN
+place  NN  nmod  thighs  NNS
+thighs  NNS  case  with  IN
+thighs  NNS  nmod:poss  your  PRP$
+hold  VB  advcl  standing  VBG
+standing  VBG  mark  by  IN
+standing  VBG  nmod  table  NN
+table  NN  case  against  IN
+table  NN  det  the  DT
+
+Sentence 37: Pull the cloth tight in order to get a good, crisp line in the fabric.
+Pull  VB  dobj  cloth  NN
+cloth  NN  det  the  DT
+Pull  VB  advmod  tight  RB
+Pull  VB  advcl  get  VB
+get  VB  mark  in  IN
+in  IN  mwe  order  NN
+get  VB  mark  to  TO
+get  VB  dobj  line  NN
+line  NN  det  a  DT
+line  NN  amod  good  JJ
+line  NN  amod  crisp  JJ
+get  VB  nmod  fabric  NN
+fabric  NN  case  in  IN
+fabric  NN  det  the  DT
+
+Sentence 38: Keep the corner of the table in a straight line, matching the edge of the table.
+Keep  VB  dobj  corner  NN
+corner  NN  det  the  DT
+corner  NN  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+table  NN  nmod  line  NN
+line  NN  case  in  IN
+line  NN  det  a  DT
+line  NN  amod  straight  JJ
+corner  NN  acl  matching  VBG
+matching  VBG  dobj  edge  NN
+edge  NN  det  the  DT
+edge  NN  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+
+Sentence 39: Bring the lower right corner up and across the table.
+Bring  VB  iobj  right  NN
+right  NN  det  the  DT
+right  NN  amod  lower  JJR
+Bring  VB  dobj  corner  NN
+Bring  VB  nmod  table  NN
+table  NN  case  up  IN
+up  IN  cc  and  CC
+up  IN  conj  across  IN
+table  NN  det  the  DT
+
+Sentence 40: Move the lower right corner of the tablecloth up and over the table surface.
+Move  VB  dobj  corner  NN
+corner  NN  det  the  DT
+corner  NN  amod  lower  JJR
+corner  NN  compound  right  NN
+corner  NN  nmod  surface  NN
+surface  NN  case  of  IN
+surface  NN  det  the  DT
+surface  NN  amod  tablecloth  JJ
+tablecloth  JJ  dep  up  RP
+tablecloth  JJ  cc  and  CC
+tablecloth  JJ  conj  table  NN
+table  NN  case  over  IN
+table  NN  det  the  DT
+
+Sentence 41: You are going to bring this corner of the cloth to the center of the table's front edge.
+going  VBG  nsubj  You  PRP
+going  VBG  aux  are  VBP
+going  VBG  xcomp  bring  VB
+bring  VB  mark  to  TO
+bring  VB  dobj  corner  NN
+corner  NN  det  this  DT
+corner  NN  nmod  cloth  NN
+cloth  NN  case  of  IN
+cloth  NN  det  the  DT
+bring  VB  nmod  center  NN
+center  NN  case  to  TO
+center  NN  det  the  DT
+center  NN  nmod  edge  NN
+edge  NN  case  of  IN
+edge  NN  nmod:poss  table  NN
+table  NN  det  the  DT
+table  NN  case  's  POS
+edge  NN  amod  front  JJ
+
+Sentence 42: This action will allow you to create the crisp lines and folds needed when boxing a table.
+allow  VB  nsubj  action  NN
+action  NN  det  This  DT
+allow  VB  aux  will  MD
+allow  VB  dobj  you  PRP
+allow  VB  xcomp  create  VB
+create  VB  mark  to  TO
+create  VB  dobj  lines  NNS
+lines  NNS  det  the  DT
+lines  NNS  amod  crisp  JJ
+lines  NNS  cc  and  CC
+lines  NNS  conj  folds  NNS
+lines  NNS  acl  needed  VBN
+needed  VBN  advcl  table  NN
+table  NN  advmod  when  WRB
+table  NN  dep  boxing  NNP
+table  NN  det  a  DT
+
+Sentence 43: The corner should end in the front and center of the table top.
+end  VB  nsubj  corner  NN
+corner  NN  det  The  DT
+end  VB  aux  should  MD
+end  VB  nmod  front  NN
+front  NN  case  in  IN
+front  NN  det  the  DT
+front  NN  cc  and  CC
+front  NN  conj  center  NN
+front  NN  nmod  top  NN
+top  NN  case  of  IN
+top  NN  det  the  DT
+top  NN  compound  table  NN
+
+Sentence 44: Don't worry if it looks messy at this point.
+worry  VB  aux  Do  VB
+worry  VB  neg  n't  RB
+worry  VB  advcl  looks  VBZ
+looks  VBZ  mark  if  IN
+looks  VBZ  nsubj  it  PRP
+looks  VBZ  advmod  messy  RB
+looks  VBZ  nmod  point  NN
+point  NN  case  at  IN
+point  NN  det  this  DT
+
+Sentence 45: There is still time to fix the tablecloth.
+is  VBZ  expl  There  EX
+is  VBZ  advmod  still  RB
+is  VBZ  nsubj  time  NN
+time  NN  acl  fix  VB
+fix  VB  mark  to  TO
+fix  VB  dobj  tablecloth  NN
+tablecloth  NN  det  the  DT
+
+Sentence 46: Make sure the cloth was pulled tightly to ensure a clean fold.
+Make  VB  xcomp  sure  JJ
+sure  JJ  ccomp  pulled  VBN
+pulled  VBN  nsubjpass  cloth  NN
+cloth  NN  det  the  DT
+pulled  VBN  auxpass  was  VBD
+pulled  VBN  advmod  tightly  RB
+tightly  RB  dep  ensure  VB
+ensure  VB  mark  to  TO
+ensure  VB  dobj  fold  NN
+fold  NN  det  a  DT
+fold  NN  amod  clean  JJ
+
+Sentence 47: Adjust the side of the tablecloth.
+Adjust  VB  dobj  side  NN
+side  NN  det  the  DT
+side  NN  nmod  tablecloth  NN
+tablecloth  NN  case  of  IN
+tablecloth  NN  det  the  DT
+
+Sentence 48: Before you continue to box the table, it's a good idea to make adjustments to the side of the tablecloth.
+idea  NN  advcl  continue  VBP
+continue  VBP  mark  Before  IN
+continue  VBP  nsubj  you  PRP
+continue  VBP  xcomp  box  VB
+box  VB  mark  to  TO
+box  VB  dobj  table  NN
+table  NN  det  the  DT
+idea  NN  nsubj  it  PRP
+idea  NN  cop  's  VBZ
+idea  NN  det  a  DT
+idea  NN  amod  good  JJ
+idea  NN  acl  make  VB
+make  VB  mark  to  TO
+make  VB  dobj  adjustments  NNS
+make  VB  nmod  side  NN
+side  NN  case  to  TO
+side  NN  det  the  DT
+side  NN  nmod  tablecloth  NN
+tablecloth  NN  case  of  IN
+tablecloth  NN  det  the  DT
+
+Sentence 49: If it's crooked or unleveled, it will still be this way when you are finished.
+way  NN  advcl  crooked  JJ
+crooked  JJ  mark  If  IN
+crooked  JJ  nsubj  it  PRP
+crooked  JJ  cop  's  VBZ
+crooked  JJ  cc  or  CC
+crooked  JJ  conj  unleveled  JJ
+way  NN  nsubj  it  PRP
+way  NN  aux  will  MD
+way  NN  advmod  still  RB
+way  NN  cop  be  VB
+way  NN  det  this  DT
+way  NN  acl:relcl  finished  VBN
+finished  VBN  advmod  when  WRB
+finished  VBN  nsubjpass  you  PRP
+finished  VBN  auxpass  are  VBP
+
+Sentence 50: Take a moment to adjust the side of the tablecloth you started on.
+started  VBD  dep  Take  VB
+Take  VB  dobj  moment  NN
+moment  NN  det  a  DT
+moment  NN  acl  adjust  VB
+adjust  VB  mark  to  TO
+adjust  VB  dobj  side  NN
+side  NN  det  the  DT
+side  NN  nmod  tablecloth  NN
+tablecloth  NN  case  of  IN
+tablecloth  NN  det  the  DT
+started  VBD  nsubj  you  PRP
+started  VBD  compound:prt  on  RP
+
+Sentence 51: The bottom of the tablecloth should be level with the floor.
+level  NN  nsubj  bottom  NN
+bottom  NN  det  The  DT
+bottom  NN  nmod  tablecloth  NN
+tablecloth  NN  case  of  IN
+tablecloth  NN  det  the  DT
+level  NN  aux  should  MD
+level  NN  cop  be  VB
+level  NN  nmod  floor  NN
+floor  NN  case  with  IN
+floor  NN  det  the  DT
+
+Sentence 52: Try to have the bottom edge of the tablecloth touching or placed just above the floor.
+Try  VB  xcomp  have  VB
+have  VB  mark  to  TO
+have  VB  dobj  edge  NN
+edge  NN  det  the  DT
+edge  NN  amod  bottom  JJ
+edge  NN  nmod  touching  NN
+touching  NN  case  of  IN
+touching  NN  det  the  DT
+touching  NN  amod  tablecloth  JJ
+Try  VB  cc  or  CC
+Try  VB  conj  placed  VBD
+placed  VBD  advmod  just  RB
+placed  VBD  nmod  floor  NN
+floor  NN  case  above  IN
+floor  NN  det  the  DT
+
+Sentence 53: Finishing the Technique.
+Finishing  VBG  dobj  Technique  NN
+Technique  NN  det  the  DT
+
+Sentence 54: Hold the top-right corner and adjust the top.
+Hold  VB  dobj  corner  NN
+corner  NN  det  the  DT
+corner  NN  amod  top-right  JJ
+Hold  VB  cc  and  CC
+Hold  VB  conj  adjust  VB
+adjust  VB  dobj  top  NN
+top  NN  det  the  DT
+
+Sentence 55: Go around to the back of the table now and hold the corner you lifted up in place.
+Go  VB  compound:prt  around  RP
+Go  VB  nmod  back  NN
+back  NN  case  to  TO
+back  NN  det  the  DT
+back  NN  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+Go  VB  advmod  now  RB
+Go  VB  cc  and  CC
+Go  VB  conj  hold  VB
+hold  VB  dobj  corner  NN
+corner  NN  det  the  DT
+corner  NN  acl:relcl  lifted  VBD
+lifted  VBD  nsubj  you  PRP
+lifted  VBD  compound:prt  up  RP
+lifted  VBD  nmod  place  NN
+place  NN  case  in  IN
+
+Sentence 56: From here, you can begin adjusting the cloth on the top of the table, removing wrinkles, unwanted folds, and generally making it lay as flat as possible.
+begin  VB  nmod  here  RB
+here  RB  case  From  IN
+begin  VB  nsubj  you  PRP
+begin  VB  aux  can  MD
+begin  VB  ccomp  adjusting  VBG
+adjusting  VBG  dobj  cloth  NN
+cloth  NN  det  the  DT
+adjusting  VBG  nmod  top  NN
+top  NN  case  on  IN
+top  NN  det  the  DT
+top  NN  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+adjusting  VBG  conj  removing  VBG
+removing  VBG  dobj  folds  NNS
+folds  NNS  compound  wrinkles  NNS
+folds  NNS  amod  unwanted  JJ
+adjusting  VBG  cc  and  CC
+adjusting  VBG  conj  making  VBG
+making  VBG  advmod  generally  RB
+making  VBG  ccomp  lay  VB
+lay  VB  nsubj  it  PRP
+lay  VB  xcomp  flat  JJ
+flat  JJ  advmod  as  RB
+flat  JJ  advcl  possible  JJ
+possible  JJ  case  as  IN
+
+Sentence 57: Keep one hand in place, holding the table cloth, to prevent the tablecloth from falling down and ruining your work.
+Keep  VB  dobj  hand  NN
+hand  NN  nummod  one  CD
+Keep  VB  nmod  place  NN
+place  NN  case  in  IN
+Keep  VB  advcl  holding  VBG
+holding  VBG  dobj  cloth  NN
+cloth  NN  det  the  DT
+cloth  NN  compound  table  NN
+Keep  VB  advcl  prevent  VB
+prevent  VB  mark  to  TO
+prevent  VB  dobj  tablecloth  NN
+tablecloth  NN  det  the  DT
+prevent  VB  advcl  falling  VBG
+falling  VBG  mark  from  IN
+falling  VBG  compound:prt  down  RP
+falling  VBG  cc  and  CC
+falling  VBG  conj  ruining  VBG
+ruining  VBG  dobj  work  NN
+work  NN  nmod:poss  your  PRP$
+
+Sentence 58: Try gently waving the top section of cloth to work out folds or wrinkles.
+Try  VB  advmod  gently  RB
+Try  VB  xcomp  waving  VBG
+waving  VBG  dobj  section  NN
+section  NN  det  the  DT
+section  NN  amod  top  JJ
+section  NN  nmod  cloth  NN
+cloth  NN  case  of  IN
+waving  VBG  advcl  work  VB
+work  VB  mark  to  TO
+work  VB  compound:prt  out  RP
+work  VB  dobj  folds  NNS
+folds  NNS  cc  or  CC
+folds  NNS  conj  wrinkles  NNS
+
+Sentence 59: Pull the cloth slightly to fix areas where the cloth bunched up.
+Pull  VB  dobj  cloth  NN
+cloth  NN  det  the  DT
+Pull  VB  xcomp  fix  VB
+fix  VB  advmod  slightly  RB
+fix  VB  mark  to  TO
+fix  VB  dobj  areas  NNS
+fix  VB  advcl  bunched  VBD
+bunched  VBD  advmod  where  WRB
+bunched  VBD  nsubj  cloth  NN
+cloth  NN  det  the  DT
+bunched  VBD  compound:prt  up  RP
+
+Sentence 60: Remember to keep the lower sides of the tablecloth level with the ground.
+Remember  VB  xcomp  keep  VB
+keep  VB  mark  to  TO
+keep  VB  dobj  sides  NNS
+sides  NNS  det  the  DT
+sides  NNS  amod  lower  JJR
+sides  NNS  nmod  level  NN
+level  NN  case  of  IN
+level  NN  det  the  DT
+level  NN  amod  tablecloth  JJ
+keep  VB  nmod  ground  NN
+ground  NN  case  with  IN
+ground  NN  det  the  DT
+
+Sentence 61: Bring the side back down.
+Bring  VB  dobj  side  NN
+side  NN  det  the  DT
+Bring  VB  advmod  down  RB
+down  RB  advmod  back  RB
+
+Sentence 62: Once the top of the cloth is folded and flat, you can bring the top fold back down.
+bring  VB  advcl  folded  VBN
+folded  VBN  mark  Once  IN
+folded  VBN  nsubjpass  top  NN
+top  NN  det  the  DT
+top  NN  nmod  cloth  NN
+cloth  NN  case  of  IN
+cloth  NN  det  the  DT
+folded  VBN  auxpass  is  VBZ
+folded  VBN  cc  and  CC
+folded  VBN  conj  flat  JJ
+bring  VB  nsubj  you  PRP
+bring  VB  aux  can  MD
+bring  VB  ccomp  fold  VB
+fold  VB  nsubj  top  NN
+top  NN  det  the  DT
+fold  VB  advmod  down  RB
+down  RB  advmod  back  RB
+
+Sentence 63: Take the corner you originally placed at the top-center edge of the table, lift it up, and fold it down to the right hand corner.
+Take  VB  dobj  corner  NN
+corner  NN  det  the  DT
+corner  NN  acl:relcl  placed  VBD
+placed  VBD  nsubj  you  PRP
+placed  VBD  advmod  originally  RB
+placed  VBD  nmod  edge  NN
+edge  NN  case  at  IN
+edge  NN  det  the  DT
+edge  NN  amod  top-center  JJ
+edge  NN  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+Take  VB  conj  lift  VB
+lift  VB  dobj  it  PRP
+lift  VB  compound:prt  up  RP
+Take  VB  cc  and  CC
+Take  VB  conj  fold  VB
+fold  VB  dobj  it  PRP
+fold  VB  compound:prt  down  RP
+fold  VB  nmod  corner  NN
+corner  NN  case  to  TO
+corner  NN  det  the  DT
+corner  NN  amod  right  JJ
+corner  NN  compound  hand  NN
+
+Sentence 64: This is the last fold you will need to do when boxing this side of the table.
+fold  NN  nsubj  This  DT
+fold  NN  cop  is  VBZ
+fold  NN  det  the  DT
+fold  NN  amod  last  JJ
+fold  NN  acl:relcl  need  VB
+need  VB  nsubj  you  PRP
+need  VB  aux  will  MD
+need  VB  xcomp  do  VB
+do  VB  mark  to  TO
+do  VB  advcl  boxing  VBZ
+boxing  VBZ  advmod  when  WRB
+boxing  VBZ  dobj  side  NN
+side  NN  det  this  DT
+side  NN  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+
+Sentence 65: It's a good idea to hold the right corner of the tablecloth in place while you fold the top over to meet it.
+idea  NN  nsubj  It  PRP
+idea  NN  cop  's  VBZ
+idea  NN  det  a  DT
+idea  NN  amod  good  JJ
+idea  NN  acl  hold  VB
+hold  VB  mark  to  TO
+hold  VB  dobj  corner  NN
+corner  NN  det  the  DT
+corner  NN  amod  right  JJ
+corner  NN  nmod  tablecloth  NN
+tablecloth  NN  case  of  IN
+tablecloth  NN  det  the  DT
+tablecloth  NN  nmod  place  NN
+place  NN  case  in  IN
+hold  VB  advcl  fold  VBP
+fold  VBP  mark  while  IN
+fold  VBP  nsubj  you  PRP
+fold  VBP  advmod  over  RB
+over  RB  nmod:npmod  top  NN
+top  NN  det  the  DT
+fold  VBP  xcomp  meet  VB
+meet  VB  mark  to  TO
+meet  VB  dobj  it  PRP
+
+Sentence 66: Don't worry if the edge doesn't line up, you can still make adjustments.
+make  VB  ccomp  worry  VB
+worry  VB  aux  Do  VBP
+worry  VB  neg  n't  RB
+worry  VB  advcl  line  VB
+line  VB  mark  if  IN
+line  VB  nsubj  edge  NN
+edge  NN  det  the  DT
+line  VB  aux  does  VBZ
+line  VB  neg  n't  RB
+line  VB  compound:prt  up  RP
+make  VB  nsubj  you  PRP
+make  VB  aux  can  MD
+make  VB  advmod  still  RB
+make  VB  dobj  adjustments  NNS
+
+Sentence 67: Make final adjustments.
+Make  VB  dobj  adjustments  NNS
+adjustments  NNS  amod  final  JJ
+
+Sentence 68: Now that table boxing is complete, you can make your final adjustments.
+make  VB  ccomp  complete  JJ
+complete  JJ  advmod  Now  RB
+complete  JJ  nsubj  boxing  NN
+boxing  NN  det  that  DT
+boxing  NN  compound  table  NN
+complete  JJ  cop  is  VBZ
+make  VB  nsubj  you  PRP
+make  VB  aux  can  MD
+make  VB  dobj  adjustments  NNS
+adjustments  NNS  nmod:poss  your  PRP$
+adjustments  NNS  amod  final  JJ
+
+Sentence 69: You'll want to make sure that the edge of the tablecloth lines up with the edge of the table.
+want  VB  nsubj  You  PRP
+want  VB  aux  'll  MD
+want  VB  xcomp  make  VB
+make  VB  mark  to  TO
+make  VB  advmod  sure  RB
+make  VB  dep  edge  NN
+edge  NN  mark  that  IN
+edge  NN  det  the  DT
+edge  NN  nmod  lines  NNS
+lines  NNS  case  of  IN
+lines  NNS  det  the  DT
+lines  NNS  amod  tablecloth  JJ
+edge  NN  advmod  up  RB
+edge  NN  dep  edge  NN
+edge  NN  case  with  IN
+edge  NN  det  the  DT
+edge  NN  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+
+Sentence 70: Remove any wrinkles, bumps, or unwanted folds if you notice any.
+Remove  VB  dobj  wrinkles  NNS
+wrinkles  NNS  det  any  DT
+wrinkles  NNS  conj  bumps  NNS
+wrinkles  NNS  cc  or  CC
+wrinkles  NNS  conj  folds  NNS
+folds  NNS  amod  unwanted  JJ
+Remove  VB  advcl  notice  VBP
+notice  VBP  mark  if  IN
+notice  VBP  nsubj  you  PRP
+notice  VBP  dobj  any  DT
+
+Sentence 71: The tablecloth should lay completely flat when you have finished.
+lay  VB  nsubj  tablecloth  NN
+tablecloth  NN  det  The  DT
+lay  VB  aux  should  MD
+lay  VB  xcomp  flat  JJ
+flat  JJ  advmod  completely  RB
+lay  VB  advcl  finished  VBN
+finished  VBN  advmod  when  WRB
+finished  VBN  nsubj  you  PRP
+finished  VBN  aux  have  VBP
+
+Sentence 72: Do the other side of the table.
+Do  VB  dobj  side  NN
+side  NN  det  the  DT
+side  NN  amod  other  JJ
+side  NN  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+
+Sentence 73: Now that you have completed the fold on one side of the table, you can move on to the opposite end.
+move  VB  advcl  completed  VBN
+completed  VBN  advmod  Now  RB
+completed  VBN  mark  that  IN
+completed  VBN  nsubj  you  PRP
+completed  VBN  aux  have  VBP
+completed  VBN  dobj  fold  NN
+fold  NN  det  the  DT
+completed  VBN  nmod  side  NN
+side  NN  case  on  IN
+side  NN  nummod  one  CD
+side  NN  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+move  VB  nsubj  you  PRP
+move  VB  aux  can  MD
+move  VB  compound:prt  on  RP
+move  VB  nmod  end  NN
+end  NN  case  to  TO
+end  NN  det  the  DT
+end  NN  amod  opposite  JJ
+
+Sentence 74: Both sides should be folded in the same exact way to give the tablecloth a symmetrical and clean finished look.
+folded  VBN  nsubjpass  sides  NNS
+sides  NNS  det  Both  DT
+folded  VBN  aux  should  MD
+folded  VBN  auxpass  be  VB
+folded  VBN  nmod  way  NN
+way  NN  case  in  IN
+way  NN  det  the  DT
+way  NN  amod  same  JJ
+way  NN  amod  exact  JJ
+folded  VBN  xcomp  give  VB
+give  VB  mark  to  TO
+give  VB  iobj  tablecloth  NN
+tablecloth  NN  det  the  DT
+give  VB  dobj  look  NN
+look  NN  det  a  DT
+look  NN  amod  symmetrical  JJ
+symmetrical  JJ  cc  and  CC
+symmetrical  JJ  conj  clean  JJ
+look  NN  amod  finished  JJ
+
+Sentence 75: Follow the same steps on the opposite end of the table to box the table.
+Follow  VB  dobj  steps  NNS
+steps  NNS  det  the  DT
+steps  NNS  amod  same  JJ
+steps  NNS  nmod  end  NN
+end  NN  case  on  IN
+end  NN  det  the  DT
+end  NN  amod  opposite  JJ
+end  NN  nmod  table  NN
+table  NN  case  of  IN
+table  NN  det  the  DT
+table  NN  acl  box  VB
+box  VB  mark  to  TO
+box  VB  dobj  table  NN
+table  NN  det  the  DT

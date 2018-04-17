@@ -1,0 +1,569 @@
+Tagging for total 67 sentences with nltk methods
+
+Sentence: 1
+tagged_sent: [(u'some', 'DT'), (u'apps', 'NN'), (u'or', 'CC'), (u'games', 'NNS'), (u'in', 'IN'), (u'the', 'DT'), (u'Windows', 'NNP'), (u'Store', 'NNP'), (u'are', 'VBP'), (u'designed', 'VBN'), (u'to', 'TO'), (u'take', 'VB'), (u'advantage', 'NN'), (u'of', 'IN'), (u'specific', 'JJ'), (u'hardware', 'NN'), (u'or', 'CC'), (u'software', 'NN'), (u'capabilties', 'NNS'), (u'on', 'IN'), (u'your', 'PRP$'), (u'Windows', 'NNP'), (u'device', 'NN')]
+myvp: [['take', 'advantage']]
+nsubjpass:  designed ( apps )
+dobj:  take ( advantage )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', u'designed', '', u'take', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 2
+tagged_sent: [(u'for', 'IN'), (u'example', 'NN'), (u'a', 'DT'), (u'photo', 'NN'), (u'app', 'NN'), (u'might', 'MD'), (u'need', 'VB'), (u'to', 'TO'), (u'use', 'VB'), (u'your', 'PRP$'), (u'phone', 'NN'), (u's', 'NN'), (u'camera', 'NN'), (u'or', 'CC'), (u'a', 'DT'), (u'restaurant', 'NN'), (u'guide', 'NN'), (u'might', 'MD'), (u'use', 'VB'), (u'your', 'PRP$'), (u'location', 'NN'), (u'to', 'TO'), (u'recommend', 'VB'), (u'nearby', 'JJ'), (u'places', 'NNS')]
+myvp: [['use', 'phone', 's', 'camera'], ['use', 'location'], ['recommend', 'places']]
+dobj:  use ( location )
+dobj:  recommend ( places )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', u'use', '', '', '', '', '', '', '', '', '', u'use', '', '', '', u'recommend', '', '']
+
+Sentence: 3
+tagged_sent: [(u'in', 'IN'), (u'Windows', 'NNP'), (u'10', 'CD'), (u'in', 'IN'), (u'many', 'JJ'), (u'cases', 'NNS'), (u'you', 'PRP'), (u'can', 'MD'), (u'choose', 'VB'), (u'which', 'WDT'), (u'apps', 'NN'), (u'can', 'MD'), (u'use', 'VB'), (u'a', 'DT'), (u'particular', 'JJ'), (u'feature', 'NN')]
+myvp: [['use', 'feature']]
+dobj:  use ( which )
+dobj:  use ( feature )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', u'use', '', '', '']
+
+Sentence: 4
+tagged_sent: [(u'go', 'VB'), (u'to', 'TO'), (u'Start', 'NNP'), (u'Settings', 'NNP'), (u'Privacy', 'NNP')]
+myvp: []
+label:    [1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '']
+
+Sentence: 5
+tagged_sent: [(u'select', 'VB'), (u'the', 'DT'), (u'app', 'NN'), (u'for', 'IN'), (u'example', 'NN'), (u'Calendar', 'NNP'), (u'and', 'CC'), (u'select', 'NN'), (u'which', 'WDT'), (u'app', 'JJ'), (u'permissions', 'NNS'), (u'are', 'VBP'), (u'on', 'IN'), (u'or', 'CC'), (u'off', 'IN')]
+myvp: [['select', 'app']]
+dobj:  select ( app )
+dobj:  are ( which )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'select', '', '', '', '', '', '', u'select', '', '', '', u'are', '', '', '']
+
+Sentence: 6
+tagged_sent: [(u'apps', 'NN'), (u'with', 'IN'), (u'permission', 'NN'), (u'to', 'TO'), (u'Use', 'VB'), (u'all', 'DT'), (u'system', 'NN'), (u'resources', 'NNS'), (u'are', 'VBP'), (u'not', 'RB'), (u'listed', 'VBN')]
+myvp: [['Use', 'system', 'resources']]
+nsubjpass:  listed ( apps )
+dobj:  Use ( resources )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', '', '', u'Use', '', '', '', '', '', u'listed']
+
+Sentence: 7
+tagged_sent: [(u'you', 'PRP'), (u'can', 'MD'), (u't', 'VB'), (u'use', 'NN'), (u'Windows', 'NNP'), (u'Privacy', 'NNP'), (u'Settings', 'NNP'), (u'to', 'TO'), (u'control', 'VB'), (u'which', 'WDT'), (u'individual', 'JJ'), (u'capabilities', 'NNS'), (u'these', 'DT'), (u'apps', 'NNS'), (u'can', 'MD'), (u'use', 'VB')]
+myvp: [['t', 'use', 'Windows', 'Privacy', 'Settings']]
+dobj:  use ( Settings )
+dobj:  use ( which )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+temp_tag_act: ['', '', u't', u'use', '', '', '', '', '', '', '', '', '', '', '', u'use']
+
+Sentence: 8
+tagged_sent: [(u'for', 'IN'), (u'apps', 'NN'), (u'that', 'IN'), (u'don', 'NN'), (u't', 'NNS'), (u'have', 'VBP'), (u'permission', 'NN'), (u'to', 'TO'), (u'Use', 'VB'), (u'all', 'DT'), (u'system', 'NN'), (u'resources', 'NNS'), (u'you', 'PRP'), (u'can', 'MD'), (u'use', 'VB'), (u'Windows', 'NNP'), (u'Privacy', 'NNP'), (u'Settings', 'NNP'), (u'to', 'TO'), (u'control', 'VB'), (u'individual', 'JJ'), (u'capabilities', 'NNS')]
+myvp: [['have', 'permission'], ['Use', 'system', 'resources'], ['use', 'Windows', 'Privacy', 'Settings'], ['control', 'capabilities']]
+dobj:  have ( permission )
+dobj:  Use ( resources )
+dobj:  use ( Settings )
+dobj:  control ( capabilities )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'have', '', '', u'Use', '', '', '', '', '', u'use', '', '', '', '', u'control', '', '']
+
+Sentence: 9
+tagged_sent: [(u'to', 'TO'), (u'see', 'VB'), (u'the', 'DT'), (u'capabilities', 'NNS'), (u'for', 'IN'), (u'an', 'DT'), (u'app', 'NN'), (u'go', 'VBP'), (u'to', 'TO'), (u'the', 'DT'), (u'app', 'JJ'), (u'product', 'NN'), (u'page', 'NN'), (u'in', 'IN'), (u'Windows', 'NNP'), (u'Store', 'NNP')]
+myvp: [['see', 'capabilities']]
+label:    [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'see', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 10
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'don', 'VBP'), (u't', 'JJ'), (u'want', 'VBP'), (u'an', 'DT'), (u'app', 'NN'), (u'to', 'TO'), (u'use', 'VB'), (u'any', 'DT'), (u'of', 'IN'), (u'the', 'DT'), (u'features', 'NNS'), (u'listed', 'VBN'), (u'you', 'PRP'), (u'can', 'MD'), (u'choose', 'VB'), (u'not', 'RB'), (u'to', 'TO'), (u'install', 'VB'), (u'it', 'PRP')]
+myvp: [['want', 'app'], ['listed', 'you'], ['install', 'it']]
+dobj:  want ( app )
+dobj:  use ( any )
+dobj:  install ( it )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', u'want', '', '', '', u'use', '', '', '', '', '', '', '', '', '', '', u'install', '']
+
+Sentence: 11
+tagged_sent: [(u'more', 'JJR'), (u'information', 'NN'), (u'on', 'IN'), (u'some', 'DT'), (u'PermissionsUse', 'NNP'), (u'all', 'DT'), (u'system', 'NN'), (u'resources', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 12
+tagged_sent: [(u'may', 'MD'), (u'use', 'VB'), (u'any', 'DT'), (u'system', 'NN'), (u'resource', 'NN'), (u'such', 'JJ'), (u'as', 'IN'), (u'camera', 'NN'), (u'microphone', 'NN'), (u'or', 'CC'), (u'location', 'NN'), (u'without', 'IN'), (u'further', 'JJ'), (u'notification', 'NN')]
+myvp: [['use', 'system', 'resource']]
+dobj:  use ( resource )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'use', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 13
+tagged_sent: [(u'you', 'PRP'), (u'can', 'MD'), (u't', 'VB'), (u'control', 'NN'), (u'app', 'JJ'), (u'permissions', 'NNS'), (u'for', 'IN'), (u'individual', 'JJ'), (u'system', 'NN'), (u'resources', 'NNS'), (u'via', 'IN'), (u'Windows', 'NNP'), (u'Privacy', 'NNP'), (u'Settings', 'NNP')]
+myvp: [['t', 'control']]
+dobj:  t ( permissions )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u't', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 14
+tagged_sent: [(u'use', 'VB'), (u'your', 'PRP$'), (u'location', 'NN')]
+myvp: [['use', 'location']]
+dobj:  use ( location )
+label:    [1, 0, 0]
+temp_tag: [1, 0, 0]
+temp_tag_act: [u'use', '', '']
+
+Sentence: 15
+tagged_sent: [(u'may', 'MD'), (u'access', 'NN'), (u'your', 'PRP$'), (u'location', 'NN'), (u'data', 'NNS'), (u'from', 'IN'), (u'your', 'PRP$'), (u'device', 'NN')]
+myvp: []
+dobj:  access ( location )
+label:    [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'access', '', '', '', '', '', '']
+
+Sentence: 16
+tagged_sent: [(u'control', 'NN'), (u'of', 'IN'), (u'this', 'DT'), (u'resource', 'NN'), (u'may', 'MD'), (u'be', 'VB'), (u'found', 'VBN'), (u'in', 'IN'), (u'Windows', 'NNP'), (u'Privacy', 'NNP'), (u'Settings', 'NNP')]
+myvp: []
+nsubjpass:  found ( control )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', u'found', '', '', '', '']
+
+Sentence: 17
+tagged_sent: [(u'use', 'VB'), (u'your', 'PRP$'), (u'webcam', 'NN')]
+myvp: [['use', 'webcam']]
+dobj:  use ( webcam )
+label:    [1, 0, 0]
+temp_tag: [1, 0, 0]
+temp_tag_act: [u'use', '', '']
+
+Sentence: 18
+tagged_sent: [(u'may', 'MD'), (u'activate', 'VB'), (u'and', 'CC'), (u'use', 'VB'), (u'the', 'DT'), (u'camera', 'NN'), (u'on', 'IN'), (u'your', 'PRP$'), (u'device', 'NN')]
+myvp: [['use', 'camera']]
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'use', '', '', '', '', '']
+
+Sentence: 19
+tagged_sent: [(u'control', 'NN'), (u'of', 'IN'), (u'this', 'DT'), (u'resource', 'NN'), (u'may', 'MD'), (u'be', 'VB'), (u'found', 'VBN'), (u'in', 'IN'), (u'Windows', 'NNP'), (u'Privacy', 'NNP'), (u'Settings', 'NNP')]
+myvp: []
+nsubjpass:  found ( control )
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', u'found', '', '', '', '']
+
+Sentence: 20
+tagged_sent: [(u'use', 'VB'), (u'your', 'PRP$'), (u'microphone', 'NN')]
+myvp: [['use', 'microphone']]
+dobj:  use ( microphone )
+label:    [1, 0, 0]
+temp_tag: [1, 0, 0]
+temp_tag_act: [u'use', '', '']
+
+Sentence: 21
+tagged_sent: [(u'may', 'MD'), (u'activate', 'VB'), (u'and', 'CC'), (u'use', 'VB'), (u'the', 'DT'), (u'microphone', 'NN'), (u'on', 'IN'), (u'your', 'PRP$'), (u'device', 'NN')]
+myvp: [['use', 'microphone']]
+label:    [0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'use', '', '', '', '', '']
+
+Sentence: 22
+tagged_sent: [(u'control', 'NN'), (u'of', 'IN'), (u'this', 'DT'), (u'resource', 'NN'), (u'may', 'MD'), (u'be', 'VB'), (u'found', 'VBN'), (u'in', 'IN'), (u'Windows', 'NNP'), (u'Privacy', 'NNP'), (u'Settings', 'NNP')]
+myvp: []
+nsubjpass:  found ( control )
+label:    [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', u'found', '', '', '', '']
+
+Sentence: 23
+tagged_sent: [(u'use', 'VB'), (u'your', 'PRP$'), (u'music', 'NN'), (u'library', 'NN')]
+myvp: [['use', 'music', 'library']]
+dobj:  use ( library )
+label:    [1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0]
+temp_tag_act: [u'use', '', '', '']
+
+Sentence: 24
+tagged_sent: [(u'may', 'MD'), (u'access', 'NN'), (u'any', 'DT'), (u'music', 'NN'), (u'files', 'NNS'), (u'from', 'IN'), (u'the', 'DT'), (u'Music', 'NNP'), (u'library', 'NN'), (u'on', 'IN'), (u'your', 'PRP$'), (u'device', 'NN')]
+myvp: []
+dobj:  access ( music )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'access', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 25
+tagged_sent: [(u'use', 'VB'), (u'your', 'PRP$'), (u'pictures', 'NNS'), (u'library', 'VBP')]
+myvp: [['use', 'pictures']]
+dobj:  use ( library )
+label:    [1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0]
+temp_tag_act: [u'use', '', '', '']
+
+Sentence: 26
+tagged_sent: [(u'may', 'MD'), (u'access', 'NN'), (u'any', 'DT'), (u'picture', 'NN'), (u'files', 'VBZ'), (u'from', 'IN'), (u'the', 'DT'), (u'Pictures', 'NNP'), (u'library', 'NN'), (u'on', 'IN'), (u'your', 'PRP$'), (u'device', 'NN')]
+myvp: []
+dobj:  access ( picture )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'access', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 27
+tagged_sent: [(u'use', 'VB'), (u'your', 'PRP$'), (u'video', 'NN'), (u'library', 'NN')]
+myvp: [['use', 'video', 'library']]
+dobj:  use ( library )
+label:    [1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0]
+temp_tag_act: [u'use', '', '', '']
+
+Sentence: 28
+tagged_sent: [(u'may', 'MD'), (u'access', 'NN'), (u'any', 'DT'), (u'video', 'NN'), (u'files', 'NNS'), (u'from', 'IN'), (u'the', 'DT'), (u'Video', 'NNP'), (u'library', 'NN'), (u'on', 'IN'), (u'your', 'PRP$'), (u'device', 'NN')]
+myvp: []
+dobj:  access ( video )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'access', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 29
+tagged_sent: [(u'apps', 'JJ'), (u'settings', 'NNS'), (u'files', 'NNS'), (u'they', 'PRP'), (u'can', 'MD'), (u'all', 'DT'), (u'be', 'VB'), (u'found', 'VBN'), (u'on', 'IN'), (u'the', 'DT'), (u'Start', 'NNP'), (u'menu', 'NN')]
+myvp: [['found', 'Start', 'menu']]
+nsubjpass:  found ( they )
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'found', '', '', '', '']
+
+Sentence: 30
+tagged_sent: [(u'just', 'RB'), (u'select', 'VB'), (u'the', 'DT'), (u'Start', 'NNP'), (u'button', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'taskbar', 'NN')]
+myvp: [['select', 'Start', 'button']]
+dobj:  select ( button )
+label:    [0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'select', '', '', '', '', '', '']
+
+Sentence: 31
+tagged_sent: [(u'next', 'JJ'), (u'make', 'NN'), (u'it', 'PRP'), (u'yours', 'VBZ'), (u'by', 'IN'), (u'pinning', 'VBG'), (u'apps', 'NN'), (u'and', 'CC'), (u'programs', 'NNS'), (u'or', 'CC'), (u'moving', 'VBG'), (u'and', 'CC'), (u'regrouping', 'VBG'), (u'tiles', 'NNS')]
+myvp: [['pinning', 'apps'], ['regrouping', 'tiles']]
+dobj:  pinning ( apps )
+dobj:  moving ( tiles )
+label:    [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'pinning', '', '', '', '', u'moving', '', '', '']
+
+Sentence: 32
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'need', 'VBP'), (u'more', 'JJR'), (u'space', 'NN'), (u'resize', 'VB'), (u'the', 'DT'), (u'Start', 'NNP'), (u'menu', 'NN')]
+myvp: [['resize', 'Start', 'menu']]
+dobj:  resize ( menu )
+label:    [0, 0, 1, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'resize', '', '', '']
+
+Sentence: 33
+tagged_sent: [(u'your', 'PRP$'), (u'apps', 'NN'), (u'and', 'CC'), (u'programs', 'NNS'), (u'right', 'RB'), (u'at', 'IN'), (u'your', 'PRP$'), (u'fingertips', 'NNS'), (u'Open', 'NNP'), (u'File', 'NNP'), (u'Explorer', 'NNP'), (u'Settings', 'NNP'), (u'and', 'CC'), (u'other', 'JJ'), (u'apps', 'NN'), (u'you', 'PRP'), (u'use', 'VBP'), (u'often', 'RB'), (u'from', 'IN'), (u'the', 'DT'), (u'left', 'JJ'), (u'side', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'Start', 'NNP'), (u'menu', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 34
+tagged_sent: [(u'scroll', 'VB'), (u'down', 'RP'), (u'the', 'DT'), (u'app', 'JJ'), (u'list', 'NN'), (u'to', 'TO'), (u'see', 'VB'), (u'all', 'DT'), (u'apps', 'NNS'), (u'and', 'CC'), (u'programs', 'NNS'), (u'alphabetically', 'RB'), (u'from', 'IN'), (u'A', 'NNP'), (u'to', 'TO'), (u'Xbox', 'VB')]
+myvp: [['see', 'apps']]
+dobj:  scroll ( list )
+dobj:  see ( apps )
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'scroll', '', '', '', '', '', u'see', '', '', '', '', '', '', '', '', '']
+
+Sentence: 35
+tagged_sent: [(u'menu', 'NN'), (u'expands', 'VBZ'), (u'to', 'TO'), (u'show', 'VB'), (u'names', 'NNS'), (u'for', 'IN'), (u'all', 'DT'), (u'menu', 'JJ'), (u'items', 'NNS'), (u'Account', 'NNP'), (u'File', 'NNP'), (u'Explorer', 'NNP'), (u'Settings', 'NNP'), (u'Power', 'NNP'), (u'You', 'PRP'), (u'have', 'VBP'), (u'the', 'DT'), (u'power', 'NN'), (u'Lock', 'NNP'), (u'or', 'CC'), (u'sign', 'VB'), (u'out', 'IN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'PC', 'NN'), (u'switch', 'NN'), (u'to', 'TO'), (u'another', 'DT'), (u'account', 'NN'), (u'or', 'CC'), (u'change', 'VB'), (u'your', 'PRP$'), (u'account', 'NN'), (u'picture', 'NN'), (u'by', 'IN'), (u'selecting', 'VBG'), (u'your', 'PRP$'), (u'picture', 'NN'), (u'or', 'CC'), (u'the', 'DT'), (u'Accounts', 'NNPS'), (u'icon', 'NN'), (u'if', 'IN'), (u'you', 'PRP'), (u'haven', 'VBP'), (u't', 'VB'), (u'added', 'VBD'), (u'a', 'DT'), (u'personal', 'JJ'), (u'picture', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'left', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'Start', 'NNP'), (u'menu', 'NN')]
+myvp: [['show', 'names'], ['have', 'power', 'Lock'], ['change', 'account', 'picture'], ['selecting', 'picture'], ['added', 'picture']]
+dobj:  show ( names )
+dobj:  have ( Lock )
+dobj:  change ( picture )
+dobj:  selecting ( picture )
+dobj:  added ( picture )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'show', '', '', '', '', '', '', '', '', '', '', '', u'have', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'change', '', '', '', '', u'selecting', '', '', '', '', '', '', '', '', '', '', u'added', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 36
+tagged_sent: [(u'when', 'WRB'), (u'you', 'PRP'), (u're', 'VBP'), (u'ready', 'JJ'), (u'to', 'TO'), (u'step', 'VB'), (u'away', 'RB'), (u'for', 'IN'), (u'a', 'DT'), (u'while', 'NN'), (u'the', 'DT'), (u'power', 'NN'), (u'button', 'NN'), (u'is', 'VBZ'), (u'always', 'RB'), (u'available', 'JJ'), (u'at', 'IN'), (u'the', 'DT'), (u'bottom', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'Start', 'NNP'), (u'menu', 'NN'), (u'to', 'TO'), (u'make', 'VB'), (u'your', 'PRP$'), (u'PC', 'NN'), (u'sleep', 'JJ'), (u'restart', 'NN'), (u'or', 'CC'), (u'shut', 'VB'), (u'down', 'RP'), (u'completely', 'RB')]
+myvp: [['make', 'PC']]
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'make', '', '', '', '', '', '', '', '']
+
+Sentence: 37
+tagged_sent: [(u'to', 'TO'), (u'make', 'VB'), (u'other', 'JJ'), (u'changes', 'NNS'), (u'to', 'TO'), (u'how', 'WRB'), (u'the', 'DT'), (u'Start', 'NNP'), (u'menu', 'NN'), (u'looks', 'VBZ'), (u'select', 'VBP'), (u'the', 'DT'), (u'Start', 'NNP'), (u'button', 'NN'), (u'then', 'RB'), (u'select', 'JJ'), (u'Settings', 'NNP'), (u'Personalization', 'NNP'), (u'Start', 'NNP'), (u'to', 'TO'), (u'change', 'VB'), (u'which', 'WDT'), (u'apps', 'NN'), (u'and', 'CC'), (u'folders', 'NNS'), (u'appear', 'VBP'), (u'in', 'IN'), (u'the', 'DT'), (u'Start', 'NNP'), (u'menu', 'NN')]
+myvp: [['make', 'changes'], ['select', 'Start', 'button'], ['appear', 'Start', 'menu']]
+dobj:  make ( changes )
+dobj:  select ( Start )
+dobj:  appear ( which )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', u'make', '', '', '', '', '', '', '', '', u'select', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'appear', '', '', '', '']
+
+Sentence: 38
+tagged_sent: [(u'looking', 'VBG'), (u'for', 'IN'), (u'a', 'DT'), (u'long', 'JJ'), (u'lost', 'JJ'), (u'app', 'NN'), (u'or', 'CC'), (u'program', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 39
+tagged_sent: [(u'the', 'DT'), (u'Start', 'NNP'), (u'menu', 'NN'), (u'is', 'VBZ'), (u'the', 'DT'), (u'place', 'NN'), (u'to', 'TO'), (u'well', 'RB'), (u'start', 'VB')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 40
+tagged_sent: [(u'select', 'VB'), (u'the', 'DT'), (u'Start', 'NNP'), (u'button', 'NN'), (u'and', 'CC'), (u'then', 'RB'), (u'scroll', 'VB'), (u'through', 'IN'), (u'the', 'DT'), (u'alphabetical', 'JJ'), (u'list', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'left', 'NN')]
+myvp: [['select', 'Start', 'button'], ['scroll', 'list']]
+dobj:  select ( button )
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'select', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 41
+tagged_sent: [(u'to', 'TO'), (u'limit', 'VB'), (u'scrolling', 'VBG'), (u'jump', 'NN'), (u'to', 'TO'), (u'a', 'DT'), (u'specific', 'JJ'), (u'part', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'list', 'NN')]
+myvp: [['scrolling', 'jump']]
+dobj:  limit ( jump )
+label:    [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'limit', u'scrolling', '', '', '', '', '', '', '', '']
+
+Sentence: 42
+tagged_sent: [(u'select', 'JJ'), (u'any', 'DT'), (u'letter', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'alphabetical', 'JJ'), (u'list', 'NN'), (u'and', 'CC'), (u'then', 'RB'), (u'choose', 'VB'), (u'the', 'DT'), (u'letter', 'NN'), (u'that', 'IN'), (u'the', 'DT'), (u'name', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'app', 'NN'), (u'begins', 'VBZ'), (u'with', 'IN')]
+myvp: [['choose', 'letter']]
+dobj:  select ( letter )
+dobj:  choose ( letter )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'select', '', '', '', '', '', '', '', '', u'choose', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 43
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'still', 'RB'), (u'can', 'MD'), (u't', 'VB'), (u'find', 'VB'), (u'what', 'WP'), (u'you', 'PRP'), (u're', 'VBP'), (u'looking', 'VBG'), (u'for', 'IN'), (u'do', 'VB'), (u'a', 'DT'), (u'quick', 'JJ'), (u'search', 'NN'), (u'for', 'IN'), (u'it', 'PRP')]
+myvp: [['do', 'search']]
+dobj:  looking ( what )
+dobj:  do ( search )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', u'looking', '', u'do', '', '', '', '', '']
+
+Sentence: 44
+tagged_sent: [(u'in', 'IN'), (u'the', 'DT'), (u'search', 'NN'), (u'box', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'taskbar', 'NN'), (u'type', 'VBZ'), (u'the', 'DT'), (u'name', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'app', 'NN'), (u'or', 'CC'), (u'program', 'NN'), (u'or', 'CC'), (u'press', 'NN'), (u'the', 'DT'), (u'Windows', 'NNP'), (u'logo', 'NN'), (u'key', 'NN'), (u'on', 'IN'), (u'your', 'PRP$'), (u'keyboard', 'NN'), (u'and', 'CC'), (u'start', 'VB'), (u'typing', 'VBG')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 45
+tagged_sent: [(u'it', 'PRP'), (u's', 'VBD'), (u'always', 'RB'), (u'good', 'JJ'), (u'to', 'TO'), (u'have', 'VB'), (u'a', 'DT'), (u'backup', 'NN')]
+myvp: [['have', 'backup']]
+dobj:  have ( backup )
+label:    [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'have', '', '']
+
+Sentence: 46
+tagged_sent: [(u'keep', 'VB'), (u'copies', 'NNS'), (u'of', 'IN'), (u'your', 'PRP$'), (u'files', 'NNS'), (u'on', 'IN'), (u'another', 'DT'), (u'drive', 'NN'), (u'in', 'IN'), (u'case', 'NN'), (u'something', 'NN'), (u'happens', 'VBZ'), (u'to', 'TO'), (u'the', 'DT'), (u'originals', 'NNS')]
+myvp: [['keep', 'copies']]
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'keep', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 47
+tagged_sent: [(u'set', 'VBN'), (u'up', 'RP'), (u'your', 'PRP$'), (u'backup', 'NN'), (u'Select', 'VBP'), (u'the', 'DT'), (u'Start', 'NNP'), (u'button', 'NN'), (u'select', 'NN'), (u'Settings', 'NNP'), (u'Update', 'NNP'), (u'security', 'NN'), (u'Backup', 'NNP'), (u'Add', 'NNP'), (u'a', 'DT'), (u'drive', 'NN'), (u'and', 'CC'), (u'then', 'RB'), (u'choose', 'VB'), (u'an', 'DT'), (u'external', 'JJ'), (u'drive', 'NN'), (u'or', 'CC'), (u'network', 'NN'), (u'location', 'NN'), (u'for', 'IN'), (u'your', 'PRP$'), (u'backups', 'NNS')]
+myvp: [['choose', 'drive']]
+dobj:  set ( Select )
+dobj:  Add ( drive )
+dobj:  choose ( drive )
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'set', '', '', '', '', '', '', '', '', '', '', '', '', u'Add', '', '', '', '', u'choose', '', '', '', '', '', '', '', '', '']
+
+Sentence: 48
+tagged_sent: [(u'all', 'DT'), (u'set', 'NN')]
+myvp: []
+label:    [0, 0]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 49
+tagged_sent: [(u'every', 'DT'), (u'hour', 'NN'), (u'we', 'PRP'), (u'll', 'VBP'), (u'back', 'RB'), (u'up', 'RP'), (u'everything', 'NN'), (u'in', 'IN'), (u'your', 'PRP$'), (u'user', 'JJ'), (u'folder', 'NN'), (u'C', 'NNP')]
+myvp: []
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 50
+tagged_sent: [(u'users', 'NNS'), (u'username', 'VBP'), (u'To', 'TO'), (u'change', 'VB'), (u'which', 'WDT'), (u'files', 'VBZ'), (u'get', 'NN'), (u'backed', 'VBD'), (u'up', 'RP'), (u'or', 'CC'), (u'how', 'WRB'), (u'often', 'RB'), (u'backups', 'VBZ'), (u'happen', 'JJ'), (u'go', 'VB'), (u'to', 'TO'), (u'More', 'JJR'), (u'options', 'NNS')]
+myvp: []
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 51
+tagged_sent: [(u'restore', 'VB'), (u'your', 'PRP$'), (u'files', 'NNS'), (u'If', 'IN'), (u'you', 'PRP'), (u're', 'VBP'), (u'missing', 'VBG'), (u'an', 'DT'), (u'important', 'JJ'), (u'file', 'NN'), (u'or', 'CC'), (u'folder', 'NN'), (u'here', 'RB'), (u's', 'VBZ'), (u'how', 'WRB'), (u'to', 'TO'), (u'get', 'VB'), (u'it', 'PRP'), (u'back', 'RP')]
+myvp: [['restore', 'files'], ['missing', 'file'], ['get', 'it']]
+dobj:  restore ( files )
+dobj:  missing ( file )
+dobj:  get ( it )
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'restore', '', '', '', '', '', u'missing', '', '', '', '', '', '', '', '', '', u'get', '', '']
+
+Sentence: 52
+tagged_sent: [(u'type', 'NN'), (u'Restore', 'NNP'), (u'files', 'NNS'), (u'in', 'IN'), (u'the', 'DT'), (u'search', 'NN'), (u'box', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'taskbar', 'NN'), (u'and', 'CC'), (u'then', 'RB'), (u'select', 'VB'), (u'Restore', 'NNP'), (u'your', 'PRP$'), (u'files', 'NNS'), (u'with', 'IN'), (u'File', 'NNP'), (u'History', 'NNP')]
+myvp: [['select', 'Restore']]
+dobj:  Restore ( files )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'Restore', '', '', '', '', '', '', '', '', '', '', u'select', '', '', '', '', '', '']
+
+Sentence: 53
+tagged_sent: [(u'look', 'NN'), (u'for', 'IN'), (u'the', 'DT'), (u'file', 'NN'), (u'you', 'PRP'), (u'need', 'VBP'), (u'then', 'RB'), (u'use', 'VB'), (u'the', 'DT'), (u'arrows', 'NNS'), (u'to', 'TO'), (u'see', 'VB'), (u'all', 'DT'), (u'its', 'PRP$'), (u'versions', 'NNS')]
+myvp: [['use', 'arrows']]
+dobj:  use ( arrows )
+dobj:  see ( versions )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'use', '', '', '', u'see', '', '', '']
+
+Sentence: 54
+tagged_sent: [(u'when', 'WRB'), (u'you', 'PRP'), (u'find', 'VBP'), (u'the', 'DT'), (u'version', 'NN'), (u'you', 'PRP'), (u'want', 'VBP'), (u'select', 'JJ'), (u'Restore', 'NNP'), (u'to', 'TO'), (u'save', 'VB'), (u'it', 'PRP'), (u'in', 'IN'), (u'its', 'PRP$'), (u'original', 'JJ'), (u'location', 'NN')]
+myvp: [['find', 'version'], ['want', 'Restore'], ['save', 'it']]
+dobj:  find ( version )
+dobj:  select ( Restore )
+dobj:  save ( it )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'find', '', '', '', '', u'select', '', '', u'save', '', '', '', '', '']
+
+Sentence: 55
+tagged_sent: [(u'to', 'TO'), (u'save', 'VB'), (u'it', 'PRP'), (u'in', 'IN'), (u'a', 'DT'), (u'different', 'JJ'), (u'place', 'NN'), (u'press', 'NN'), (u'and', 'CC'), (u'hold', 'NN'), (u'or', 'CC'), (u'right', 'JJ'), (u'click', 'NN'), (u'Restore', 'NNP'), (u'select', 'NN'), (u'Restore', 'NNP'), (u'to', 'TO'), (u'and', 'CC'), (u'then', 'RB'), (u'choose', 'VB'), (u'a', 'DT'), (u'new', 'JJ'), (u'location', 'NN')]
+myvp: [['save', 'it'], ['choose', 'location']]
+dobj:  save ( it )
+dobj:  select ( Restore )
+dobj:  choose ( location )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', u'save', '', '', '', '', '', '', '', '', '', '', '', '', u'select', '', '', '', '', u'choose', '', '', '']
+
+Sentence: 56
+tagged_sent: [(u'need', 'VB'), (u'a', 'DT'), (u'hand', 'NN'), (u'with', 'IN'), (u'Windows', 'NNP'), (u'10', 'CD')]
+myvp: []
+dobj:  need ( hand )
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'need', '', '', '', '', '']
+
+Sentence: 57
+tagged_sent: [(u'type', 'NN'), (u'a', 'DT'), (u'keyword', 'NN'), (u'or', 'CC'), (u'question', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'search', 'NN'), (u'box', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'taskbar', 'NN'), (u'and', 'CC'), (u'you', 'PRP'), (u'll', 'VBP'), (u'find', 'VB'), (u'help', 'NN'), (u'from', 'IN'), (u'Microsoft', 'NNP'), (u'and', 'CC'), (u'Cortana', 'NNP')]
+myvp: [['find', 'help']]
+dobj:  find ( help )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'find', '', '', '', '', '']
+
+Sentence: 58
+tagged_sent: [(u'find', 'VB'), (u'it', 'PRP'), (u'fast', 'RB'), (u'If', 'IN'), (u'you', 'PRP'), (u'don', 'VBP'), (u't', 'RB'), (u'know', 'VBP'), (u'where', 'WRB'), (u'to', 'TO'), (u'find', 'VB'), (u'a', 'DT'), (u'setting', 'NN'), (u'or', 'CC'), (u'feature', 'NN'), (u'you', 'PRP'), (u'want', 'VBP'), (u'there', 'EX'), (u's', 'VB'), (u'a', 'DT'), (u'good', 'JJ'), (u'chance', 'NN'), (u'a', 'DT'), (u'single', 'JJ'), (u'word', 'NN'), (u'will', 'MD'), (u'get', 'VB'), (u'you', 'PRP'), (u'there', 'RB')]
+myvp: [['find', 'it'], ['find', 'setting'], ['s', 'chance'], ['get', 'you']]
+dobj:  find ( setting )
+dobj:  get ( you )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'find', '', '', '', '', '', '', '', '', '', u'find', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', u'get', '', '']
+
+Sentence: 59
+tagged_sent: [(u'for', 'IN'), (u'example', 'NN'), (u'type', 'NN'), (u'sleep', 'NN'), (u'and', 'CC'), (u'you', 'PRP'), (u'll', 'VBP'), (u'be', 'VB'), (u'pointed', 'VBN'), (u'to', 'TO'), (u'your', 'PRP$'), (u'PC', 'NN'), (u'sleep', 'NN'), (u'settings', 'NNS')]
+myvp: []
+nsubjpass:  pointed ( you )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', u'pointed', '', '', '', '', '']
+
+Sentence: 60
+tagged_sent: [(u'or', 'CC'), (u'type', 'VB'), (u'uninstall', 'JJ'), (u'to', 'TO'), (u'find', 'VB'), (u'where', 'WRB'), (u'you', 'PRP'), (u'can', 'MD'), (u'view', 'VB'), (u'or', 'CC'), (u'uninstall', 'VB'), (u'apps', 'NN')]
+myvp: [['uninstall', 'apps']]
+dobj:  view ( apps )
+label:    [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', u'uninstall', '', '', '', '', '', u'view', '', '', '']
+
+Sentence: 61
+tagged_sent: [(u'quick', 'JJ'), (u'answers', 'NNS'), (u'For', 'IN'), (u'some', 'DT'), (u'of', 'IN'), (u'the', 'DT'), (u'most', 'RBS'), (u'asked', 'JJ'), (u'questions', 'NNS'), (u'about', 'IN'), (u'Windows', 'NNP'), (u'Cortana', 'NNP'), (u'can', 'MD'), (u'find', 'VB'), (u'the', 'DT'), (u'answer', 'NN')]
+myvp: [['find', 'answer']]
+dobj:  find ( answer )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', u'find', '', '']
+
+Sentence: 62
+tagged_sent: [(u'type', 'NN'), (u'a', 'DT'), (u'question', 'NN'), (u'such', 'JJ'), (u'as', 'IN'), (u'How', 'NNP'), (u'do', 'VBP'), (u'I', 'PRP'), (u'delete', 'VB'), (u'my', 'PRP$'), (u'browsing', 'VBG'), (u'history', 'NN'), (u'or', 'CC'), (u'How', 'WRB'), (u'to', 'TO'), (u'use', 'VB'), (u'multiple', 'JJ'), (u'desktops', 'NNS'), (u'in', 'IN'), (u'Windows', 'NNP'), (u'10', 'CD'), (u'and', 'CC'), (u'then', 'RB'), (u'select', 'VB'), (u'the', 'DT'), (u'result', 'NN'), (u'that', 'WDT'), (u'says', 'VBZ'), (u'Help', 'NN'), (u'from', 'IN'), (u'Microsoft', 'NNP')]
+myvp: [['do', 'I'], ['browsing', 'history'], ['use', 'desktops'], ['select', 'result']]
+dobj:  type ( question )
+dobj:  delete ( history )
+dobj:  use ( desktops )
+dobj:  select ( result )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'type', '', '', '', '', '', u'do', '', u'delete', '', u'browsing', '', '', '', '', u'use', '', '', '', '', '', '', '', u'select', '', '', '', '', '', '', '']
+
+Sentence: 63
+tagged_sent: [(u'give', 'VB'), (u'it', 'PRP'), (u'a', 'DT'), (u'try', 'NN')]
+myvp: [['give', 'it', 'try']]
+dobj:  give ( try )
+label:    [1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0]
+temp_tag_act: [u'give', '', '', '']
+
+Sentence: 64
+tagged_sent: [(u'note', 'NN'), (u'Cortana', 'NNP'), (u'is', 'VBZ'), (u'only', 'RB'), (u'available', 'JJ'), (u'in', 'IN'), (u'certain', 'JJ'), (u'countries', 'NNS'), (u'regions', 'NNS'), (u'and', 'CC'), (u'some', 'DT'), (u'Cortana', 'NNP'), (u'features', 'NNS'), (u'might', 'MD'), (u'not', 'RB'), (u'be', 'VB'), (u'available', 'JJ'), (u'everywhere', 'RB')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 65
+tagged_sent: [(u'if', 'IN'), (u'Cortana', 'NNP'), (u'isn', 'VBP'), (u't', 'NN'), (u'available', 'JJ'), (u'you', 'PRP'), (u'can', 'MD'), (u'still', 'RB'), (u'use', 'VB'), (u'search', 'NN')]
+myvp: [['use', 'search']]
+dobj:  use ( search )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', u'use', '']
+
+Sentence: 66
+tagged_sent: [(u'can', 'MD'), (u't', 'VB'), (u'find', 'VB'), (u'an', 'DT'), (u'answer', 'NN'), (u'on', 'IN'), (u'your', 'PRP$'), (u'PC', 'NN')]
+myvp: [['find', 'answer', 'PC']]
+dobj:  find ( answer )
+label:    [0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'find', '', '', '', '', '']
+
+Sentence: 67
+tagged_sent: [(u'select', 'VB'), (u'a', 'DT'), (u'web', 'JJ'), (u'result', 'NN'), (u'to', 'TO'), (u'find', 'VB'), (u'an', 'DT'), (u'answer', 'NN'), (u'from', 'IN'), (u'Bing', 'NNP'), (u'or', 'CC'), (u'get', 'VB'), (u'more', 'JJR'), (u'help', 'NN'), (u'online', 'NN'), (u'at', 'IN'), (u'support', 'NN'), (u'com', 'NN'), (u'windows', 'NNS')]
+myvp: [['select', 'result'], ['find', 'answer']]
+dobj:  select ( result )
+dobj:  find ( answer )
+dobj:  get ( help )
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'select', '', '', '', '', u'find', '', '', '', '', '', u'get', '', '', '', '', '', '', '']
+
+
+
+total_actions: 108
+right_actions: 68
+tag_actions: 101
+recall: 0.629630
+precision: 0.673267
+f_measure: 0.650718
+accuracy: 0.926707
+Time cost 1469s

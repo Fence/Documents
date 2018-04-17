@@ -1,0 +1,52 @@
+
+
+Sentence 1: Every computer operating system and Internet browser provides you with the option to change the language of the user interface, text, menus, dialog boxes, and more.
+provides  VBZ  nsubj  system  NN
+system  NN  det  Every  DT
+system  NN  compound  computer  NN
+system  NN  amod  operating  VBG
+system  NN  cc  and  CC
+system  NN  conj  browser  NN
+browser  NN  amod  Internet  JJ
+provides  VBZ  dobj  you  PRP
+provides  VBZ  nmod  option  NN
+option  NN  case  with  IN
+option  NN  det  the  DT
+option  NN  acl  change  VB
+change  VB  mark  to  TO
+change  VB  dobj  language  NN
+language  NN  det  the  DT
+language  NN  nmod  interface  NN
+interface  NN  case  of  IN
+interface  NN  det  the  DT
+interface  NN  compound  user  NN
+interface  NN  conj  text  NN
+interface  NN  conj  menus  NNS
+interface  NN  conj  boxes  NNS
+boxes  NNS  amod  dialog  JJ
+interface  NN  cc  and  CC
+interface  NN  conj  more  JJR
+
+Sentence 2: Follow the steps outlined in this article to learn how to change the language preferences on your computer.
+Follow  VB  dobj  steps  NNS
+steps  NNS  det  the  DT
+steps  NNS  acl  outlined  VBN
+outlined  VBN  nmod  article  NN
+article  NN  case  in  IN
+article  NN  det  this  DT
+outlined  VBN  xcomp  learn  VB
+learn  VB  mark  to  TO
+learn  VB  ccomp  change  VB
+change  VB  advmod  how  WRB
+change  VB  mark  to  TO
+change  VB  dobj  preferences  NNS
+preferences  NNS  det  the  DT
+preferences  NNS  compound  language  NN
+change  VB  nmod  computer  NN
+computer  NN  case  on  IN
+computer  NN  nmod:poss  your  PRP$
+
+Sentence 3: Changing Language in Windows
+Changing  VBG  dobj  Language  NNP
+Language  NNP  nmod  Windows  NNP
+Windows  NNP  case  in  IN

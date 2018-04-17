@@ -1,0 +1,727 @@
+Tagging for total 89 sentences with nltk methods
+
+Sentence: 1
+tagged_sent: [(u'accept', 'IN'), (u'that', 'DT'), (u'your', 'PRP$'), (u'computer', 'NN'), (u'is', 'VBZ'), (u'slow', 'JJ')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 2
+tagged_sent: [(u"don't", 'NN'), (u'click', 'VB'), (u'anything', 'NN'), (u'too', 'RB'), (u'fast', 'RB'), (u'or', 'CC'), (u'try', 'VB'), (u'to', 'TO'), (u'refresh', 'VB'), (u'the', 'DT'), (u'page', 'NN')]
+myvp: [['click', 'anything'], ['refresh', 'page']]
+dobj:  click ( anything )
+dobj:  refresh ( page )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', u'click', '', '', '', '', '', '', u'refresh', '', '']
+
+Sentence: 3
+tagged_sent: [(u"don't", 'NN'), (u'overreact', 'NN')]
+myvp: []
+label:    [0, 1]
+temp_tag: [0, 0]
+temp_tag_act: ['', '']
+
+Sentence: 4
+tagged_sent: [(u'just', 'RB'), (u'leave', 'VB'), (u'the', 'DT'), (u'computer', 'NN'), (u'alone', 'RB'), (u"don't", 'JJ'), (u'click', 'NN'), (u'anything', 'NN'), (u'the', 'DT'), (u'best', 'JJS'), (u'thing', 'NN'), (u'to', 'TO'), (u'do', 'VB'), (u'is', 'VBZ'), (u'just', 'RB'), (u'to', 'TO'), (u'let', 'VB'), (u'it', 'PRP'), (u'load.\nClear', 'VB'), (u'your', 'PRP$'), (u'computer', 'NN'), (u'of', 'IN'), (u'all', 'DT'), (u'unnecessary', 'JJ'), (u'documents', 'NNS')]
+myvp: [['leave', 'computer'], ['let', 'it']]
+dobj:  click ( anything )
+label:    [0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'leave', '', '', '', '', u'click', '', '', '', '', '', '', '', '', '', u'let', '', '', '', '', '', '', '', '']
+
+Sentence: 5
+tagged_sent: [(u'clear', 'JJ'), (u'your', 'PRP$'), (u'computer', 'NN'), (u'of', 'IN'), (u'all', 'DT'), (u'unnecessary', 'JJ'), (u'documents', 'NNS')]
+myvp: []
+dobj:  clear ( computer )
+label:    [1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'clear', '', '', '', '', '', '']
+
+Sentence: 6
+tagged_sent: [(u'clear', 'JJ'), (u'your', 'PRP$'), (u'recycle', 'NN'), (u'bin', 'NN'), (u'every', 'DT'), (u'once', 'RB'), (u'in', 'IN'), (u'a', 'DT'), (u'while', 'NN'), (u'to', 'TO'), (u'delete', 'VB'), (u'unnecessary', 'JJ'), (u'files', 'NNS')]
+myvp: [['delete', 'files']]
+dobj:  clear ( bin )
+dobj:  delete ( files )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: [u'clear', '', '', '', '', '', '', '', '', '', u'delete', '', '']
+
+Sentence: 7
+tagged_sent: [(u'avoid', 'NN'), (u'opening', 'VBG'), (u'up', 'RP'), (u'several', 'JJ'), (u'tabs', 'NNS'), (u'at', 'IN'), (u'once', 'RB')]
+myvp: []
+dobj:  opening ( tabs )
+label:    [1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'opening', '', '', '', '', '']
+
+Sentence: 8
+tagged_sent: [(u'clicking', 'VBG'), (u'back', 'RB'), (u'and', 'CC'), (u'forth', 'NN'), (u'between', 'IN'), (u'several', 'JJ'), (u'tabs', 'NNS'), (u'probably', 'RB'), (u"won't", 'VBP'), (u'happen', 'VB'), (u'either', 'CC')]
+myvp: []
+label:    [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 9
+tagged_sent: [(u'save', 'VB'), (u'everything', 'NN'), (u'you', 'PRP'), (u'work', 'VBP'), (u'on', 'IN'), (u'several', 'JJ'), (u'times', 'NNS')]
+myvp: [['save', 'everything'], ['work', 'times']]
+dobj:  save ( everything )
+label:    [1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'save', '', '', '', '', '', '']
+
+Sentence: 10
+tagged_sent: [(u'the', 'DT'), (u'last', 'JJ'), (u'thing', 'NN'), (u'you', 'PRP'), (u'want', 'VBP'), (u'is', 'VBZ'), (u'to', 'TO'), (u'have', 'VB'), (u'your', 'PRP$'), (u'computer', 'NN'), (u'crash', 'NN'), (u'as', 'IN'), (u'you', 'PRP'), (u'top', 'VBP'), (u'off', 'RP'), (u'that', 'DT'), (u'10-page', 'JJ'), (u'essay', 'NN')]
+myvp: [['have', 'computer', 'crash']]
+dobj:  have ( crash )
+dobj:  top ( essay )
+label:    [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', u'have', '', '', '', '', '', u'top', '', '', '', '']
+
+Sentence: 11
+tagged_sent: [(u'consider', 'VB'), (u'using', 'VBG'), (u'the', 'DT'), (u'internet', 'NN'), (u'when', 'WRB'), (u'everyone', 'NN'), (u'in', 'IN'), (u'your', 'PRP$'), (u'household', 'NN'), (u'is', 'VBZ'), (u'asleep', 'JJ'), (u'or', 'CC'), (u'essentially', 'RB'), (u'not', 'RB'), (u'using', 'VBG'), (u'the', 'DT'), (u'internet', 'NN')]
+myvp: [['using', 'internet'], ['using', 'internet']]
+dobj:  using ( internet )
+dobj:  using ( internet )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', u'using', '', '', '', '', '', '', '', '', '', '', '', '', u'using', '', '']
+
+Sentence: 12
+tagged_sent: [(u'forget', 'NN'), (u'videos', 'NNS')]
+myvp: []
+dobj:  forget ( videos )
+label:    [1, 0]
+temp_tag: [1, 0]
+temp_tag_act: [u'forget', '']
+
+Sentence: 13
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'have', 'VBP'), (u'dial-up', 'JJ'), (u'internet', 'NN'), (u'it', 'PRP'), (u'can', 'MD'), (u'take', 'VB'), (u'up', 'RP'), (u'to', 'TO'), (u'half', 'PDT'), (u'an', 'DT'), (u'hour', 'NN'), (u'to', 'TO'), (u'load', 'VB'), (u'one', 'CD'), (u'to', 'TO'), (u'two-minute', 'JJ'), (u'video', 'NN')]
+myvp: [['have', 'internet']]
+dobj:  have ( internet )
+dobj:  load ( one )
+label:    [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'have', '', '', '', '', '', '', '', '', '', '', '', u'load', '', '', '', '']
+
+Sentence: 14
+tagged_sent: [(u'unless', 'IN'), (u'you', 'PRP'), (u'can', 'MD'), (u'leave', 'VB'), (u'your', 'PRP$'), (u'computer', 'NN'), (u'alone', 'RB'), (u'for', 'IN'), (u'hours', 'NNS'), (u'to', 'TO'), (u'let', 'VB'), (u'it', 'PRP'), (u'load', 'VB'), (u'just', 'RB'), (u'forget', 'VB'), (u'about', 'IN'), (u'it', 'PRP')]
+myvp: [['leave', 'computer'], ['let', 'it'], ['forget', 'it']]
+dobj:  leave ( computer )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'leave', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 15
+tagged_sent: [(u'you', 'PRP'), (u'can', 'MD'), (u'live', 'VB'), (u'without', 'IN'), (u'online', 'JJ'), (u'videos', 'NNS')]
+myvp: [['live', 'videos']]
+label:    [0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', u'live', '', '', '']
+
+Sentence: 16
+tagged_sent: [(u'adapt', 'VB'), (u'a', 'DT'), (u'mouse', 'NN'), (u'to', 'TO'), (u'click', 'VB'), (u'with', 'IN'), (u'your', 'PRP$'), (u'foot', 'NN')]
+myvp: [['adapt', 'mouse']]
+dobj:  adapt ( mouse )
+label:    [1, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'adapt', '', '', '', '', '', '', '']
+
+Sentence: 17
+tagged_sent: [(u'obtain', 'VB'), (u'a', 'DT'), (u'second', 'JJ'), (u'usb', 'NN'), (u'mouse', 'NN')]
+myvp: [['obtain', 'usb', 'mouse']]
+dobj:  obtain ( mouse )
+label:    [1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0]
+temp_tag_act: [u'obtain', '', '', '', '']
+
+Sentence: 18
+tagged_sent: [(u'use', 'NN'), (u'one', 'CD'), (u'for', 'IN'), (u'moving', 'VBG'), (u'the', 'DT'), (u'cursor', 'NN')]
+myvp: [['moving', 'cursor']]
+dobj:  use ( one )
+dobj:  moving ( cursor )
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 1, 0, 0]
+temp_tag_act: [u'use', '', '', u'moving', '', '']
+
+Sentence: 19
+tagged_sent: [(u'cut', 'NN'), (u'2', 'CD'), (u'short', 'JJ'), (u'pieces', 'NNS'), (u'of', 'IN'), (u'plastic', 'NN'), (u'tubing', 'VBG'), (u'such', 'JJ'), (u'as', 'IN'), (u'1.9', 'CD'), (u'cm', 'NN'), (u'plastic', 'NN'), (u'conduit', 'NN')]
+myvp: []
+dobj:  cut ( pieces )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'cut', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 20
+tagged_sent: [(u'drill', 'VB'), (u'a', 'DT'), (u'hole', 'NN'), (u'in', 'IN'), (u'one', 'CD'), (u'side', 'NN')]
+myvp: [['drill', 'hole', 'side']]
+dobj:  drill ( hole )
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'drill', '', '', '', '', '']
+
+Sentence: 21
+tagged_sent: [(u'insert', 'VB'), (u'a', 'DT'), (u'small', 'JJ'), (u'bit', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'drill', 'NN'), (u'and', 'CC'), (u'drill', 'VB'), (u'a', 'DT'), (u'small', 'JJ'), (u'hole', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'side', 'NN'), (u'opposite', 'IN'), (u'the', 'DT'), (u'large', 'JJ'), (u'hole', 'NN')]
+myvp: [['insert', 'bit'], ['drill', 'hole']]
+dobj:  insert ( bit )
+dobj:  drill ( hole )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'insert', '', '', '', '', '', u'drill', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 22
+tagged_sent: [(u'repeat', 'NN'), (u'for', 'IN'), (u'each', 'DT'), (u'of', 'IN'), (u'the', 'DT'), (u'two', 'CD'), (u'pieces', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 23
+tagged_sent: [(u'drill', 'VB'), (u'a', 'DT'), (u'small', 'JJ'), (u'pilot', 'NN'), (u'hole', 'NN'), (u'in', 'IN'), (u'each', 'DT'), (u'of', 'IN'), (u'the', 'DT'), (u'two', 'CD'), (u'mouse', 'NN'), (u'buttons', 'NNS')]
+myvp: [['drill', 'pilot', 'hole']]
+dobj:  drill ( hole )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'drill', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 24
+tagged_sent: [(u'put', 'VB'), (u'a', 'DT'), (u'bit', 'NN'), (u'of', 'IN'), (u'glue', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'piece', 'NN'), (u'of', 'IN'), (u'tubing', 'VBG'), (u'around', 'IN'), (u'the', 'DT'), (u'small', 'JJ'), (u'hole', 'NN')]
+myvp: [['put', 'bit'], ['tubing', 'hole']]
+dobj:  put ( bit )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'put', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 25
+tagged_sent: [(u'insert', 'VB'), (u'a', 'DT'), (u'screw', 'NN'), (u'through', 'IN'), (u'the', 'DT'), (u'hole', 'NN'), (u'from', 'IN'), (u'inside', 'IN'), (u'the', 'DT'), (u'tubing', 'NN')]
+myvp: [['insert', 'screw']]
+dobj:  insert ( screw )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'insert', '', '', '', '', '', '', '', '', '']
+
+Sentence: 26
+tagged_sent: [(u'using', 'VBG'), (u'the', 'DT'), (u'large', 'JJ'), (u'hole', 'NN'), (u'for', 'IN'), (u'screwdriver', 'JJ'), (u'access', 'NN'), (u'screw', 'VBD'), (u'the', 'DT'), (u'piece', 'NN'), (u'of', 'IN'), (u'tubing', 'VBG'), (u'onto', 'IN'), (u'a', 'DT'), (u'mouse', 'NN'), (u'button', 'NN')]
+myvp: [['using', 'hole'], ['screw', 'piece'], ['tubing', 'mouse', 'button']]
+dobj:  using ( hole )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'using', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 27
+tagged_sent: [(u'repeat', 'NN'), (u'for', 'IN'), (u'each', 'DT'), (u'of', 'IN'), (u'the', 'DT'), (u'two', 'CD'), (u'buttons', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '']
+
+Sentence: 28
+tagged_sent: [(u'for', 'IN'), (u'best', 'JJS'), (u'ease', 'NN'), (u'of', 'IN'), (u'use', 'NN'), (u'take', 'VB'), (u'a', 'DT'), (u'piece', 'NN'), (u'of', 'IN'), (u'Styrofoam', 'NNP'), (u'insulation', 'NN'), (u'board', 'NN'), (u'and', 'CC'), (u'cut', 'VB'), (u'it', 'PRP'), (u'to', 'TO'), (u'around', 'IN'), (u'a', 'DT'), (u'1', 'CD'), (u'foot', 'NN'), (u'square', 'NN')]
+myvp: [['take', 'piece'], ['cut', 'it']]
+dobj:  take ( piece )
+dobj:  cut ( it )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'take', '', '', '', '', '', '', '', u'cut', '', '', '', '', '', '', '']
+
+Sentence: 29
+tagged_sent: [(u'cut', 'VB'), (u'a', 'DT'), (u'notch', 'NN'), (u'in', 'IN'), (u'one', 'CD'), (u'edge', 'NN'), (u'to', 'TO'), (u'fit', 'VB'), (u'the', 'DT'), (u'mouse', 'NN')]
+myvp: [['cut', 'notch'], ['fit', 'mouse']]
+dobj:  cut ( notch )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'cut', '', '', '', '', '', '', '', '', '']
+
+Sentence: 30
+tagged_sent: [(u'optionally', 'RB'), (u'put', 'VBN'), (u'foam', 'RP'), (u'weatherstripping', 'VBG'), (u'on', 'IN'), (u'top', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'tubing', 'NN'), (u'to', 'TO'), (u'pad', 'VB'), (u'it', 'PRP')]
+myvp: [['weatherstripping', 'top'], ['pad', 'it']]
+dobj:  put ( weatherstripping )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', u'put', '', u'weatherstripping', '', '', '', '', '', '', u'pad', '']
+
+Sentence: 31
+tagged_sent: [(u'clean', 'VB'), (u'a', 'DT'), (u'cassette', 'NN'), (u'deck', 'NN')]
+myvp: [['clean', 'cassette', 'deck']]
+dobj:  clean ( deck )
+label:    [1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0]
+temp_tag_act: [u'clean', '', '', '']
+
+Sentence: 32
+tagged_sent: [(u'remove', 'VB'), (u'the', 'DT'), (u'tape', 'NN'), (u'from', 'IN'), (u'the', 'DT'), (u'deck', 'NN')]
+myvp: [['remove', 'tape', 'deck']]
+dobj:  remove ( tape )
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'remove', '', '', '', '', '']
+
+Sentence: 33
+tagged_sent: [(u'open', 'VB'), (u'up', 'RP'), (u'the', 'DT'), (u'tape', 'NN'), (u'compartment', 'NN')]
+myvp: []
+dobj:  open ( compartment )
+label:    [1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0]
+temp_tag_act: [u'open', '', '', '', '']
+
+Sentence: 34
+tagged_sent: [(u'gather', 'NN'), (u'Isopropyl', 'NNP'), (u'alcohol', 'VBZ'), (u'70-80%', 'JJ')]
+myvp: []
+dobj:  gather ( alcohol )
+label:    [1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0]
+temp_tag_act: [u'gather', '', '', '']
+
+Sentence: 35
+tagged_sent: [(u'soak', 'VB'), (u'the', 'DT'), (u'Q-tip', 'NNP'), (u'in', 'IN'), (u'the', 'DT'), (u'alcohol', 'NN')]
+myvp: [['soak', 'Q-tip', 'alcohol']]
+dobj:  soak ( Q-tip )
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'soak', '', '', '', '', '']
+
+Sentence: 36
+tagged_sent: [(u'clean', 'VB'), (u'the', 'DT'), (u'heads', 'NNS')]
+myvp: [['clean', 'heads']]
+dobj:  clean ( heads )
+label:    [1, 0, 0]
+temp_tag: [1, 0, 0]
+temp_tag_act: [u'clean', '', '']
+
+Sentence: 37
+tagged_sent: [(u'press', 'NN'), (u'fast', 'RB'), (u'forward', 'RB'), (u'and', 'CC'), (u'rewind', 'VB'), (u'so', 'RB'), (u'that', 'IN'), (u'the', 'DT'), (u'heads', 'NNS'), (u'move', 'VBP')]
+myvp: []
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '']
+
+Sentence: 38
+tagged_sent: [(u'clean', 'VB'), (u'the', 'DT'), (u'pinch', 'NN'), (u'roller', 'NN')]
+myvp: [['clean', 'pinch', 'roller']]
+dobj:  clean ( roller )
+label:    [1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0]
+temp_tag_act: [u'clean', '', '', '']
+
+Sentence: 39
+tagged_sent: [(u'press', 'NN'), (u'play', 'NN'), (u'so', 'IN'), (u'the', 'DT'), (u'roller', 'NN'), (u'is', 'VBZ'), (u'moving', 'VBG'), (u'when', 'WRB'), (u'you', 'PRP'), (u'clean', 'VBP'), (u'it', 'PRP')]
+myvp: [['clean', 'it']]
+dobj:  clean ( it )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', u'clean', '']
+
+Sentence: 40
+tagged_sent: [(u'clean', 'VB'), (u'the', 'DT'), (u'capstan', 'NN')]
+myvp: [['clean', 'capstan']]
+dobj:  clean ( capstan )
+label:    [1, 0, 0]
+temp_tag: [1, 0, 0]
+temp_tag_act: [u'clean', '', '']
+
+Sentence: 41
+tagged_sent: [(u'using', 'VBG'), (u'the', 'DT'), (u'lens', 'NNS'), (u'cloth', 'VBP'), (u'wipe', 'VBP'), (u'out', 'RP'), (u'any', 'DT'), (u'other', 'JJ'), (u'areas', 'NNS'), (u'that', 'IN'), (u'appear', 'VBP'), (u'dusty', 'JJ'), (u'or', 'CC'), (u'dirty', 'NN')]
+myvp: [['using', 'lens']]
+dobj:  wipe ( areas )
+dobj:  appear ( dusty )
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'using', '', '', '', u'wipe', '', '', '', '', '', u'appear', '', '', '']
+
+Sentence: 42
+tagged_sent: [(u'insert', 'VB'), (u'your', 'PRP$'), (u'tape', 'NN')]
+myvp: [['insert', 'tape']]
+dobj:  insert ( tape )
+label:    [1, 0, 0]
+temp_tag: [1, 0, 0]
+temp_tag_act: [u'insert', '', '']
+
+Sentence: 43
+tagged_sent: [(u'rewind', 'VB'), (u'the', 'DT'), (u'tape', 'NN'), (u'to', 'TO'), (u'the', 'DT'), (u'start', 'NN'), (u'then', 'RB'), (u'fast', 'RB'), (u'forward', 'RB'), (u'to', 'TO'), (u'the', 'DT'), (u'end', 'NN')]
+myvp: [['rewind', 'tape']]
+dobj:  rewind ( tape )
+label:    [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'rewind', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 44
+tagged_sent: [(u'rewind', 'NN'), (u'and', 'CC'), (u'fast', 'RB'), (u'forward', 'RB'), (u'until', 'IN'), (u'the', 'DT'), (u'tape', 'NN'), (u'plays', 'VBZ'), (u'smoothly', 'RB')]
+myvp: []
+label:    [1, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '']
+
+Sentence: 45
+tagged_sent: [(u'enjoy', 'VB'), (u'your', 'PRP$'), (u'music', 'NN')]
+myvp: [['enjoy', 'music']]
+dobj:  enjoy ( music )
+label:    [1, 0, 0]
+temp_tag: [1, 0, 0]
+temp_tag_act: [u'enjoy', '', '']
+
+Sentence: 46
+tagged_sent: [(u'change', 'VB'), (u'your', 'PRP$'), (u'verizon', 'NN'), (u'number', 'NN'), (u'online', 'NN')]
+myvp: [['change', 'verizon', 'number', 'online']]
+dobj:  change ( number )
+label:    [1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0]
+temp_tag_act: [u'change', '', '', '', '']
+
+Sentence: 47
+tagged_sent: [(u'go', 'VB'), (u'to', 'TO'), (u'VerizonWireless.com', 'NNP')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 48
+tagged_sent: [(u'log', 'NN'), (u'in', 'IN'), (u'as', 'IN'), (u'the', 'DT'), (u'account', 'NN'), (u'owner', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 49
+tagged_sent: [(u'use', 'VB'), (u'your', 'PRP$'), (u'username', 'NN'), (u'and', 'CC'), (u'password', 'NN'), (u'to', 'TO'), (u'access', 'NN'), (u'your', 'PRP$'), (u'account', 'NN'), (u'information', 'NN')]
+myvp: [['use', 'username']]
+dobj:  use ( username )
+dobj:  access ( information )
+label:    [1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'use', '', '', '', '', '', u'access', '', '', '']
+
+Sentence: 50
+tagged_sent: [(u'if', 'IN'), (u'someone', 'NN'), (u'else', 'JJ'), (u'deals', 'NNS'), (u'with', 'IN'), (u'the', 'DT'), (u'account', 'NN'), (u"you'll", 'RB'), (u'need', 'VB'), (u'to', 'TO'), (u'get', 'VB'), (u'the', 'DT'), (u'log-in', 'JJ'), (u'info', 'NN'), (u'from', 'IN'), (u'them', 'PRP')]
+myvp: [['get', 'info']]
+dobj:  get ( info )
+label:    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', u'get', '', '', '', '', '']
+
+Sentence: 51
+tagged_sent: [(u'look', 'NN'), (u'for', 'IN'), (u'the', 'DT'), (u'MyPhone', 'NNP'), (u'actions', 'NNS'), (u'column', 'NN')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 52
+tagged_sent: [(u'after', 'IN'), (u'you', 'PRP'), (u'click', 'VBP'), (u'MyPhone', 'PDT'), (u'the', 'DT'), (u'column', 'NN'), (u'will', 'MD'), (u'be', 'VB'), (u'to', 'TO'), (u'the', 'DT'), (u'left', 'NN')]
+myvp: []
+dobj:  click ( MyPhone )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'click', '', '', '', '', '', '', '', '']
+
+Sentence: 53
+tagged_sent: [(u'below', 'IN'), (u"you'll", 'NNS'), (u'see', 'VBP'), (u'a', 'DT'), (u'link', 'NN'), (u'to', 'TO'), (u'change', 'VB'), (u'your', 'PRP$'), (u'cell', 'NN'), (u'phone', 'NN'), (u'number', 'NN')]
+myvp: [['see', 'link'], ['change', 'cell', 'phone', 'number']]
+dobj:  see ( link )
+dobj:  change ( number )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: ['', '', u'see', '', '', '', u'change', '', '', '', '']
+
+Sentence: 54
+tagged_sent: [(u'walk', 'NN'), (u'through', 'IN'), (u'the', 'DT'), (u'steps', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 55
+tagged_sent: [(u'the', 'DT'), (u'steps', 'NNS'), (u'will', 'MD'), (u'guide', 'VB'), (u'you', 'PRP'), (u'through', 'IN'), (u'the', 'DT'), (u'process', 'NN'), (u'of', 'IN'), (u'changing', 'VBG'), (u'your', 'PRP$'), (u'number', 'NN')]
+myvp: [['guide', 'you'], ['changing', 'number']]
+dobj:  guide ( you )
+dobj:  changing ( number )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', u'guide', '', '', '', '', '', u'changing', '', '']
+
+Sentence: 56
+tagged_sent: [(u'once', 'RB'), (u"you've", 'RB'), (u'finished', 'VBN'), (u'the', 'DT'), (u'process', 'NN'), (u"you'll", 'RB'), (u'need', 'VB'), (u'to', 'TO'), (u'dial', 'VB'), (u'*228', 'NNP'), (u'and', 'CC'), (u'select', 'JJ'), (u'option', 'NN'), (u'1', 'CD'), (u'to', 'TO'), (u'reprogram', 'VB'), (u'your', 'PRP$'), (u'phone', 'NN')]
+myvp: [['finished', 'process'], ['reprogram', 'phone']]
+dobj:  finished ( process )
+dobj:  dial ( 228 )
+dobj:  select ( option )
+dobj:  reprogram ( phone )
+label:    [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', u'finished', '', '', '', '', '', u'dial', '', '', u'select', '', '', '', u'reprogram', '', '']
+
+Sentence: 57
+tagged_sent: [(u'backup', 'NN'), (u'and', 'CC'), (u'restore', 'NN'), (u'from', 'IN'), (u'nas', 'JJ'), (u'with', 'IN'), (u'aomei', 'JJ'), (u'backupper', 'NN')]
+myvp: []
+label:    [1, 0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '']
+
+Sentence: 58
+tagged_sent: [(u'backup', 'NN'), (u'to', 'TO'), (u'nas', 'VB'), (u'with', 'IN'), (u'aomei', 'JJ'), (u'Backupper', 'NNP')]
+myvp: [['nas', 'Backupper']]
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', u'nas', '', '', '']
+
+Sentence: 59
+tagged_sent: [(u'run', 'VB'), (u'aomei', 'RB'), (u'Backupper', 'NNP'), (u'to', 'TO'), (u'backup', 'VB'), (u'to', 'TO'), (u'nas', 'VB'), (u'we', 'PRP'), (u'need', 'VBP'), (u'to', 'TO'), (u'select', 'VB'), (u'our', 'PRP$'), (u'nas', 'JJ'), (u'device', 'NN'), (u'as', 'IN'), (u'the', 'DT'), (u'destination', 'NN'), (u'first', 'RB')]
+myvp: [['run', 'Backupper'], ['nas', 'we'], ['select', 'device']]
+dobj:  run ( Backupper )
+dobj:  select ( device )
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'run', '', '', '', '', '', '', '', '', '', u'select', '', '', '', '', '', '', '']
+
+Sentence: 60
+tagged_sent: [(u'click', 'VB'), (u'the', 'DT'), (u'Step2', 'NNP'), (u'as', 'IN'), (u'the', 'DT'), (u'following', 'JJ'), (u'picture', 'NN')]
+myvp: [['click', 'Step']]
+dobj:  click ( Step2 )
+label:    [1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'click', '', '', '', '', '', '']
+
+Sentence: 61
+tagged_sent: [(u'in', 'IN'), (u'the', 'DT'), (u'pop-up', 'JJ'), (u'window', 'NN'), (u'click', 'NN'), (u'Share/NAS', 'NNP'), (u'Device', 'NNP'), (u'from', 'IN'), (u'the', 'DT'), (u'left-bottom', 'JJ'), (u'panel', 'NN')]
+myvp: []
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 62
+tagged_sent: [(u'add', 'VB'), (u'our', 'PRP$'), (u'nas', 'JJ'), (u'device', 'NN'), (u'to', 'TO'), (u'aomei', 'VB'), (u'Backupper', 'NNP')]
+myvp: [['add', 'device'], ['aomei', 'Backupper']]
+dobj:  add ( device )
+label:    [1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'add', '', '', '', '', '', '']
+
+Sentence: 63
+tagged_sent: [(u'click', 'NN'), (u'Add', 'NNP'), (u'share', 'NN'), (u'or', 'CC'), (u'nas', 'JJ'), (u'device', 'NN'), (u'button', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'lower-left', 'JJ'), (u'corner', 'NN')]
+myvp: []
+dobj:  Add ( button )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'Add', '', '', '', '', '', '', '', '', '']
+
+Sentence: 64
+tagged_sent: [(u'enter', 'NN'), (u'the', 'DT'), (u'ip', 'NN'), (u'address', 'NN'), (u'of', 'IN'), (u'your', 'PRP$'), (u'nas', 'NNS')]
+myvp: []
+dobj:  enter ( address )
+label:    [1, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'enter', '', '', '', '', '', '']
+
+Sentence: 65
+tagged_sent: [(u'you', 'PRP'), (u'can', 'MD'), (u'also', 'RB'), (u'input', 'VB'), (u'a', 'DT'), (u'display', 'NN'), (u'name', 'NN'), (u'for', 'IN'), (u'this', 'DT'), (u'nas', 'JJ'), (u'device', 'NN')]
+myvp: [['input', 'display', 'name']]
+dobj:  input ( name )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'input', '', '', '', '', '', '', '']
+
+Sentence: 66
+tagged_sent: [(u'now', 'RB'), (u'you', 'PRP'), (u'can', 'MD'), (u'find', 'VB'), (u'the', 'DT'), (u'destination', 'NN'), (u'folder', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'right-hand', 'JJ'), (u'side', 'NN'), (u'column', 'NN')]
+myvp: [['find', 'destination', 'folder']]
+dobj:  find ( folder )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', u'find', '', '', '', '', '', '', '', '']
+
+Sentence: 67
+tagged_sent: [(u'check', 'VB'), (u'it', 'PRP'), (u'and', 'CC'), (u'then', 'RB'), (u'click', 'VB'), (u'ok', 'NN'), (u'at', 'IN'), (u'the', 'DT'), (u'bottom', 'NN'), (u'to', 'TO'), (u'start', 'VB'), (u'the', 'DT'), (u'back-upping', 'JJ'), (u'process', 'NN')]
+myvp: [['check', 'it'], ['click', 'ok'], ['start', 'process']]
+dobj:  check ( it )
+dobj:  click ( ok )
+dobj:  start ( process )
+label:    [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'check', '', '', '', u'click', '', '', '', '', '', u'start', '', '', '']
+
+Sentence: 68
+tagged_sent: [(u'restore', 'NN'), (u'from', 'IN'), (u'nas', 'JJ'), (u'with', 'IN'), (u'aomei', 'JJ'), (u'Backupper', 'NNP')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 69
+tagged_sent: [(u'first', 'RB'), (u'we', 'PRP'), (u'need', 'VBP'), (u'to', 'TO'), (u'locate', 'VB'), (u'the', 'DT'), (u'backup', 'NN'), (u'image', 'NN'), (u'by', 'IN'), (u'clicking', 'VBG'), (u'on', 'IN'), (u'\xa1\xb0Restore\xa1\xb1', 'NNP'), (u'button', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'main', 'JJ'), (u'interface', 'NN'), (u'select', 'VBP'), (u'the', 'DT'), (u'image', 'NN'), (u'shown', 'VBN'), (u'in', 'IN'), (u'the', 'DT'), (u'list', 'NN'), (u'box', 'NN'), (u'then', 'RB'), (u'click', 'VBD'), (u'Next', 'NNP')]
+myvp: [['locate', 'backup', 'image'], ['clicking', 'xb', 'button'], ['select', 'image'], ['shown', 'list', 'box'], ['click', 'Next']]
+dobj:  locate ( image )
+dobj:  select ( image )
+label:    [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'locate', '', '', '', '', '', '', '', '', '', '', '', '', u'select', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 70
+tagged_sent: [(u'choose', 'VB'), (u'a', 'DT'), (u'backup', 'NN'), (u'point', 'NN'), (u'to', 'TO'), (u'restore', 'VB')]
+myvp: [['choose', 'backup', 'point']]
+dobj:  choose ( point )
+label:    [1, 0, 0, 0, 0, 1]
+temp_tag: [1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'choose', '', '', '', '', '']
+
+Sentence: 71
+tagged_sent: [(u'select', 'VB'), (u'a', 'DT'), (u'destination', 'NN'), (u'partition', 'NN'), (u'to', 'TO'), (u'restore', 'VB'), (u'then', 'RB'), (u'click', 'JJ'), (u'\xa1\xb0Next\xa1\xb1', 'NN'), (u'to', 'TO'), (u'commit', 'VB')]
+myvp: [['select', 'destination', 'partition'], ['restore', 'xb']]
+dobj:  select ( partition )
+dobj:  click ( ¡À )
+label:    [1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: [u'select', '', '', '', '', '', '', u'click', '', '', '']
+
+Sentence: 72
+tagged_sent: [(u'connect', 'VB'), (u'a', 'DT'), (u'dvd', 'NN'), (u'player', 'NN'), (u'to', 'TO'), (u'projector', 'VB')]
+myvp: [['connect', 'dvd', 'player']]
+dobj:  connect ( player )
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0]
+temp_tag_act: [u'connect', '', '', '', '', '']
+
+Sentence: 73
+tagged_sent: [(u'plug', 'NN'), (u'the', 'DT'), (u'power', 'NN'), (u'cable', 'NN'), (u'to', 'TO'), (u'the', 'DT'), (u'movie', 'NN'), (u'projector', 'NN')]
+myvp: []
+dobj:  plug ( cable )
+label:    [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'plug', '', '', '', '', '', '', '']
+
+Sentence: 74
+tagged_sent: [(u'then', 'RB'), (u'plug', 'VBZ'), (u'the', 'DT'), (u'cable', 'NN'), (u'to', 'TO'), (u'an', 'DT'), (u'electrical', 'JJ'), (u'source', 'NN'), (u'to', 'TO'), (u'wall', 'VB')]
+myvp: []
+dobj:  plug ( cable )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'plug', '', '', '', '', '', '', '', '']
+
+Sentence: 75
+tagged_sent: [(u'leave', 'VB'), (u'this', 'DT'), (u'turned', 'VBD'), (u'off', 'RP'), (u'for', 'IN'), (u'now', 'RB')]
+myvp: []
+label:    [1, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', '']
+
+Sentence: 76
+tagged_sent: [(u'plug', 'NN'), (u'the', 'DT'), (u'dvd', 'NN'), (u'player', 'NN'), (u'into', 'IN'), (u'the', 'DT'), (u'power', 'NN'), (u'source', 'NN'), (u'in', 'IN'), (u'the', 'DT'), (u'wall', 'NN'), (u'as', 'RB'), (u'well', 'RB')]
+myvp: []
+dobj:  plug ( player )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'plug', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 77
+tagged_sent: [(u'again', 'RB'), (u'leave', 'VBP'), (u'it', 'PRP'), (u'turned', 'VBD'), (u'off', 'RP'), (u'for', 'IN'), (u'now', 'RB')]
+myvp: [['leave', 'it']]
+label:    [0, 1, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'leave', '', '', '', '', '']
+
+Sentence: 78
+tagged_sent: [(u'connect', 'VB'), (u'the', 'DT'), (u'rca', 'NN'), (u'cable', 'NN'), (u'to', 'TO'), (u'the', 'DT'), (u'back', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'dvd', 'NN'), (u'player', 'NN')]
+myvp: [['connect', 'rca', 'cable']]
+dobj:  connect ( cable )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: [u'connect', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 79
+tagged_sent: [(u'then', 'RB'), (u'connect', 'VB'), (u'it', 'PRP'), (u'to', 'TO'), (u'the', 'DT'), (u'back', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'projector', 'NN')]
+myvp: [['connect', 'it']]
+dobj:  connect ( it )
+label:    [0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 1, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', u'connect', '', '', '', '', '', '', '']
+
+Sentence: 80
+tagged_sent: [(u'add', 'NN'), (u'speakers', 'NNS'), (u'if', 'IN'), (u'wished', 'VBN')]
+myvp: []
+dobj:  add ( speakers )
+label:    [1, 0, 0, 0]
+temp_tag: [1, 0, 0, 0]
+temp_tag_act: [u'add', '', '', '']
+
+Sentence: 81
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u'want', 'VBP'), (u'to', 'TO'), (u'use', 'VB'), (u'speakers', 'NNS'), (u'connect', 'VB'), (u'your', 'PRP$'), (u'speaker', 'NN'), (u'cable', 'NN'), (u'usually', 'RB'), (u'green', 'JJ'), (u'to', 'TO'), (u'the', 'DT'), (u'back', 'NN'), (u'of', 'IN'), (u'the', 'DT'), (u'projector', 'NN'), (u'where', 'WRB'), (u'it', 'PRP'), (u'says', 'VBZ'), (u'Audio', 'NNP'), (u'Out', 'NNP')]
+myvp: [['use', 'speakers'], ['connect', 'speaker', 'cable']]
+label:    [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag_act: ['', '', '', '', u'use', '', u'connect', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+
+Sentence: 82
+tagged_sent: [(u'turn', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'speakers', 'NNS')]
+myvp: []
+label:    [1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0]
+temp_tag_act: ['', '', '', '']
+
+Sentence: 83
+tagged_sent: [(u'turn', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'projector', 'NN'), (u'then', 'RB'), (u'turn', 'VB'), (u'on', 'IN'), (u'the', 'DT'), (u'dvd', 'NN'), (u'player', 'NN')]
+myvp: [['turn', 'dvd', 'player']]
+dobj:  turn ( projector )
+label:    [1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'turn', '', '', '', '', u'turn', '', '', '', '']
+
+Sentence: 84
+tagged_sent: [(u'turn', 'VB'), (u'the', 'DT'), (u'power', 'NN'), (u'on', 'IN'), (u'at', 'IN'), (u'the', 'DT'), (u'wall', 'NN'), (u'socket', 'NN'), (u'first', 'RB'), (u'then', 'RB'), (u'turn', 'VB'), (u'on', 'IN'), (u'the', 'DT'), (u'actual', 'JJ'), (u'devices', 'NNS')]
+myvp: [['turn', 'power'], ['turn', 'devices']]
+dobj:  turn ( power )
+label:    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+temp_tag_act: [u'turn', '', '', '', '', '', '', '', '', '', u'turn', '', '', '', '']
+
+Sentence: 85
+tagged_sent: [(u'troubleshoot', 'NN'), (u'if', 'IN'), (u'needed', 'VBN')]
+myvp: []
+label:    [1, 0, 0]
+temp_tag: [0, 0, 0]
+temp_tag_act: ['', '', '']
+
+Sentence: 86
+tagged_sent: [(u'if', 'IN'), (u'you', 'PRP'), (u"can't", 'VBP'), (u'see', 'VB'), (u'picture', 'NN'), (u'on', 'IN'), (u'the', 'DT'), (u'screen', 'NN'), (u'or', 'CC'), (u'it', 'PRP'), (u'says', 'VBZ'), (u'No', 'DT'), (u'signal', 'JJ'), (u'check', 'VB'), (u'the', 'DT'), (u'rca', 'NN'), (u'Cable', 'NNP'), (u'connection', 'NN'), (u'or', 'CC'), (u'press', 'NN'), (u'the', 'DT'), (u'Source', 'NNP'), (u'button', 'NN'), (u'and', 'CC'), (u'select', 'JJ'), (u'Video', 'NNP')]
+myvp: [['see', 'picture'], ['check', 'rca', 'Cable', 'connection']]
+dobj:  see ( picture )
+dobj:  check ( connection )
+dobj:  press ( button )
+dobj:  select ( Video )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+temp_tag_act: ['', '', '', u'see', '', '', '', '', '', '', '', '', '', u'check', '', '', '', '', '', u'press', '', '', '', '', u'select', '']
+
+Sentence: 87
+tagged_sent: [(u'if', 'IN'), (u'your', 'PRP$'), (u'projector', 'NN'), (u'has', 'VBZ'), (u'a', 'DT'), (u'button', 'NN'), (u'that', 'WDT'), (u'says', 'VBZ'), (u'Source', 'NNP'), (u'Search', 'NNP'), (u'push', 'NN'), (u'that', 'WDT'), (u'button', 'NN'), (u'and', 'CC'), (u'it', 'PRP'), (u'will', 'MD'), (u'search', 'VB'), (u'for', 'IN'), (u'signal', 'JJ'), (u'itself', 'PRP')]
+myvp: [['search', 'itself']]
+dobj:  has ( button )
+dobj:  push ( button )
+label:    [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', u'has', '', '', '', '', '', '', u'push', '', '', '', '', '', u'search', '', '', '']
+
+Sentence: 88
+tagged_sent: [(u'sit', 'NN'), (u'back', 'RB'), (u'and', 'CC'), (u'enjoy', 'VB'), (u'the', 'DT'), (u'movie', 'NN')]
+myvp: [['enjoy', 'movie']]
+dobj:  enjoy ( movie )
+label:    [1, 0, 0, 1, 0, 0]
+temp_tag: [0, 0, 0, 1, 0, 0]
+temp_tag_act: ['', '', '', u'enjoy', '', '']
+
+Sentence: 89
+tagged_sent: [(u'you', 'PRP'), (u'should', 'MD'), (u'be', 'VB'), (u'ready', 'JJ'), (u'to', 'TO'), (u'watch', 'VB'), (u'your', 'PRP$'), (u'film', 'NN'), (u'now', 'RB')]
+myvp: [['watch', 'film']]
+dobj:  watch ( film )
+label:    [0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag: [0, 0, 0, 0, 0, 1, 0, 0, 0]
+temp_tag_act: ['', '', '', '', '', u'watch', '', '', '']
+
+
+
+total_actions: 133
+right_actions: 92
+tag_actions: 105
+recall: 0.691729
+precision: 0.876190
+f_measure: 0.773109
+accuracy: 0.939052
+Time cost 181s
