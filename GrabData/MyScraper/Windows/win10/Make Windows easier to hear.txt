@@ -1,0 +1,12 @@
+If you have difficulty hearing your PC Windows can help
+Visual notifications let you receive visual warnings instead of sounds for system events such as a new email message arriving
+Built in closed caption options let you set preferences for how captions will look when turned on in an app
+Use visual alternatives to sound If hearing audible sound alerts is difficult you can switch to visual alerts instead
+Select the Start button then select Settings Ease of Access Other options Under Visual notifications for sound choose the visual response you want
+You can choose to have the active window active title bar or the whole screen flash when a notification arrives instead of relying on sound alone
+Adjust notification delay By default Windows notifications disappear five seconds after they appear
+If you want more time to read them increase the notification display time
+Select the Start button then select Settings Ease of Access Other options Under Show notifications for choose the time you want up to five minutes
+Closed captioning Windows offers many options to customize things like the color size and background of closed captions
+Select the Start button then select Settings Ease of Access Closed captions and then choose how you want captions to be displayed when you watch a movie or TV show
+What s new Search and help Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access Make your PC easier to use Make Windows easier to see Make Windows easier to hear Make input devices easier to use Make it easier to focus on tasks Hear text read aloud with Narrator Use Speech Recognition Save time with keyboard shortcuts 

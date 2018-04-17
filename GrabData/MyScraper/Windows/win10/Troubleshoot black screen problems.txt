@@ -1,0 +1,5 @@
+If your PC experiences a black screen after upgrading to Windows 10 here are some troubleshooting steps you can try
+NoteSeeing a black screen with spinning dots
+Your computer may just be finalizing some updates or busy working on something
+Wait a bit and if the screen doesn t turn back on restart the computer
+If that doesn t do the trick see Recovery options in Windows 10

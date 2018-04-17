@@ -1,0 +1,14 @@
+Overview Wi Fi problems at home can slow down everyone in the house and be really frustrating
+If you re a hands on person who s usually called on to fix problems with your Wi Fi network at home this article can help you troubleshoot them in Windows 10
+With a few tools and some time you can often find the problem or narrow things to fix your Wi Fi
+Before you get started with these advanced steps make sure you ve checked the basic things first if you re having Wi Fi problems
+This article is intended for people who are more advanced Windows PC users and are comfortable doing things like working in a command prompt window running network reports and making changes to their wireless router settings
+SectionWhat it coversIdentify the problem you re having with Wi FiBasic questions to answer about your Wi Fi problems
+This will help you figure out what to do next
+Wi Fi connection icons and what they meanThe Wi Fi icon and connection states it shows
+Check Wi Fi drivers and settings in Windows 10Solving network adapter driver problems
+Wi Fi problems and your home layoutThings in your home that can cause Wi Fi problems and steps to take to try to fix things
+Analyze the wireless network reportHow to create the wireless network report analyze it and use it to identify and fix Wi Fi problems
+Tools and appsWindows 10 tools and apps you ll need
+NoteTo help us make Wi Fi better please let us know about the problems you re having
+To give feedback open the Feedback Hub on your Windows 10 PC and then leave your feedback in the Connecting to a Wi Fi network subcategory which is in the Networks category

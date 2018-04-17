@@ -1,0 +1,197 @@
+Back to Microsoft Lifecycle home page On this page
+Policy DefinitionsService Packs and UpdatesSupportMiscellaneous QuestionsNOTE
+This FAQ was updated on February 9 2017
+Policy Show all What are the Microsoft lifecycle policies
+Microsoft provides industry leading lifecycle policies in length and provision giving customers consistent transparent and predictable software support timelines
+The Microsoft Lifecycle Policy standardizes Microsoft product support policies for business developer and desktop operating system software consumer and multimedia software and online services
+The Lifecycle Policy was originally announced on October 15 2002
+A Lifecycle Policy update went into effect June 1 2004 and applies to most business and developer products that were in Mainstream Support on June 1 2004 and to product versions released after that date
+Business Developer and Desktop Operating System SoftwareMicrosoft will offer a minimum of 10 years of support for business developer and desktop operating system consumer and business products
+Mainstream Support will be provided for 5 years or for 2 years after the successor product N 1 where N product version is released whichever is longer
+Microsoft will also provide Extended Support for the 5 years following Mainstream Support or for 2 years after the second successor product N 2 is released whichever is longer
+Most business developer and desktop operating system products will receive at least 10 years of online self help support
+Consumer and Multimedia SoftwareMicrosoft will offer Mainstream Support for either a minimum of 5 years from the date of a product s general availability or for 2 years after the successor product N 1 is released whichever is longer
+Extended Support is not offered for consumer software and multimedia products with the exception of Windows Desktop Operating System which follows the Business Developer and Desktop Operating System Software Policy as outlined above
+Microsoft Xbox games are currently not included in the Lifecycle Policy
+To find the support timelines for your product search the Lifecycle Product Database
+Online ServicesMicrosoft support services will be available for the duration of the customer s agreement with Microsoft for the online service
+Microsoft will provide notification when customers are required to take action in order to avoid significant degradation to the normal use of the online service for businesses and developers unless otherwise noted
+Microsoft will provide a minimum of 12 months notice before ending an online service for business and developer customers without providing a successor service excluding free services or preview releases
+Is this policy applicable globally
+The Microsoft Lifecycle Policy is a worldwide policy
+However Microsoft understands that local laws market conditions and support requirements differ around the world and by industry sector
+For business developer and desktop operating system products Microsoft may offer custom support relationships that go beyond the Extended Support phase
+These custom support relationships may include assisted support and security updates and may extend beyond 10 years from the date a product becomes generally available
+Customers and partners can contact their account team or their local Microsoft representative for more information
+Why was the Lifecycle Policy defined
+Customers have asked Microsoft to be consistent and predictable
+The Lifecycle Policy establishes a clear and predictable policy for product support timelines
+The policy helps customers and partners manage their support requirements
+The policy also allows both product planning and information technology planning in organizations based on knowledge of the support timelines for Microsoft products
+How was the Lifecycle Policy developed
+Microsoft worked closely with Microsoft product teams customers partners leading analysts and research firms to determine clear and consistent policies
+If I have multiple Microsoft products do they all share the same lifecycle timelines
+Each product has its lifecycle timeline defined per the Microsoft Lifecycle Policy and is consistent by product family for new and future versions
+However older versions of Microsoft products may have different lifecycle timelines
+Therefore it is important to verify the exact product support dates for your product
+To find the support timelines for your product search the Lifecycle Product Database
+What products do the lifecycle policies cover and when did they go into effect
+The Business Developer and Desktop Operating System Software Policy went into effect October 15 2002 with a major revision on June 1 2004
+This policy revision covers most products that were available through retail purchase or volume licensing as of June 1 2004 and most future products versions
+For information about end of support timelines and Extended Support options for all products review the Microsoft Lifecycle page
+In January 2011 Microsoft established the Online Services Lifecycle Policy
+In August of 2016 Microsoft established the Modern Lifecycle Policy
+Extended Support is not offered for consumer software multimedia products online services or products governed by the Modern Policy
+How can customers and partners estimate the lifecycle for products that are not yet available or that are still in the Mainstream Support phase
+The Lifecycle Policy is designed to take the guesswork out of the length of time Microsoft provides support for a product
+For business developer and desktop operating system software Microsoft provides a minimum of 10 years of support
+The lifecycle combines 5 years of Mainstream Support or 2 years after the successor product N 1 where N product version is released whichever is longer and 5 years Extended Support or 2 years after the second successor product N 2 is released whichever is longer
+For consumer software and multimedia products Microsoft standardizes a minimum of 5 years of Mainstream Support or 2 years after the successor product N 1 is released whichever is longer For information about end of support dates and any Extended Support options if applicable for all products search the Lifecycle Product Database Extended Support is not offered for consumer software multimedia products online services or products governed by the Modern Policy
+Is there a different Lifecycle Policy for consumers and businesses for the Windows Operating System
+All desktop operating system products whether used for personal or business purposes receive a minimum of 10 years of support 5 years of Mainstream Support or 2 years after the successor product N 1 is released whichever is longer and 5 years Extended Support or 2 years after the second successor product N 2 is released whichever is longer at the supported service pack level
+Microsoft does not differentiate support between consumer and business versions of desktop operating system products
+What is the Lifecycle Policy for program add ons
+Add ons are supported with the product they work with
+However support may be terminated by providing a minimum 12 months notice
+Please verify the exact product support dates as posted on the Lifecycle Product Database
+What is the Lifecycle Policy for tools
+Tools are supported with the product they work with
+However support may be terminated by providing a minimum 12 months notice
+What is the Lifecycle Policy for products or companies that Microsoft acquires
+Products that were released before the acquisition date may not be covered under the Lifecycle Policy and may not be supported
+In these cases support will be subject to the terms of the individual acquisition
+Microsoft will publish the end of support dates for each acquired product on the Lifecycle web site where applicable
+For these listings the Lifecycle Start Date is the acquisition start date
+The end of Mainstream and Extended Support will vary based on the terms of the acquisition
+Generally the Microsoft Lifecycle Policy applies to new software releases that are released under a Microsoft brand following the acquisition
+What is the Lifecycle Policy for minor releases of major products
+Minor releases follow the same lifecycle as the major product release
+An example of this is Windows Server 2012 R2 which has the same Mainstream and Extended Support phase as the parent product Windows Server 2012
+Likewise Dynamics AX 2012 R3 follows the same lifecycle dates as the initial release of Dynamics AX 2012
+Definitions Show all What does Microsoft mean by major or minor product
+A major product frequently ships as a top level aggregation of a bill of materials i
+e
+components and features that is released to customers
+Major products generally receive a major version number and may be the parent of multiple minor products
+Customers may obtain a major product through a variety of methods including retail purchase web download and or volume licensing
+Typical examples of a Microsoft major product defined by the Microsoft Lifecycle Policy include
+Microsoft Dynamics 365Microsoft Exchange ServerMicrosoft OfficeMicrosoft SQL ServerMicrosoft Windows Minor products are an aggregation of a bill of materials i
+e
+components and features that is based on the code of a major product
+Minor products bear names that can be easily identified and associated with the related major product
+Customers may obtain them through Software Assurance the Microsoft Business Solutions Dynamics Enhancement maintenance program or through another promotional plan
+An example of this would be Windows Server 2012 and Windows Server 2012 R2
+The major product is Windows Server 2012 which has its own lifecycle as a business and developer product
+Windows Server 2012 R2 is a minor product based on the Windows Server 2012 code base and takes on the lifecycle of the major release
+This means that the minor product may receive a lifecycle that is shorter than 10 years
+In addition both the major and minor releases will end support on the same day
+What is a component of a Microsoft product
+A component is defined as a set of files or features that is included with a Microsoft major product
+Components may be shipped with the product included in a product service pack or update or released at a later date as a web download
+How do I know which product or platform a component is associated with
+This information is generally specified in the component s End User License Agreement EULA What is a program add on
+A program add on is a utility or feature that aids in accomplishing a task or set of tasks
+What is a tool
+A tool is a utility or feature that aids in accomplishing a task or set of tasks
+What is Windows Server Premium Assurance and SQL Server Premium Assurance
+Windows Server Premium Assurance is a support offering for Windows Server 2008 and SQL Server Premium Assurance is a support offering for SQL Server 2008
+Each of these offerings starts with the 2008 product wave and adds additional years of support past the Extended Support period for a total of 16 years of support 5 years of Mainstream Support 5 years of Extended Support 6 years of Premium Assurance The additional support period provides Security Updates and Bulletins rated Critical and Important see the Security Bulletin Severity Rating System for definitions Premium Assurance is available as a Software Assurance add on for each product learn more
+Service Packs and Updates Show all How long do you provide security updates for your products
+For business developer and desktop operating system software security updates will be available for supported service packs for the duration of the product s lifecycle through the end of the Extended Support Customers do not need to sign up for Extended Hotfix Support to receive security updates during the Extended Support phase
+For consumer and multimedia software security updates will be available for supported service packs for the duration of the product s lifecycle through the end of Mainstream Support For more information about the support timeline for a specific product search the Lifecycle Product Database
+What is the policy for service packs
+The Microsoft Lifecycle Policy requires that the product s supported service pack be installed to receive technical support and security updates
+Service Pack PolicyWhen a new service pack is released Microsoft will provide either 12 or 24 months of support for the previous service packSupport for previous service packs is either 12 or 24 months and varies by product family for example Windows Office servers or developer tools Support timelines for service packs will remain consistent within the product familyMicrosoft will publish specific support timelines for a previous service pack when the new service pack is releasedWhen support for a service pack ends Microsoft will no longer provide security updates non security updates or other updates for that service pack
+When support for a product ends support of that product s service packs will also end
+The product s support lifecycle supersedes the Service Pack Policy
+Customers are highly encouraged to stay on a supported service pack to ensure they are on the latest and most secure version of their product
+For customers on unsupported service pack versions Microsoft offers commercially reasonable support as follows
+Commercially reasonable support incidents will be provided through Microsoft Customer Service and Support as well as through managed support offerings from Microsoft such as Premier Support There will be no option to engage Microsoft product development resources and technical workarounds may be limited or not possible
+If the support incident requires escalation to development for further guidance requires a non security update or requires a security update customers will be asked to upgrade to a supported service pack
+A matrix of the Microsoft product families and the duration of service pack support for each product family is as follows
+Product FamilyDuration of service pack support Windows Client and Servers 24 Months Dynamics 24 Months Office 12 Months Servers 12 Months Developer Tools 12 Months Consumer Software Multimedia and Games 12 MonthsFor information about support for a product or for a service pack search the Lifecycle Product Database
+Must I have the latest service pack installed to apply a security related update or an update that is not security related
+An update should only be installed on the service pack for which it was designed
+Microsoft creates security updates for supported service packs whenever commercially reasonable and are available to all customers
+You can request an update that is not security related for service packs that are supported per the Service Pack Policy
+Is the Extended Hotfix Support program required for customers to receive security updates
+No
+If a security update is created it will be made available to all customers through the standard security release process
+The monthly security release occurs on the second Tuesday of the month
+Would Microsoft ever release non security updates during Extended Support without Extended Hotfix Support
+Yes
+Microsoft Lifecycle Policy permits the creation and broad distribution of certain non security updates during the Extended Support phase
+For example it may be necessary to provide a non security update that enables continued connectivity and servicing through the Automatic Update or Windows Server Update Service
+What happens if Microsoft releases a security update the same day a product reaches the end of support
+In the event Microsoft releases a security update on the same day that a product is scheduled to end its support lifecycle support of the security update will continue for a minimum of 30 days
+Support Show all What is the difference between Mainstream Support Extended Support and Self help Online Support for software products
+Type of supportMainstream SupportExtended SupportSelf help Online SupportRequest to change product design and features Available Not AvailableNote4Security updates Available AvailableNote4Non security updates AvailableOnly available with Extended Hotfix SupportNot available for desktop consumer productsNote4Complimentary support1 included with license licensing program2 or other no charge support programs Available Not Available3Note4Paid support including pay per incident Premier and Essential Support Available AvailableNote4Product specific information and answers to technical questions via Microsoft Knowledge Base or Microsoft Help and Support Available AvailableNote4 Please Note
+The Microsoft Lifecycle Policy does not apply to all products
+To see the specific lifecycle start and end dates by applicable product you can search the Lifecycle Product Database
+1 Refers to phone support and online support options
+2 For example support incidents acquired through the Software Assurance program for server products
+3 Limited complimentary support may be available varies by product 4 Access to freely available online content such as Knowledge Base articles online product information and online support webcasts Is the Lifecycle Start Date the first date I can obtain technical support for a product
+The Lifecycle Start Date is used to initially estimate the end dates for Mainstream Support Extended Support and service pack support
+Customers can obtain technical support for a product upon its release which may be prior to the Lifecycle Start Date
+Who can receive support in the Extended Support phase
+Extended Support will be available to all customers Extended Support includes paid technical assistance technical assistance that is charged on an hourly basis or per incident security updates at no additional cost and paid non security updates
+To receive non security updates Extended Hotfix Support must be purchased in conjunction with or addition to Premier Support obtained within the first 90 days following the end of the Mainstream Support phase
+The 90 day requirement is waived if Software Assurance or Dynamics Enhancement Plan has been purchased for the product in question
+Microsoft will not accept requests for warranty support design changes or new features during the Extended Support phase
+Extended Support is not offered for consumer software excluding desktop operating system software multimedia products online services or products governed by the Modern Policy
+Limited complimentary support may be available varies by product For business developer and desktop operating system software will Microsoft offer support beyond Extended Support
+Microsoft understands that local laws market conditions and support requirements differ around the world and differ by industry sector
+Therefore Microsoft may offer custom support relationships that go beyond Extended Support
+These custom support relationships may include assisted support and non security updates and may extend beyond 10 years from the date a product becomes generally available
+Customers and partners can contact their account team or their local Microsoft representative for more information
+How does the Lifecycle Policy work with Premier Support
+In the Mainstream Support phase product support benefits are available to all customers
+In the Extended Support phase security updates are provided to all customers and paid assisted support is available
+Extended Hotfix Support is required to request non security updates for products in Extended Support
+Premier Support is a prerequisite for Extended Hotfix Support enrollment
+Customers with Premier Support can work with their support contact to determine the options that are available for their specific circumstances
+How can customers who do not have a Premier Support Agreement obtain Extended Hotfix Support for non security updates
+Customers can contact their local Microsoft sales office
+Visit the Microsoft Worldwide website locate your country and then select Go to obtain information about purchasing Extended Hotfix Support
+Ask to speak with the local Premier Support sales manager
+Is the Extended Hotfix Support program required for customers to receive security updates
+No
+If a security update is created it will be made available to all customers through the standard security release process
+The monthly security release occurs on the second Tuesday of the month
+If I am running a Microsoft product that is currently supported under the Lifecycle Policy but my operating system is no longer supported can I still receive support
+If the problem is specific to the Microsoft product and it is within the Lifecycle Policy Microsoft will provide support
+If the problem is a result of the combination of the operating system and the Microsoft product the problem will not be supported
+After the Microsoft assisted and paid support offerings have ended what are my options if I want to continue to receive support
+Microsoft encourages all customers to remain current to ensure that they stay supported and can take advantage of innovations found in the latest products
+Staying current also minimizes security risks compliance risks and frequently lowers the total cost of ownership
+Once a product transitions out of support no further support will be provided for the product
+This means that customers will NOT have access to
+Security updates or non security hotfixesFree or paid assisted support optionsMicrosoft product development resourcesUpdates to online content Knowledge Base articles etc
+Online content may be available if the product is still within the Self Help Support phase
+I do not need non security updates I only need phone support during the Extended Support phase
+Must I have an Extended Hotfix Support contract
+No
+Extended Hotfix Support is not necessary to obtain technical support for a product in the Extended Support phase
+How will the Lifecycle Policy affect telephone and web support options that are customized to meet the requirements of home users and home office customers
+Business home and home office users can access telephone or web support throughout Mainstream and Extended Support published dates for that product
+How is a component supported under Microsoft s Lifecycle Policy
+A component receives the same support as its parent product or platform
+When a parent product or platform is in Mainstream or Extended Support so is the component
+When a parent product or platform reaches end of support so does the component
+For example
+If a component is licensed for Microsoft Windows support ends for the component on the same date that support ends for Windows
+Note
+Sometimes a component will receive security updates or feature enhancements that are independent of its parent product
+We encourage customers to install component updates as they become available
+Miscellaneous Questions How long can I legally use Microsoft software after I have licensed it
+Is the term of my software license affected by the Lifecycle Policy
+The Lifecycle Policy has no effect on how long you can use a product
+The Policy outlines how long Microsoft will provide technical support and security updates for products
+Microsoft encourages all customers to remain current to ensure that they stay supported and can take advantage of innovations found in the latest products
+Staying current also minimizes security risks compliance risks and frequently lowers the total cost of ownership
+Once a product transitions out of support no further support will be provided for the product
+This means that customers will NOT have access to
+Security updates or non security hotfixesFree or paid assisted support optionsMicrosoft product development resourcesUpdates to online content Knowledge Base articles etc
+Online content may be available if the product is still within the Self Help Support phase
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

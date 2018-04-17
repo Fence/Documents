@@ -1,0 +1,38 @@
+If your PC is running low on storage here are a few ways to free up some drive space
+Show all Delete temporary files These files used to help your apps load and run faster but they re not being used anymore
+To delete them
+Open the Start menu and select Settings System Storage
+Under Storage select This PC Temporary files
+Under Temporary files select Delete temporary files Yes I m sure
+Delete downloaded files Every time you download something from the web a copy of the file is saved in your Downloads folder
+To see what s in Downloads and remove what you don t need
+Open the Start menu and select Settings System Storage
+Under Storage select This PC Temporary files
+Under Downloads select View downloads
+Empty your recycle bin When you delete a file it usually just goes to the recycle bin
+To permanently delete the files in your recycle bin
+Open the Start menu and select Settings System Storage
+Under Storage select This PC Temporary files
+Under Recycle bin select Empty recycle bin Yes I m sure
+TipTo see what s in your recycle bin before you empty it open it from your desktop
+Uninstall apps you don t use anymore Open the Start menu and select Settings System Apps features
+Search for a specific app or sort them to see which ones are taking up the most space
+When you find an app you want to delete select it from the list and select Uninstall
+Move files to another drive If you have photos music or other files that you want to keep but don t use very often consider saving them to removable media like a USB drive
+You ll still be able to use them when the drive is connected but they won t take up space on your PC
+Connect the removable media to your PC
+Open File Explorer from the taskbar and find the files you want to move
+Select the files go to the Home tab and then select Move to Choose location
+Select your removable media from the location list and then select Move
+Save new files to another drive Instead of saving all your new files to the same drive save some of them to a different drive
+Open the Start menu and select Settings System Storage
+Under Save locations select a drive from the dropdown menu
+If the drive you want to use isn t listed there make sure it s connected to your PC
+Save fewer OneDrive files on your PC It s handy to have your OneDrive files saved offline so you can use them when you re not connected to the Internet
+But if you re running low on drive space try saving fewer OneDrive folders offline
+You ll still be able to get to them from OneDrive
+com but they won t take up space on your PC
+Go to the right side of the taskbar and find the OneDrive icon
+If you don t see it select the Show hidden icons arrow and see if it s there
+Right click the OneDrive icon and select Settings Choose folders Choose folders
+Clear the check boxes for folders you don t want saved on your PC and then select OK

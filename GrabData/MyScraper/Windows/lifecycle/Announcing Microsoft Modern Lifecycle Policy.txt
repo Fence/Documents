@@ -1,0 +1,12 @@
+Back to Microsoft Lifecycle home page Microsoft Lifecycle Policies have traditionally addressed two different product types
+On premises and Online Services
+Microsoft has simplified these policies by extending existing support and servicing indefinitely for certain products and services
+For products governed by the Modern Lifecycle Policy Microsoft will provide a minimum of 12 months notification prior to ending support if no successor product or service is offered excluding free services or preview releases
+Products with existing Lifecycle Policies will continue to be supported according to published end of support dates
+The Modern Lifecycle Policy requirements are defined below
+Customers must stay current as per the servicing and licensing requirements published for the product or service
+Customers must have the rights to use the product or service
+Microsoft must currently offer support for the product or service
+Please see the Modern Policy FAQs for more details
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

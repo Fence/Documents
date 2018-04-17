@@ -1,0 +1,3 @@
+A stop error also called a blue screen error can occur if a problem causes your PC to shut down or restart unexpectedly
+When you experience this type of error you won t be able to see things like the Start menu or the taskbar on the screen when your PC is turned on
+Instead you might see a blue screen with a message that your PC ran into a problem and needs to restart

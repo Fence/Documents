@@ -1,0 +1,16 @@
+Windows 10 is safer and more secure thanks to Windows Defender and Windows Firewall
+When you start Windows 10 for the first time Windows Defender works to help protect your PC by scanning for malicious or unwanted software
+Windows Defender uses real time protection to scan everything you download or run on your PC
+To scan specific files or folders select them then right click or press and hold and choose Scan with Windows Defender
+If Windows Defender finds anything malicious it notifies you in the app and recommends what you should do next to keep your PC safe
+Windows Firewall filters the information coming into your PC from the Internet blocking potentially harmful programs
+To turn it off
+Select the Start button then select Windows System Control Panel
+Select System and Security Windows Firewall Turn Windows Firewall on or off pick the networks you want to change settings for OK
+Note If your PC is connected to a network you might not be able to change your Windows Firewall settings because of network policies
+Contact your administrator for more info
+To turn off real time protection temporarily
+Select the Start button then select Settings Update security Windows Defender Turn off Real time protection
+Note Windows Defender automatically turns off if you install another antivirus app
+What s new Search and help Search for anything anywhere Search for help Get help with PC problems Send us feedback Protect your PC Why can t I get online
+Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access 

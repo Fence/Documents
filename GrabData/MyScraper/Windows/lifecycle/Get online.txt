@@ -1,0 +1,11 @@
+To connect to a Wi Fi network in Windows select the Network icon or on the taskbar
+Select the Wi Fi network you want Connect then type the password and follow the instructions
+That s it you re connected
+This icon will appear in the taskbar
+After you re connected you re ready to set up email browse the web and do a whole lot more online
+If Wi Fi isn t available or you just want the assurance of a wired connection the Ethernet cable is your friend just connect your PC to your router or modem and then do your thing
+If you re having trouble getting connected check out Why can t I get online
+to try to fix things
+Tip Some PCs have a SIM card in them that lets you connect over cellular data like you do on a phone
+To see if your PC has one select the Network icon or and look for the Cellular network icon at the top of the list
+What s new Search and help Setting things up Get connected Get online Connect to Bluetooth devices Connect to other wireless devices Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access 

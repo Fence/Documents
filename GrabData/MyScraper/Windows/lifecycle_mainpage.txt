@@ -1,0 +1,66 @@
+Announcing Windows Server Premium Assurance and SQL Server Premium Assurance
+    /en-us/help/4012371
+Support Ending for Microsoft Dynamics Marketing
+    /en-us/help/4002040
+Support Extended for Microsoft¡¯s Enhanced Mitigation Experience Toolkit (EMET)
+    /en-us/help/4002093
+Support extended for Windows Server Update Services 3.0 Service Pack 2
+    /en-us/help/4000610
+Announcing Microsoft Modern Lifecycle Policy
+    /en-us/help/447912
+Products reaching end of support for 2017
+    /en-us/help/4001737
+Products reaching end of support in the second half of 2016
+    /en-us/help/14086
+Products reaching end of support in the first half of 2016
+    /en-us/help/15049
+Previous announcements
+    /en-us/help/20803
+Business, developer, and desktop operating system (consumer and business)
+    /en-us/help/14085
+Consumer and multimedia
+    /en-us/help/14085
+Service Packs
+    /en-us/help/17138
+Security update
+    /en-us/help/20556
+Online services policy
+    /en-us/help/17139
+Microsoft Azure
+    /en-us/help/18486
+Security update
+    /en-us/help/20556
+Modern lifecycle policy
+    /en-us/help/30881
+Windows Embedded Handheld
+    /en-us/help/18403
+Windows Phone
+    /en-us/help/18404
+Hardware
+    /en-us/help/17453
+Internet Explorer
+    /en-us/help/17454
+Microsoft .NET Framework
+    /en-us/help/17455
+Microsoft Azure
+    /en-us/help/18486
+Microsoft developer tools
+    /en-us/help/17959
+Microsoft Dynamics
+    /en-us/help/17920
+.NET Core support
+    /en-us/help/20545
+Online services policy
+    /en-us/help/17626
+Modern lifecycle policy
+    /en-us/help/30882
+Office Live Meeting client
+    /en-us/help/17624
+General Lifecycle Policy questions
+    /en-us/help/17140
+Windows Embedded Handheld
+    /en-us/help/18403
+Windows Phone
+    /en-us/help/18404
+Windows products
+    /en-us/help/18581

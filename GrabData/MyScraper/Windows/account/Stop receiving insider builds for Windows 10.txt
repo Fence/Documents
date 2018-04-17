@@ -1,0 +1,29 @@
+After you ve tried the latest Insider builds for a while you may want to opt out your PC or phone especially if your device is now using a production build
+You can either opt out with the next production or publicly released build or restore your device to its original operating system
+Opt out with the next production buildWe recommend opting out of Insider builds when your PC or phone is using a production build which is more stable and can remain on your device longer
+Insider builds are less stable than production builds aren t serviced and eventually expire
+NoteYou won t lose any info if you opt out your device using a production build
+Wait for the next build announcement
+The Feedback Hub app is a good place for this
+Make sure your device is using a production build
+On your PC do one of the following
+Select the Start button then select Settings System About and then look for the build edition version and build number
+In the Search box type winver or press Windows logo icon key R then look for the build number
+If you re opting out your phone make sure it s running a production build by pressing and holding or right clicking the Start button then selecting Settings System About and then looking for the build number
+Select the Start button then select Settings Update security Windows Insider Program and then choose Stop Insider builds
+Follow the instructions to opt out your device
+Opt out to your device s original operating system To return to a stable build restore your device back to the operating system it was running when purchased
+Use the one of the following appropriate recovery images to restore your device
+To restore your PC
+Back up any info you want to keep
+Use one of the following recovery images
+Windows 7 Windows 8
+1 and Windows 10
+To restore your phone
+Back up any info you want to keep
+To return to Windows Phone 8
+1
+download the Windows Device Recovery Tool on a PC then connect your phone to that PC to reinstall Windows Phone 8
+1
+To restore or reset Windows 10 Mobile
+Select the Start button then select Settings System About Reset your phone

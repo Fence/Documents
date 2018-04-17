@@ -1,0 +1,16 @@
+Before upgrading to Windows 10 Pro make sure your device is up to date and running the most recent version of Windows 10 Home
+For more info about how to keep your PC updated see Windows Update
+FAQ
+To upgrade from Windows 10 Home to Windows 10 Pro you ll need a valid product key or a digital license for Windows 10 Pro for the device you re upgrading
+You ll have a digital license if Windows 10 Pro was already installed and activated on your device
+NoteIf you don t have a product key or a digital license you can buy Windows 10 Pro from the Windows Store
+Select the Start button select Settings Update security Activation and then select Go to Store
+Show all Upgrade using your digital license for Windows 10 Pro If you already installed and activated Windows 10 Pro on your device you ll have a digital entitlement that lets you upgrade from Windows 10 Home to Windows 10 Pro without a product key
+To upgrade select the Start button then select Settings Update security Activation
+If you have a digital license for Windows 10 Pro and Windows 10 Home is currently activated on your device select Go to Store and you ll be prompted to upgrade to Windows 10 Pro for free
+If you have a digital license for Windows 10 Pro but Windows 10 Home isn t activated on your device select Troubleshoot and then follow the steps to upgrade to Windows 10 Pro
+If you don t have a digital license for Windows 10 Pro Windows 10 Pro is available for purchase from the Store
+Upgrade using a Windows 10 Pro product key To upgrade from Windows 10 Home if you have a Windows 10 product key
+Select the Start button then select Settings Update security Activation
+Select Change product key and then enter the 25 character Windows 10 Pro product key
+Select Next to start the upgrade to Windows 10 Pro

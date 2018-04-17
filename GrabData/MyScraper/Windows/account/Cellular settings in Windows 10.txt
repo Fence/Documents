@@ -1,0 +1,70 @@
+Some Windows 10 PCs have a SIM card in them that lets you connect to a cellular data network so you can get online wherever you have a cellular signal
+Even if your PC doesn t have a SIM card you can still get connected to a cellular network in other ways too such as by plugging in and using an external cellular device also called a cellular modem or mobile broadband device Either way you ll need to have a data plan from a mobile operator to connect
+Connect to a cellular data network for the first timeSelect the Network icon or in the lower right of the taskbar and then select the Cellular network in the list Connect
+Many times you ll see the name of your mobile operator next to the Cellular network icon
+If prompted type your user name and password and the access point name APN If necessary check the info that might have come with your PC SIM card or cellular device for more information about what settings to use
+NotesIf the status text under the cellular network name says Mobile operator locked you ll need to insert a SIM card from your mobile operator to connect
+If you select the Network icon or in the taskbar and the Cellular quick action is turned off select it to turn it on
+When it s off the cellular radio is turned off and you can t connect to a cellular network
+Most of the time you shouldn t need to change your cellular settings if your cellular data connection is working the way you like
+But if you re having cellular connection problems changing one or more settings may help
+The settings that appear vary by PC model and mobile operator
+Setting Does thisConnect automaticallyDetermines if your PC will automatically connect to the cellular data network when it s available
+Clear the check box if you want to manually connect each time you want to use your cellular data connection
+To get to this setting select the Start button then select Settings Network Internet Cellular the cellular connection name Connect automatically
+This setting is available when you re disconnected from the cellular data network and it s applied when you select Connect
+Allow roamingDetermines if your cellular data connection stays on when your PC is outside your mobile operator s network
+Leaving the check box cleared can help prevent data roaming charges
+If you do allow roaming you can use cellular data when your PC is in a roaming area
+Depending on your data plan you might pay more for data you use when roaming
+To get to this setting select the Start button then select Settings Network Internet Cellular the cellular connection name Allow roaming
+This setting is available when you re disconnected from the cellular data network and it s applied when you select Connect
+Network selection Appears when roaming and determines which cellular network connection is used
+The default setting is Automatic
+If you try to connect to a cellular network and see a message that the selected network isn t available you can choose Search for networks and then select another cellular network
+To get to this setting select the Start button then select Settings Network Internet Cellular the cellular connection name Advanced options
+Active network Displays the name of the cellular network that you re using
+To get to this setting select the Start button then select Settings Network Internet Cellular the cellular connection name Advanced options
+Update settings Gets the latest cellular network settings from your mobile operator
+Having the latest settings can help keep your cellular data connection working properly
+To get to this setting select the Start button then select Settings Network Internet Cellular the cellular connection name Advanced options Update settings
+Add an Internet APN The Internet access point name APN is the address your PC uses to connect to the Internet when using your cellular data connection
+Usually the Internet APN is set automatically
+If your cellular data connection isn t working try entering a new Internet APN based on your location and mobile operator
+If you can connect to a Wi Fi network on your PC or have a phone handy try searching online to find the Internet APN settings for your mobile operator
+To add an Internet APN you must type an address in the APN box
+The other settings are optional and depend on your mobile operator
+Select the Start button then select Settings Network Internet Cellular select the cellular connection name Advanced options Add an Internet APN
+Do one or more of the following
+In the Profile name box type a name for the APN profile
+In the APN box type the address for the APN to use
+In the User name box type the user name for your mobile account
+In the Password box type the password for your mobile account
+Select Type of sign in info and then select the authentication method that s used
+Select IP type and then select the type of IP address to use
+Select the Apply this profile check box if you want the APN profile to be used right after you save it
+Select Save OK
+To go back and view the list of APN profiles you have select Back and look under Internet APN
+Properties This displays information about your SIM and cellular data connection
+Select Copy to copy the information to paste into an email or somewhere else
+This can be helpful if you re having connection problems and need to send information to your mobile operator or support person
+To get to this setting select the Start button then select Settings Network Internet Cellular the cellular connection name Advanced options
+Use SIM PIN Determines if you want to use a PIN for the SIM in your PC to help prevent other people from using the cellular data connection when they re not authorized
+After you ve set up your SIM PIN you ll be prompted to enter the SIM PIN when you try to connect
+When prompted type your SIM PIN
+If this is the first time using it type the default SIM PIN
+If you don t know the default SIM PIN visit your mobile operator s website to see if they list it there
+You ll need to restart your PC for your cellular data connection to be locked with a SIM PIN
+If you ve already set up a PIN for the SIM type your SIM PIN when prompted and then select OK
+To find this SIM PIN setting select the Start button then select Settings Network Internet Cellular the cellular connection name Advanced options Use SIM PIN under the Security section
+Remove SIM PINThis appears when you re using a SIM PIN
+If you re using a SIM PIN and decide you don t want to use a PIN anymore select Remove SIM PIN type your current SIM PIN and then select OK
+To find this SIM PIN setting select the Start button then select Settings Network Internet Cellular the cellular connection name Advanced options Remove SIM PIN under the Security section
+Change SIM PIN This appears if you re using a SIM PIN
+To change your SIM PIN if you re using one select Change SIM PIN type your current SIM PIN in the Current SIM PIN box type a new SIM PIN in the New SIM PIN box type the same new SIM PIN in the Confirm new SIM PIN box and then select OK
+To find this setting select the Start button then select Settings Network Internet Cellular the cellular connection name Advanced options Change SIM PIN under the Security section
+Unblock SIM PINThis appears if you re using a SIM PIN and the incorrect PIN has been entered three times
+When this happens the SIM will be blocked and can t be used until you unblock it
+To unblock it first you ll need to contact your mobile operator for the PIN Unblocking Key PUK After that select Unblock SIM PIN and then type the PUK code
+If an incorrect PUK code is entered too many times your SIM card will be permanently blocked and you ll need to get a new SIM card from your mobile operator
+To find this setting if your SIM is blocked select the Start button then select Settings Network Internet Cellular the cellular connection name Advanced options Unblock SIM PIN under the Security section

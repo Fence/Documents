@@ -1,0 +1,5 @@
+Group apps together for whatever you want by creating virtual desktops
+Select Task view on the taskbar then New desktop then open the apps you need
+To move apps between virtual desktops select Task view and then drag the app you want from one desktop to another
+Or create another virtual desktop by dragging an app to New desktop
+What s new Search and help Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Explore the Store Move apps around Group apps into desktops Maps Photos Windows Ink and touch Ease of Access 

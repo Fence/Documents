@@ -1,0 +1,26 @@
+Back to Microsoft Lifecycle home page NOTE
+This FAQ was updated on November 12 2015 Show all 1
+What does the Windows Phone Support Lifecycle Policy cover
+Starting with Windows 10 Mobile Microsoft will make updates available for the Operating System on your phone including security updates for a minimum of 24 months after the lifecycle start date
+These updates will be incremental with each update built on the update that preceded it
+Customers need to install each update released in order to remain supported
+Distribution of the updates may be controlled by the mobile operator or the phone manufacturer from which you purchased your phone
+Update availability will also vary by country region and hardware capabilities
+2
+Will I still be supported on Windows Phone 8
+1 if my existing phone cannot upgrade to Windows 10 Mobile
+Microsoft will continue its existing support for Windows Phone 8
+1 until the end of support date of July 11 2017
+The Windows Phone 8
+1 support date can be found here
+3
+How does this policy apply to the actual phone e
+g
+mobile hardware made by other original equipment manufacturers OEMs Third party products that integrate Microsoft products such as the Windows Phone Operating System are not included in the Microsoft Support Lifecycle Policy
+Please contact your mobile operator or OEM for more information about support and warranty on your mobile hardware
+4
+What is the support lifecycle policy for subscription services and or applications that are part of Windows Phone
+The Windows Phone 8 Support Lifecycle Policy covers the Windows Phone 8 Operating System
+Downloadable applications and subscription services are supported by the publisher
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

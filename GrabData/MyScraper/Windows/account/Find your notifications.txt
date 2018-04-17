@@ -1,0 +1,12 @@
+Windows 10 puts notifications and quick actions in action center right on the taskbar where you can get to them instantly
+To open action center from the taskbar select the action center icon You can also swipe in from the right edge of your screen or press Windows logo key A
+Notifications at a glance If a notification has an arrow to the right select the arrow to read more or take action like replying to a message without having to open the related app or other notification sender
+Don t want to take any action
+Clear the notification by selecting and dragging it off screen to the right or by selecting the clear button
+Want to see notifications from some apps before others in action center
+Press and hold or right click a notification group s name and select Make this group high priority
+Notifications from high priority senders always appear above notifications from normal priority senders
+Take a shortcut Quick actions take you right to the settings and apps you re likely to use often from Bluetooth to brightness
+When you open action center you ll see all your available quick actions
+Collapse them to see only your top picks
+What s new Search and help Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Find your notifications Lock screen features Personalize your lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access 

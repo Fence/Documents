@@ -1,0 +1,21 @@
+Safe mode starts Windows in a basic state using a limited set of files and drivers
+It can help you troubleshoot problems on your PC
+For example if the problem doesn t happen in safe mode you ll know default settings and basic device drivers aren t causing the issue
+There are two versions of safe mode
+Safe Mode and Safe Mode with Networking
+They re quite similar but Safe Mode with Networking includes the network drivers and services you ll need to access the Internet and other computers on your network
+The following sections describe how to start your PC in safe mode
+Show all From Settings Press Windows logo key Windows logo key I on your keyboard to open Settings
+If that doesn t work select the Start button in the lower left corner of your screen then select Settings
+Select Update security Recovery
+Under Advanced startup select Restart now
+After your PC restarts to the Choose an option screen select Troubleshoot Advanced options Startup Settings Restart
+After your PC restarts you ll see a list of options
+Select 4 or F4 to start your PC in Safe Mode
+Or if you ll need to use the Internet select 5 or F5 for Safe Mode with Networking
+From the sign in screen Restart your PC
+When you get to the sign in screen hold the Shift key down while you select Power Restart
+After your PC restarts to the Choose an option screen select Troubleshoot Advanced options Startup Settings Restart
+After your PC restarts you ll see a list of options
+Select 4 or F4 to start your PC in Safe Mode
+Or if you ll need to use the Internet select 5 or F5 for Safe Mode with Networking

@@ -1,0 +1,76 @@
+Connecting your Windows 10 PC to different Bluetooth devices lets you do a lot of things on your PC
+For example you can
+Use a Bluetooth mouse or keyboard
+Share files over Bluetooth with other tablets laptops PCs and phones
+Play music over Bluetooth speakers or headphones
+Use Speech on your PC
+Track your fitness by using a fitness sensor
+If you re having problems with Bluetooth on your PC check out some of the questions and answers below to try to fix things
+Show all Bluetooth is missing in Settings or can t be turned on
+How can I try to fix this
+Check Device Manager to make sure you have the latest Bluetooth drivers installed
+In the search box on the taskbar type Device Manager select it from the list of results and then expand Bluetooth in Device Manager
+Press and hold or right click the Bluetooth radio then select Update Driver Software Search automatically for updated driver software
+If Windows doesn t find a new driver look for one on the device manufacturer s website and follow their instructions
+NoteIf your Bluetooth device won t connect after you select Connect in action center go to Fix connections to Bluetooth audio devices and wireless displays and try the steps listed there
+Bluetooth doesn t appear in Device Manager after I upgraded from a previous version of Windows to Windows 10
+How can I fix this
+Bluetooth might not appear in Device Manager if the existing Bluetooth driver isn t compatible with Windows 10
+Try these steps to find a compatible driver
+In the search box on the taskbar type Device Manager select it from the list of results and then expand Other devices in Device Manager
+Select the unknown device right click it and then select Properties
+Select the Details tab and then select Hardware Ids from the Property list
+Look for the hardware ID for the Bluetooth radio
+The hardware ID typically looks like this where ID is a series of numbers and or letters
+USB VID_ ID PID_ ID Right click the hardware ID and then select Copy
+Search on the web for the hardware ID you copied to try find the name of the Bluetooth radio manufacturer
+After that visit the Bluetooth hardware or your PC manufacturer s website to download a Bluetooth driver that s compatible with Windows 10
+NoteIf the steps above didn t help you get Bluetooth working we d like to know
+To provide feedback open the Feedback Hub
+Select Feedback Hardware Devices and Drivers for the Category Bluetooth Setup Upgrade Update for the Subcategory Add new feedback
+Explain the problem you re having
+If possible include the hardware ID from above
+I updated my PC to a newer version of Windows 10 and now my Bluetooth device doesn t work anymore
+How can I fix this
+If a Bluetooth device uses a customized Bluetooth profile the device might not work after your PC is updated
+You ll need to pair the Bluetooth device again to use it
+Bluetooth devices that use one of the supported Bluetooth profiles should still be paired and work properly
+I don t know the PIN for an accessory I want to pair with
+Where can I find it
+Check the documentation for the accessory
+Often the PIN is 0000 or 1234
+You may also be able to find the PIN on the accessory itself
+My Bluetooth device shows as Paired but it isn t working
+How do I fix this
+In Windows 10 the status text for Bluetooth devices changed in Settings Devices Bluetooth
+Bluetooth devices will only show as Connected when the device is actually in use for example a Bluetooth speaker that s connected and has music playing over it When the device isn t being used the status text will show as Paired
+If your Bluetooth device isn t working you can try removing the device and pairing it again
+In Bluetooth settings select the Bluetooth device that s paired but not working Remove device Yes to verify
+After that pair the device again
+For more info about pairing devices see Connect to Bluetooth devices
+Help I can t send or receive files over Bluetooth If you re having problems sharing files over Bluetooth here s some things to try to fix it
+Make sure your PC and other device are paired
+On your PC select the Start button Settings Devices Bluetooth and make sure the other device shows as Paired in the list of devices
+For more info about pairing devices see Connect to Bluetooth devices
+Windows 10 supports the Bluetooth Object Push Profile OPP which it uses when sending and receiving files
+Make sure the other device supports the OPP profile too
+To see if it does visit the device manufacturer s website or search the web
+For a list of supported Bluetooth profiles in Windows 10 see Supported Bluetooth profiles
+To receive a file you need to be on the Waiting for connection screen in Bluetooth File Transfer on your PC
+Here s how to get to it
+Select the Start button Settings Devices Bluetooth Send or receive files via Bluetooth
+In Bluetooth File Transfer select Receive files
+When sending and receiving files make sure both your PC and the other device stay on and don t go to sleep
+My audio quality is low when Bluetooth settings is open
+What can I do to try to fix this
+If you hear audio glitches or low quality audio in general when playing music over a Bluetooth speaker close Bluetooth settings if it s open
+Your PC will no longer be searching for Bluetooth devices which can cause problems when it s streaming music at the same time
+You may also hear issues if you re using Bluetooth for something else at the same time you re listening to music over it for example you re sharing files over Bluetooth while listening to music over a Bluetooth speaker Music doesn t play over my Bluetooth speaker
+How can I fix this
+Your Bluetooth speaker might be paired with your PC but not connected
+Here s how to fix that
+Make sure your Bluetooth speaker is turned on
+On the far right of the Windows taskbar right click the Volume icon and then select Playback devices
+On the Playback tab select the Bluetooth speaker press and hold or right click it and then select Connect
+Select your Bluetooth speaker and then select Set default
+Music should play on your Bluetooth speaker now

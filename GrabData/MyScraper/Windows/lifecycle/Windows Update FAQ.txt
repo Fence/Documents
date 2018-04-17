@@ -1,0 +1,63 @@
+Here are some answers about how Windows Update keeps your PC up to date
+Show all About the Windows 10 Anniversary Update Windows 10 is a service which means it s always up to date and your PC always has the latest and best features
+The Anniversary Update which includes additional features and improvements will automatically download and install when available
+If you want to check for the update now select the Start button then select Settings Update security Windows Update Check for updates
+If you re not seeing the update yet it should be available soon
+Some things to know about the Anniversary Update
+After the update is installed your PC will be running Windows 10 Version 1607
+To see what version your PC is running select the Start button then select Settings System About The download is about 3GB
+If you use a metered Internet connection connect to an unmetered network in order to avoid any extra charges
+Your settings will stay the same and you won t lose any data
+If the setting to defer upgrades is turned on you may not get the update immediately
+To make sure this setting is off select the Start button then select Settings Update security Windows Update Advanced options and clear the checkbox for Defer upgrades
+NoteTo install the Anniversary Update now see Get Windows 10
+How do I keep my PC up to date
+The best way to keep your PC current is to turn on automatic updates
+With automatic updates you don t have to search for updates online or possibly miss critical fixes or device drivers for your Windows PC
+Windows Update automatically installs important updates as they become available
+NoteIf your PC is connected to a network where updates are managed by Group Policy you might be unable to change settings related to Windows Update
+For more info contact your organization s support person
+To turn on automatic updates in Windows 10
+NoteWindows 10 is a service which means automatic updates are turned on by default and your PC always has the latest and best features
+Select the Start button then select Settings Update security Windows Update If you want to check for updates manually select Check for updates
+Select Advanced options and then under Choose how updates are installed select Automatic recommended To turn on automatic updates in Windows 8
+1
+Open Windows Update by swiping in from the right edge of the screen or if you re using a mouse pointing to the lower right corner of the screen and moving the mouse pointer up select Settings Change PC settings Update and recovery Windows Update
+If you want to check for updates manually select Check now
+Select Choose how updates get installed and then under Important updates select Install updates automatically recommended Under Recommended updates select the Give me recommended updates the same way I receive important updates check box
+Under Microsoft Update select the Give me updates for other Microsoft products when I update Windows check box and then select Apply
+To turn on automatic updates in Windows 7
+Select the Start button In the search box enter Update and then in the list of results select Windows Update
+In the left pane select Change settings and then under Important updates select Install updates automatically recommended Under Recommended updates select the Give me recommended updates the same way I receive important updates check box and then select OK
+How much time is needed to download updates to my PC
+The time required to download updates primarily depends on connection speed network settings and the size of the update
+Make sure your PC is plugged in and connected to the Internet to download updates faster
+How do I see installed updates on my PC
+An update history is available so you can see which updates were installed and when
+You can also use this list to remove specific updates although we don t recommend this unless it s necessary
+To see update history in Windows 10
+Select the Start button then select Settings Update security Windows Update Advanced options View your update history
+For more info about what s included in updates for Windows 10 see Windows 10 update history
+To see update history in Windows 8
+1
+Open Windows Update by swiping in from the right edge of the screen or if you re using a mouse pointing to the lower right corner of the screen and moving the mouse pointer up select Settings Change PC settings Update and recovery Windows Update View your update history
+To see update history in Windows 7
+Select the Start button then select Control Panel Programs and then under Programs and Features select View installed updates
+How do I remove an installed update
+We don t recommend that you remove any installed updates
+However if you must remove an update you can do so from the update history
+To remove an update in Windows 10
+Select the Start button then select Settings Update security Windows Update Advanced options View your update history Uninstall updates
+Select the update you want to remove then select Uninstall
+To remove an update in Windows 8
+1
+Open Windows Update by swiping in from the right edge of the screen or if you re using a mouse pointing to the lower right corner of the screen and moving the mouse pointer up select Settings Change PC settings Update and recovery Windows Update View your update history
+Select the update you want to remove then select Uninstall
+To see update history in Windows 7
+Select the Start button then select Control Panel Programs and then under Programs and Features select View installed updates
+Select the update you want to remove then select Uninstall
+What can I do if I m having problems installing updates
+Make sure that your PC is connected to the Internet
+Some updates can t be installed if you re using a metered Internet connection
+If you re connected the Internet and updates aren t installed automatically wait a few minutes and then try to install the updates manually
+Use the Windows Update Troubleshooter to try to fix the problem

@@ -1,0 +1,12 @@
+Pin apps to the Start menu to see live updates on what s happening in your world such as new email your next appointment or the weekend weather
+When you pin an app it s added to the Start menu as a new tile
+Pin apps to Start Select the Start button then press and hold or right click the app you want to pin
+Select Pin to Start
+Once you pin a new app resize it
+Press and hold or right click the app tile select Resize and then choose the tile size you want
+Tip Drag and drop apps from the apps list to pin them to the Start menu as tiles
+Group your apps After you ve pinned an app move it into a group
+To create a new group of tiles move an app s tile up or down until a group divider appears and then release the tile
+Move apps in or out of the group to organize your tiles for perfect productivity
+To give your new group a name select the open space above your new group and type a name
+What s new Search and help Setting things up Get connected Start See what s on the menu Organize your apps Make Start full screen Find all your apps and programs Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access 

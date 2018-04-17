@@ -1,0 +1,94 @@
+Windows 10 There are several different kinds of keyboards for PCs
+The most common type is a physical external keyboard that you plug into your PC
+But Windows has a built in Ease of Access tool called the On Screen Keyboard OSK that can be used instead of a physical keyboard to move around a PC s screen or enter text
+You don t need a touchscreen to use the OSK
+It displays a visual keyboard with all the standard keys so you can use your mouse or another pointing device to select keys or use a physical single key or group of keys to cycle through the keys on the screen
+NoteA PC with a touchscreen also has a touch keyboard
+When you re using a PC with a touchscreen tap in a text field or other area where you can type and the touch keyboard appears
+To open the On Screen KeyboardGo to Start then select Settings Ease of Access Keyboard and then move the slider under On Screen Keyboard
+A keyboard appears on the screen that can be used to move around the screen and enter text
+The keyboard will remain on the screen until you close it
+NoteTo open the OSK from the sign in screen select the Ease of Access button in the lower right corner of the sign in screen and then select On Screen Keyboard
+To change how info is entered into the On Screen KeyboardWith the OSK open select the Options key and then choose the options you want
+Use click sound
+Use this option if you want to hear a sound when you press a key
+Show keys to make it easier to move around the screen
+Use this option if you want the keys to light up as you type
+Turn on numeric keypad
+Use this option to expand the OSK to show a numeric keypad
+Click on keys
+Use this mode if you prefer to click or tap the on screen keys to enter text
+Hover over keys
+Use this mode if you use a mouse or joystick to point to a key
+The characters you point to are entered automatically when you point to them for a specified time
+Scan through keys
+Use this mode if you want the OSK to continually scan the keyboard
+Scan mode highlights areas where you can type keyboard characters by pressing a keyboard shortcut using a switch input device or using a device that simulates a mouse click
+Use Text Prediction
+Use this option if you want the OSK to suggest words for you as you type so you don t need to type each complete word
+NotesText Prediction is available in English French Italian German and Spanish
+If you want to use one of these languages and it isn t installed install the language files for that language
+If you re using either hovering mode or scanning mode and accidently minimize the OSK you can restore it by pointing to it in the taskbar for hovering mode or by pressing the scan key for scanning mode If you minimize the OSK and switch to tablet mode use the Task view button to get back to the OSK
+Windows 8
+1 There are a few different kinds of keyboards
+The most common is a physical external keyboard that you plug into your PC
+Windows also has the On Screen Keyboard OSK an Ease of Access tool
+Use the OSK instead of a physical keyboard to move around your PC and enter text
+You don t need a touchscreen to use the OSK
+The OSK displays a visual keyboard with all the standard keys
+Select keys using the mouse or another pointing device or use a physical single key or group of keys to cycle through the keys on the screen
+NoteA PC with a touchscreen also has a touch keyboard
+When you re using a Windows PC with a touchscreen tap in a text field or other area where you can type and the touch keyboard appears
+For more info about the touch keyboard see How to use the touch keyboard
+To open the On Screen KeyboardSwipe in from the right edge of the screen and then tap Search
+If you re using a mouse point to the lower right corner of the screen move the mouse pointer up and then click Search
+Enter On Screen Keyboard in the search box and then tap or click On Screen Keyboard
+A keyboard appears on the screen that can be used to move around your PC and enter text
+The keyboard will remain on the screen until you close it
+NoteTo open the OSK from the sign in screen tap or click the Ease of Access button in the lower left corner of the sign in screen and then tap or click On Screen Keyboard
+To change how info is entered into the On Screen KeyboardWith the OSK open tap or click the OSK Options key and then select the options you want
+Use click sound
+Use this option if you want to hear a sound when you press a key
+Show keys to make it easier to move around the screen
+Use this option if you want the keys to light up as you type
+Turn on numeric keypad
+Use this option to expand the OSK to show a numeric keypad
+Click on keys
+Use this mode if you prefer to click or tap the on screen keys to enter text
+Hover over keys
+Use this mode if you use a mouse or joystick to point to a key
+The characters you point to are entered automatically when you point to them for a specified time
+Scan through keys
+Use this mode if you want the OSK to continually scan the keyboard
+Scan mode highlights areas where you can type keyboard characters by pressing a keyboard shortcut using a switch input device or using a device that simulates a mouse click
+Use Text Prediction
+Use this option if you want the OSK to suggest words for you as you type so you don t need to type each complete word
+NotesText Prediction is available in English French Italian German and Spanish
+If you want to use one of these languages and it isn t installed install the language files for that language
+If you re using either hovering mode or scanning mode and accidently minimize the OSK you can restore it by pointing to it in the taskbar for hovering mode or by pressing the scan key for scanning mode If you minimize the OSK and switch to the Start screen or a full screen app you won t be able to get to the OSK
+Open the OSK first and then go to the Start screen or app
+Windows 7 Instead of relying on the physical keyboard to type and enter data you can use On Screen Keyboard
+On Screen Keyboard displays a visual keyboard with all the standard keys
+You can select keys using the mouse or another pointing device or you can use a single key or group of keys to cycle through the keys on the screen
+Watch this video to learn how to type without using the keyboard 1
+21 To type without using the keyboardOpen On Screen Keyboard by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking On Screen Keyboard
+Show all To change how information is entered into On Screen Keyboard Open On Screen Keyboard by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking On Screen Keyboard
+Click Options and then under To use the On Screen Keyboard select the mode you want
+Typing mode DescriptionClick on keysIn clicking mode you click the on screen keys to type text
+Hover over keysIn hovering mode you use a mouse or joystick to point to a key for a predefined period of time and the selected character is typed automatically
+Scan through keysIn scanning mode On Screen Keyboard continually scans the keyboard and highlights areas where you can type keyboard characters by pressing a keyboard shortcut using a switch input device or using a device that simulates a mouse click
+NotesIf you re using either hovering mode or scanning mode and accidently minimize On Screen Keyboard you can restore it by pointing to it in the taskbar for hovering mode or by pressing the scan key for scanning mode If you re using a mouse click to select a key in the Scan through keys mode the mouse pointer must be located over On Screen Keyboard
+The keyboard layout changes in On Screen Keyboard depending on the language displayed in the active program
+To set On Screen Keyboard to use audible clicks You can have On Screen Keyboard make an audible click when a key is pressed
+Open On Screen Keyboard by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking On Screen Keyboard
+Click Options select the Use click sound check box and then click OK
+To use a numeric key pad in On Screen Keyboard You can use a numeric key pad to enter numbers with On Screen Keyboard
+Open On Screen Keyboard by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking On Screen Keyboard
+Click Options select the Turn on numeric key pad check box and then click OK
+To enable text prediction in On Screen Keyboard When text prediction is enabled as you type On Screen Keyboard displays a list of words that you might be typing
+Open On Screen Keyboard by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking On Screen Keyboard
+Click Options select the Use Text Prediction check box and then click OK
+If you don t want to automatically add a space after you insert a word using text prediction clear the Insert space after predicted words check box and then click OK
+NotesText prediction is only available in English French Italian German and Spanish
+To enable text prediction in a specific language you must first install additional language files for that language
+Text prediction isn t included in Windows 7 Home Basic

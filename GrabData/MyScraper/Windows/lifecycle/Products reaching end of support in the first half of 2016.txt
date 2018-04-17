@@ -1,0 +1,42 @@
+Back to Microsoft Lifecycle home page Created
+January 20 2016As of January 2016 the following list represents some of the products reaching end of support in the next 6 months For a comprehensive list of Microsoft products and their lifecycle policy timelines please search the Support Lifecycle Product Database
+If you have any questions regarding support for a product please contact your Microsoft Account Representative
+If you need technical support visit the Contact Microsoft Web site
+Service Packs Retiring
+Support for the following Service Packs will retire in the next 6 months Customers should migrate to the next available Service Pack to continue to receive security updates and be eligible for other support options
+Services Packs Moving to End of SupportEffective DateMicrosoft Application Virtualization 5
+0 for Remote Desktop Services Service Pack 2Microsoft Application Virtualization 5
+0 for Windows Desktops Service Pack 2Microsoft Application Virtualization Hosting 5
+0 for Windows Desktops Service Pack 2Windows 8Windows 8 EnterpriseWindows 8 Enterprise NWindows 8 NWindows 8 ProWindows 8 Pro NWindows Embedded 8 Industry EnterpriseWindows Embedded 8 Industry ProWindows Embedded 8 Pro January 12 2016Microsoft Dynamics CRM 2013Microsoft Dynamics SL 2011 Service Pack 2Microsoft SQL Server 2014 Business IntelligenceMicrosoft SQL Server 2014 DeveloperMicrosoft SQL Server 2014 EnterpriseMicrosoft SQL Server 2014 Enterprise CoreMicrosoft SQL Server 2014 ExpressMicrosoft SQL Server 2014 StandardMicrosoft SQL Server 2014 WebMicrosoft System Center 2012 Configuration Manager Service Pack 1Microsoft System Center 2012 Endpoint Protection Service Pack 1Microsoft System Center 2012 R2 Configuration ManagerMicrosoft System Center 2012 R2 Endpoint ProtectionMicrosoft System Center 2012 R2 Endpoint Protection for LinuxMicrosoft System Center 2012 R2 Endpoint Protection for Mac July 12 2016 NOTE
+Products listed without a specific service pack refer to Release to Manufacturing RTM or Service Pack 0 SP0 version
+These versions will expire as Service Pack 1 was released 12 or 24 months prior to the support expiration date based on the Service Pack policy
+In order to remain supported please update the RTM SP0 to a currently support Service Pack
+Key Products Transitioning from Mainstream Support to Extended Support
+The following products will be moving into Extended Support in the next 6 months Extended Support lasts for a minimum of 5 years and includes security updates at no cost and paid non security updates and support
+Additionally Microsoft will not accept requests for design changes or new features during the Extended Support phase
+Products Moving from Mainstream to Extended Support Effective DateMicrosoft Age of Empires IIIMicrosoft Age of Empires III
+The WarChiefsMicrosoft Age of Empires III
+Gold EditionMicrosoft Age of Empires III
+The Asian Dynasties Microsoft AutoRoute Europe 2013 Microsoft AutoRoute Europe 2013 with GPS Locator Microsoft BizTalk Server Branch 2010 Microsoft BizTalk Server Developer 2010 Microsoft BizTalk Server Enterprise 2010 Microsoft BizTalk Server Standard 2010 Microsoft Host Integration Server 2010 Microsoft Lync for Mac 2011 Microsoft MapPoint Europe 2013 Microsoft Sync Framework 2
+1 January 12 2016Microsoft Enterprise Desktop Virtualization 2
+0 Microsoft Fable III for PC Microsoft Lync 2010 Microsoft Lync 2010 Attendant Microsoft Lync 2010 Attendee Microsoft Lync 2010 Group Chat Microsoft Lync Server 2010 Enterprise Edition Microsoft Lync Server 2010 Group Chat Software Development Kit Microsoft Lync Server 2010 Software Development Kit Microsoft Lync Server 2010 Standard Edition Microsoft Math 4
+0 April 12 2016Microsoft Dynamics Retail Management System Headquarters 2
+0 Microsoft Dynamics Retail Management System Store Operations 2
+0 July 10 2016Microsoft Project Server 2010 Microsoft Dynamics SL 2011 Microsoft SQL Server Compact 4
+0 Windows MultiPoint Server 2011 Premium Windows MultiPoint Server 2011 Standard July 12 2016Key Products Transitioning to End of Support
+The following products will be reaching end of support in the next 6 months There will be no new security updates non security updates free or paid assisted support options or online technical content updates
+Products Moving to End of SupportEffective DateBusiness Scorecard Manager 2005 Microsoft NET Framework 4 Microsoft NET Framework 4
+5 Microsoft NET Framework 4
+5
+1 Microsoft System Center Data Protection Manager Windows Automotive 5
+0 Windows XP Embedded January 12 2016Microsoft NET Framework 2
+0 Microsoft Customer Care Framework Microsoft Customer Care Framework 2005 Microsoft Dynamics CRM 3
+0 Microsoft SQL Server 2005 Compact Edition Microsoft SQL Server 2005 Developer Edition Microsoft SQL Server 2005 Enterprise Edition Microsoft SQL Server 2005 Express Edition with Advanced Services Microsoft SQL Server 2005 for Embedded Systems Microsoft SQL Server 2005 Standard Edition Microsoft SQL Server 2005 Standard Edition for Itanium based Systems Microsoft SQL Server 2005 Standard X64 Edition Microsoft SQL Server 2005 Workgroup Edition Microsoft System Center Data Protection Manager 2006 Microsoft Visual Basic 2005 Express Edition Microsoft Visual C 2005 Express Edition Microsoft Visual C 2005 Express Edition Microsoft Visual J 2005 Express Edition Microsoft Visual Studio 2005 Professional Edition Microsoft Visual Studio 2005 Standard Edition Microsoft Visual Studio 2005 Standard Edition academic license Microsoft Visual Studio 2005 Team Edition for Software Architects Microsoft Visual Studio 2005 Team Edition for Software Developers Microsoft Visual Studio 2005 Team Edition for Software TestersMicrosoft Visual Studio 2005 Team Suite Microsoft Visual Studio 2005 Team Test Load Agent Microsoft Visual Studio 2005 Tools for the Microsoft Office System Microsoft Visual Web Developer 2005 Express Edition Windows Embedded for Point of Service Service Pack 3 for Windows Embedded for Point of Service April 12 2016Microsoft ActiveSync 4
+2 Microsoft BizTalk Server 2006 Developer Edition Microsoft BizTalk Server 2006 Enterprise Edition Microsoft BizTalk Server 2006 R2 Branch Edition Microsoft BizTalk Server 2006 R2 Developer Edition Microsoft BizTalk Server 2006 R2 Enterprise Edition Microsoft BizTalk Server 2006 R2 Standard Edition Microsoft BizTalk Server 2006 Standard Edition Microsoft Commerce Server 2007 Developer Edition Microsoft Commerce Server 2007 Enterprise Edition Microsoft Commerce Server 2007 Standard Edition Microsoft Connected Services Framework Billing Standard Business Event 3
+0 Microsoft Connected Services Framework Order Handling Standard Business Event 3
+0 Microsoft Connected Services Framework Server 3
+0 Microsoft Connected Services Framework Standard Server 3
+0 Microsoft Connected Services Framework Standard Server with Standard Business Events 3
+0 Microsoft Visual J Version 2
+0 Redistributable Package Microsoft Visual Studio 2005 Team Foundation Server July 12 2016 The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

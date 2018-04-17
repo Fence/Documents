@@ -1,0 +1,4 @@
+Closed captions let you read the words spoken in the audio portion of a video TV show or movie
+To customize how closed captions appear in Windows and some Windows apps select the Start button then select Settings Ease of Access Closed captions
+Select the settings you want and see how they appear in Preview
+To return to the default settings select the Restore to defaults button

@@ -1,0 +1,24 @@
+Narrator is a screen reading app built into Windows 10
+This guide describes how to use Narrator with the Windows 10 Anniversary Update on desktop PCs providing you with enough info to start exploring Windows using apps and browsing the web
+It s written for those who use a screen reader regularly
+To use this guide choose a link from the following table of contents
+When you re done reading a chapter or appendix select the Back button in your browser to return to this page and select another chapter
+There are also links at the end of each chapter and appendix to go to the next chapter or return to this table of contents
+Table of contentsChapterWhat s in itChapter 1
+Introducing NarratorAn overview of Narrator including how to start and stop it
+Chapter 2
+Learning Narrator basicsHow to get around the screen find and open apps change what Narrator reads and adjust speech rate and volume
+Chapter 3
+Using Scan ModeHow to use Scan Mode to navigate apps email and the web
+Chapter 4
+Reading textHow to read and get info about text such as font text color and punctuation
+Chapter 5
+Using Narrator with touchHow to use Narrator with touch including basic gestures
+Chapter 6
+Customizing NarratorHow to change how Narrator starts determine how much feedback you hear when typing change Narrator commands and use third party text to speech TTS software
+Appendix A
+Supported languagesA list of supported languages in Narrator
+Appendix B
+Narrator keyboard commands and touch gesturesA list of Narrator keyboard commands and touch gestures
+Appendix C
+TTS voicesA list of the text to speech TTS voices available in Narrator

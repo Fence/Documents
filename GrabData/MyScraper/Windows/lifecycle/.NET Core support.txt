@@ -1,0 +1,89 @@
+Back to Microsoft Lifecycle home page Show all 1
+What is NET Core
+NET Core is a set of runtime library and compiler components which can be used in various configurations for device and cloud workloads
+Cross platform and open source NET Core provides a light weight development model and the flexibility to work a variety of development tools OS platforms
+NET Core is available on GitHub under the MIT license
+NET Core refers to several technologies including NET Core ASP
+NET Core and Entity Framework Core
+2
+How does NET Core ship
+NET Core will have major and minor releases which represent related but separate release streams
+Major releases will be highly stable low change releases
+A major release will be supported for 3 years after it ships or 12 months after the next major release ships whichever is shorter
+For example NET Core 1
+0 will be a major release and supported for 12 months after the release of NET Core 2
+0
+A major release may have multiple minor releases
+For example NET Core 1
+0 may be updated with NET Core 1
+1 1
+2 etc
+Minor releases represent a faster rate of change and innovation and will be supported within the same 3 year window as the parent major release
+Customers need to be at the latest minor release level within 3 months in order to continue to be supported
+For example once NET Core 1
+2 is released customers will need to update from NET Core 1
+1 to NET Core 1
+2
+3
+How will the support lifecycle for NET Core work
+Microsoft will support both the stable major and more frequent minor trains
+A customer can choose which train they are on and receive updates for their train
+For example a customer may choose the stable NET 1
+0 release train and as long as they stay on this train they will be supported for 3 years or 12 months after the release of the next stable release e
+g
+2
+0 A customer may also choose to be on the faster release cadence and install NET Core 1
+1 when it is available
+Support will be available as long as the customer stays on the latest minor update level
+For e
+g
+once NET Core 1
+2 ships the customer on the faster release train will need to update to NET Core 1
+2 within 3 months in order to receive support
+4
+Where can I find the end date for specific releases of NET Core
+You can find the end date for all NET Core releases here 5
+How does the support lifecycle for ASP
+NET Core and Entity Framework Core work
+ASP
+NET Core and Entity Framework Core ship as part of NET Core releases and will follow the lifecycle of the parent release
+6
+What about third party components
+In some cases installing a third party component or library via NuGet may be a pre requisite for using NET Core
+Support for these components will come from the vendor that ships those components or libraries
+NET Core releases for certain platforms such as Red Hat Enterprise Linux will be published by Red Hat rather than Microsoft
+For these platforms updates for NET Core will be made available to the vendor for deployment through their systems
+7
+What if I take NET Core sources from GitHub
+Customers who obtain NET Core source code from GitHub and build it themselves can get fixes and updates in source form from GitHub and incorporate these into their application
+8
+What is the relationship between NET Core and NET Framework
+NET Core and the NET Framework for the most part have a subset superset relationship
+NET Core is named as Core since it contains the core features from the NET Framework for both the runtime and framework libraries
+For example NET Core and the NET Framework share the GC the JIT and types such as String and List T NET Core was created so that NET could be open source cross platform and be used in more resource constrained environments
+9
+Why do NET Core releases not follow the same support lifecycle as the NET Framework
+NET Core is a new development platform and releases for NET Core will follow an agile and faster release cadence
+Applications based on the NET Framework are widely deployed across hundreds of millions of computers and therefore there is a high bar for compatibility and stability
+This results in releases for the NET Framework being less frequent and more scoped in the nature and number of changes
+Due to these differences NET Core releases will follow their own support lifecycle
+10
+I am using NET Framework 4
+5
+x or 4
+6
+x
+Does this mean I need to update my application to work with NET Core
+No
+NET Core releases are a new development platform
+If you are using the NET Framework 4
+5
+x or NET 4
+6
+x you do not need to update your application to work with NET Core
+That said the NET Core development platform offers several advantages over the Microsoft NET Framework you can find more information here
+11
+Where can I learn more about NET Core
+You can find more information about NET Core here
+NET Foundation website The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

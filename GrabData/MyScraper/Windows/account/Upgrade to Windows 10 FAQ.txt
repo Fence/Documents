@@ -1,0 +1,52 @@
+The following are some answers to questions you might have about the upgrade to Windows 10
+For more info about system requirements and feature availability see the Windows 10 specifications page
+Show all Is the Windows 10 free upgrade offer still available
+The Windows 10 free upgrade through the Get Windows 10 GWX app ended on July 29 2016
+How do I get Windows 10
+Windows 10 will continue to be available for purchase either on a device or as a full version of the software
+Do I still qualify for the free upgrade offer if I ve already downloaded Windows 10 to a USB drive but haven t yet upgraded my device
+All upgrades must have completed and reached the Welcome screen by 11
+59 PM UTC 10 Hawaii on July 29 this is one worldwide point in time
+Will the media creation tool still be available for customers to download Windows 10 installation media
+Yes the media creation tool and Windows 10 installation media ISO files are available for customers to install Windows 10
+If you re installing Windows 10 for the first time you ll need to enter a valid Windows 10 product key or buy a full version of Windows 10 during setup for this tool to work
+If you ve previously installed Windows 10 on your device you should have a digital license and Windows 10 will automatically activate without entering a product key
+How do I reinstall Windows 10 on my PC
+After you upgrade to Windows 10 you can reinstall or do a clean installation on the same device
+You won t need a product key to reactivate Windows 10 on the same hardware
+For more info on how to create your own Windows 10 installation media see the Microsoft software download website
+Will Windows 10 work with the assistive technologies on my device
+We re committed to make sure customers using assistive technologies can upgrade to Windows 10
+For more info about the free upgrade offer for customers using assistive technologies see Accessibility and the Windows 10 free upgrade
+For customers who are still in the process of upgrading for example those who are using assistive technologies the following questions and answers provide more details
+Show all How long will it take to upgrade my device
+The time that is required to upgrade to Windows 10 depends on factors such as the age of your device and how it s configured
+Most devices will take about an hour to upgrade as soon as the download is completed
+Although older devices could take longer some newer high performance devices might upgrade faster
+How do I free up space for the upgrade
+Devices with a 32 GB hard drive or older devices with full hard drives might need additional storage space to complete the upgrade
+If you don t have sufficient space try removing files or apps you no longer need or use Disk Cleanup to free up space
+During the upgrade you might be asked to free up space on your device or attach an external drive with sufficient space to continue with the upgrade
+If you attach an external drive make sure to keep it in a safe place after the upgrade in case you need it for recover options
+Why do I need to uninstall some of my apps during the upgrade
+Some apps have to be uninstalled because they could cause problems with the upgrade process
+You ll be able to reinstall these apps after the upgrade to Windows 10 is done
+Other apps have to be uninstalled because they won t work correctly or might not work at all with Windows 10
+You won t be able to reinstall or use these apps after the upgrade is completed
+Can I change my language when I upgrade
+The easiest way to change your language is to upgrade using the same language you currently have on your PC and then add a new language later
+To add new languages in Windows 10 select the Start button then select Settings Time language Region language Add a language and then choose the language you want
+Is Windows Media Center available in Windows 10
+No Windows Media Center isn t available as part of Windows 10 and will be removed during the upgrade
+After the upgrade is completed you won t be able to install Windows Media Center
+Can I go back to my old operating system
+There are several ways for you to go back from Windows 10 to a previous version of Windows
+You ll be able to go back to an earlier version by going to Settings Update security Recovery
+The time you have to go back depends on what version of Windows 10 your PC is running after the upgrade
+For example if your PC is running Windows 10 Version 1511 you have a month to go back to your previous operating system
+If your PC is running Windows 10 Version 1607 you have 10 days to go back
+To see what version of Windows 10 your PC is running after you upgrade select the Start button then select Settings System About
+If your PC manufacturer provided the option you might be able to restore your device to factory settings
+If options to go back and restore factory settings aren t available you can use installation media and a product key to install an earlier version of Windows
+For more info and requirements see the Go back to your previous version of Windows section of Recovery options in Windows 10
+NoteIf the manufacturer set up your PC to run from a compressed Windows image file also known as Windows image file boot or WIMBoot and included the option to restore factory settings that option will no longer be available after you upgrade to Windows 10

@@ -1,0 +1,17 @@
+If you signed in with your Microsoft account when you set up Windows hooray
+If not that s OK you can sign in any time
+And if you re not quite sure what a Microsoft account is we ll tell you
+What it is Have you ever used Outlook
+com Hotmail Office 365 OneDrive Skype Xbox or Windows
+The email address and password you use for any of those services is your Microsoft account
+If not it s easy to create a free account with your email address or phone number at account
+microsoft
+com
+Your Microsoft account gives you access to apps and games from the Windows Store and lets you see your settings and other stuff across multiple Windows 10 devices
+Read more about the benefits of Microsoft account
+How to sign in Select the Start button then select Settings Accounts Email app accounts
+Under Accounts used by other apps select Add a Microsoft account
+Follow the prompts to add your Microsoft account
+You may need to verify your identity by entering a confirmation code
+If you find that you re having issues signing in or if you forgot the password for your Microsoft account the Microsoft account FAQ has some helpful pointers
+What s new Search and help Setting things up Sign in with a Microsoft account Set up accounts Set up email and calendar Change your account picture Add a printer Connect to a projector or PC Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access 

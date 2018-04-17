@@ -1,0 +1,209 @@
+Back to Microsoft Lifecycle home page On this page
+Microsoft WindowsWindows 8
+1Windows EmbeddedSupporting the latest processors and chipsets on WindowsWindows RTNOTE
+This FAQ was updated on August 11 2016
+Microsoft Windows Show all 1
+What is the Microsoft Support Lifecycle policy for Windows
+Microsoft Windows follows the Business Developer and Desktop Operating System Software Products policy
+As such Microsoft will offer a minimum of 10 years of support for Business Developer and Desktop Operating System consumer or business Software Products
+Mainstream Support for Business Developer and Desktop Operating Systems will be provided for 5 years or for 2 years after the successor product N 1 is released whichever is longer
+Microsoft will also provide Extended Support for the 5 years following Mainstream support or for 2 years after the second successor product N 2 is released whichever is longer
+Finally most Business Developer and Desktop Operating System Software products will receive at least 10 years of online self help support
+2
+Is there a different Microsoft Support Lifecycle policy for consumers and businesses for the Windows operating system
+All Desktop Operating System products whether used for personal or business purposes receive a minimum of 10 years of support minimum of 5 years Mainstream Support and minimum of 5 years Extended Support at the supported service pack level
+Microsoft does not differentiate Microsoft Support Lifecycle policy between consumer and business versions of Desktop Operating System products
+3
+If I obtained Windows when I purchased a new personal computer who provides support for my Windows desktop operating system
+If you obtained a retail packaged product copy of a Windows desktop operating system you are eligible for support from Microsoft subject to the Microsoft Support Lifecycle policy and to the support terms and conditions that were in place at the time of purchase
+If you acquired your Windows desktop operating system through the Microsoft Volume Licensing program or from an Original Equipment Manufacturer OEM Microsoft offers access to a wealth of online self help support content in addition to paid technical assistance offerings
+If you acquired your Windows desktop operating system through an OEM you may also contact your OEM for more information about the support offerings for Windows desktop operating systems from that OEM
+4
+What other options do I have for getting support
+Microsoft offers no charge self help tools and content on the Microsoft Help and Support Web site
+These resources include the Microsoft Knowledge Base how to articles troubleshooting information frequently asked questions TechNet Support Webcasts community newsgroups and more
+You can also gain access to comprehensive Help files and troubleshooting information by clicking Start in Microsoft Windows 7 or by going to Search in Windows 8
+1 and typing in help
+5
+After the Microsoft assisted and paid support offerings have ended what are my options if I want to continue to receive support
+Microsoft encourages all customers to remain current to ensure that they stay supported and can take advantage of innovations found in the latest products
+Staying current also minimizes security risks compliance risks and frequently lowers the total cost of ownership
+Once a product transitions out of support no further support will be provided for the product
+This means that customers will not have access to
+Security updates or non security hotfixesFree or paid assisted support optionsThe option to engage Microsoft product development resourcesUpdates to online content KB articles etc
+Online content may be available if the product is still within the Online Self Help Support phase
+Microsoft has created a Web site that lists the support options that are available for Microsoft products that no longer receive assisted support from Microsoft
+For more information visit the Retired Product Support Options Web site
+6
+When a Windows desktop operating system reaches the end of its lifecycle or is no longer supported does that mean new programs will not run on that operating system
+Even if an operating system is no longer available for purchase or support through Microsoft that operating system may still work with programs and with hardware that become available after sale or support of the operating system is discontinued
+However as an operating system ages the chance that new programs will not be performant on the operating system increases
+The chance that an older non supported operating system will not be performant on new hardware also increases
+This frequently occurs because the manufacturers of new hardware and of new software make product design decisions that take advantage of the increased functionality and features in newer operating systems
+These manufacturers may decide that discontinuing support of their products on older operating systems is appropriate
+Windows 8
+1 Show all 7
+What is the Microsoft Support Lifecycle policy for Windows 8
+1
+Windows 8
+1 falls under the same lifecycle policy as Windows 8 and will reach end of Mainstream Support on January 9 2018 and end of Extended Support on January 10 2023
+With the General Availability of Windows 8
+1 customers on Windows 8 have 2 years until January 12 2016 to move to Windows 8
+1 in order to remain supported
+8
+Why are you requiring Windows 8 customers move to Windows 8
+1 two years after the General Availability
+Historically we ve had a similar support approach related to Windows service packs when a Windows service pack is released Microsoft provides customers 24 months of support for the prior service pack or original RTM version
+Unlike service packs that are typically just a collection of fixes Windows 8
+1 has new features and enhancements
+We designed Windows 8
+1 to give customers an ability to deploy this update in a manner that is similar to how customers deploy service packs therefore we are applying the existing service pack support policy to Windows 8
+1
+Windows 8
+1 does not change any hardware requirements compared with Windows 8 or Windows 7 and existing Windows Store apps will work with Windows 8
+1
+The update has little to no impact on existing desktop apps and there is no direct software cost because business customers with Software Assurance licensing will receive Windows 8
+1 as a free update
+For organizations running legacy applications that need to be upgraded there are tools to manage deployment in order to help mitigate cost and impact
+9
+What is Windows 8
+1 Update
+How does it impact the Windows 8 Support Lifecycle
+Windows 8
+1 Update is a cumulative update for Windows 8
+1
+In addition to previous Windows 8
+1 updates it includes enhancements such as improved IE 11 compatibility for business applications usability improvements extended mobile device management and improved hardware support
+For more information on Windows 8
+1 Update please visit the What s new in Windows 8
+1 Update and Windows RT 8
+1 Update article
+For information on deploying please visit the Windows Springboard Series blog
+Windows Embedded Show all 10
+How does the End of Support for Windows XP impact Windows Embedded products
+Windows Embedded products have their own distinct support lifecycles based on when the product was released and made generally available
+It is important for businesses to understand the support implications for these products in order to ensure that systems remain up to date and secure
+The following Windows Embedded products are based on Windows XP
+Windows XP Professional for Embedded Systems
+This product is identical to Windows XP and Extended Support will end on April 8 2014
+Windows XP Embedded Service Pack 3 SP3 This is the original toolkit and componentized version of Windows XP
+It was originally released in 2002 and Extended Support will end on Jan
+12 2016
+Windows Embedded for Point of Service SP3
+This product is for use in Point of Sale devices
+It s built from Windows XP Embedded
+It was originally released in 2005 and Extended Support will end on April 12 2016
+Windows Embedded Standard 2009
+This product is an updated release of the toolkit and componentized version of Windows XP
+It was originally released in 2008 and Extended Support will end on January 8 2019
+Windows Embedded POSReady 2009
+This product for Point of Sale devices reflects the updates available in Windows Embedded Standard 2009
+It was originally released on 2009 and extended support will end on April 9 2019
+11
+Why does support for Windows XP Professional for Embedded Systems end with Windows XP
+Windows XP Professional for Embedded Systems is a specially licensed version of Windows XP Professional for industry devices delivering the full features and functionality of Windows XP
+Given this relationship both operating systems followed the same release schedule and share the same timeline 12
+Why will Windows XP Embedded be supported for two years longer than Windows XP Professional for Embedded Systems
+Windows XP Embedded is a modular form of Windows XP with additional functionality to support the needs of industry devices
+It was released separately from Windows XP and provides a separate support lifecycle to address the unique needs of industry devices
+Devices running Windows XP Embedded will be supported through 2016
+13
+What is the Microsoft Support Lifecycle policy for Windows Embedded 8
+1 products
+Windows Embedded 8
+1 falls under the same lifecycle policy as Windows Embedded 8 with support ending 7 11 2023
+Customers have 24 months to move to Windows Embedded 8
+1 in order to remain supported
+This applies to Windows Embedded 8 Industry Enterprise and Industry Pro
+14
+Are there any differences in what is provided in the Extended Support phase for Windows Embedded products than regular Windows products
+The type of support provided in the Extended Support phase is consistent for all Business Developer and Desktop Operating System Software Products
+Critical security updates are made available for products until the published Extended Support end date
+This allows businesses to ensure that they are up to date in protection against security attacks
+For Embedded products these updates will continue to be made available through the usual channels of MyOEM Windows Embedded Developer Update WEDU and Microsoft OEM Online MOO as well as through Microsoft Update for the Point of Sale systems
+15
+What does this mean for other parts of the system
+While most of the Windows Embedded Operating System will continue to receive critical security updates it is important to ensure that other parts of the system that are not part of the operating system are also kept up to date and that protections are in place
+This includes items such as software included on the device antivirus solutions and management solutions on the device as well as throughout the IT infrastructure
+Check with the providers of all parts of the infrastructure to ensure that they will continue to offer support for XP based platforms
+Microsoft will continue to provide anti malware definition updates to those operating systems licensed to run our anti malware products through their end of life dates
+Supporting the latest processor and chipsets on Windows Show all 16
+Where can I read more about Microsoft s approach to supporting the latest silicon innovation on Windows
+We wanted to share more details on our recommendations for enterprise customers
+As we ve done since the beginning of our work with Windows 10 we want to communicate transparently with our customers on what they can expect from their experience on Windows
+More information is available in our blog post
+Windows 10 Embracing Silicon Innovation and additional policy updates
+17
+How does Microsoft plan to provide support for new processors and chipsets when they are released
+As new silicon generations are introduced they will require the latest Windows platform at that time for support
+This enables us to focus on deep integration between Windows and the silicon while maintaining maximum reliability and compatibility with previous generations of platform and silicon
+For example Windows 10 will be the only supported Windows platform on Intel s upcoming Kaby lake silicon Qualcomm s upcoming 8996 silicon and AMD s upcoming Bristol Ridge silicon
+18
+What is the support policy for prior generations of processors and chipsets on Windows 7 or Windows 8
+1
+Windows 7 and Windows 8
+1 will continue to be supported for security reliability and compatibility on prior generations of processors and chipsets under the standard support lifecycle for Windows
+This includes most devices available for purchase today by consumers or enterprises and includes generations of silicon such as AMD s Carrizo and Intel s Broadwell and Haswell silicon generations
+19
+What is the support policy for Windows 7 8
+1 devices with Intel s 6th generation of processors also known as Skylake that was released in late 2015
+New Skylake devices on the supported list will also be supported with all applicable security updates for Windows 7 and Windows 8
+1 through the end of support dates
+During the support period these systems should be upgraded to Windows 10 to continue receiving support after the period ends
+It s important to note that all support for Windows 7 ends on January 14 2020 for all devices and support will end for Windows 8
+1 on January 10 2023
+For information about how to identify what generation of processor you may have see Intel s page on processor numbers
+20
+Where can I find the list of Skylake devices supported on Windows 7 and Windows 8
+1
+Microsoft has published a listing of OEM web pages which list the Skylake systems supported on Windows 7 and Windows 8
+1 which is regularly updated
+21
+What changes did Microsoft make to the Skylake support policy
+In response to customer feedback Microsoft made two updates to the previously communicated policy support will be offered for Skylake devices on the supported list until the end of support dates for Windows 7 and Windows 8
+1 respectively
+22
+How will Windows 10 LTSBs be supported
+Windows 10 Long Term Servicing Branches also known as LTSBs will support the currently released silicon at the time of release of the LTSB
+As future silicon generations are released support will be created through future Windows 10 LTSB releases that customers can deploy for those systems
+This enables us to focus on deep integration between Windows and the silicon while maintaining maximum reliability and compatibility with previous generations of platform and silicon
+23
+What is the support policy for prior generations of processors and chipsets on Windows Embedded 7 8 or 8
+1
+Windows Embedded 7 8 and 8
+1 will continue to be supported for security reliability and compatibility on prior generations of processors and chipsets under the standard support lifecycle for Windows
+This includes most devices available for purchase today
+24
+What is the support policy for Intel s 6th generation of processors also known as Skylake that was released in late 2015 on Windows Embedded products
+Skylake devices running Windows Embedded 7 8 and 8
+1 will be supported according to the lifecycle support policy for those products
+During this supported period these systems should be upgraded to Windows 10 to continue receiving support after the period ends
+For information about how to identify what generation of processor you may have see Intel s page on processor numbers
+25
+Is there a Skylake supported device list for Windows Embedded products as there is for Windows Client
+No there is not a supported device list for Windows Embedded
+26
+What is the support policy for Windows Server products on Skylake devices
+The Windows Server platform is supported on certified or logo d hardware as listed in the Windows Server Catalog
+Today you can browse the catalog and find hardware that meets or exceeds our minimum server hardware requirements and has been successfully certified for Windows Server 2008 2008 R2 2012 and 2012 R2
+For Windows Server we outline the Microsoft Support Lifecycle as consisting of five years of mainstream support followed by five years of extended support
+This lifecycle is important in terms of our support policies as well as the timeframe for which new devices and systems can be certified
+We allow new systems to be submitted for certification up to the point when the OS transitions to extended support
+For example Windows Server 2012 and 2012 R2 will transition to extended support on 1 10 2018
+Per our policy we would allow new system submissions for Windows Server 2012 and 2012 R2 to continue up to this date including the forthcoming Intel Xeon E3 Skylake family of processors
+Windows RT Show all 27
+What is the Microsoft Support Lifecycle policy for Windows RT
+Microsoft will make software updates including security updates available for Windows RT
+Additional information regarding the Windows RT support lifecycle policy will be communicated as available
+28
+Will Microsoft provide customer specific software updates
+Microsoft will not accept customer requests for specific product design and feature changes or non security updates that are applicable only to an individual customer need
+29
+What is the Microsoft Support Lifecycle policy for Office Home and Student 2013 RT the version of Office available on Windows RT
+Office Home and Student 2013 RT has the same support lifecycle policy as Windows RT
+30
+How long will Microsoft support the device hardware that runs Windows RT
+Please refer to Hardware Warranties for more information
+More details can be found in the Hardware FAQ
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

@@ -1,0 +1,53 @@
+Back to Microsoft Lifecycle home page On this page
+Microsoft SilverlightMicrosoft Visual StudioMicrosoft Visual BasicNOTE
+This FAQ was updated on October 19 2016
+Microsoft Silverlight Show all 1
+What is the Support Lifecycle policy for the Microsoft Silverlight product
+Due to the way Microsoft Silverlight is released it does not take a Support Lifecycle typical of many Microsoft products and for clarification purposes is defined as a tool
+A tool is defined as a utility or feature that aids in accomplishing a discrete task or a limited set of tasks
+Major tool versions receive a minimum of 12 months notification prior to the end of support
+Otherwise support ends at the same time as the product versions for which they are intended for example Microsoft Windows Note
+Some tools may receive security updates or feature enhancements
+Customers may be required to install the latest update of the supported tool s major version to receive support
+Microsoft will continue to support Silverlight by shipping updates to the latest version of both Silverlight runtime and Silverlight SDK
+Updates and new versions of the Silverlight runtime are backward compatible with web applications built in previous versions of Silverlight and will include the latest security enhancements performance improvements and product fixes
+2
+What version of Silverlight is currently supported
+Microsoft will provide technical assistance paid and unpaid for customers using versions of Silverlight 5
+Paid technical assistance is available to customers requiring support with issues beyond install and upgrade issues
+Microsoft will continue to ship updates to the Silverlight 5 runtime or Silverlight 5 SDK for existing and newer browser versions given that their extensibility model supports plug ins including updates for security vulnerabilities as determined by the MSRC
+Developers using the Silverlight 5 development tools and developing applications for Silverlight 5 can use paid technical assistance options to receive development support
+Silverlight 5 will support the browser versions listed on this page through October 12 2021 or though the support lifecycle of the underlying browsers whichever is shorter
+As browsers evolve the support page will be updated to reflect levels of compatibility with newer browser versions
+Microsoft Visual Studio Show all 3
+What is the lifecycle policy for Visual Studio
+Visual Studio follows the established Microsoft Support Lifecycle policy of a minimum of 5 years Mainstream Support and a minimum of 5 years Extended Support
+Details are described here
+Online services that are offered as part of the Visual Studio suite of products will follow the established Online Services policy found here
+Details about servicing for Visual Studio can be found on the Visual Studio Servicing website
+4
+What lifecycle policy do external components follow that are offered within the Visual Studio suite
+Visual Studio includes a collection of compilers languages runtimes environments and other resources that enable development for many Microsoft platforms
+As a convenience to our Visual Studio customers Visual Studio may install certain Microsoft SDKs and other Microsoft components that target and support those Microsoft platforms
+These components may be licensed and supported under their own terms and policies
+See the list of components that are considered to be external to Visual Studio and their related lifecycle policies on the Visual Studio Servicing website 5
+What is the Service Pack lifecycle policy for Visual Studio
+During the support lifecycle Microsoft will designate one of the Updates of that product as the Service Pack When Microsoft designates an Update as a Service Pack the Lifecycle Policy Database will reflect the appropriate support end dates
+Microsoft Visual Basic 6
+What lifecycle support policy does Visual Basic 6
+0 follow
+Microsoft is committed to support existing Visual Basic 6
+0 applications running on Windows Vista Windows Server 2008 including R2 Windows 7 Windows Server 2012 Windows Server 2012 R2 Windows 8
+x and Windows 10
+As detailed here the core Visual Basic 6
+0 runtime will be supported for the full lifetime of Windows operating system with which it shipped for serious regressions and critical security issues
+Visual Basic 6
+0 is made up of these key deliverables
+Visual Basic 6
+0 IDE Integrated Development Environment is no longer supported as of April 8 2008
+Visual Basic 6
+0 Runtime the base libraries and execution engine used to run VB6 applications
+Visual Basic 6
+0 Runtime Extended Files select ActiveX control OCX files libraries and tools shipping with the IDE media and as an online release
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

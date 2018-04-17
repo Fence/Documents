@@ -1,0 +1,6 @@
+To connect to a printer on a network select the Start button then select Settings Devices Add a printer or scanner
+Choose the one you want and select Add device
+If your printer connects to your PC by a cable just plug it in
+Your printer will connect automatically and your PC will download the right drivers
+Then start printing away
+What s new Search and help Setting things up Sign in with a Microsoft account Set up accounts Set up email and calendar Change your account picture Add a printer Connect to a projector or PC Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access 

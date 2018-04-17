@@ -1,0 +1,109 @@
+Back to Microsoft Lifecycle home page On this page
+Azure Policy QuestionsGuest OS Questions Software Development Ki t SDK QuestionsNOTE
+This FAQ was updated on November 10 2014 with formatting changes
+Azure Policy Questions Show all 1
+What is the Support Lifecycle policy for Microsoft Azure
+The Microsoft Azure Support Lifecycle policy is categorized into 4 categories
+Azure Virtual Machines Lifecycle Support Policy
+The Microsoft software supported on Azure Virtual Machines Infrastructure as a Service as described here will follow the existing Mainstream and Extended Support phase of the on premises lifecycle support policy outlined here
+Azure Cloud Services Lifecycle Support Policy
+Microsoft Azure Cloud Services Web and Worker Roles Platform as a Service allows developers to easily deploy and manage application services while delegating the management of underlying Role Instances and Operating System to the Azure Platform
+The lifecycle policy details for the Guest OS provided by Azure for Cloud Services is outlined below
+Azure Services Lifecycle Support Policy
+All other Azure Services follow the Online Services Support Lifecycle Policy for Business and Developer outlined here
+Support for Custom Applications using Open Source on Azure
+For all scenarios that are eligible for support through an Azure purchased support plan Microsoft will provide commercially reasonable efforts to support custom applications and services built using open source software running on Azure as discussed in the Support Scope section of the Azure Support FAQ Website
+2
+What is the Support Lifecycle policy for Azure Cloud Services
+Microsoft Azure Cloud Services Web and Worker Roles Platform as a Service allows developers to easily deploy and manage application services while delegating the management of underlying Role Instances and Operating System to the Azure Platform
+Guest OS Family Guest OS family refers to a version of underlying Windows Server Operating System that is used in Azure Cloud Services
+GUEST OS FAMILY POLICYMicrosoft Azure Cloud Services will support no fewer than the latest two Guest OS Families for deploying new Cloud Services
+Microsoft will provide notification 12 months before retiring a Guest OS Family in order to smooth the transition to a supported Guest OS Family
+For more information on supported Guest OS families please refer to this site
+Guest OS Version Patch Level Guest OS Version refers to the MSRC Microsoft Security and Response Center patch level for a given Guest OS Family
+Microsoft Azure regularly updates every Guest OS family with the latest Security Updates released by MSRC
+GUEST OS VERSION POLICYMicrosoft Azure will support the latest two guest OS versions for each family
+Customers using the Automatic Update option always receive the latest Guest OS Version as it is rolled out
+Microsoft will provide a 60 day grace period for customers using the manual update option before they must adopt one of the supported versions in order to continue to use the Cloud Service under the terms of the Microsoft Azure SLA
+Microsoft Azure SDK PolicyMicrosoft Azure SDK is the core building block that helps developers author Cloud Services using Microsoft Azure Service Runtime Programming model debug using emulators on the local machine and deploy to Microsoft Azure data centers in the cloud
+MICROSOFT AZURE SDK POLICYMicrosoft Azure Cloud Services will support no fewer than the latest two SDK versions for deploying new Cloud Services
+Microsoft will provide notification 12 months before retiring a SDK in order to smooth the transition to a supported version
+The Microsoft Azure SDK Policy covers Microsoft Azure SDK Authoring Tools REST APIs Client Libraries Command line utilities Compute Storage Emulators and Azure Tools for Microsoft Visual Studio
+Guest OS QuestionsFor all implementation details of Azure OS Retirement please refer to the Azure Guest OS Releases and SDK Compatibility Matrix MSDN page here
+Show all 3
+When will a Guest OS family be retired
+In the future whenever a new Guest OS family is introduced Microsoft Azure will provide 12 months of notice to retire the oldest Guest OS family from the list of supported OS families
+4
+How will customers be notified of a Guest OS Family retirement
+Customers will be notified thru various communication channels blog post management portal notification and direct communication to assigned service administrators
+The latest information about any Guest OS family and version will be posted on MSDN
+Microsoft Azure Guest OS Releases and SDK Compatibility Matrix
+5
+How can I mitigate the impacts of migration
+Customers should use latest Guest OS family for designing their Cloud Services and plan to migrate to a Guest OS family whenever a newer Guest OS family is introduced
+6
+What if my web application requires deeper integration with the OS
+Customers whose web application architecture requires deeper dependency on the underlying Operating System are advised to use platform supported capabilities such as Startup Tasks http
+msdn
+microsoft
+com library windowsazure gg456327
+aspx or other extensibility mechanisms provided by the platform in the future as appropriate
+Alternatively customers can also use Azure s Virtual Machine IaaS Infrastructure as a Service offering which has a wider selection of Operating Systems
+For more information see http
+www
+microsoft
+com en us server cloud solutions virtualization private cloud
+aspx
+7
+What can I expect during the 12 months of notification period
+A gradual retirement process will begin 6 months into the notification period
+Events that would occur include
+Customers who are still using a retired Guest OS family will be notified through various channels email portal messages phone call The newer version of Cloud Services SDK won t support the retired Guest OS family
+New deployments of Cloud Services will not be permitted on the retired family
+8
+What can I expect after the 12 months of notification period
+At the end of the 12 month notification period Microsoft Azure will stop providing the latest patched version for a retired OS family
+The cloud services using the retired OS family will be unsupported and will be stopped
+9
+What can I expect after the grace period for Guest OS version patch level expires
+Each Guest OS Version is normally disabled 60 days after its release
+After this grace period expires Cloud Services using the retired OS version will be force upgraded to a supported Guest OS version
+10
+How will customers be notified of Guest OS Version updates
+Cloud Services customers using either the manual or automatic update option will be notified by Azure RSS feed MSDN etc
+to inform them of the new Guest OS update
+The notification will also be posted on the Azure Guest OS Releases and SDK Compatibility Matrix along with the release notes of the latest Guest OS version
+Software Development Kit SDK Questions Show all 11
+How will customers be notified of the retiring SDK
+Microsoft will provide 12 month advance notification to the end of support of the retiring SDK in order to facilitate a smooth transition to a supported SDK
+Further customers will be notified thru various communication channels Azure Management Portal Developer Center blog post and direct communication to assigned service administrators
+12
+Can customers author Azure Cloud Services using a to be retired Azure SDK during the 12 month period
+Yes Customers will have full access to author deploy and modify Cloud Services using the to be retired Azure SDK during the 12 month grace period
+During the 12 month grace period customers are advised to migrate to a newer supported version of Azure SDK as appropriate
+13
+Can customers author and modify Microsoft Azure Cloud Services using a retired Microsoft Azure SDK after the 12 month notification period
+After the 12 month notification period the SDK will be retired and will not be available for download from the Microsoft download center
+Any new deployments of Azure Cloud Services using the retired SDK will not be permitted by the Azure platform
+Further Microsoft will not provide customer support on the retired SDK
+14
+What happens to Customer s running Cloud Services deployments authored using unsupported Microsoft Azure SDK version
+Microsoft will not delete a customer s deployments cloud services authored using unsupported Azure SDK
+It is customer s responsibility to make sure that their deployments cloud services are compatible with Azure Platform Runtime Management API version
+Microsoft will clearly publish the SDK Compatibility with Platform Runtime Management APIs
+Customer s Cloud Services authored deployed using an unsupported of Microsoft Azure SDK will not be covered under Azure Cloud Services SLA
+Customer s Cloud Service will not be covered under support contract as well
+15
+What is the retirement plan for SDKs that are older than the currently supported versions N 1
+Microsoft will periodically retire older SDKs based on customer usage deployment patterns
+Microsoft will provide 12 months notification in advance of the end of support of the retiring SDK
+16
+What is the upgrade path for moving to a newer version of the SDK
+Microsoft will continue to enable the ability for customers to install and run the current N and the previous N 1 version of the SDK side by side on their development machines to test customer applications compatibility and assist in migration to a newer version of the SDK
+Further Microsoft will provide customers an upgrade path to a newer version of the SDK including their cloud service project upgrade from Visual Studio
+17
+Will the older versions of NET Framework be supported in new OS Families
+Microsoft will carefully analyze customer application and deployment patterns and will provide choice and flexibility of frameworks OS Families
+While the new OS Families will always have support for the latest version of NET Framework customers will have the ability to install their choice of older versions of NET Framework in the new guest OS using platform supported capabilities
+Important Links and URLsAzure Guest OS Releases and SDK Compatibility MatrixAuto upgrade mode to manage the Windows Azure guest OS for your serviceCloud Services The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

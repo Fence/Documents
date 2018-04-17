@@ -1,0 +1,24 @@
+Stream from your Xbox console to your PC to enjoy great console games and TV from the convenience of your PC
+1
+Check your hardware You ll need a PC with at least a 1
+5 GHz multicore processor and 4 GB of RAM an Xbox One console and a controller attached to your PC
+To see system info Select the Start button then select Settings System About A wired Ethernet connection works best for streaming
+If possible connect both your PC and your Xbox One to your router using network cables
+For a wireless connection use an 802
+11 N or newer wireless adapter
+2
+Turn on streaming On your Xbox One go to Settings Preferences Game DVR streaming
+Check the box for Allow game streaming to other devices
+Back up one level to Settings Preferences SmartGlass connections
+Select From any SmartGlass device to allow anyone who s connected to your home network to stream games
+To limit streaming to only a few people select Only from profiles signed in on this Xbox 3
+Make the connection Turn on your Xbox One and sign in with the same account you use to sign in to your PC
+On your PC start the Xbox app
+Select Connect from the Xbox app menu then select the Xbox console you want to connect to
+Next time the Xbox app will connect to your Xbox One automatically
+4
+Time to play
+Once you re connected to your console select Stream and choose OneGuide for TV or the game you want to play
+Or choose an Xbox One game anywhere in the app and then select Play from console to stream it
+If you re having trouble with game streaming go to Troubleshooting Xbox app game streaming on Windows 10
+What s new Search and help Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox You ve got games Get achievements play anywhere Get more games Play and chat across devices Stream games and TV from your Xbox Record clips of PC games Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access 

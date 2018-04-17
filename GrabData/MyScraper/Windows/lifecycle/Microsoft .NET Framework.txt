@@ -1,0 +1,195 @@
+Back to Microsoft Lifecycle home page NOTE
+This FAQ was updated on February 16 2017
+Show all What is the Microsoft Lifecycle Policy for the NET Framework
+In March 2010 Microsoft announced that beginning with NET Framework 3
+5 Service Pack 1 SP1 the NET Framework is defined as a component instead of an independent product
+As a component NET Framework version 3
+5 Service Pack 1 SP1 or later versions assumes the same Lifecycle Policy as its underlying Windows operating system on which it is installed
+For a list of supported operating systems for NET Framework 3
+5 SP1 refer to the NET Framework system requirements
+On August 7 2014 Microsoft announced that support will end for NET Framework 4 4
+5 and 4
+5
+1 on January 12 2016
+Customers and developers must have completed the in place update to NET Framework 4
+5
+2 by January 12 2016 to continue receiving technical support and security updates
+Support for NET Framework 4
+5
+2 as well as all other NET Framework versions such as 3
+5 SP1 will continue to be supported during the operating system lifecycle
+What is a component
+A component is defined as a set of files or features that are included with a Microsoft product whether it is shipped with the product included in a product service pack or update or later made available as a web download for the product
+When does NET Framework 4
+5
+2 reach end of support
+Support for NET Framework 4
+5
+2 will follow the Lifecycle Policy of the Windows operating system and will be supported as a component on the latest required operating system update
+This FAQ will be updated at a later time regarding support for future NET products and updates
+Why did the support for NET Framework 4 4
+5 and 4
+5
+1 end on January 12 2016
+Microsoft is making it easier than ever for customers to stay current with the latest NET Framework 4
+x family of products with highly compatible in place updates for the NET 4
+x family
+Customers and developers who use NET Framework 4 4
+5 or 4
+5
+1 must have completed the in place update to NET Framework 4
+5
+2 to continue receiving technical support and security updates after January 12 2016
+Does this support change affect any previous versions of NET Framework such as NET Framework 3
+5 SP1
+No the support change does not affect the Lifecycle Policy for older versions before NET Framework 4
+Support for NET Framework 4
+5
+2 as well as all other NET versions such as 3
+5 SP1 will continue to be supported during the operating system lifecycle
+Will I need to recompile rebuild my applications to use NET Framework 4
+5
+2
+NET Framework 4
+5
+2 is a compatible in place update on top of NET Framework 4 4
+5 or 4
+5
+1
+This means we expect applications built on previous NET 4
+x versions to continue running on NET Framework 4
+5
+2
+Recompiling of apps to target NET Framework 4
+5
+2 is not necessary
+Are there any breaking changes in NET Framework 4
+5
+2
+Why do you include these changes
+There are a very small number of changes fixes in NET Framework 4
+5
+2 that are not fully compatible with earlier NET versions
+Such fixes are included only when necessary in the interests of security comply with industry wide standards or to correct a previous incompatibility
+A list of breaking changes in the runtime can be found here
+Additionally there are several fixes included in NET Framework 4
+5
+2 that will only be enabled if you choose to recompile your application against NET Framework 4
+5
+2
+These types of changes are called retargeting changes
+A list of retargeting changes for NET Framework 4
+5
+2 can be found here
+The NET Framework is also middleware in other Microsoft products such as Exchange Server SQL Server Dynamics CRM SharePoint and Lync
+Do I need to make any updates to these products if they are using NET 4 4
+5 or 4
+5
+1
+Newer versions of products such as Exchange SQL Server Dynamics CRM SharePoint and Lync are based on the NET Framework 4 or NET Framework 4
+5
+The NET Framework 4
+5
+2 is a compatible in place update on top of the NET Framework 4 4
+5 and 4
+5
+1
+This means that an application such as Exchange built using the NET Framework 4 or 4
+5 will continue to run without any changes when the NET runtime is updated from NET Framework 4 4
+5 or 4
+5
+1 to NET Framework 4
+5
+2
+That said we recommend customers validate their deployments by updating the NET runtime to NET 4
+5
+2 in a pre production environment first before rolling out a newer version in the production environment
+When I installed Visual Studio it installed a version of the NET Framework
+Does this mean the version of the NET Framework that was included with Visual Studio takes the Lifecycle Policy of Visual Studio
+No
+Versions of the NET Framework that shipped with host products other than Microsoft Windows shipped with a Windows Supplemental Microsoft Software License Terms
+This means that the component is considered part of the Windows operating system
+What is the Lifecycle Policy for the different versions of the NET Framework
+NET Framework 1
+1 SP1
+The NET Framework 1
+0 was supported at the latest service pack level SP1 under a single product lifecycle policy until October 8 2013
+However NET Framework 1
+1 SP1 will continue to be supported until end of support of Windows Server 2003 SP2 with 32 bit only not 64 bit The extension does not apply to Windows Server 2003 SP2 64 bit edition and Windows Server 2003 Itanium based systems where NET Framework 1
+1 did not ship as a component in the operating system
+NET Framework versions 2
+0 3
+0 and 3
+5
+These versions are supported under a single product lifecycle policy
+For the respective end of support dates see this site
+Knowledge base article 2696944 explains that where NET Framework 3
+5 relies on 2
+0 or 3
+0 to operate Microsoft will provide support for the NET Framework 2
+0 SP2 and NET Framework 3
+0 SP2 components for customers who install the NET Framework 3
+5 SP1 for as long as the NET Framework 3
+5 SP1 remains in support
+NET Framework 3
+5 SP1
+Beginning with NET Framework 3
+5 Service Pack 1 SP1 the NET Framework is defined as a component instead of an independent product
+So support for NET Framework 3
+5 SP1 is driven by the Lifecycle Policy of the Windows operating system that is when Windows is in the Mainstream Support phase or Extended Support phase so are its components When a product such as Windows reaches the end of support so do its related components
+NET Framework 3
+5 SP1 is supported on Windows Vista SP2 Windows 7 SP1 Windows Server 2008 SP2 Windows Server 2008 R2 SP1 Windows 8
+1 Update Windows Server 2012 Windows Server 2012 R2 Windows 10 and Windows Server 2016 according to the end of support date for each operating system
+NET Framework 4
+NET Framework 4 did not ship in any operating system
+Support for the NET Framework 4 on Windows Server 2003 SP2 ended on July 14 2015 and support on all other operating systems ended on January 12 2016
+NET Framework 4
+5
+NET Framework 4
+5 shipped both in Windows 8 Windows Server 2012 and as a stand alone redistributable package
+Support for NET Framework 4
+5 on all operating systems ended on January 12 2016
+NET Framework 4
+5
+1
+Support for NET Framework 4
+5
+1 on all operating systems ended on January 12 2016
+NET Framework 4
+5
+2
+Support for NET 4
+5
+2 follows the lifecycle policy of the parent operating system
+It is supported as a Windows component on the latest required operating system update for Windows Vista SP2 Windows 7 SP1 Windows Server 2008 SP2 Windows Server 2008 R2 SP1 Windows 8
+1 Update Windows Server 2012 and Windows Server 2012 R2
+NET Framework 4
+6
+Support for NET 4
+6 follows the Lifecycle Policy of the parent operating system
+It is supported as a Windows component on the latest required operating system update for Windows Vista SP2 Windows 7 SP1 Windows Server 2008 SP2 Windows Server 2008 R2 SP1 Windows 8
+1 Update Windows Server 2012 Windows Server 2012 R2 and Windows 10
+NET Framework 4
+6
+1
+Support for NET 4
+6
+1 follows the Lifecycle Policy of the parent operating system
+It is supported as a Windows component on the latest required operating system update for Windows 7 SP1 Windows Server 2008 R2 SP1 Windows 8
+1 Update Windows Server 2012 Windows Server 2012 R2 and Windows 10
+NET Framework 4
+6
+2
+Support for NET 4
+6
+2 follows the Lifecycle Policy of the parent operating system
+It is supported as a Windows component on the latest required operating system update for Windows 7 SP1 Windows Server 2008 R2 SP1 Windows 8
+1 Update Windows Server 2012 and Windows Server 2012 R2
+NET 4
+6
+2 is also supported on Windows 10 Anniversary Update Version 1607 and Windows Server 2016 operating systems
+We recommend customers upgrade to NET Framework 4
+6
+2 to receive the highest level of performance reliability and security
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

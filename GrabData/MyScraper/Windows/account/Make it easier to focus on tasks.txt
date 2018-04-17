@@ -1,0 +1,15 @@
+Windows Ease of Access settings provide options that can help improve focus on tasks minimize distractions
+Don t be so animated Minimize visual distractions by turning off animations and background images
+Select the Start button then select Settings Ease of Access Other options Clean up taskbar clutter Choose which icons appear on the taskbar and reduce the number of items in view
+Select the Start button then select Settings Personalization Taskbar and then choose Select which icons appear on the taskbar
+System icons like the clock and battery indicator can also be turned on or off
+Select the Start button then select Settings Personalization and then choose Turn system icons on or off
+Simplify the Start menu Many apps use live tiles to show updates on what s happening in your world like new email your next appointment or the weekend weather
+If these updates are distracting turn them off
+Press and hold or right click a tile and then select More Turn live tile off
+Quiet down those notifications Quiet Hours allow you to avoid notifications between 12 AM and 6 AM
+For now these hours can t be changed
+If notifications are distracting when they appear on your screen adjust which apps display notifications and fine tune how they appear
+To change notification settings select the Start button then select Settings System Notifications actions Read with fewer distractions For a clean and simple layout use Reading view in the Microsoft Edge browser address bar to bring whatever you re reading front and center
+You can even change the reading view style and font size to suit your mood Select More Settings
+What s new Search and help Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access Make your PC easier to use Make Windows easier to see Make Windows easier to hear Make input devices easier to use Make it easier to focus on tasks Hear text read aloud with Narrator Use Speech Recognition Save time with keyboard shortcuts 

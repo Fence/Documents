@@ -1,0 +1,33 @@
+Back to Microsoft Lifecycle home page The Microsoft Lifecycle Policy applies to most products currently available through retail purchase or volume licensing
+Current Microsoft policies detailed below offer a minimum of
+Ten years of support a minimum of five years mainstream support and a minimum of five years extended support at the supported service pack level for business developer and desktop operating system productsA minimum five years mainstream support at the supported service pack level for consumer and multimedia productsMicrosoft is committed to providing products with improved security
+Our long term goal is to remove security vulnerabilities from all our products before they are released
+To realize the dream of Trustworthy Computing is a key element of our vision
+Although we strive to remove vulnerabilities during development software vulnerabilities remain a fact today and we must be prepared to respond when they are discovered
+Microsoft advises customers to install the latest product releases security updates and service packs to remain as secure as possible
+For the latest information on security updates please visit our TechNet Library
+Older products may not meet today s more demanding security requirements
+Microsoft may be unable to provide security updates for older products
+Phases of the lifecycle for business developer consumer and multimedia software Type of supportMainstream support phaseExtended support phaseSelf help online supportRequest to change product design and features Available Not availableNote4Security updates Available Available5Note4Nonsecurity updates AvailableAvailable only with Extended Hotfix SupportNot available for desktop operating system consumer productsNote4Complimentary support1 included with license licensing program2 or other no charge support programs Available Not available3Note4Paid support including pay per incident premier and essential support Available AvailableNote4 NOTE
+The Microsoft Lifecycle Policy does not apply to all products
+To see the specific support start and end dates by applicable product you can search the lifecycle product database
+1 Refers to phone support and online support options
+2 For example support incidents acquired through the Software Assurance program for server products
+3 Limited complimentary support may be available varies by product 4 Access to freely available online content such as Knowledge Base articles online product information and online support webcasts
+5 For support up to six years beyond the Extended Support phase for Windows Server and SQL Server starting with the 2008 product wave please see the Premium Assurance website
+Mainstream supportMainstream support is the first phase of the product support lifecycle
+At the supported service pack level mainstream support for software products includes
+Incident support no charge incident support paid incident support support charged on an hourly basis support for warranty claims Security update supportThe ability to request nonsecurity updatesNOTE
+Enrollment in a maintenance program may be required to receive these benefits for certain products
+Extended supportThe extended support phase follows mainstream support for business developer and desktop operating system products
+At the supported service pack level extended support includes
+Paid support4Security update support at no additional costNonsecurity related updates support requires Extended Hotfix Support to be purchased per fix fees also apply 5Extended Hotfix Support is not available for desktop operating system consumer products
+More details are available here
+NOTE
+Microsoft will not accept requests for warranty support design changes or new features during the extended support phaseExtended support is not available for consumer consumer hardware or multimedia productsEnrollment in a maintenance program may be required to receive these benefits for certain products4 Limited complimentary support may be available varies by product 5 Microsoft Support Lifecycle policy permits the creation and broad distribution of certain nonsecurity updates during the extended support phase
+For example it may be necessary to provide a nonsecurity update that enables continued connectivity and servicing through the Automatic Update or Windows Server Update service
+Self help online supportSelf help online support is available throughout a product s lifecycle and for a minimum of 12 months after the product reaches the end of its support
+Microsoft online knowledge base articles FAQs troubleshooting tools and other resources are provided to help customers resolve common issues
+NOTE
+Enrollment in a maintenance program may be required to receive these benefits for certain products The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

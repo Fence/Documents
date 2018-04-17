@@ -1,0 +1,290 @@
+Help on WebElement in module selenium.webdriver.remote.webelement object:
+
+class WebElement(__builtin__.object)
+ |  Represents a DOM element.
+ |
+ |  Generally, all interesting operations that interact with a document will be
+ |  performed through this interface.
+ |
+ |  All method calls will do a freshness check to ensure that the element
+ |  reference is still valid.  This essentially determines whether or not the
+ |  element is still attached to the DOM.  If this test fails, then an
+ |  ``StaleElementReferenceException`` is thrown, and all future calls to this
+ |  instance will fail.
+ |
+ |  Methods defined here:
+ |
+ |  __eq__(self, element)
+ |
+ |  __hash__(self)
+ |
+ |  __init__(self, parent, id_, w3c=False)
+ |
+ |  __ne__(self, element)
+ |
+ |  __repr__(self)
+ |
+ |  clear(self)
+ |      Clears the text if it's a text entry element.
+ |
+ |  click(self)
+ |      Clicks the element.
+ |
+ |  find_element(self, by='id', value=None)
+ |
+ |  find_element_by_class_name(self, name)
+ |      Finds element within this element's children by class name.
+ |
+ |      :Args:
+ |          - name - class name to search for.
+ |
+ |  find_element_by_css_selector(self, css_selector)
+ |      Finds element within this element's children by CSS selector.
+ |
+ |      :Args:
+ |          - css_selector - CSS selctor string, ex: 'a.nav#home'
+ |
+ |  find_element_by_id(self, id_)
+ |      Finds element within this element's children by ID.
+ |
+ |      :Args:
+ |          - id\_ - ID of child element to locate.
+ |
+ |  find_element_by_link_text(self, link_text)
+ |      Finds element within this element's children by visible link text.
+ |
+ |      :Args:
+ |          - link_text - Link text string to search for.
+ |
+ |  find_element_by_name(self, name)
+ |      Finds element within this element's children by name.
+ |
+ |      :Args:
+ |          - name - name property of the element to find.
+ |
+ |  find_element_by_partial_link_text(self, link_text)
+ |      Finds element within this element's children by partially visible link text.
+ |
+ |      :Args:
+ |          - link_text - Link text string to search for.
+ |
+ |  find_element_by_tag_name(self, name)
+ |      Finds element within this element's children by tag name.
+ |
+ |      :Args:
+ |          - name - name of html tag (eg: h1, a, span)
+ |
+ |  find_element_by_xpath(self, xpath)
+ |      Finds element by xpath.
+ |
+ |      :Args:
+ |          xpath - xpath of element to locate.  "//input[@class='myelement']"
+ |
+ |      Note: The base path will be relative to this element's location.
+ |
+ |      This will select the first link under this element.
+ |
+ |      ::
+ |
+ |          myelement.find_elements_by_xpath(".//a")
+ |
+ |      However, this will select the first link on the page.
+ |
+ |      ::
+ |
+ |          myelement.find_elements_by_xpath("//a")
+ |
+ |  find_elements(self, by='id', value=None)
+ |
+ |  find_elements_by_class_name(self, name)
+ |      Finds a list of elements within this element's children by class name.
+ |
+ |      :Args:
+ |          - name - class name to search for.
+ |
+ |  find_elements_by_css_selector(self, css_selector)
+ |      Finds a list of elements within this element's children by CSS selector.
+ |
+ |      :Args:
+ |          - css_selector - CSS selctor string, ex: 'a.nav#home'
+ |
+ |  find_elements_by_id(self, id_)
+ |      Finds a list of elements within this element's children by ID.
+ |
+ |      :Args:
+ |          - id\_ - Id of child element to find.
+ |
+ |  find_elements_by_link_text(self, link_text)
+ |      Finds a list of elements within this element's children by visible link text.
+ |
+ |      :Args:
+ |          - link_text - Link text string to search for.
+ |
+ |  find_elements_by_name(self, name)
+ |      Finds a list of elements within this element's children by name.
+ |
+ |      :Args:
+ |          - name - name property to search for.
+ |
+ |  find_elements_by_partial_link_text(self, link_text)
+ |      Finds a list of elements within this element's children by link text.
+ |
+ |      :Args:
+ |          - link_text - Link text string to search for.
+ |
+ |  find_elements_by_tag_name(self, name)
+ |      Finds a list of elements within this element's children by tag name.
+ |
+ |      :Args:
+ |          - name - name of html tag (eg: h1, a, span)
+ |
+ |  find_elements_by_xpath(self, xpath)
+ |      Finds elements within the element by xpath.
+ |
+ |      :Args:
+ |          - xpath - xpath locator string.
+ |
+ |      Note: The base path will be relative to this element's location.
+ |
+ |      This will select all links under this element.
+ |
+ |      ::
+ |
+ |          myelement.find_elements_by_xpath("//a")
+ |
+ |  get_attribute(self, name)
+ |      Gets the given attribute or property of the element.
+ |
+ |      This method will first try to return the value of a property with the
+ |      given name. If a property with that name doesn't exist, it returns the
+ |      value of the attribute with the same name. If there's no attribute with
+ |      that name, ``None`` is returned.
+ |
+ |      Values which are considered truthy, that is equals "true" or "false",
+ |      are returned as booleans.  All other non-``None`` values are returned
+ |      as strings.  For attributes or properties which do not exist, ``None``
+ |      is returned.
+ |
+ |      :Args:
+ |          - name - Name of the attribute/property to retrieve.
+ |
+ |      Example::
+ |
+ |          # Check if the "active" CSS class is applied to an element.
+ |          is_active = "active" in target_element.get_attribute("class")
+ |
+ |  get_property(self, name)
+ |      Gets the given property of the element.
+ |
+ |      :Args:
+ |          - name - Name of the property to retrieve.
+ |
+ |      Example::
+ |
+ |          # Check if the "active" CSS class is applied to an element.
+ |          text_length = target_element.get_property("text_length")
+ |
+ |  is_displayed(self)
+ |      Whether the element is visible to a user.
+ |
+ |  is_enabled(self)
+ |      Returns whether the element is enabled.
+ |
+ |  is_selected(self)
+ |      Returns whether the element is selected.
+ |
+ |      Can be used to check if a checkbox or radio button is selected.
+ |
+ |  screenshot(self, filename)
+ |      Gets the screenshot of the current element. Returns False if there is
+ |         any IOError, else returns True. Use full paths in your filename.
+ |
+ |      :Args:
+ |       - filename: The full path you wish to save your screenshot to.
+ |
+ |      :Usage:
+ |          element.screenshot('/Screenshots/foo.png')
+ |
+ |  send_keys(self, *value)
+ |      Simulates typing into the element.
+ |
+ |      :Args:
+ |          - value - A string for typing, or setting form fields.  For setting
+ |            file inputs, this could be a local file path.
+ |
+ |      Use this to send simple key events or to fill out form fields::
+ |
+ |          form_textfield = driver.find_element_by_name('username')
+ |          form_textfield.send_keys("admin")
+ |
+ |      This can also be used to set file inputs.
+ |
+ |      ::
+ |
+ |          file_input = driver.find_element_by_name('profilePic')
+ |          file_input.send_keys("path/to/profilepic.gif")
+ |          # Generally it's better to wrap the file path in one of the methods
+ |          # in os.path to return the actual path to support cross OS testing.
+ |          # file_input.send_keys(os.path.abspath("path/to/profilepic.gif"))
+ |
+ |  submit(self)
+ |      Submits a form.
+ |
+ |  value_of_css_property(self, property_name)
+ |      The value of a CSS property.
+ |
+ |  ----------------------------------------------------------------------
+ |  Data descriptors defined here:
+ |
+ |  __dict__
+ |      dictionary for instance variables (if defined)
+ |
+ |  __weakref__
+ |      list of weak references to the object (if defined)
+ |
+ |  id
+ |      Internal ID used by selenium.
+ |
+ |      This is mainly for internal use. Simple use cases such as checking if 2
+ |      webelements refer to the same element, can be done using ``==``::
+ |
+ |          if element1 == element2:
+ |              print("These 2 are equal")
+ |
+ |  location
+ |      The location of the element in the renderable canvas.
+ |
+ |  location_once_scrolled_into_view
+ |      THIS PROPERTY MAY CHANGE WITHOUT WARNING. Use this to discover
+ |      where on the screen an element is so that we can click it. This method
+ |      should cause the element to be scrolled into view.
+ |
+ |      Returns the top lefthand corner location on the screen, or ``None`` if
+ |      the element is not visible.
+ |
+ |  parent
+ |      Internal reference to the WebDriver instance this element was found from.
+ |
+ |  rect
+ |      A dictionary with the size and location of the element.
+ |
+ |  screenshot_as_base64
+ |      Gets the screenshot of the current element as a base64 encoded string.
+ |
+ |      :Usage:
+ |          img_b64 = element.screenshot_as_base64
+ |
+ |  screenshot_as_png
+ |      Gets the screenshot of the current element as a binary data.
+ |
+ |      :Usage:
+ |          element_png = element.screenshot_as_png
+ |
+ |  size
+ |      The size of the element.
+ |
+ |  tag_name
+ |      This element's ``tagName`` property.
+ |
+ |  text
+ |      The text of the element.

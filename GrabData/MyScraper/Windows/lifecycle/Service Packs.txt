@@ -1,0 +1,19 @@
+Back to Microsoft Lifecycle home page As part of the effort to continually improve Microsoft software updates and fixes are created and released for recognized issues
+Many of these fixes are regularly combined into a single package called a service pack that is made available for installation
+Both the Mainstream Support and Extended Support phases for software require a product s supported service pack be installed to continue to receive full support including security and DST updates Service Pack Support PolicyWhen a new service pack is released Microsoft will provide either 12 or 24 months of support for the previous service pack varying according to the product family for example Windows Office Servers or Developer tools When support for a service pack ends Microsoft will no longer provide new security updates DST updates or other non security updates for that service pack
+Commercially reasonable support will continue to be available as described belowWhen support for a product ends support of all the service packs for that product will also end
+The product s support lifecycle supersedes the service pack support policySupport timelines for service packs will remain consistent within the product family Microsoft will publish specific support timelines for a previous service pack when the new service pack is released Customers are highly encouraged to stay on a fully supported service pack to ensure they are on the latest and most secure version of their product
+For customers on supported products with service pack versions that have left full support Microsoft offers commercially reasonable support as follows
+Commercially reasonable support incidents will be provided through Microsoft Customer Service and Support and Microsoft s managed support offerings such as Premier Support If the support incident requires escalation to development for further guidance requires a non security update or requires a security update customers will be asked to upgrade to a fully supported service pack
+Commercially reasonable support does not include an option to engage Microsoft s product development resources technical workarounds may be limited or not possible
+A matrix of the Microsoft product families and the duration of service pack support for each product family is as follows
+Product FamilyDuration of service pack support Windows Client and Servers 24 Months Dynamics 24 Months Office 12 Months Servers 12 Months Developer Tools 12 Months Consumer Software Multimedia and Games 12 MonthsThis support policy permits customers to receive existing non security updates or to request new non security updates for the fully supported service packs during the Mainstream Support phase
+Service packs are not automatically modified to include non security updates developed after the service pack s initial release date
+An older service pack can be modified to include non security updates developed after the service pack has released
+Contact Microsoft and request the modification
+Security updates released with bulletins from the Microsoft Security Response Center will be reviewed and built for the supported service packs only
+Daylight Savings Time and Time Zone updates are built for fully supported service packs only
+Microsoft strongly recommends that customers evaluate and install current service packs in a timely manner to make sure that systems are up to date with the most recent security software
+This revised policy became effective on April 13 2010
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

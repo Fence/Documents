@@ -1,0 +1,19 @@
+ImportantBack up your personal data and files to an external hard drive USB thumb drive or cloud location such as OneDrive before you begin any reinstall of Windows 10
+If you want to reinstall Windows 10 on your PC you can use a tool to create installation media DVD USB flash drive or ISO file to reinstall Windows 10
+For more info on how to create and use installation media see the Microsoft software download website
+Show all Can I reinstall Windows 10 if I took advantage of the free upgrade offer
+Yes if Windows 10 was activated on your device after upgrading from Windows 7 or Windows 8
+1 you have a digital license for Windows 10 that can automatically activate Windows 10 after you reinstall it
+For more info go to Activation in Windo ws 10 and see Activating after reinstalling Windows 10
+Will I have to reactivate Windows 10 on my PC
+Yes Windows 10 must be activated after it s reinstalled
+In most cases this happens automatically after you go online
+For more info go to Activation in Windows 10 and see Activating after reinstalling Windows 10
+Do I need a product key to reinstall Windows 10
+You don t need a product key if Windows 10 was already activated on your device before you reinstall it
+If you made a significant hardware change to your PC such as replacing the motherboard before reinstalling Windows 10 see Can I reinstall Windows 10 after I make a significant hardware change to my PC
+Can I reinstall Windows 10 after I make a significant hardware change to my PC
+If you reinstall Windows 10 after you make a significant hardware change to your PC such as replacing the motherboard it may no longer be activated
+If you were running Windows 10 before the hardware change use the Activation troubleshooter to reactivate Windows
+For more info see Using the Activation troubleshooter
+NoteIf you weren t running Windows 10 before the hardware change or if the troubleshooter can t reactivate Windows contact customer support

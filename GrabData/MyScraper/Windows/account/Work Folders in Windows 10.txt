@@ -1,0 +1,115 @@
+When you use Work Folders to store your work files you ll be able to get to them from all your PCs and devices even when you re offline
+Here are answers to some common questions about Work Folders in Windows 10 and the Work Folders app for iOS and Android
+Show all How do I set up Work Folders in Windows 10 or the Work Folders app
+Your organization s IT admin sets up your Work Folders account
+Once it s set up do one of the following
+If you have Windows 10 select the Start button select Work Folders Set up Work Folders and then follow the instructions
+If you have trouble setting up Work Folders or accessing your files contact your admin
+If you have an iPad or iPhone install the Work Folders app from the Ap p Store
+If you have an Android device install the Work Folders app from the Google Play Store
+Make sure you re connected to the Internet open the app and then follow the setup instructions
+What do the buttons do in the Work Folders app
+Button What it does Takes you to your app settings
+Use it to
+Update your password
+Change your app passcode the four digit PIN that unlocks the app See how much storage space the Work Folders app is using
+See details about any problems with the app
+Changes the way files are sorted by name type size or date modified
+Lets you select particular files to pin or unpin
+Pins files so they re visible offline
+Where are my files stored
+Files saved to Work Folders are stored on
+Your PC or other device
+Unless you changed the location when you set up Work Folders they re saved here
+C
+Users user name Work Folders where user name is your Windows user name Your organization s server
+Any other PCs or devices where you ve set up Work Folders
+How do I move Work Folders to a different location on my PC
+It s usually best to use the default location for Work Folders files C
+Users user name Work Folders where user name is your Windows user name If you want to change the location
+Select the Start button and then select Work Folders
+Select Stop using Work Folders
+Select Set up Work Folders
+On the Introducing Work Folders screen select Change and then choose a new location for your Work Folders files
+NoteYou can choose a location on another drive with more space as long as the drive is formatted with the NTFS file system and remains connected to your PC
+Why can t I move Work Folders to some locations on my PC
+You won t be able to use certain locations on your PC that are reserved by Windows or encrypted
+If you choose one of these locations for your Work Folders files you ll see a message that says This location doesn t work
+The following locations are reserved by Windows
+The Windows folder and its subfolders
+The Program Files folder the Program Files x86 folder and subfolders of either location
+The top level folder in your user profile usually C
+Users user name where user name is your Windows user name The top level folder of a drive
+The Documents folder or any other folder that redirects to another location
+Folders that are already encrypted using Encrypting File System EFS If a location you want to use for Work Folders files is encrypted you can choose a different location or decrypt that location and then try again
+To decrypt a location
+Type File Explorer in the search box on the taskbar and then select File Explorer
+Find the encrypted location
+Press and hold or right click the folder and then select Properties
+On the General tab select Advanced
+Under Compress or Encrypt attributes clear the Encrypt contents to secure data check box select OK and then select OK again
+Can I use Work Folders files on my phone or tablet when I m not connected to the Internet
+Yes pinning files in the Work Folders app downloads them to your phone or tablet so you can see them when you re offline
+To pin tap Select files and then tap Pin NoteThe Work Folders app updates your pinned files if they re changed from other devices
+However the app can only check for updates when it s open and your phone or tablet is connected to the Internet
+Can I upload files to the Work Folders app
+Currently you can use the app to see Work Folder files but you can t upload changes
+How do I open Work Folders files in other apps
+Tap the file to see it and then tap Open in
+NoteBecause some apps don t support file encryption your workplace might not let you open Work Folders files in other apps
+Or they might only let you open files in certain apps such as those that support Rights Management Service RMS encryption
+How do I open Work Folders files from Office apps on Windows 10
+In any Office app select File Open This PC and then find Work Folders on your PC its default location is C
+Users user name Work Folders where user name is your Windows user name To make it even easier to find these files add Work Folders to the list of file locations in the Open and Save as menus
+Open an Office app and select File Open Add a Place Work Folders
+How do I know if my files are up to date
+Work Folders keeps your files in sync automatically as long as your PC or device is connected to the Internet
+You can also manually sync your files to make sure you have the latest version
+To do this select the Start button and then select Work Folders Sync Now
+Why are the file names green in Work Folders in Windows 10
+Green means that the files and folders are encrypted
+Encryption helps keep your work files secure if your PC is stolen or if someone else uses your PC
+Your organization decides if the files should be encrypted
+How do I decrypt a Work Folders file in Windows 10
+You can t decrypt an encrypted file in Work Folders because your organization decides whether files should be encrypted
+Even if you save a personal file in Work Folders and move it to a new location later your organization s security policies will still apply to the file
+You ll know a file is encrypted if the file name is green
+To remove your organization s security policies from your personal files
+Type File Explorer in the search box on the taskbar and then select File Explorer
+Find your Work Folders location usually located at C
+Users user name Work Folders where user name is your Windows user name Move any personal files out of Work Folders and into another folder on your PC
+Press and hold or right click the files you want to decrypt and then select Remove enterprise control
+If you move the decrypted files back into Work Folders they ll be encrypted again
+Why do I have to enter my password more than once for Work Folders in Windows 10
+Your organization controls the policy for how long stored passwords may be reused
+So you may intermittently have to reenter your Work Folders password
+However joining your workplace will decrease the number of times you re asked for your password
+To connect to your workplace select the Start button then select Settings Accounts Work access Connect
+How does the Work Folders app help protect my data
+To help protect your files the Work Folders app
+Keeps your files encryptedUses a four digit passcodeNoteSome apps don t support file encryption
+If you open a file from Work Folders in another app it might not stay encrypted
+See the How do I open Work Folders files in other apps
+section for more info
+What do I do if I forget my passcode for the Work Folders app
+If you enter the wrong passcode five times in a row the app resets itself to try to keep your work files safe
+Your files aren t affected when the app resets but you ll have to reenter your account info and create a new passcode
+What should I do when Work Folders in Windows 10 lists files that have errors
+If files don t sync correctly Work Folders lists the files and the reason that they didn t sync
+Here are some ways to try to fix syncing problems
+Close the problematic files
+Sometimes that alone will fix the problem
+Restart your PC
+Open File Explorer and move the problematic files into another folder
+Select the Start button and then select Work Folders Sync Now
+Move the files back into the Work Folders folder
+How do I stop using Work Folders in Windows 10
+First move your personal files to another location
+If your files are encrypted press and hold or right click the files and select Remove enterprise control to decrypt them
+Select the Start button and then select Work Folders Stop using Work Folders
+If your PC is managed by your organization this option might not be available
+How can I get help with Work Folders
+To get help from your organization s IT admin on Windows 10 select the Start button and then select Work Folders Email tech support
+Your email app will open with a new message that includes details about your Work Folders account
+For more help go to the Microsoft community website
+If you re an administrator looking for more info see the Work Folders Overview topic on TechNet

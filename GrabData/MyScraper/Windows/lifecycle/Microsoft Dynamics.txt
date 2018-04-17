@@ -1,0 +1,103 @@
+Back to Microsoft Lifecycle home page NOTE
+This FAQ was updated on April 4 2016
+Show all 1
+What is the Support Lifecycle policy for Microsoft Dynamics Cloud Services
+Microsoft Dynamics CRM Online customers
+Unless otherwise noted Microsoft will provide notification for Businesses and Developers when customers are required to take action in order to avoid significant degradation to the normal use of the Online Service
+See the Online Services Support Lifecycle Policy for more information
+In addition refer here for detailed information about Microsoft Dynamics CRM Online servicing
+Microsoft Dynamics AX customers
+Unless otherwise noted Microsoft will provide notification for Businesses and Developers when customers are required to take action in order to avoid significant degradation to the normal use of the Online Service
+See the Online Services Support Lifecycle Policy for more information
+In addition refer here for detailed information about Microsoft Dynamics AX servicing
+2
+What is the Microsoft Support Lifecycle policy for Microsoft Dynamics on premises products
+Microsoft Dynamics follows the Business Developer and Desktop Operating System Software Products policy
+As such Microsoft will offer a minimum of 10 years of support for Business Developer and Desktop Operating System consumer or business Software Products
+Mainstream Support for Business Developer and Desktop Operating Systems will be provided for 5 years or for 2 years after the successor product N 1 is released whichever is longer
+Microsoft will also provide Extended Support for the 5 years following Mainstream support or for 2 years after the second successor product N 2 is released whichever is longer
+Finally most Business Developer and Desktop Operating System Software products will receive at least 10 years of online self help support
+3
+What happens when a platform update such as a new version of Microsoft Windows introduces new functionality or data types that were never supported in the original release of a currently supported product
+Microsoft cannot guarantee that a new feature that was introduced exclusively in the new version of the platform will be supported in the older version
+For example if a new version of Microsoft Windows was released the prior version of Microsoft Dynamics CRM would not necessarily support installation on the new operating system
+4
+What is the service pack policy for Microsoft Dynamics products
+Microsoft Dynamics follows the Microsoft Support Lifecycle Service Pack policy
+Per the policy Dynamics provides 24 months of support for a previous service pack after a new service pack is released
+Please see the Microsoft Support Lifecycle Service Pack policy page for details about the policy and associated timelines
+5
+What if I need support for an unsupported version or service pack
+Microsoft understands that local laws market conditions and support requirements differ around the world and differ by industry sector
+Therefore Microsoft offers Extended Hotfix Support EHS and Custom Support relationships that allow customers to obtain support for products and service packs that are no longer fully supported
+Microsoft Custom Support relationships may include assisted technical support and security updates
+Customers and partners can contact their account team or their local Microsoft representative for more information
+6
+Which Microsoft Dynamics products does the Microsoft Extended Support phase apply to
+The Extended Support phase and policy applies to all future releases of the Microsoft Dynamics products listed below beginning with these releases
+Microsoft Dynamics AX 4
+0Microsoft Dynamics GP 10
+0Microsoft Dynamics NAV 5
+0Microsoft Dynamics SL 7
+0Microsoft Dynamics CRM 3
+0Microsoft Dynamics RMS 2
+0 7
+How does the Extended Support phase work for Microsoft Dynamics products
+Is it identical to the Extended Support phase for the rest of Microsoft products
+Microsoft Dynamics products map to the Microsoft Extended Support phase timeline and coverage beginning with the products listed above
+In addition tax and regulatory updates map to the non security updates within the Microsoft Extended Hotfix Support program
+This gives customers the ability to request the tax and regulatory releases that are so important to their business
+8
+Where can I learn more details about pricing and enrollment in Extended Hotfix Support during the Extended Support phase for my Microsoft Dynamics products
+At least 120 days before the Extended Support date Microsoft will make information available on pricing and other details for customers who are interested in enrolling in the Extended Hotfix Support program
+In order to purchase Extended Hotfix Support a Premier support agreement is required
+Please contact your local Microsoft Services for pricing
+9
+What is Self Help Online Support for Microsoft Dynamics
+Whether a customer is being supported during the Mainstream Support phase or the Extended Support phase Self Help Online Support is available throughout a product s lifecycle and for a minimum of 12 months after the product reaches the end of support
+Microsoft online Knowledge Base articles FAQs troubleshooting tools and other resources are provided to help customers resolve common issues
+Online self help information is available through CustomerSource our customer Web site for Microsoft Dynamics and related products
+Customers must be current on a service plan to access the site
+10
+Is enrollment in a service plan required for customers to have rights to product updates and service packs
+Yes enrollment in an Enhancement Plan is required for customers to receive non security updates tax and regulatory releases and service packs
+11
+What is the Enhancement Plan
+The Enhancement Plan is a maintenance plan for Microsoft Dynamics customers around the globe
+More information on the available plans by product and region please visit this website
+12
+Who can enroll in the Enhancement Plan
+The Enhancement Plan is available to new and existing customers with a Microsoft Dynamics product 13
+I used to be on the Enhancement Plan and now it has expired
+Can I get product upgrades and non security updates that were released when I was current on the Enhancement Plan
+No
+Customers only have access to product updates service packs non security updates and tax and regulatory releases for their purchased product during the time of their Enhancement Plan enrollment
+14
+How does the Microsoft Support Lifecycle policy cover tax and regulatory updates
+During the term of your Business Ready Enhancement Plan you will have access to tax and regulatory releases for the Microsoft Dynamics products that Microsoft makes generally commercially available
+Updates for Microsoft Dynamics products that are supported by Microsoft will be released generally each fiscal year or on an as needed basis for software in the Mainstream support phase of its lifecycle
+Local laws market conditions and technical support requirements differ around the world
+See the Microsoft Dynamics Services website for more information about the tax and regulatory releases for the Microsoft Dynamics products that Microsoft makes generally commercially available
+15
+Is the first year of the Enhancement Plan or Software Assurance enrollment mandatory
+Yes
+Microsoft requires enrollment in the Enhancement Plan or Software Assurance upon purchase of your license during your first year with your Microsoft Dynamics solution
+For new customers enrollment begins on the date Microsoft invoices you and your Microsoft partner for the Enhancement Plan
+Enrollment in the Advantage Plan is also required the first year for customers purchasing Microsoft Dynamics GP and Microsoft Dynamics SL only in regions where applicable 16
+How can I enroll in the Enhancement Plan
+How about renewing
+Please consult with your Microsoft Certified partner or your Volume Licensing Reseller to enroll in or renew your Enhancement Plan
+17
+What is the Support Policy for Microsoft Dynamics CRM cumulative updates and update roll ups
+There isn t a specific policy defined for Cumulative or Update Roll ups
+These updates follow the same dates as the version and service pack in which they were made available as defined by the Microsoft Support Lifecycle Policy
+18
+How long is FRx 6
+7 Supported
+FRx support ends on the date indicated unless distributed as a Component of a Dynamics product
+When distributed as a Component of the following products the Dynamics ERP lifecycle dates override the FRx end of support date
+GP 10GP 2010NAV 5
+0NAV 2009AX 4
+0AX 2009SL 7
+0SL 2011The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

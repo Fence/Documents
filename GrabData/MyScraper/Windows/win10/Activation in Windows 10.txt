@@ -1,0 +1,50 @@
+Activation helps verify that your copy of Windows is genuine and hasn t been used on more devices than the Microsoft Software License Terms allow
+Depending on how you got your copy of Windows 10 activation will use either a digital license or a 25 character product key
+Digital license called a digital entitlement in Windows 10 Version 1511 is a method of activation in Windows 10 that doesn t require you to enter a product key
+How you got Windows 10 Activation methodYou upgraded to Windows 10 for free from an eligible device running a genuine copy of Windows 7 or Windows 8
+1
+Digital licenseYou bought genuine Windows 10 from the Windows Store and successfully activated Windows 10
+Digital licenseYou bought a Windows 10 Pro upgrade from the Windows Store and successfully activated Windows 10
+Digital licenseYou re a Windows Insider and upgraded to the newest Windows 10 Insider Preview build on an eligible device that was running an activated previous version of Windows and Windows 10 Preview
+Digital licenseYou bought a copy of Windows 10 from an authorized retailer
+Product key On a label inside the Windows 10 box
+A digital license will be given to your device for Windows 10 based on the valid product key you entered
+You bought a digital copy of Windows 10 from an authorized retailer
+Product key In the confirmation email you received after buying Windows 10 or in a digital locker accessible through the retailer s website
+A digital license will be given to your device for Windows 10 based on the valid product key you entered
+You have a Volume Licensing agreement for Windows 10 or MSDN subscription
+Product key Available through the web portal for your program
+You bought a new device running Windows 10
+Product key Pre installed on your device included with the device packaging or included as a card or on the Certificate of Authenticity COA attached to the device
+For more detailed info see the section about activating Windows 10 that applies to you
+Show all Activating after reinstalling Windows 10 How you activate Windows 10 after reinstalling it depends on how Windows 10 was originally installed on your device
+If you activated a free upgrade to Windows 10 or bought and activated Windows 10 from the Windows Store you have a digital license for your device
+This means you can reinstall the same edition of Windows 10 that your device has a digital license for without entering a product key
+During reinstallation if you re asked to enter a product key you can skip this step
+Windows 10 will automatically activate online after the installation is complete
+NotesMake sure that Windows 10 is activated before you try to reinstall it
+Select the Start button then select Settings Update security Activation
+If Windows 10 isn t activated on your device see Get help with Windows 10 activation errors for more info
+For more info about how to create installation media to reinstall Windows 10 go to the Microsoft software download website
+When creating installation media make sure to choose the edition of Windows 10 that matches the edition already installed on your device
+Activating Windows 10 when installing it for the first time You ll need to use a valid product key to activate Windows 10 on a device that has never had an activated copy of Windows 10 on it
+You ll also need to use a valid product key if you re installing an edition of Windows 10 that wasn t previously activated on the device
+For example you ll need a valid product key to install and activate Windows 10 Pro on a device that had Windows 10 Home installed on it
+During the installation you ll be asked to enter a valid product key
+After the installation is complete Windows 10 will automatically be activated online
+To check activation status in Windows 10 select the Start button then select Settings Update security Activation
+If Windows 10 isn t activated on your device see Get help with Windows 10 activation errors for more info
+NoteIf you don t have a Windows 10 product key you ll have the option to buy one during setup
+Activating a new device running Windows 10 If you bought a new device running Windows 10 it will automatically activate when you connect your device to the Internet
+If the activation servers are busy you might need to wait a while for Windows to activate
+To check activation status select the Start button then select Settings Update security Activation
+NoteIn some cases you might need to enter the Windows 10 product key that came with the device packaging or included as a card or on the Certificate of Authenticity COA attached to the device
+Activating the latest Windows 10 Insider Preview If you re a Windows Insider and have been running Windows 10 Insider Preview builds you ll automatically receive new builds that have been activated so long as Windows was activated on your device before upgrading to the new build
+To check activation status in Windows 10 select the Start button then select Settings Update security Activation
+If Windows 10 isn t activated on your device see Get help with Windows 10 activation errors for more info
+Select the Start button then select Settings Update Security Advanced options and then select the Get Insider Builds check box to become part of the Windows Insider Program
+NoteIf you re reinstalling Windows 10 Insider Preview automatic activation occurs by digital license if the same edition of Windows 10 or Windows 10 Insider Preview builds newer than 10240 was already activated on the device
+For more info see the section Activating after reinstalling Windows 10 in this topic
+Activating Windows 10 after a hardware configuration change If you made a significant hardware change to your device such as replacing the motherboard Windows 10 might no longer be activated
+If you re running Windows 10 Version 1607 and added your Microsoft account and linked it to the digital license on your device you can use the Activation troubleshooter to reactivate Windows
+For more info see Using the Activation troubleshooter

@@ -1,0 +1,29 @@
+In Windows 10 Version 1607 or later you can link your Microsoft account to the Windows 10 digital license on your device
+This can help you reactivate Windows using the Activation troubleshooter if you make a significant hardware change later such as replacing the motherboard
+NoteTo see what version of Windows 10 your PC is running select the Start button then select Settings System About
+To add your Microsoft account and link it to the digital license
+Select the Start button select Settings Update security Activation and then select Add an account
+You must be signed in as an administrator to add your Microsoft account
+Enter your Microsoft account and password and then select Sign in
+You ll also need to enter the password for your local account if the Microsoft account you entered isn t a connected account
+After you add your Microsoft account you ll see Windows is activated with a digital license linked to your Microsoft account on the Activation page
+NoteIf you ve already added your Microsoft account to your device you ll see Windows is activated with a digital license linked to your Microsoft account on the Activation page
+Using the Activation troubleshooter after a significant hardware changeAfter you add your Microsoft account and link it to your digital license you can use the Activation troubleshooter to help reactivate Windows after a significant hardware change
+NoteIf you didn t add your Microsoft account and link it to the digital license on your device you won t be able to use the Activation troubleshooter to reactivate Windows after a hardware change
+Select the Start button select Settings Update security Activation and then select Troubleshoot
+You must be signed in as an administrator
+The troubleshooter will show a message that Windows can t be activated on your device
+Select I changed hardware on this device recently and then select Next
+Enter your Microsoft account and password and then select Sign in
+You ll also need to enter the password for your local account if the Microsoft account you entered isn t a connected account
+From the list of devices that are linked to your Microsoft account select the device that you re currently using select the check box next to This is the device I m using right now and then select Activate
+If you don t see the device you re using in the list of results make sure that you re signed in using the same Microsoft account you linked to the Windows 10 digital license on your device
+If you re signed in using the correct Microsoft account here are some additional reasons why you can t reactivate Windows
+The edition of Windows on your device doesn t match the edition of Windows you linked to your digital license
+The type of device you re activating doesn t match the type of device you linked to your digital license
+Windows was never activated on your device
+You reached the limit on the number of times you can reactivate Windows on your device
+Your device has more than one administrator and a different administrator already reactivated Windows on your device
+Your device is managed by your organization and the option to reactivate Windows isn t available
+For help with reactivation contact your organization s support person
+If you need additional help reactivating Windows on your device contact customer support

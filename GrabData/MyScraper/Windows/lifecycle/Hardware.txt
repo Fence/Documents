@@ -1,0 +1,29 @@
+NOTE
+This FAQ was updated on April 15 2015
+Effective April 15 2015 all information about Microsoft hardware warranties can be found here
+For Surface warranty information see this site
+For Microsoft mobile device warranty information see this site
+For XBOX One warranty information see this site
+For XBOX 360 warranty information see this site
+For Microsoft PC accessory warranty information see this site
+For MS Band warranty information see this site
+Microsoft software running on Microsoft hardware continues to be supported according to the existing Microsoft Support Lifecycle Policy
+Show all 1
+How is the software that is installed on Microsoft devices supported
+The Microsoft Support Lifecycle for the software that is built into embedded or is necessary for the use of the device such as firmware and drivers follows the Microsoft Warranty for the respective device
+Beyond hardware specific software the Microsoft software that is installable onto a hardware device such as the Windows Operating System running on a Surface device follows the associated Microsoft Support Lifecycle
+2
+What is the support lifecycle for subscription services that are part of the device ecosystem such as Xbox LIVE and Xbox Music
+Customers receive support updates and new versions of subscription services for as long as they pay for the service
+If a customer s subscription ends that customer is not entitled to further use of or product support for that service
+3
+What is the Microsoft Support Lifecycle for software applications that run on a hardware device such as downloadable apps
+Downloadable applications are supported by the publisher
+Redistributed applications such as the Netflix application in Xbox are also supported by the publisher
+4
+What is the Microsoft Support Lifecycle for other Microsoft software products or applications that are offered as part of the hardware ecosystem
+Are they covered by the Support Lifecycle
+Any Microsoft software installed or downloaded on the device not embedded is governed by the Microsoft Support Lifecycle for that software product
+5
+How does this change apply to hardware products made by other companies but sold by Microsoft
+Third party consumer hardware products sold and or distributed by Microsoft and or used with Microsoft products are not covered by Microsoft s warranties or software support lifecycle policies

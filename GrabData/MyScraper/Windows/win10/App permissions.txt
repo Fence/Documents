@@ -1,0 +1,28 @@
+Some apps or games in the Windows Store are designed to take advantage of specific hardware or software capabilties on your Windows device
+For example a photo app might need to use your phone s camera or a restaurant guide might use your location to recommend nearby places
+In Windows 10 in many cases you can choose which apps can use a particular feature
+Go to Start Settings Privacy
+Select the app for example Calendar and select which app permissions are on or off
+Apps with permission to Use all system resources are not listed
+You can t use Windows Privacy Settings to control which individual capabilities these apps can use
+For apps that don t have permission to Use all system resources you can use Windows Privacy Settings to control individual capabilities
+To see the capabilities for an app go to the app product page in Windows Store
+If you don t want an app to use any of the features listed you can choose not to install it
+More information on some PermissionsUse all system resources
+May use any system resource such as camera microphone or location without further notification
+You can t control app permissions for individual system resources via Windows Privacy Settings
+Use your location
+May access your location data from your device
+Control of this resource may be found in Windows Privacy Settings
+Use your webcam
+May activate and use the camera on your device
+Control of this resource may be found in Windows Privacy Settings
+Use your microphone
+May activate and use the microphone on your device
+Control of this resource may be found in Windows Privacy Settings
+Use your music library
+May access any music files from the Music library on your device
+Use your pictures library
+May access any picture files from the Pictures library on your device
+Use your video library
+May access any video files from the Video library on your device

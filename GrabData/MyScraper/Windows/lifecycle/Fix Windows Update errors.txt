@@ -1,0 +1,8 @@
+What does this guided walk through do
+This guided walk through provides steps to fix problems when installing updates
+Here are some commonly seen error codes
+0x80073712 0x800705B4 0x80004005 0x8024402F 0x80070002 0x80070643 0x80070003 0x8024200B 0x80070422 0x80070020
+These steps should help with all errors and not just the ones listed
+How does it work
+We ll walk you through a series of troubleshooting steps to get your Windows up to date
+Be sure to follow the steps in order

@@ -1,0 +1,8 @@
+Back to Microsoft Lifecycle home page Microsoft announced on October 24 2016 that Microsoft Dynamics Marketing will no longer be available for purchase to new customers as of November 1st 2016
+Microsoft is committed to providing support for Dynamics Marketing until the end of the customer s subscription
+In line with our support policy existing customers with an Enterprise Agreement and those who have purchased licenses directly through MOSP web direct will have the option to request renewal of their existing subscription agreements according to the customer renewal date but only until October 31st 2017
+For example if a customer s Enterprise Agreement 3 years subscription terms can be renewed in October 2017 the Dynamics Marketing product will be available and supported until October 2020
+If a customer s MOSP agreement 1 year subscription terms can be renewed in July 2017 the Dynamics Marketing product will be available and supported until July 2018
+Please see the Microsoft Dynamics 365 Team Blog for more information about this announcement and recommended options for Microsoft Dynamics Marketing customers
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

@@ -1,0 +1,73 @@
+Back to Microsoft Lifecycle home page NOTE
+This FAQ was updated on March 31 2016
+Show all 1
+What is the Microsoft Lifecycle Support policy for Internet Explorer
+Internet Explorer is a component of the Windows operating system and follows the Support Lifecycle policy for the product on which it is installed
+A component is defined as a set of files or features that are included with a Microsoft product whether it is shipped with the product included in a product service pack or update or later made available as a web download for the product
+The Microsoft Support Lifecycle policy continues to provide a minimum of five years of Mainstream Support and a minimum of five years of Extended Support for Business and Developer products and the Windows operating system
+Compared with older versions of Internet Explorer Internet Explorer 11 offers improved security increased performance better backward compatibility and greater support for modern web technologies
+Microsoft encourages customers to upgrade and stay up to date on the latest browser for a faster more secure browsing experience
+Beginning January 12 2016 only the most current version of Internet Explorer available for a supported operating system receives technical support and security updates as shown in the table below
+Windows Desktop Operating Systems Internet Explorer Version Windows Vista SP2 Internet Explorer 9 Windows 7 SP1 Internet Explorer 11 Windows 8
+1 Update Internet Explorer 11 Windows 10 Internet Explorer 11 Note that Windows 10 features Microsoft Edge a faster more productive way to browse the web
+Microsoft recommends using Microsoft Edge as your default browser and supports Internet Explorer 11 for backward compatibility
+Windows Server Operating Systems Internet Explorer Version Windows Server 2008 SP2 Internet Explorer 9 Windows Server 2008 IA64 Itanium Internet Explorer 9 Windows Server 2008 R2 SP1 Internet Explorer 11 Windows Server 2008 R2 IA64 Itanium Internet Explorer 11 Windows Server 2012 Internet Explorer 10 Windows Server 2012 R2 Internet Explorer 11 Windows Embedded Operating Systems Internet Explorer Version Windows Embedded for Point of Service WEPOS Internet Explorer 7 Windows Embedded Standard 2009 WES09 Internet Explorer 8 Windows Embedded POSReady 2009 Internet Explorer 8 Windows Embedded Standard 7 Internet Explorer 11 Windows Embedded POSReady 7 Internet Explorer 11 Windows Thin PC Internet Explorer 8 Windows Embedded 8 Standard Internet Explorer 10 Windows 8
+1 Industry Update Internet Explorer 11 Beginning January 10 2017 only Internet Explorer 11 will be supported on Windows Thin PC
+In order to continue to receive Internet Explorer 8 updates after January 12 2016 please contact your Microsoft Account Team
+For customers running on an older version of Internet Explorer such as Internet Explorer 8 on Windows 7 Service Pack 1 SP1 Microsoft recommends customers plan to migrate to one of the above supported operating systems and browser combinations by January 12 2016
+2
+What if I m running a version of the operating system not listed in the table
+Products whose support lifecycle ended on or before January 12 2016 were not impacted and therefore are not represented in the table
+For example support for Windows 8 and Windows Embedded 8 Industry ended on January 12 2016 therefore they are not listed
+Similarly support for Windows Server 2003 ended on July 14 2015 and therefore was not impacted and not listed
+3
+How long will the most current version of Internet Explorer remain supported
+Internet Explorer is a component of the Windows operating system and the most current version will continue to follow the specific support lifecycle policy for the operating system for which it is installed
+To find the support lifecycle dates for all operating systems search the Support Lifecycle Database here
+4
+What about Microsoft Edge
+What is the Windows 10 enterprise browser story
+On Windows 10 Microsoft Edge is a safer faster more productive way to browse the web
+Microsoft Edge can be configured to fall back to Internet Explorer 11 for sites that need backward compatibility
+Since Internet Explorer 11 is supported on Windows 7 Windows 8
+1 and Windows 10 upgrading to Internet Explorer 11 can help ease Windows 10 migrations
+Upgrading web apps to modern standards is the best long term strategy but customers can leverage the backward compatibility in Internet Explorer 11 to upgrade web apps on their own schedules
+For more information see TechNet
+5
+Is Internet Explorer 11 the last version of Internet Explorer
+Yes Internet Explorer 11 is the last major version of Internet Explorer
+Internet Explorer 11 will continue receiving security updates and technical support for the support lifecycle of the version of Windows on which it is installed
+6
+Does this mean Microsoft is changing the support lifecycle policy for Internet Explorer
+The latest version of Internet Explorer will continue to follow the component policy which means that it follows the support lifecycle and is supported for as long as the Windows operating system for which it is installed on
+Focusing support on the latest version of Internet Explorer for a supported Windows operating system is in line with industry standards
+Most customers are already using the latest version of Internet Explorer for their respective Windows operating system but some fragmentation still poses problems for web developers and support staff
+Microsoft recommends that customers upgrade to Internet Explorer 11 in order to experience increased performance improved security better backward compatibility and greater support for modern web technologies
+Upgrading to Internet Explorer 11 can also help ease migrations to Windows 10 since Internet Explorer 11 is supported on Windows 7 Windows 8
+1 and Windows 10
+7
+What happens if customers didn t move to the latest browser by the end of support on January 12 2016
+Customers had until January 12 2016 to upgrade their browser after which time the previous versions of Internet Explorer reached end of support
+End of support means there are no more security updates non security updates free or paid assisted support options or online technical content updates
+8
+What if my enterprise line of business LOB application has a dependency on a version of Internet Explorer that reached end of support on January 12 2016
+Upgrading web apps to modern web standards is the best long term solution but customers can leverage the backward compatibility in Internet Explorer 11 and upgrade web apps on their own schedules
+As some web apps were written for earlier versions of Internet Explorer Microsoft introduced backward compatibility features and resources to help customers upgrade to Internet Explorer 11
+For guidance and upgrade resources please visit TechNet here
+In order to ease the migration to Internet Explorer 11 Enterprise Mode offers better backward compatibility and enables customers to run many legacy web applications
+To help customers who have a business need for using Internet Explorer 11 with Enterprise Mode Microsoft is committed to supporting Enterprise Mode as a feature of Internet Explorer 11 through the duration of the operating system s support lifecycle helping customers extend existing web application investments as needed
+As an example Windows 7 SP1 running Internet Explorer 11 with Enterprise Mode will be supported through January 14 2020
+9
+What is the Microsoft guidance if customers run an application that depends on specific Internet Explorer runtime DLLs
+Microsoft will release security updates only for the latest version of Internet Explorer for each Windows operating system
+Customers will need to install the latest version of Internet Explorer to update the Internet Explorer runtime DLLs receive updates and to remain in a supported configuration
+10
+If a customer has turned off the Internet Explorer feature but has a 3rd party software that utilizes Internet Explorer runtime DLLs how can the Internet Explorer runtime DLLs be updated
+If customers need an update to the Internet Explorer runtime DLLs they will need to install the latest version of Internet Explorer IE 11 to update the runtime DLLs
+After doing so they will continue to receive security updates
+11
+What resources are available to help customers upgrade
+Microsoft offers numerous free and paid support offerings for customers and partners who wish to migrate to the latest version of Internet Explorer
+Please visit TechNet for more information
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

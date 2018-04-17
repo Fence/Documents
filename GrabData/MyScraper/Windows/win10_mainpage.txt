@@ -1,0 +1,316 @@
+Upgrade to Windows 10: FAQ
+    /en-us/help/12435/windows-10-upgrade-faq
+Upgrade Windows 10 Home to Windows 10 Pro
+    /en-us/help/12384/windows-10-upgrading-home-to-pro
+Windows Update: FAQ
+    /en-us/help/12373/windows-update-faq
+Windows 10 and Windows Server 2016 update history
+    /en-us/help/4000825/windows-10-and-windows-server-2016-update-history
+Windows Update Delivery Optimization: FAQ
+    https://privacy.microsoft.com/windows-10-windows-update-delivery-optimization
+Find lost files after the update to Windows 10
+    /en-us/help/12386/windows-10-find-lost-files-after-update
+Activation in Windows 10
+    /en-us/help/12440/windows-10-activation
+Reactivating Windows 10 after a hardware change
+    /en-us/help/20530/windows-10-reactivating-after-hardware-change
+Why can't I activate Windows?
+    /en-us/help/10751/windows-why-activate
+Find your Windows product key
+    /en-us/help/10749/windows-product-key
+Stop receiving insider builds for Windows 10
+    /en-us/help/10584/windows-10-stop-receiving-insider-builds
+Reinstall Windows 10
+    /en-us/help/4000735/windows-10-reinstall
+Fix Windows Update errors
+    /en-us/help/10164/fix-windows-update-errors
+What's new in this update
+    /en-us/help/17218/windows-10-whats-new-in-this-update
+Explore the Store
+    /en-us/help/17160/windows-10-explore-the-store
+See what's on the Start menu
+    /en-us/help/17195/windows-10-see-whats-on-the-menu
+Sign in with a Microsoft account
+    /en-us/help/17201/windows-10-sign-in-with-a-microsoft-account
+Get to know Microsoft Edge
+    /en-us/help/17170/windows-10-get-to-know-microsoft-edge
+Find all your apps and programs
+    /en-us/help/17161/windows-10-find-all-your-apps-and-programs
+Group apps into desktops
+    /en-us/help/17172/windows-10-group-apps
+Organize your apps
+    /en-us/help/17176/windows-10-organize-your-apps
+Sync across all your devices
+    /en-us/help/17166/windows-10-sync-across-all-your-devices
+What is Windows Hello?
+    /en-us/help/17215/windows-10-what-is-hello
+Personalize your lock screen
+    /en-us/help/17185/windows-10-lock-screen
+Find your notifications
+    /en-us/help/17203/windows-10-find-notifications
+Quick Start: Desktop at work (PDF)
+    https://go.microsoft.com/fwlink/?linkid=825647
+Get help for Microsoft account
+    /en-us/products/microsoft-account/
+Get free apps and games in Windows Store
+    /en-us/instantanswers/8afe96ef-696f-4ddb-ac1f-5181aa02c6aa/get-free-apps-and-games-in-windows-store
+Check for updates for apps and games from Windows Store
+    /en-us/instantanswers/b5e4e2e4-cc9d-47ef-8782-7a1c81e735ef/check-for-updates-for-apps-and-games-from-windows-store
+Change your region for Windows Store
+    /en-us/instantanswers/ebe37ba9-de47-4ba2-8349-84e176ecaa8c/change-your-region-for-windows-store
+View your order history in your Microsoft account
+    /en-us/instantanswers/c05d1a14-e5ba-41d4-8995-ea80b897813d/view-your-order-history
+Report a violation in Windows Store
+    /en-us/instantanswers/99ba58f2-dabb-41c9-83b0-600cbff1c1bd/report-a-violation-in-windows-store
+Make an in-app purchase
+    /en-us/instantanswers/2f8a0e80-e6ef-4baf-8bd6-e4bf3420f8b5/make-an-in-app-purchase
+See all apps
+    /en-us/instantanswers/a8b1a4df-30f7-46e4-a1d9-e5f21fc5da6d/see-all-apps-in-windows-10
+App permissions
+    /en-us/help/10557/windows-10-app-permissions
+Find app settings
+    /en-us/instantanswers/b53031bb-64be-8489-3ec7-4330c488e79a/find-app-settings-in-windows-10
+Pin an app to the taskbar
+    /en-us/instantanswers/1333aa7e-2fec-df69-d7b2-78a33b265da8/pin-an-app-to-the-taskbar
+Pin apps to Start
+    /en-us/instantanswers/97dbd03e-1f2b-4107-bcbe-e0bdc2f0371d/pin-apps-to-start
+Quick Start: Windows Store (PDF)
+    https://go.microsoft.com/fwlink/?linkid=825673
+Alarms & Clock help
+    /en-us/instantanswers/4e132218-a972-4e7c-aea6-288fcdd3e46d/how-to-use-alarms-clock-app
+Calculator help
+    /en-us/instantanswers/54832c0d-e53c-424d-8f75-bc8a2f87e93d/calculator-in-windows-10
+Groove Music help
+    /en-us/help/22874/windows-10-groove-music-help
+Maps help
+    /en-us/help/22876/windows-10-maps
+Movies & TV help
+    /en-us/help/22875/windows-10-movies-tv
+Photos & Camera help
+    /en-us/help/22877/windows-10-photos
+Snipping Tool help
+    /en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots
+Voice Recorder help
+    /en-us/instantanswers/1481dfb5-8c22-4707-baad-e1dc059500ef/how-to-use-voice-recorder
+Get online
+    /en-us/help/17164/windows-10-get-online
+Fix network connection issues in Windows 10
+    /en-us/help/10741/windows-10-fix-network-connection-issues
+Fix Wi-Fi problems
+    /en-us/help/4000432/windows-10-fix-wi-fi-problems
+Connect to Bluetooth devices
+    /en-us/help/17156/windows-10-connect-to-bluetooth-devices
+Fix Bluetooth problems in Windows 10: FAQ
+    /en-us/help/14169/windows-10-fix-bluetooth-problems
+Fix connections to Bluetooth audio devices and wireless displays
+    /en-us/instantanswers/6b1037aa-5682-48ed-94d6-e257fcda6a45/fix-connections-to-bluetooth-audio-devices-and-wireless-displays
+Remove a Bluetooth device
+    /en-us/instantanswers/d1c1ad5f-1746-4a50-ba5d-93c648dcf5a7/remove-a-bluetooth-device
+Project to a screen
+    /en-us/instantanswers/a8471cec-b731-4923-902e-60b9f9f5c4ef/project-to-a-screen
+Cellular settings in Windows 10
+    /en-us/help/10739/windows-10-cellular-settings
+Use your PC as a mobile hotspot
+    /en-us/instantanswers/c60dcfa3-c596-41d4-8c1a-b0d738e1d9fd/use-your-pc-as-a-mobile-hotspot
+Connect to a VPN in Windows 10
+    /en-us/help/20510/windows-10-connect-to-vpn
+About Wi-Fi Sense
+    https://privacy.microsoft.com/windows-10-about-wifi-sense
+Get help for Microsoft Edge
+    /en-us/products/microsoft-edge/
+What is Cortana?
+    /en-us/help/17214/windows-10-what-is
+Make Cortana yours
+    /en-us/help/17178/windows-10-make-cortana-yours
+See what Cortana tracks for you
+    /en-us/instantanswers/2971fc9e-373f-435a-8132-d28160582ded/see-what-cortana-tracks-for-you
+Change what Cortana calls you
+    /en-us/instantanswers/0ea31cca-0ae6-498d-8ff2-d90334264e1e/change-what-cortana-calls-you
+Cortana can't hear me
+    /en-us/instantanswers/7f6b4dd4-5e9a-4b6b-8cd8-f1a6c5910200/cortana-can-t-hear-me
+Reasons Cortana doesn't talk to me
+    /en-us/instantanswers/131a7184-c601-4993-a863-6473d1e63b0e/reasons-cortana-doesn-t-talk-to-me
+Fix the problem with Cortana and Windows Speech Recognition
+    /en-us/instantanswers/7f52ddb2-f898-b0c3-0e29-1fe224d4e695/fix-the-problem-with-cortana-and-windows-speech-recognition
+Switch Cortana on or off
+    /en-us/instantanswers/0f9db9cd-c346-46f3-afa3-187f9ce290e8/cortana-is-built-in-to-the-windows-anniversary-update
+Dynamic duo: Cortana and Microsoft Edge
+    /en-us/help/17158/windows-10-dynamic-duo
+Cortana commands
+    /en-us/instantanswers/52409705-a00d-eb00-55be-0b4e5779d221/cortana-commands
+Search for anything, anywhere
+    /en-us/help/17190/windows-10-search-for-anything
+Search for help
+    /en-us/help/17192/windows-10-search-for-help
+You've got games
+    /en-us/help/17181/windows-10-youve-got-games
+Get achievements, play anywhere
+    /en-us/help/17216/windows-10-get-achievements-play-anywhere
+Play and chat across devices
+    /en-us/help/17162/windows-10-play-and-chat-across-devices
+Using Xbox One Wireless Controllers on a PC
+    http://support.xbox.com/xbox-one/accessories/using-xbox-one-wireless-controllers-on-pc-info
+Create or edit an avatar on Windows 10
+    /en-us/instantanswers/f3b03567-d6bd-4dc3-a794-cd57f20d6a18/create-or-edit-an-avatar-on-windows-10
+Stream games and TV from your Xbox
+    /en-us/help/17202/windows-10-stream-games-and-tv-from-your-xbox
+Record clips of PC games
+    /en-us/help/17188/windows-10-record-clips-of-pc-games
+Where are my game clips and screenshots saved in Windows 10?
+    /en-us/instantanswers/f7a118fa-568f-b1c7-d915-f0de184e2907/where-are-my-game-dvr-clips-and-screenshots-saved-in-windows-10
+Game DVR video quality in Windows 10 
+    /en-us/instantanswers/62a4c3db-4192-5f2c-0988-5c61697e286d/game-dvr-video-quality-in-windows-10
+Fix problems with Game bar on Windows 10
+    /en-us/instantanswers/7ed48b7a-438b-6748-067f-eebbd3328da8/fix-problems-with-game-bar-on-windows-10
+Fix problems signing in to the Xbox app
+    /en-us/instantanswers/45a2c5ca-5d6e-4059-ebba-e57c045faa97/fix-problems-signing-in-to-the-xbox-app
+Add a printer
+    /en-us/help/17155/
+Fix printer problems
+    /en-us/instantanswers/bdff0c68-6204-6025-dcc1-3aefaa14ab40/fix-printer-problems
+Connect to a network printer (PDF)
+    https://go.microsoft.com/fwlink/?linkid=825668
+View the print queue
+    /en-us/instantanswers/61c5d2cc-c2b8-7baf-8c6f-e9646c4cf047/view-the-print-queue
+How to set a default printer
+    /en-us/instantanswers/118f9e07-4261-6465-40df-a9eaa1b1b94b/how-to-set-a-default-printer-in-windows-10
+Change a printer's status to "online"
+    /en-us/instantanswers/80725e74-0999-f77e-d8ef-8411099901fd/change-a-printer-s-status-to-online
+Connect to Bluetooth devices
+    /en-us/help/17156/windows-10-connect-to-bluetooth-devices
+Remove a Bluetooth device
+    /en-us/instantanswers/d1c1ad5f-1746-4a50-ba5d-93c648dcf5a7/remove-a-bluetooth-device
+Open Device Manager
+    /en-us/instantanswers/005a1acb-776e-4320-b9f2-3a2302a320da/open-device-manager
+Add a device to a Windows 10 PC
+    /en-us/instantanswers/d3b9480a-4541-4c48-aa78-14f5f4625124/add-a-device-to-a-windows-10-pc
+Fix sound problems
+    /en-us/instantanswers/a183aa8b-0eac-4566-867a-98d2761a770d/fix-sound-problems
+Fix connections to Bluetooth audio devices and wireless displays
+    /en-us/instantanswers/6b1037aa-5682-48ed-94d6-e257fcda6a45/fix-connections-to-bluetooth-audio-devices-and-wireless-displays
+Try the latest touchpad gestures
+    /en-us/help/17206/windows-10-try-touchpad-gestures
+Update drivers
+    /en-us/instantanswers/ad5a063e-5f57-c715-2566-b983195752c1/update-drivers-in-windows-10
+How to use Remote Desktop
+    /en-us/instantanswers/ff521c86-2803-4bc0-a5da-7df445788eb9/how-to-use-remote-desktop
+Troubleshoot screen flickering in Windows 10
+    /en-us/help/12374/windows-10-troubleshoot-screen-flickering
+Recovery options in Windows 10
+    /en-us/help/12415/windows-10-recovery-options
+Free up drive space in Windows 10
+    /en-us/help/12425/windows-10-free-up-drive-space
+Back up and restore your files
+    /en-us/help/17143/windows-10-back-up-your-files
+Start your PC in safe mode in Windows 10
+    /en-us/help/12376/windows-10-start-your-pc-in-safe-mode
+Create a recovery drive
+    /en-us/instantanswers/3a747883-b706-43a5-a286-9e98f886d490/create-a-recovery-drive
+Create a system restore point
+    /en-us/instantanswers/e6bbddb0-9db4-4d88-9063-42c52c79a96e/create-a-system-restore-point
+Get to safe mode and other startup settings
+    /en-us/instantanswers/f40a95aa-1e34-4907-98ba-a308fd10a786/get-to-safe-mode-and-other-startup-settings-in-windows-10
+Troubleshoot screen flickering in Windows 10
+    /en-us/help/12374/windows-10-troubleshoot-screen-flickering
+Backup and Restore
+    /en-us/instantanswers/62ed802d-7c8d-35d9-9b82-6cace4b08185/backup-and-restore-in-windows-10
+Get help with PC problems
+    /en-us/help/27919/windows-10-get-help-with-pc-problems
+Find lost files after the update to Windows 10
+    /en-us/help/12386/windows-10-find-lost-files-after-update
+Find my BitLocker recovery key
+    /en-us/instantanswers/566e0e4e-4ca7-4df2-88fb-aa71c00ea55e/find-my-bitlocker-recovery-key
+Find out how much storage your PC has
+    /en-us/instantanswers/08501f80-dd20-483a-b29a-f9bfc862b12d/find-out-how-much-storage-your-pc-has
+Troubleshoot black screen problems
+    /en-us/help/14106/windows-10-troubleshoot-black-screen-problems
+Troubleshoot blue screen errors
+    /en-us/help/14238/windows-10-troubleshoot-blue-screen-errors
+What's changed in File Explorer
+    /en-us/help/17217/windows-10-whats-changed-in-file-explorer
+OneDrive on your PC
+    /en-us/help/17184/windows-10-onedrive
+Back up and restore your files
+    /en-us/help/17143/windows-10-back-up-your-files
+Pin, remove, and customize in Quick access
+    /en-us/instantanswers/e4c6d890-9957-4263-a89a-79f93fa68373/pin-remove-and-customize-in-quick-access
+Zip and unzip files
+    /en-us/instantanswers/2df754f6-7039-824c-b5be-6dda11b5075e/zip-and-unzip-files
+Find the Recycle Bin
+    /en-us/instantanswers/55c5049f-a1e7-7edd-7367-ccc211aee723/find-the-recycle-bin
+Share files in File Explorer
+    /en-us/instantanswers/f997eca8-25cf-fccf-ae6a-8d98fc2bcf62/share-files-in-file-explorer
+Storage Spaces in Windows 10
+    /en-us/help/12438/windows-10-storage-spaces
+Work Folders in Windows 10
+    /en-us/help/12370/windows-10-work-folders
+See your OneDrive files in File Explorer
+    /en-us/instantanswers/df1e73b4-7472-40ca-9d53-24a284994ab3/see-your-onedrive-files-in-file-explorer
+About sync settings on Windows 10 devices
+    /en-us/instantanswers/861aa21c-cf7a-48e0-b3dc-54c0b17b3cfa/about-sync-settings-on-windows-10-devices
+Fix OneDrive sync issues
+    /en-us/instantanswers/8a5b6dbb-6e6a-8bbc-9128-75a1b91d98d2/fix-onedrive-sync-issues
+Change the location of your OneDrive folder
+    /en-us/instantanswers/346c0dc9-68fb-4189-9674-8011c670c3de/change-the-location-of-your-onedrive-folder
+Keep fewer OneDrive files on your PC
+    /en-us/instantanswers/dbb3655e-37f9-4b99-b97b-b840e36bcd50/keep-fewer-onedrive-files-on-your-pc
+Turn off OneDrive
+    /en-us/instantanswers/c2aafab1-3433-45a0-8037-2f4b25e41751/turn-off-onedrive-in-windows-10
+Protect your PC
+    /en-us/help/17187/windows-10-protect-your-pc
+Schedule a scan in Windows Defender
+    /en-us/instantanswers/66eb0a31-2a59-4c90-ba5b-23bcdfb6f185/schedule-a-scan-in-windows-defender
+Where is Action Center in Windows 10?
+    /en-us/instantanswers/1ad94232-180e-42c3-9a43-70ba9a4ac5ca/where-is-action-center-in-windows-10
+Turn Windows Firewall on or off
+    /en-us/instantanswers/c9955ad9-1239-4cb2-988c-982f851617ed/turn-windows-firewall-on-or-off
+Using Windows Defender Offline
+    /en-us/instantanswers/be1bf420-b7d1-499a-ab5a-aa0bef5c12ea/using-windows-defender-offline
+Windows 10 and privacy
+    https://privacy.microsoft.com/windows10privacy
+Turn on device encryption
+    /en-us/instantanswers/e7d75dd2-29c2-16ac-f03d-20cfdf54202f/turn-on-device-encryption
+How to encrypt a file
+    /en-us/instantanswers/c5e573c5-78f0-48dd-a998-181580274cdf/how-to-encrypt-a-file
+Add an exclusion to Windows Defender
+    /en-us/instantanswers/64495205-6ddb-4da1-8534-1aeaf64c0af8/add-an-exclusion-to-windows-defender
+Change notification settings in action center
+    /en-us/instantanswers/e70a3776-7a55-45c7-80d2-561880563748/change-notification-settings-in-action-center
+Quick Start: Windows Defender (PDF)
+    https://go.microsoft.com/fwlink/?linkid=825669
+Set up email and calendar
+    /en-us/help/17198/windows-10-set-up-email
+How do I link duplicate contacts in the People app?
+    /en-us/instantanswers/3c380636-c958-47f6-a66d-0a7fb301e8b5/how-to-link-duplicate-contacts-in-the-people-app
+Where are my contacts in Windows 10?
+    /en-us/help/10614/windows-10-where-are-my-contacts
+Get started with Narrator in Windows 10
+    /en-us/help/22798/windows-10-narrator-get-started
+Make Windows easier to see
+    /en-us/help/27928/windows-10-make-windows-easier-to-see
+Make Windows easier to hear
+    /en-us/help/27933/windows-10-make-windows-easier-to-hear
+Make input devices easier to use
+    /en-us/help/27936/windows-10-make-input-devices-easier-to-use
+Make it easier to focus on tasks
+    /en-us/help/27930/windows-10-make-it-easier-to-focus-on-tasks
+Keyboard shortcuts in Windows
+    /en-us/help/12445/windows-keyboard-shortcuts
+Keyboard shortcuts in Windows apps
+    /en-us/help/13805/windows-keyboard-shortcuts-in-apps
+Windows keyboard shortcuts for accessibility
+    /en-us/help/13810/windows-keyboard-shortcuts-accessibility
+Keyboard shortcuts in Continuum for phones
+    /en-us/help/13781/windows-10-mobile-keyboard-shortcuts-continuum-for-phones
+Turn on high contrast mode
+    /en-us/instantanswers/ece8e1d7-1a7c-473c-a0f4-3c9d66fee295/turn-high-contrast-mode-on-or-off-in-windows
+Use Magnifier to see items on the screen
+    /en-us/help/11542/windows-use-magnifier
+Use the On-Screen Keyboard (OSK) to type
+    /en-us/help/10762/windows-use-on-screen-keyboard
+Use text or visual alternative to sounds
+    /en-us/help/10571/windows-use-text-visual-alternative-sounds
+Windows Speech Recognition commands
+    /en-us/help/12427/windows-speech-recognition-commands
+Change closed caption settings in Windows 10
+    /en-us/help/21055/windows-10-closed-caption-settings

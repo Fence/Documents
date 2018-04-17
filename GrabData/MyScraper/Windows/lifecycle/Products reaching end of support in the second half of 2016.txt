@@ -1,0 +1,25 @@
+Created
+February 3 2016As of June 2016 the following list represents some of the products reaching end of support in the second half of 2016
+For a comprehensive list of Microsoft products and their lifecycle policy timelines please search the Support Lifecycle Product Database
+If you have any questions regarding support for a product please contact your Microsoft Account Representative
+If you need technical support visit the Contact Microsoft Web site
+Service Packs Retiring
+Support for the following Service Packs will retire according to the below listed end dates
+Customers should migrate to the next available Service Pack to continue to receive security updates and be eligible for other support options
+Services Packs Moving to End of SupportEffective DateAgents for Microsoft Visual Studio 2013Microsoft Advanced Group Policy Management 4
+0 Service Pack 2 Microsoft BitLocker Administration and Monitoring 2
+5 Microsoft Dynamics C5 2012 Service Pack 1 Microsoft User Experience Virtualization 2
+1 Microsoft Visual Studio 2013 Modeling Software Development Kit Microsoft Visual Studio 2013 Remote Tools Microsoft Visual Studio 2013 Shell Integrated Microsoft Visual Studio 2013 Shell Isolated Microsoft Visual Studio 2013 Software Development Kit Microsoft Visual Studio Express 2013 for Web Microsoft Visual Studio Express 2013 for Windows Microsoft Visual Studio Express 2013 for Windows DesktopMicrosoft Visual Studio Premium 2013 Microsoft Visual Studio Professional 2013 Microsoft Visual Studio Team Explorer Everywhere for Team Foundation Server Microsoft Visual Studio Team Foundation Server 2013 Microsoft Visual Studio Team Foundation Server Express 2013Microsoft Visual Studio Test Professional 2013 Microsoft Visual Studio Ultimate 2013 Team Explorer for Visual Studio 2013 Visual Studio 2013 Community EditionOctober 11 2016 NOTE
+Products listed without a specific service pack refer to Release to Manufacturing RTM or Service Pack 0 SP0 version
+These versions will expire as Service Pack 1 was released 12 or 24 months prior to the support expiration date based on the Service Pack policy
+In order to remain supported please update the RTM SP0 to a currently support Service Pack
+Key Products Transitioning from Mainstream Support to Extended Support
+The following products will be moving into Extended Support in the next 6 months
+Extended Support lasts for a minimum of 5 years and includes security updates at no cost and paid non security updates and support
+Additionally Microsoft will not accept requests for design changes or new features during the Extended Support phase
+Products Moving from Mainstream to Extended Support Effective DateMicrosoft BitLocker Administration and Monitoring 1
+0 September 13 2016Microsoft Diagnostics and Recovery Toolset 7 Windows Embedded POSReady 7 Windows Thin PC October 11 2016 Key Products Transitioning to End of Support
+The following products will be reaching end of support in the next 6 months
+There will be no new security updates non security updates free or paid assisted support options or online technical content updates
+Products Moving to End of Support Effective DateMicrosoft Windows Storage Server 2003Microsoft Windows Storage Server 2003 R2October 9 2016Communicator MobileMicrosoft Dynamics AX 4
+0 Microsoft System Center Reporting Manager 2006October 11 2016 

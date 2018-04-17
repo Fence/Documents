@@ -1,0 +1,27 @@
+Whether it s for work or personal use you can connect to a VPN virtual private network on your Windows 10 PC
+A VPN connection can help give you a more secure connection to your company s network and the Internet for example when you re at a coffee shop Before you can connect to a VPN you ll need to a get a VPN profile on your PC
+Here are two ways to get one
+Create a VPN profile on your own
+Set up a work account to get a VPN profile from your company
+Create a VPN profileIf you don t have a VPN profile on your PC you ll need to create one
+Before you start
+If it s for work see if you can find the VPN settings and or a VPN app on your company s intranet site when you re at work or contact your company s support person
+It it s for a VPN service you subscribe to for your own use visit Windows Store to see if there s an app for that service and go to the VPN service s website to see if the VPN connection settings to use are listed there
+Select the Start button then select Settings Network Internet VPN Add a VPN connection
+In Add a VPN connection do the following
+For VPN provider choose Windows built in In the Connection name box type a friendly name for the VPN connection profile
+This is the VPN connection name to look for when you go to connect
+In the Server name or address box type the address for the VPN server
+For VPN type choose the type of VPN connection you want to create
+Again you ll need to know which kind of VPN connection your company or VPN service uses
+For Type of sign in info choose the type of sign in info also called credentials to use
+It might be a user name and password one time password certificate or maybe a smart card if you re connecting to a VPN for work
+If you like enter your user name and password in the respective boxes
+Select Save
+If you need to edit the VPN connection info or specify additional settings such as the proxy settings to use for the VPN connection select the VPN connection Advanced options
+Connect to a VPNAfter you have a VPN profile you re ready to connect
+Select the Start button then select Settings Network Internet VPN
+Select the VPN connection you want to use Connect
+If prompted enter your user name and password or other sign in info
+When you re connected the VPN connection name will say Connected underneath
+To quickly check and see if you re connect to the VPN while you re doing things on your PC select the Network icon on the far right of the taskbar then see if the VPN connection says Connected underneath it

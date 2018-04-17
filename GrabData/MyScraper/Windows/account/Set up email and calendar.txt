@@ -1,0 +1,23 @@
+Windows 10 has Mail and Calendar apps already built in
+Find them by selecting the Start button or type mail or calendar in the search box on the taskbar
+Email and scheduling rockstar You ve found the apps now make them useful by adding your accounts
+If this is the first time you re opening either of the apps you ll see the Welcome page
+Follow the instructions to set up your account
+Otherwise
+In the Mail or Calendar app select Settings at the bottom left
+Go to Manage Accounts Add account choose your account type and then follow the instructions
+Your mail and calendar start syncing as soon as your account is set up
+A couple of other handy things you may want to know
+After you ve calmed down from the excitement of adding one account you can go back to Settings to add more
+No need to add the same account twice when you add it to one app the other app automatically connects to the same account
+Switch back and forth between the two by selecting the Mail or Calendar icons at the bottom left side of the window
+Delete an account at any time by going to Settings Manage Accounts and then choosing the account you want to delete
+Select Delete account
+If you ve signed in to your PC with a Microsoft account that account is added automatically to the Mail and Calendar apps and can t be deleted
+But you can remove any others you added yourself
+If you have more questions about how to use the apps including troubleshooting info if you re having problems adding an account find answers by going to Settings Help
+Then select Open Help in the Mail app
+Where are my contacts
+When you add an account either through the Mail and Calendar apps or other social media apps any contacts associated with those accounts will show up in the People app
+Find the People app by typing People in the search box on the taskbar
+What s new Search and help Setting things up Sign in with a Microsoft account Set up accounts Set up email and calendar Change your account picture Add a printer Connect to a projector or PC Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access 

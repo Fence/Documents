@@ -1,0 +1,131 @@
+Windows 10 Magnifier is a tool that enlarges part or all of your screen so you can see words and images better
+It comes with a few different settings so use it the way that suits you best
+Open MagnifierTo open Magnifier on a keyboard press the Windows logo key and plus sign To open it by touch or mouse go to Start then Settings Ease of Access Magnifier and then move the slider under Magnifier to turn it on
+Magnifier opens in full screen view unless you change the settings
+Close MagnifierTo exit Magnifier press the Windows logo key Esc or select the magnifying glass icon and then select the Close button on the Magnifier toolbar
+Change Magnifier viewsWith a mouse you can use Magnifier in three different view
+full screen lens or docked
+Try them all to find out which one you prefer
+In full screen view your entire screen is magnified
+You probably won t be able to see the whole screen at the same time when it s magnified but as you move your mouse around the screen you can see everything
+If you have a touchscreen Magnifier will display white borders around the edge of your screen
+Drag your finger or mouse along the borders to move around the screen
+In lens view when you move around the screen it s like moving a magnifying glass around
+Docked view works on the desktop
+In this view a magnifier is docked to a portion of your screen
+As you move around the screen parts of the screen appear magnified in the docking area even though the main part of the screen is unchanged
+Customize MagnifierChange the way Magnifier works by using the zoom buttons and to enlarge or reduce your screen
+Or press the Windows logo key and plus sign or the Windows logo key and minus sign to zoom in and out
+Open the Magnifier options button to make changes to the level of zoom color or focus
+Press the Windows logo key and plus sign to open Magnifier
+On the desktop select the Magnifying glass icon and then select the Options button Do one or more of the following
+Use the slider to choose a zoom increment
+The percentage you choose here will be the increment by which Magnifier enlarges the screen when you press the Zoom in button Select Turn on color inversion to reverse colors on the screen
+Sometimes reversing colors can make text easier to read
+Select a check box to choose how Magnifier focuses
+Magnifier can follow your mouse the insertion point or the keyboard
+NoteWhen you open Magnifier the Magnifier toolbar appears briefly
+It quickly gets out of your way but you can display it again by clicking the magnifying glass icon on your screen or the Magnifier icon on the taskbar
+Use Magnifier with a touchscreenPerform a variety of tasks on a touchscreen with Magnifier
+Zoom in and out by tapping on the corners
+Move around the screen by dragging along the borders
+See where you are on the screen by tapping with two fingers on opposite borders
+Exit Magnifier by tapping the Close button
+Windows 8
+1 Magnifier is a useful tool that enlarges part or all of your screen so you can see the words and images better
+It comes with a few different settings so you can use it the way that suits you best
+Using Magnifier You can open and close Magnifier quickly so it s handy when you need it and it s out of your way when you don t
+To open Magnifier using a keyboard Press Windows logo key plus sign Magnifier will open in Full screen view unless you change the settings
+To open Magnifier using touch or a mouse Swipe in from the right edge of the screen tap Settings and then tap Change PC settings
+If you re using a mouse point to the upper right corner of the screen move the mouse pointer down click Settings and then click Change PC settings
+Tap or click Ease of Access tap or click Magnifier and then move the slider under Magnifier to turn it on
+Magnifier will open in Full screen view unless you change the settings
+To close MagnifierTo exit Magnifier quickly press the Windows logo key Esc
+You can also tap or click the magnifying glass icon and then tap or click the Close button on the Magnifier toolbar
+Note If you want to have Magnifier always at your fingertips you can pin it to the Start screen or taskbar
+Some people want to change the clarity or size of the words and images on the screen
+If this is what you want to do you can use the app to zoom in on a page or change your screen resolution
+For more info about changing your screen resolution see Get the best display on your monitor
+Changing Magnifier views If you re using a mouse you can use Magnifier in a few ways depending on how you like to work
+full screen lens and docked
+Try them all to find out which one you prefer
+Full screen
+In this view your entire screen is magnified
+You probably won t be able to see the whole screen at the same time when it s magnified but as you move around the screen you can see everything
+If you have a touchscreen Magnifier will display white borders around the edge of your screen
+Drag your finger or mouse along the borders to move around the screen
+Lens
+In this view when you move around the screen it s like moving a magnifying glass around
+Docked
+Docked view works on the Windows desktop
+In this view a magnifier is docked to a portion of your screen
+As you move around the screen parts of the screen appear magnified in the docking area even though the main part of the screen is unchanged
+Customizing MagnifierYou can change the way Magnifier works
+For example you can use the zoom buttons and to change how much Magnifier enlarges your screen
+Pressing Windows Plus and Windows Minus on your keyboard is another quick way to zoom in and out
+You can also open the Magnifier options button to change Magnifier
+Swipe in from the right edge of the screen and then tap Search
+If you re using a mouse point to the lower right corner of the screen move the mouse pointer up and then click Search
+Enter Magnifier in the search box and then tap or click Magnifier
+Go to the Windows Desktop and click the Magnifying glass Click the Options button Do one or more of the following
+Use the slider to choose a zoom increment
+The percentage you choose here will be the increment by which Magnifier enlarges the screen when you press the zoom in button Select the Turn on color inversion check box to reverse colors on the screen
+Sometimes reversing colors makes text easier to read
+Select a check box to choose how Magnifier focuses
+Magnifier can follow your mouse the insertion point or the keyboard
+Note When you open Magnifier the Magnifier toolbar appears briefly
+It quickly gets out of your way but you can display it again by clicking the magnifying glass icon on your screen or the Magnifier icon on the taskbar
+Using Magnifier with touchYou can use Magnifier with a touchscreen to perform a variety of tasks
+Zoom in and out by tapping on the corners
+Move around the screen by dragging along the borders
+Exit Magnifier by tapping the X
+See where you are on the screen by tapping with two fingers on opposite borders
+Windows 7 Magnifier enlarges different parts of the screen and is part of the Ease of Access Center
+To open it quickly click Start and then type Magnifier
+You can also change the screen resolution which adjusts the clarity size and amount of things that fit on your computer monitor
+To learn more about adjusting the screen resolution see Getting the best display on your monitor
+Note If you want to have Magnifier at your fingertips you can pin it to the taskbar
+To exit Magnifier press the Windows logo key Esc
+There are three Magnifier modes
+Full screen mode
+In full screen mode your entire screen is magnified
+Depending on the size of your screen and the zoom level you choose you might not be able to see all of the screen at the same time
+Lens mode
+In lens mode the area around the mouse pointer is magnified
+When you move the mouse pointer the area of the screen that s magnified moves along with it
+Docked mode
+In docked mode only a portion of the screen is magnified leaving the rest of your desktop unchanged
+You can then control which area of the screen is magnified
+Note Full screen mode and lens mode are only available as part of the Aero experience
+If your computer doesn t support Aero or if you re not using an Aero theme Magnifier will only work in docked mode
+Watch this video to learn how to make items on the screen appear bigger 1
+56 To make items on the screen appear bigger Open Magnifier by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking Magnifier
+On the Views menu click the mode that you want to use
+Move the pointer to the part of the screen that you want to magnify
+Note When you re using full screen mode you can quickly preview your entire desktop by clicking the Views menu and then clicking Preview full screen
+For a list of keyboard shortcuts that you can use with Magnifier see Keyboard shortcuts Show all To choose where Magnifier focuses Open Magnifier by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking Magnifier
+Click the Options button and then select the option that you want
+OptionDescriptionFollow the mouse pointerDisplays the area around the mouse pointer in the Magnifier window
+When you select this option you can choose to have the Magnifier window move when the mouse pointer approaches or when the mouse pointer hits the edge of the Magnifier window
+Follow the keyboard focusDisplays the area around the pointer when you press the Tab or arrow keys
+Have Magnifier follow the text insertion pointDisplays the area around the text that you re typing
+To change the zoom level Open Magnifier by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking Magnifier
+Do one of the following
+To Do this Zoom in Click Zoom in or press the Windows logo key Plus sign Zoom out Click Zoom out or press the Windows logo key Minus sign To set the zoom increment The zoom increment determines how quickly Magnifier zooms in and out
+Open Magnifier by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking Magnifier
+Click the Options button and then move the slider to adjust the zoom increment
+Moving the slider to the left causes Magnifier to zoom slower with smaller changes between zoom levels
+Moving the slider to the right causes Magnifier to zoom faster with larger changes between zoom levels
+To set the lens size When you re using lens mode you can adjust the size of the Magnifier lens
+Open Magnifier by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking Magnifier
+Click the Options button and then under Magnifier Lens Size move the sliders to adjust the size of the Magnifier lens
+The lens size changes right away
+Adjust the level until it s right for you
+Note You need to use lens mode for the lens size options to appear
+You can quickly change the lens size by pressing Ctrl Alt R and then moving the pointer up and down to change the height and left and right to change the width
+To turn on color inversion Turning on color inversion increases the contrast between items on your screen which can help make your screen easier to see
+Open Magnifier by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking Magnifier
+Click the Options button and then select the Turn on color inversion check box
+To display the Magnifier toolbar When you start using Magnifier the Magnifier toolbar disappears to get out of your way but you can display it again
+Open Magnifier by clicking the Start button clicking All Programs clicking Accessories clicking Ease of Access and then clicking Magnifier
+After Magnifier opens click the magnifying glass icon on your screen or click the magnifier icon on the taskbar

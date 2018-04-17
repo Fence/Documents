@@ -1,0 +1,14 @@
+There are various ways to make the mouse and keyboard easier to use if you have temporary or permanent issues with mobility
+Make the mouse easier to use There are custom settings available if you need help tracking the mouse pointer or experience discomfort when using a mouse
+To see them select the Start button then select Settings Ease of Access Mouse Options include
+Making the mouse more visible by changing the color and size of the mouse pointer
+Controlling the movement of the mouse pointer with the numeric keypad using Mouse Keys
+Make the keyboard easier to use If you have difficulty or feel discomfort while using a keyboard select the Start button then select Settings Ease of Access Keyboard to explore the following options
+Sticky Keys can help if you have trouble pressing two keys at the same time
+Sticky Keys let you press commands that use multiple keys such as Ctrl S one key at a time
+Use Filter Keys to set the sensitivity of the keyboard so it can ignore brief or repeated keystrokes
+Instead of relying on the physical keyboard try the On Screen Keyboard
+You select keys using the mouse or other pointing device like a joystick or you can use a single switch to cycle through the keys on the screen
+Note You can also control your PC with just your voice using Windows Speech Recognition
+To learn more see Use Speech Recognition
+What s new Search and help Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access Make your PC easier to use Make Windows easier to see Make Windows easier to hear Make input devices easier to use Make it easier to focus on tasks Hear text read aloud with Narrator Use Speech Recognition Save time with keyboard shortcuts 

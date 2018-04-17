@@ -1,0 +1,11 @@
+We ve made a few changes and improvements to gestures
+You ll need a precision touchpad to use them all otherwise experiment to see which ones work on your PC
+To find out if your PC has a precision touchpad select the Start button then select Settings Devices Mouse and touchpad Once you re all set try some of the new gestures we ve added
+Swipe three fingers up to open task view and see all your open apps
+Swipe three fingers down to show the desktop
+Swipe three fingers either left or right to switch between your open apps
+Slide your fingers slowly across the touchpad to flip through them all
+But wait
+There s more
+Check out all the latest gestures for your precision touchpad
+What s new Search and help Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Use your PC like a tablet Use touch with Windows Try the latest touchpad gestures Use Windows Ink Change pen settings Ease of Access 

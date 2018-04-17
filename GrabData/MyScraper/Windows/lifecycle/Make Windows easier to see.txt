@@ -1,0 +1,18 @@
+Windows 10 includes many features and options for anyone having difficulty seeing the screen
+The following settings are just a few of the many ways to customize Windows for better visibility
+Adjust size and color To adjust the size of text apps and other items from the display settings select the Start button then select Settings System Display To use a high contrast theme select the Start button then select Settings Ease of Access High contrast Make your Start menu tiles larger and easier to see
+Press and hold or right click the tile you want to resize select Resize and then choose the size that you want
+Know where you re pointing Make your mouse more visible by changing the color and size of the mouse pointer
+Select the Start button then select Settings Ease of Access Mouse By adding pointer trails you can see where the mouse is moving on the screen
+Select the Start button then select Settings Devices Mouse touchpad Additional mouse options
+In the Mouse Properties window select the Pointer Options tab and then Display pointer trails
+You can also have Windows show visual feedback when you touch the screen
+Select the Start button then select Settings Ease of Access Other options and then select the toggle under Show visual feedback when I touch the screen
+Magnify your screen Magnifier enlarges part or all of your screen so you can see words and images better
+It includes a few different settings to help suit your needs
+To open Magnifier quickly press the Windows logo key Plus While active use the Windows logo key Plus or Windows logo key Minus to zoom the magnified window in or out
+To learn more about Magnifier see Use Magnifier to see items on the screen
+Use Narrator to read your screen Narrator is the built in screen reader that reads text on your screen aloud and describes events such as notifications or calendar appointments so you can use your PC with partial or no vision
+To start or stop Narrator press the Windows logo key Enter
+For more information on how to use Narrator see Hear text read aloud with Narrator
+What s new Search and help Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access Make your PC easier to use Make Windows easier to see Make Windows easier to hear Make input devices easier to use Make it easier to focus on tasks Hear text read aloud with Narrator Use Speech Recognition Save time with keyboard shortcuts 

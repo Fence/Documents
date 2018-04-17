@@ -1,0 +1,10 @@
+Back to Microsoft Lifecycle home page Microsoft is committed to providing products with improved security
+Our long term goal is to remove security vulnerabilities from all our products before they are released
+To realize the dream of Trustworthy Computing is a key element of our vision
+Although we strive to remove vulnerabilities during development software vulnerabilities remain a fact today and we must be prepared to respond when they are discovered
+Microsoft advises customers to install the latest product releases security updates and service packs to remain as secure as possible
+For the latest information on security updates please visit our TechNet Library
+Older products may not meet today s more demanding security requirements
+Microsoft may be unable to provide security updates for older products
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

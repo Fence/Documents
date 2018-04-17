@@ -1,0 +1,4 @@
+Back to Microsoft Lifecycle home page Windows Server Premium Assurance is a support offering for Windows Server and SQL Server Premium Assurance is a support offering for SQL Server
+Each of these offerings starts with the 2008 product wave and adds additional years of support past the Extended Support period for a total of 16 years of support 5 years of Mainstream Support 5 years of Extended Support 6 years of Premium Assurance The additional support period provides Security Updates and Bulletins rated Critical and Important see the Security Bulletin Severity Rating System for definitions Premium Assurance is available as a Software Assurance add on for each product learn more about Premium Assurance or search the Product Lifecycle for applicable editions
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

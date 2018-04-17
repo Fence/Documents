@@ -1,0 +1,7 @@
+Back to Microsoft Lifecycle home page In response to customer feedback that we received about the retirement of the Enhanced Mitigation Experience Toolkit EMET Microsoft is pleased to announce that support and servicing is being extended by 18 months from January 2017 to July 2018
+Our recommendation is for customers to migrate to the latest version of Windows 10 to take advantage of the same EMET migration features and the latest built in security innovations
+To learn more please visit http
+microsoft
+com emet
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

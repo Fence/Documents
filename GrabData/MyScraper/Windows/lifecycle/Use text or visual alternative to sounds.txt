@@ -1,0 +1,16 @@
+You can use visual cues rather than sounds in many apps by changing your settings
+Here s how
+Operating systemStepsWindows 10Go to Start type the phrase Replace sounds with visual cues and then select Replace sounds with visual cues
+Windows 8
+1Windows RT 8
+1Swipe in from the right edge of the screen and then tap Search
+If you re using a mouse point to the lower right corner of the screen move the mouse pointer up and then click Search
+In the search box enter the phrase Replace sounds with visual cues and then select Replace sounds with visual cues
+Windows 7Select the Start button and then select Control Panel Ease of Access
+Select Ease of Access Center Use text or visual alternatives for sounds
+Then select the options that you want to use
+Turn on visual notifications for sounds
+This option replaces system sounds with visual cues such as a flash on the screen so you can see notifications even when they re not heard
+You can also choose how you want sound notifications to warn you
+Turn on text captions for spoken dialog
+With this option Windows will display text captions in place of sounds to indicate that activity is happening on your PC for example when a document starts or finishes printing 

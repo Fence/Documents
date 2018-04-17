@@ -1,0 +1,38 @@
+After updating your PC to Windows 10 you may have trouble finding your old files
+The following are some things to try
+Show all See if you re signed in with a temporary profile Select Settings Accounts Sync your settings
+If you see a message at the top that states You are logged on with a temporary profile
+Roaming options are currently unavailable restart your PC and sign in again
+This should remove the temporary account and your files should be available again
+Restarting your PC and signing in again also works if you see a message that states We can t sign into your account
+This problem can often be fixed by signing out of your account and then signing back in
+NotesYou might need to restart your PC more than once before you can see your files again
+You should back up everything you worked on since upgrading to an external drive or it ll be deleted when you sign out of the temporary account
+Look for the files using Search Select the search box on the taskbar and search for your files
+If you don t see them and you re not signed in with a temporary profile use the troubleshooter to fix problems with Search
+In the search box on the taskbar type indexing and then select Indexing Options
+Select the Advanced button to view more options then select the Troubleshoot search and indexing link and follow the steps
+NoteIf you re having trouble finding files you stored on OneDrive see Find lost or missing files in OneDrive
+More things to try
+Some files might be hidden from view
+In the search box enter Show hidden files and folders
+Under Hidden files and folders select Show hidden files folders and drives
+Then try searching for your files again
+Look for all files of a certain type using the asterisk For example to search for all Word documents search for doc
+For music files search for mp3
+When you upgraded to Windows 10 some of your files may have been moved
+To check the location of files you find right click the file and select Open file location
+Copy any files you want to move to a different location
+If you still can t find your files you may need to restore them from a backup In the search box type Backup and restore
+Open Backup and Restore and then select Restore my files
+Follow the instructions to restore your files
+Sometimes you can recover a file by creating a new one with the same name and file type
+After you ve created the new file select Properties select the Previous Versions tab and then choose the file version to restore
+Enable a Windows 7 Administrator account If you created a new Microsoft account when you upgraded from Windows 7 your files may be located in a disabled administrator account
+You ll need to enable this account and sign in again to see your files
+In the search box type computer management and then select the Computer management app
+In the left pane select Local Users and Groups and then select Users
+If the user named Administrator has a down arrow on its icon it s been disabled
+To enable this account double click the Administrator icon to open the Properties dialog box
+Next clear the Account is disabled check box and then select Apply to enable the account
+Sign out and then sign in again using the Administrator account

@@ -1,0 +1,20 @@
+Screen flickering in Windows 10 is usually caused by an incompatible app or display driver
+To determine whether an app or driver is causing the problem check to see if Task Manager flickers
+Then based on that information you ll need to either update the app or the display driver
+Show all Check to see if Task Manager flickers Open Task Manager by pressing the Ctrl Shift Esc keys on the keyboard at the same time
+If that doesn t work right click the Start button in the lower left corner of your screen and then select Task Manager
+If Task Manager doesn t flicker an app is probably causing the problem
+If Task Manager does flicker a display driver is probably causing the problem
+Update an incompatible app Three apps were previously known to cause screen flickering in Windows 10
+Norton AV iCloud and IDT Audio
+In most cases updating the app or contacting the app manufacturer for an update will fix the problem
+Update your display driver To update your display driver you ll need to start your PC in safe mode uninstall your current display adapter and then check for driver updates
+Start your PC in safe mode then right click the Start button and select Device Manager
+Expand the Display adapters section right click the listed adapter then select Uninstall
+Select the Delete the driver software for this device check box then select OK and restart your PC
+After your PC restarts press the Windows logo key I on your keyboard to open Settings
+If that doesn t work select the Start button and then select Settings
+From Settings select Update security Windows Update Check for updates
+NoteIf you have multiple display adapters you ll need to disable the added adapter often an Intel HD 400 or AMD Radeon HD 4200 by right clicking it from the list in Device Manager and selecting Disable Yes
+Then turn off your PC disconnect installation or recovery media if you re using it and turn your PC back on
+If that doesn t fix the flickering restart your PC in safe mode re enable the added display adapter and then disable the other adapter

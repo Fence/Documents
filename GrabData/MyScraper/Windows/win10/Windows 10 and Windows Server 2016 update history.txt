@@ -1,0 +1,26 @@
+Updates for Windows 10 Version 1607 and Windows Server 2016 In the list below info about the most recent Windows update is listed first
+January 30 2017 KB4010672 OS Build 14393
+729 January 26 2017 KB3216755 OS Build 14393
+726 January 10 2017 KB3213986 OS Build 14393
+693 December 13 2016 KB3206632 OS Build 14393
+576 December 9 2016 KB3201845 OS Build 14393
+479 Related info Windows as a service OverviewWindows Server 2016 servicing guidelinesWindows 10 feature roadmapWindows 10 release informationWindows Update
+FAQMicrosoft Surface update history Windows 10 Version 1607 and Windows Server 2016 KB4010672 OS Build 14393
+729 KB3216755 OS Build 14393
+726 KB3213986 OS Build 14393
+693 KB3206632 OS Build 14393
+576 KB3201845 OS Build 14393
+479 KB3200970 OS Build 14393
+448 KB3200970 OS Build 14393
+447 KB3197954 OS Build 14393
+351 KB3194798 OS Build 14393
+321 KB3194496 OS Builds 14393
+222 KB3193494 OS Builds 14393
+187 and 14393
+189 KB3189866 OS Builds 14393
+187 and 14393
+189 KB3176938 OS Build 14393
+105 KB3176934 OS Build 14393
+82 KB3176495 OS Build 14393
+51 KB3176929 OS Build 14393
+10 Windows 10 Version 1511 Windows 10 initial version released July 2015 

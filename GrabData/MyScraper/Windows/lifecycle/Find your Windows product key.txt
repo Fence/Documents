@@ -1,0 +1,16 @@
+A product key is a 25 character code used to activate Windows
+It looks like this
+PRODUCT KEY
+XXXXX XXXXX XXXXX XXXXX XXXXXThe location of your product key depends on how you got your copy of Windows From an authorized retailer
+The product key should be on a label or card inside the box that Windows came in
+A new PC running Windows
+The product key will be pre installed on your PC included with the packaging the PC came in or included on the Certificate of Authenticity COA attached to the PC
+A digital copy from a Microsoft website
+The product key will be in the confirmation email you received after buying it
+Or it may be distributed as a digital license if you bought Windows 10 in which case you won t receive a product key
+Free upgrade to Windows 10
+If you upgraded to Windows 10 for free from Windows 7 or Windows 8
+1 you ll have a digital license instead of a product key
+For more info about digital licenses in Windows 10 see Activation in Windows 10
+NoteIf you can t find your product key or need additional help activating Windows go to the product activation article
+For info about how to tell if your copy of Windows is genuine Microsoft software go to the How to Tell webpage 

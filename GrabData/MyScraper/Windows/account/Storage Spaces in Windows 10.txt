@@ -1,0 +1,5 @@
+Storage Spaces helps protect your data from drive failures and extend storage over time as you add drives to your PC
+You can use Storage Spaces to group two or more drives together in a storage pool and then use capacity from that pool to create virtual drives called storage spaces
+These storage spaces typically store two copies of your data so if one of your drives fails you still have an intact copy of your data
+If you run low on capacity just add more drives to the storage pool
+Show all 

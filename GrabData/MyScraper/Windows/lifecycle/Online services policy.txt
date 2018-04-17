@@ -1,0 +1,51 @@
+For Business and Developer Online Services Show all 1
+What is a Microsoft Online Service
+A Microsoft Online Service is a cloud based service hosted by Microsoft that may or may not require local computing resources
+Examples of Business and Developer Online Services include Office 365 Microsoft Azure CRM Online and Intune
+Microsoft Azure Cloud Services is guided by a specific Microsoft Azure lifecycle policy
+2
+What does Microsoft mean by cloud based
+A cloud based service typically refers to a computing infrastructure that is located in a major datacenter outside of a customer premises and performs services for users using local computing resources
+Please note that Microsoft explicitly licenses various products as commercial Online Services
+For more information please consult with your Microsoft account representative
+3
+What is the Online Services Support Lifecycle Policy
+The Business and Developer policy for Online Services offers three key features
+Support AvailabilityMicrosoft Support services will be available for the duration of the customer s agreement with Microsoft for the Online Service
+Notification For all Microsoft Online Services for Businesses and Developers unless otherwise noted Microsoft will provide notification when customers are required to take action in order to avoid significant degradation to the normal use of the Online Service
+Service Continuity and Migration Microsoft will provide a minimum of 12 months prior notification before ending an Online Service for Business and Developer customers without providing a successor service excluding free services or preview releases
+4
+I am familiar with traditional Microsoft Support Lifecycle policies such as Mainstream Support and Extended Support phases
+In what ways are the Online Services Support Lifecycle policies similar or different
+The Online Services Support Lifecycle policies differ in some respects from traditional Support Lifecycle policies but are very similar in their underlying principles
+A few key examples are
+Similarities
+Both polices put in place a framework for consistency and predictability for Microsoft s packaged software and Online Services
+As with the Service Pack policy applicable to on premises software Microsoft s Online Services Support Lifecycle policy provides a notification period for customers to plan for and implement changes to their environment
+Changes must be implemented or service degradation or interruption is possible
+As with on premises software security updates are provided for publically supported Online Services at no charge
+Some security updates are applied to Online Services hosted by Microsoft others may require customer action to apply updates to client software
+Differences
+Support is based on the duration of customer s agreement with Microsoft
+As a result there is no General Availability date that begins a support period such as Mainstream Support
+In addition the concept of Extended Support is also not applicable as an Online Service is always fully supported for the duration of the customer s agreement with Microsoft
+Notification of change will be provided while the means of communication may vary depending on the service and may include Support Lifecycle Policy website
+Actual implementation dates for these changes may vary by customer due to the timing of changes in the datacenter
+Online Services may follow a more rapid release cadence in comparison to on premises software
+While remaining current on the latest updates is usually recommended this may prove difficult for some commercial customers
+As a result updates that provide continued backward compatible functionality are a key quality of all Online Services
+Microsoft is committed to not incurring a disruptive change event without providing prior notification to the administrative contact
+5
+I frequently visit the Microsoft Support Lifecycle site to know when my on premises software such as Microsoft Windows leaves support
+How can I prepare to be informed of changes in my Microsoft Online Service
+Customer IT professionals are strongly encouraged to proactively integrate into their planning and maintenance processes the notification alerts provided by their Microsoft Online Service
+These notifications are delivered to the administrative contact declared when the Online Service agreement was originally established
+Note
+While Microsoft will notify customers of changes failure to stay current with compatible client software may result in service degradation or interruption
+For more information on how a Microsoft Online Service provides notifications please visit the website for that Online Service
+6
+Are security updates considered a change by this policy
+No
+Change as defined by the Support Lifecycle policies for Business and Developer Online Services refers solely to non security changes that require a customer or administrator to take action in order to avoid significant degradation to the normal operation of the Online Service
+Rapid deployment of security updates is a crucial and time sensitive activity to preserve the security of your IT infrastructure and company data
+ollapsible element body 

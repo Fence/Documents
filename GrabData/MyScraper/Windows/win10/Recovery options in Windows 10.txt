@@ -1,0 +1,112 @@
+If you re having problems with your PC the following table can help you decide which recovery option to use
+Problem See this section below Your PC isn t working well because of a recently installed app driver or update
+Restore from a system restore point Your PC isn t working well and you re not sure why
+Reset your PC You want to clear all your personal data off of your PC before you donate or recycle it
+Reset this PC Remove everything Remove files and clean this drive Your PC won t start
+Or You tried to reset the PC but encountered the error
+There was a problem resetting your PC
+If you ve previously created a USB recovery driveUse a recovery drive to restore or recover your PC If you haven t created a USB recovery driveUse installation media to restore your PC Use installation media to reinstall Windows 10You recently updated to the latest version of Windows 10 and you want to go back to your previous version of Windows
+Go back to an earlier buildNote
+You only have 10 days to use this option in the latest Windows 10 Anniversary Update
+Show all Restore from a system restore point This option takes your PC back to an earlier point in time called a system restore point
+Restore points are generated when you install a new app driver or Windows update and when you create a restore point manually
+Restoring won t affect your personal files but it will remove apps drivers and updates installed after the restore point was made
+Press and hold or right click the Start button and then select Control Panel
+Search Control Panel for Recovery
+Select Recovery Open System Restore Next
+Choose the restore point related to the problematic app driver or update and then select Next Finish
+Note If you re not seeing any restore points it might be because system protection isn t turned on
+To check go to the Control Panel search for Recovery and then select Recovery Configure System Restore Configure and make sure Turn on system protection is selected
+Reset this PC Resetting lets you choose whether to keep your files or remove them and then reinstalls Windows
+To get started go to Settings Update security Reset this PC Get started and choose an option
+Note If you can t open Settings you can get to reset by restarting your PC from the sign in screen
+Press the Windows logo key Windows logo key L to get to the sign in screen then hold the Shift key down while you select Power Restart in the lower right corner of the screen
+After your PC restarts select Troubleshoot Reset this PC
+OptionWhat it does Keep my filesReinstalls Windows 10 and keeps your personal files
+Removes apps and drivers you installed
+Removes changes you made to settings
+Removes any apps your PC manufacturer installed
+If your PC came with Windows 10 apps from your PC manufacturer will be reinstalled
+Remove everythingReinstalls Windows 10 and removes all your personal files
+Removes apps and drivers you installed
+Removes changes you made to settings
+Removes any apps your PC manufacturer installed
+If your PC came with Windows 10 apps from your PC manufacturer will be reinstalled
+If your computer restarts and prompts you to confirm that you want to clear the TPM press a key to follow the prompt
+If you re planning to donate recycle or sell your PC use this option and choose to fully clean the drive
+This might take an hour or two but it makes it harder for other people to recover files you ve removed
+Restore factory settings Reinstalls the version of Windows that your PC came with either Windows 8 or Windows 8
+1 and removes your personal files
+Removes apps and drivers you installed
+Removes changes you made to settings
+Reinstalls any apps your PC manufacturer installed on your PC
+This option isn t available on all PCs
+Note If you reset your PC within 10 days of your upgrade to Windows 10 the option in Settings that lets you go back to your previous version of Windows will no longer be available
+Use a recovery drive to restore or recover your PC If your PC won t start you can use a recovery drive to restore from a system restore point or reset your PC
+For info on how to create a recovery drive on a working PC see Create a recovery drive
+If you re using a recovery drive created on Windows 10
+Connect the recovery drive and turn on your PC
+On the Choose an option screen select Troubleshoot and then select an option
+If you don t see the Choose your option screen your PC might not be set up to boot from a drive
+Check your PC manufacturer s website for info on how to change your PC s boot order
+Restore from a system restore point by selecting Advanced Options System Restore
+This will remove recently installed apps drivers and updates that might be causing your PC problems but it won t affect your personal files
+You can also Recover from a drive
+This will reinstall Windows 10 unless your PC came with Windows 8 8
+1 and a recovery partition from your PC manufacturer in which case it ll reinstall the version of Windows that came with your PC It ll also remove your personal files apps and drivers you installed and changes you made to settings
+Note If you chose not to back up system files when you created your recovery drive Recover from a drive won t be available
+Use installation media to restore your PC If your PC won t start and you haven t created a recovery drive download installation media and use it to restore from a system restore point
+On a working PC go to the Microsoft software download website
+Download the media creation tool and then run it
+Select Create installation media for another PC
+Choose a language edition and architecture 64 bit or 32 bit Follow the steps to create installation media and then select Finish
+Connect the installation media you created to your nonfunctional PC and then turn it on
+On the initial setup screen enter your language and other preferences and then select Next
+If you re not seeing the setup screen your PC might not be set up to boot from a drive
+Check your PC manufacturer s website for info on how to change your PC s boot order and then try again
+Select Repair your computer
+On the Choose an option screen select Troubleshoot Advanced options System Restore
+This will remove recently installed apps drivers and updates that might be causing your PC problems
+Restoring from a restore point won t affect your personal files
+Use installation media to reinstall Windows 10 Before you follow these steps try resetting your PC using installation media
+If that doesn t work you can use the same installation media to reinstall Windows 10 also called performing a clean installation of Windows Warning This will remove all your personal files apps and drivers you installed apps and customizations from your PC manufacturer and changes you made to settings
+On a working PC go to the Microsoft software download website
+Download the media creation tool and then run it
+Select Create installation media for another PC
+Choose a language edition and architecture 64 bit or 32 bit Follow the steps to create installation media and then select Finish
+Connect the installation media you created to your non functional PC and then turn it on
+On the initial setup screen enter your language and other preferences and then select Next
+If you re not seeing the setup screen your PC might not be set up to boot from a drive
+Check your PC manufacturer s website for info on how to change your PC s boot order and then try again
+Select Install now
+On the Enter the product key to activate Windows page enter a product key if you have one
+If you upgraded to Windows 10 for free or bought and activated Windows 10 from the Windows Store select Skip and Windows will automatically activate later
+For more details see Activation in Windows 10
+On the License terms page select I accept the license terms if you agree to them then select Next
+On the Which type of installation do you want
+page select Custom
+On the Where do you want to install Windows
+page select a partition select a formatting option if necessary and then follow the instructions
+When you ve finished formatting select Next
+Follow the rest of the setup instructions to finish installing Windows 10
+Go back to your previous version of Windows You ll be able to go back to an earlier version by going to Settings Update security Recovery The time you have to go back depends on what version of Windows 10 your PC is running after the upgrade
+For example if your PC is running Windows 10 Version 1511 you have a month to go back to your previous operating system
+If your PC is running the Windows 10 Anniversary Update Version 1607 you have 10 days to go back
+To see what version of Windows 10 your PC is running after you upgrade select the Start button then select Settings System About To go back you ll need to
+Keep everything in the windows
+old and windows
+bt folders after the upgrade
+Remove any user accounts you added after the upgrade
+Know the password you used to sign in to Windows 7 or Windows 8
+1 if you used one Have the USB drive you used to upgrade to Windows 10 if you used one Note If you go back to Windows 8
+1 some apps that came with Windows like Mail and People might not work anymore
+To fix them reinstall them from the Store
+If go back isn t available Check to see if you can restore your PC to factory settings
+This will reinstall the version of Windows that came with your PC and remove personal files apps and drivers you installed and any changes you made to settings
+Go to Settings Update security Recovery Reset this PC Get started and look for Restore factory settings
+If you have a product key for your previous version of Windows use the media creation tool to create installation media for Windows 8
+1 or Windows 7 and use it to do a clean install
+Info for Windows Insiders If you re an Insider and the current preview build isn t working for you go to Settings Update security Recovery Go back to an earlier build
+This won t remove your personal files but it ll remove recently installed apps and drivers and change settings back to their defaults
+Going back to an earlier build won t remove you from the Insider Program
+When the next preview build is ready it ll be installed on your PC

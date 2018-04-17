@@ -1,0 +1,52 @@
+Storage Spaces helps protect your data from drive failures and extend storage over time as you add drives to your PC
+You can use Storage Spaces to group two or more drives together in a storage pool and then use capacity from that pool to create virtual drives called storage spaces
+These storage spaces typically store two copies of your data so if one of your drives fails you still have an intact copy of your data
+If you run low on capacity just add more drives to the storage pool
+Show all What do I need to create a storage space
+You need at least two extra drives in addition to the drive where Windows is installed These drives can be internal or external hard drives or solid state drives
+You can use a variety of types of drives with Storage Spaces including USB SATA and SAS drives
+How do I create a storage space
+Add or connect the drives that you want to group together with Storage Spaces
+Go to the taskbar type Storage Spaces in the search box and select Storage Spaces from the list of search results
+Select Create a new pool and storage space
+Select the drives you want to add to the new storage space and then select Create pool
+Give the drive a name and letter and then choose a layout
+Two way mirror Three way mirror and Parity can help protect the files in the storage space from drive failure
+Enter the maximum size the storage space can reach and then select Create storage space
+Should I create a simple mirror or parity space
+Simple spaces are designed for increased performance but don t protect your files from drive failure
+They re best for temporary data such as video rendering files image editor scratch files and intermediary compiler object files
+Simple spaces require at least two drives to be useful
+Mirror spaces are designed for increased performance and protect your files from drive failure by keeping multiple copies
+Two way mirror spaces make two copies of your files and can tolerate one drive failure while three way mirror spaces can tolerate two drive failures
+Mirror spaces are good for storing a broad range of data from a general purpose file share to a VHD library
+When a mirror space is formatted with the Resilient File System ReFS Windows will automatically maintain your data integrity which makes your files even more resilient to drive failure
+Two way mirror spaces require at least two drives and three way mirror spaces require at least five
+Parity spaces are designed for storage efficiency and protect your files from drive failure by keeping multiple copies
+Parity spaces are best for archival data and streaming media like music and videos
+This storage layout requires at least three drives to protect you from a single drive failure and at least seven drives to protect you from two drive failures
+Should I upgrade my pool
+After you upgrade to Windows 10 we recommend that you upgrade your existing pools
+With an upgraded pool you can optimize drive usage and remove drives from pools without affecting the pool s protection from drive failure
+NoteUpgraded pools aren t compatible with previous versions of Windows
+When should I optimize drive usage
+When you add new drives to an existing pool it s a good idea to optimize drive usage
+This will move some of your data to the newly added drive to make the best use of the pool s capacity
+It ll happen by default when you add a new drive to an upgraded pool in Windows 10 you ll see a check box for Optimize to spread existing data across all drives selected when you add the drive
+However if you cleared that check box or added drives before upgrading a pool you ll need to manually optimize drive usage
+To do so type Storage Spaces in the search box on the taskbar select Storage Spaces from the list of search results and then select Optimize drive usage
+How do I remove a drive from a pool
+If you created a pool in Windows 10 or upgraded an existing pool you ll be able to remove a drive from it
+The data stored on that drive will be moved to other drives in the pool and you ll be free to use the drive for something else
+Go to the taskbar type Storage Spaces in the search box and select Storage Spaces from the list of search results
+Select Change settings Physical drives to see all the drives in your pool
+Find the drive you want to remove and select Prepare for removal Prepare for removal
+Leave your PC plugged in until the drive is ready to be removed
+This could take several hours depending on how much data you have stored there
+Optional To speed up drive preparation prevent your PC from going to sleep
+Type Power and sleep in the search box on the taskbar then select Power sleep settings
+Under When plugged in PC goes to sleep after select Never
+When the drive is listed as Ready to remove select Remove Remove drive
+Now you can disconnect the drive from your PC
+NoteIf you run into problems when you try to prepare the drive for removal it might be because you don t have enough free space in the pool to store all the data from the drive you want to remove
+Try adding a new drive to the pool that s as large as the drive you plan to remove and then try again

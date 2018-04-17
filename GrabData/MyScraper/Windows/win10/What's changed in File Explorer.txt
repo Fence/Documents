@@ -1,0 +1,18 @@
+Like many of the finer things in life File Explorer has gotten better with age
+To check it out in Windows 10 select its icon on the taskbar or the Start menu or press the Windows logo key E on your keyboard
+Here are some noteworthy changes for Windows 10
+OneDrive is now part of File Explorer
+For a quick primer on how it works check out OneDrive on your PC
+When File Explorer opens you ll land in Quick access
+Your frequently used folders and recently used files are listed there so you won t have to dig through a series of folders to find them
+Pin your favorite folders to Quick access to keep them close at hand
+For more info see Pin remove and customize in Quick access
+Now you can use apps to share files and photos right from File Explorer
+Select the files you want to share go to the Share tab select the Share button and then choose an app
+For more info on sharing options see Share files in File Explorer
+If you re coming from Windows 7 here are a couple more differences
+My Computer is now called This PC and it won t show up on your desktop by default
+To find out how to add This PC to your desktop or the Start menu see My Computer is now This PC
+Libraries won t show up in File Explorer unless you want them to
+To add them to the left pane select the View tab Navigation pane Show libraries
+What s new Search and help Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content OneDrive on your PC What s changed in File Explorer Sync across all your devices Back up and restore your files Apps and Store Maps Photos Windows Ink and touch Ease of Access 

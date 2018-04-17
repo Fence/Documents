@@ -1,0 +1,39 @@
+Back to Microsoft Lifecycle home page NOTE
+This FAQ was updated on November 10 2014 with formatting changes
+Show all 1
+What is the lifecycle policy for Windows Embedded Handheld operating systems
+Microsoft will make updates available for the Windows Embedded Handheld Operating System including security updates for a period of 5 years after the lifecycle start date
+Product updates will be incremental with each update built on the update that preceded it
+Customers need to install each update released in order to remain supported
+When a future release doesn t operate on currently supported hardware Microsoft will provide 5 years of support from the date of notice of the upcoming hardware change
+2
+What does the Windows Embedded 8
+1 Handheld Support Lifecycle Policy cover
+Microsoft will make updates available for the Operating System including security updates for a period of 5 years after the lifecycle start date
+Distribution of the updates may be controlled by the mobile operator or the device manufacturer from which you purchased your device
+Update availability will also vary by country region and hardware capabilities
+3
+How does this policy apply to the actual device e
+g
+mobile hardware made by other original equipment manufacturers OEMs Third party products that integrate Microsoft products such as the Windows Embedded 8
+1 Handheld hardware are not included in the Microsoft Support Lifecycle Policy
+Please contact your mobile operator or OEM for more information about support and warranty on your mobile hardware
+4
+What is the support lifecycle policy for subscription services and or applications that are part of Windows Embedded 8
+1 Handheld
+The Windows Embedded 8
+1 Handheld Support Lifecycle Policy covers the Windows Embedded 8
+1 Handheld Operating System
+Downloadable applications and subscription services are supported by the publisher
+5
+Why is Windows Phone 8
+1 support lifecycle 3 years and Windows Embedded 8
+1 Handheld support lifecycle 5 years
+Based on enterprise customer and enterprise handheld OEMs feedback our customers need enterprise class lifecycle support for their operating system to ensure they can stay on a supported platform for longer than the support lifecycle for a mobile operating system
+Therefore the enterprise handheld device lifecycle is greater than the lifecycle for a mobile device
+6
+How do enterprise customers receive support for devices they use based on Windows Embedded Handheld
+Enterprise customers should work through the relevant device manufacture in the case of a bug request security fix and or change request
+Enterprise customers may also choose to work with Microsoft Premier Support
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

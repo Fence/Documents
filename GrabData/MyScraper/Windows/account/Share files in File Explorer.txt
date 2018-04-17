@@ -1,0 +1,30 @@
+Try Microsoft Edge a fast and secure browser that s designed for Windows 10 Get started Store Store home Devices Microsoft Surface PCs tablets Xbox Virtual reality Accessories Windows phone Software Apps Office Windows Additional software Windows apps Windows phone apps Games Entertainment PC games disc Windows digital games Windows phone games Movies TV Music Deals Sale Microsoft Surface deals PC deals Xbox deals More Business Students educators Developer Gift cards Products Software services Windows Office Free downloads security Internet Explorer Microsoft Edge Skype OneNote OneDrive Microsoft Health MSN Bing Microsoft Groove Microsoft Movies TV Devices Xbox All Microsoft devices Microsoft Surface All Windows PCs tablets PC accessories Xbox games Microsoft Lumia All Windows phones Microsoft HoloLens For business Cloud Platform Microsoft Azure Microsoft Dynamics 365 Windows for business Office for business Skype for business Surface for business Enterprise solutions Small business solutions Find a solutions provider Volume Licensing For developers IT pros Develop Windows apps Microsoft Azure MSDN TechNet Visual Studio For students educators Office for students OneNote in classroom Shop PCs tablets perfect for students Microsoft in Education Support Sign in items in cart 0 items in cart 0 var shellInitOptions lcaDisclaimerEnabled
+false suggestedProductTitle Suggested products var meControlInitOptions containerId
+meControl enabled
+true headerHeight
+48 custom
+chevHtml
+i class msame_chev_uhf shell icon dropdown i mobileBreakpoints
+shortHeader
+1084 rpData
+msaInfo
+signInUrl
+SMC Sign In URL signOutUrl
+SMC Sign Out URL accountSettingsUrl
+https
+account
+microsoft
+com switchUrl
+meUrl
+https
+login
+live
+com me
+srf
+wa wsignin1
+0 isSupported
+true aadInfo
+preferredIdp
+msa signInStr
+Sign in signOutStr
+Sign out windows 10windows installer cleanup utilitywindows 10 updatespamactivate windows 10internet explorersystem update readiness toolwindows 10 update failedsurface pro 4windows 10 upgrade failed ASK VIRTUAL AGENT Manage my account Manage my account Ask the community Contact us Find downloads windows 10windows installer cleanup utilitywindows 10 updatespamactivate windows 10internet explorersystem update readiness toolwindows 10 update failedsurface pro 4windows 10 upgrade failed ASK VIRTUAL AGENT Manage my account Manage my account Ask the community Contact us Find downloads windows 10windows installer cleanup utilitywindows 10 updatespamactivate windows 10internet explorersystem update readiness toolwindows 10 update failedsurface pro 4windows 10 upgrade failed ASK VIRTUAL AGENT Manage my account Manage my account Ask the community Contact us Find downloads Manage my account Manage my account Ask the community Contact us Find downloads Support Support Account supportSupported products listMicrosoft Lifecycle Policy Security Security Safety Security CenterDownload Security EssentialsMalicious Software Removal Tool Contact Us Contact Us Report a support scamDisability Answer DeskLocate Microsoft addresses worldwide This site in other countries regions Alg rie Fran ais Argentina Espa ol Australia English Belgique Fran ais Belgi Nederlands Bolivia Espa ol Bosna i Hercegovina Hrvatski Brasil Portugu s Canada English Canada Fran ais Chile Espa ol Colombia Espa ol Costa Rica Espa ol Crna Gora Srpski Danmark Dansk Deutschland Deutsch Dominican Republic Espa ol Ecuador Espa ol Eesti Eesti El Salvador Espa ol Espa a Espa ol Estados Unidos Espa ol France Fran ais Guatemala Espa ol Hong Kong SAR English Hrvatska Hrvatski India English Indonesia Bahasa Bahasa Ireland English Italia Italiano Latvija Latvie u Lietuva Lietuvi Luxembourg Fran ais Magyarorsz g Magyar Malaysia English Maroc Fran ais M xico Espa ol Nederland Nederlands New Zealand English Norge Bokm l Panam Espa ol Paraguay Espa ol Per Espa ol Philippines English Polska Polski Portugal Portugu s Puerto Rico Espa ol Rom nia Rom n Schweiz Deutsch Singapore English Slovenija Sloven ina Slovensko Sloven ina South Africa English Srbija Srpski Suisse Fran ais Suomi Suomi Sverige Svenska Tunisie Fran ais T rkiye T rk e United Kingdom English United States English Uruguay Espa ol Venezuela Espa ol Vi t Nam Ti ng vi t sland slenska sterreich Deutsch esk Republika e tina Alg rie Fran ais Estados Unidos Espa ol Per Espa ol Vi t Nam Ti ng vi t Argentina Espa ol France Fran ais Philippines English sland slenska Australia English Guatemala Espa ol Polska Polski sterreich Deutsch Belgique Fran ais Hong Kong SAR English Portugal Portugu s esk Republika e tina Belgi Nederlands Hrvatska Hrvatski Puerto Rico Espa ol Bolivia Espa ol India English Rom nia Rom n Bosna i Hercegovina Hrvatski Indonesia Bahasa Bahasa Schweiz Deutsch Brasil Portugu s Ireland English Singapore English Canada English Italia Italiano Slovenija Sloven ina Canada Fran ais Latvija Latvie u Slovensko Sloven ina Chile Espa ol Lietuva Lietuvi South Africa English Colombia Espa ol Luxembourg Fran ais Srbija Srpski Costa Rica Espa ol Magyarorsz g Magyar Suisse Fran ais Crna Gora Srpski Malaysia English Suomi Suomi Danmark Dansk Maroc Fran ais Sverige Svenska Deutschland Deutsch M xico Espa ol Tunisie Fran ais Dominican Republic Espa ol Nederland Nederlands T rkiye T rk e Ecuador Espa ol New Zealand English United Kingdom English Eesti Eesti Norge Bokm l United States English El Salvador Espa ol Panam Espa ol Uruguay Espa ol Espa a Espa ol Paraguay Espa ol Venezuela Espa ol 

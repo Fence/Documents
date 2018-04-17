@@ -1,0 +1,14 @@
+Back to Microsoft Lifecycle home page The Windows Server Update Services WSUS 3
+0 SP2 extended support end date has been moved out from July 11 2017 to January 14 2020 to align with Windows Server 2008 SP2 and Windows Server 2008 R2 end of support dates
+As WSUS 3
+0 SP2 is the latest version that is compatible with Windows Server 2008 and Windows Server 2008 R2 Windows server migrations may be required when migrating to WSUS for Windows Server 2012
+Note
+System Center Configuration Manager SCCM 2007 does not support WSUS for Windows Server 2012 so migrations to a newer version of SCCM may be needed
+Small Business Server products that bundle WSUS will also be impacted
+Please see https
+technet
+microsoft
+com en US library mt772341 WS
+11 aspx for more information and links to migration documentation
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

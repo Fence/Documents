@@ -1,0 +1,33 @@
+Back to Microsoft Lifecycle home page NOTE
+This FAQ was updated on November 10 2014 with formatting changes
+Show all 1
+What is the Microsoft Support Lifecycle policy for Office Live Meeting
+The Support Lifecycle policy for the Office Live Meeting service requires that a supported version of the Office Live Meeting client be installed to continue to receive support including security updates Office Live Meeting Service follows the Online Services Support Lifecycle Policy which requires that Microsoft will provide a minimum of 12 months prior notification before ending an Online Service for Business and Developer customers
+Security updates will be available for the Office Live Meeting client during its supported lifecycle
+Updates will be provided through the Microsoft Download Center for the duration of its support lifecycle
+Microsoft advises customers to install the latest version of the Office Live Meeting client including security updates to help ensure maximum functionality and security of the Microsoft Office Live Meeting service
+The most recently released Office Live Meeting client will follow the support lifecycle of the Office Live Meeting Service
+Microsoft Support services will be available for the duration of the customer s agreement with Microsoft for the Online Service
+If you are interested in getting more information on the transition to Lync please visit this site for the Live Meeting to Lync Transition Guide
+2
+What technical support will be provided if a user is not using the current version of the Office Live Meeting client
+In the event of a support request where Microsoft finds that the Live Meeting customer is using an outdated version of the Office Live Meeting client Microsoft Support will advise the customer to upgrade to the most current version of the Office Live Meeting client
+3
+How does support apply to the Office Live Meeting Web Access console
+The Office Live Meeting Web Access console follows the Online Services Support Lifecycle Policy
+4
+How does support apply to the Outlook Add in for Conferencing
+The Microsoft Online Services Support policy does not apply to the Outlook Add in for Conferencing
+5
+How does support apply to the use of the Live Meeting client when used with an on premises Office Communications Server OCS 2007 or Office Communications Server 2007 R2 deployment
+The Online Services Support policy only applies to the usage of the Office Live Meeting client with the Office Live Meeting service
+When used against OCS 2007 or OCS 2007 R2 for a customer s on premises usage the Office LiveMeeting client follows the lifecycle of the OCS server product
+The support lifecycle for OCS can be found here
+6
+How can I identify the version of the Office Live Meeting client installed
+To confirm the version of the Office Live Meeting client currently installed
+Launch the Office Live Meeting client by clicking Start clicking All Programs clicking Microsoft Office Live Meeting and then clicking Microsoft Office Live Meeting
+Click the drop down arrow in the top left corner next to the Office Live Meeting icon and then click About Microsoft Office Live Meeting
+The pop up window will display the version number of the installed Office Live Meeting client
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

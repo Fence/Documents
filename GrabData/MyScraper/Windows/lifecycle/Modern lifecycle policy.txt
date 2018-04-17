@@ -1,0 +1,19 @@
+Back to Microsoft Lifecycle home page Show all 1
+How is Modern defined
+Products governed by the Modern Lifecycle Policy are supported as long as customers stay current as per the servicing and licensing requirements published for the product or service and have the rights to use the product or service
+There is no end of support date assigned
+Microsoft will provide a minimum of 12 months prior notification before ending support for products governed by the Modern Policy without providing a successor product or service excluding free products services or preview releases
+2
+What is included in continuous servicing and support
+Each product or service will be supported according to servicing guidelines for that offering
+Continuous servicing and support may include non security and security updates new product builds new feature requests access to online content including Knowledge Base and webcasts phone support and online support
+Support will be provided continuously as long as customers stay current by following the servicing guidelines for the product or service
+A link to these guidelines may be found under the Notes column when searching by offering on the Microsoft Product Lifecycle Search page
+3
+What does it mean to stay current To stay current a customer must accept all servicing updates and apply them within a specific timeframe per the licensing and service requirements for the product or service
+The requirements may be found under the Notes column when searching by offering on the Microsoft Product Lifecycle Search page
+4
+Will any of the lifecycle policies for already released products change
+No the Modern Lifecycle Policy will not be applied to on premises product versions that have already been released with a different lifecycle policy
+The information on this page is subject to the Microsoft Policy Disclaimer and Change Notice
+Return to this site periodically to review any such changes

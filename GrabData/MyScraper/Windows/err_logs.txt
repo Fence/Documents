@@ -1,0 +1,162 @@
+Error page name: Windows Update Delivery Optimization: FAQ
+Error url: https://support.microsoft.comhttps://privacy.microsoft.com/windows-10-windows-update-delivery-optimization
+
+Error page name: Quick Start: Desktop at work (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825647
+
+Error page name: Get free apps and games in Windows Store
+Error url: https://support.microsoft.com/en-us/instantanswers/8afe96ef-696f-4ddb-ac1f-5181aa02c6aa/get-free-apps-and-games-in-windows-store
+
+Error page name: Report a violation in Windows Store
+Error url: https://support.microsoft.com/en-us/instantanswers/99ba58f2-dabb-41c9-83b0-600cbff1c1bd/report-a-violation-in-windows-store
+
+Error page name: Quick Start: Windows Store (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825673
+
+Error page name: About Wi-Fi Sense
+Error url: https://support.microsoft.comhttps://privacy.microsoft.com/windows-10-about-wifi-sense
+
+Error page name: Reasons Cortana doesn't talk to me
+Error url: https://support.microsoft.com/en-us/instantanswers/131a7184-c601-4993-a863-6473d1e63b0e/reasons-cortana-doesn-t-talk-to-me
+
+Error page name: Using Xbox One Wireless Controllers on a PC
+Error url: https://support.microsoft.comhttp://support.xbox.com/xbox-one/accessories/using-xbox-one-wireless-controllers-on-pc-info
+
+Error page name: Fix printer problems
+Error url: https://support.microsoft.com/en-us/instantanswers/bdff0c68-6204-6025-dcc1-3aefaa14ab40/fix-printer-problems
+
+Error page name: Connect to a network printer (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825668
+
+Error page name: View the print queue
+Error url: https://support.microsoft.com/en-us/instantanswers/61c5d2cc-c2b8-7baf-8c6f-e9646c4cf047/view-the-print-queue
+
+Error page name: Change a printer's status to "online"
+Error url: https://support.microsoft.com/en-us/instantanswers/80725e74-0999-f77e-d8ef-8411099901fd/change-a-printer-s-status-to-online
+
+Error page name: Windows 10 and privacy
+Error url: https://support.microsoft.comhttps://privacy.microsoft.com/windows10privacy
+
+Error page name: Quick Start: Windows Defender (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825669
+
+Error page name: Windows Update Delivery Optimization: FAQ
+Error url: https://support.microsoft.comhttps://privacy.microsoft.com/windows-10-windows-update-delivery-optimization
+
+Error page name: Quick Start: Desktop at work (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825647
+
+Error page name: Pin apps to Start
+Error url: https://support.microsoft.com/en-us/instantanswers/97dbd03e-1f2b-4107-bcbe-e0bdc2f0371d/pin-apps-to-start
+
+Error page name: Quick Start: Windows Store (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825673
+
+Error page name: Use your PC as a mobile hotspot
+Error url: https://support.microsoft.com/en-us/instantanswers/c60dcfa3-c596-41d4-8c1a-b0d738e1d9fd/use-your-pc-as-a-mobile-hotspot
+
+Error page name: About Wi-Fi Sense
+Error url: https://support.microsoft.comhttps://privacy.microsoft.com/windows-10-about-wifi-sense
+
+Error page name: Using Xbox One Wireless Controllers on a PC
+Error url: https://support.microsoft.comhttp://support.xbox.com/xbox-one/accessories/using-xbox-one-wireless-controllers-on-pc-info
+
+Error page name: Create or edit an avatar on Windows 10
+Error url: https://support.microsoft.com/en-us/instantanswers/f3b03567-d6bd-4dc3-a794-cd57f20d6a18/create-or-edit-an-avatar-on-windows-10
+
+Error page name: Connect to a network printer (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825668
+
+Error page name: Open Device Manager
+Error url: https://support.microsoft.com/en-us/instantanswers/005a1acb-776e-4320-b9f2-3a2302a320da/open-device-manager
+
+Error page name: Get to safe mode and other startup settings
+Error url: https://support.microsoft.com/en-us/instantanswers/f40a95aa-1e34-4907-98ba-a308fd10a786/get-to-safe-mode-and-other-startup-settings-in-windows-10
+
+Error page name: Zip and unzip files
+Error url: https://support.microsoft.com/en-us/instantanswers/2df754f6-7039-824c-b5be-6dda11b5075e/zip-and-unzip-files
+
+Error page name: Share files in File Explorer
+Error url: https://support.microsoft.com/en-us/instantanswers/f997eca8-25cf-fccf-ae6a-8d98fc2bcf62/share-files-in-file-explorer
+
+Error page name: Fix OneDrive sync issues
+Error url: https://support.microsoft.com/en-us/instantanswers/8a5b6dbb-6e6a-8bbc-9128-75a1b91d98d2/fix-onedrive-sync-issues
+
+Error page name: Schedule a scan in Windows Defender
+Error url: https://support.microsoft.com/en-us/instantanswers/66eb0a31-2a59-4c90-ba5b-23bcdfb6f185/schedule-a-scan-in-windows-defender
+
+Error page name: Windows 10 and privacy
+Error url: https://support.microsoft.comhttps://privacy.microsoft.com/windows10privacy
+
+Error page name: Turn on device encryption
+Error url: https://support.microsoft.com/en-us/instantanswers/e7d75dd2-29c2-16ac-f03d-20cfdf54202f/turn-on-device-encryption
+
+Error page name: How to encrypt a file
+Error url: https://support.microsoft.com/en-us/instantanswers/c5e573c5-78f0-48dd-a998-181580274cdf/how-to-encrypt-a-file
+
+Error page name: Add an exclusion to Windows Defender
+Error url: https://support.microsoft.com/en-us/instantanswers/64495205-6ddb-4da1-8534-1aeaf64c0af8/add-an-exclusion-to-windows-defender
+
+Error page name: Change notification settings in action center
+Error url: https://support.microsoft.com/en-us/instantanswers/e70a3776-7a55-45c7-80d2-561880563748/change-notification-settings-in-action-center
+
+Error page name: Quick Start: Windows Defender (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825669
+
+Error page name: How do I link duplicate contacts in the People app?
+Error url: https://support.microsoft.com/en-us/instantanswers/3c380636-c958-47f6-a66d-0a7fb301e8b5/how-to-link-duplicate-contacts-in-the-people-app
+
+Error page name: Turn on high contrast mode
+Error url: https://support.microsoft.com/en-us/instantanswers/ece8e1d7-1a7c-473c-a0f4-3c9d66fee295/turn-high-contrast-mode-on-or-off-in-windows
+
+Error page name: Malicious Software Removal Tool
+Error url: https://support.microsoft.comhttps://www.microsoft.com/en-us/download/malicious-software-removal-tool-details.aspx
+
+Error page name: Report a support scam
+Error url: https://support.microsoft.comhttps://www.microsoft.com/reportascam/
+
+Error page name: Disability Answer Desk
+Error url: https://support.microsoft.comhttps://support.microsoft.com/en-us/accessibility/disability-answer-desk
+
+Error page name: Locate Microsoft addresses worldwide
+Error url: https://support.microsoft.comhttps://www.microsoft.com/worldwide
+
+Error page name: Windows Update Delivery Optimization: FAQ
+Error url: https://support.microsoft.comhttps://privacy.microsoft.com/windows-10-windows-update-delivery-optimization
+
+Error page name: Quick Start: Desktop at work (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825647
+
+Error page name: Quick Start: Windows Store (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825673
+
+Error page name: About Wi-Fi Sense
+Error url: https://support.microsoft.comhttps://privacy.microsoft.com/windows-10-about-wifi-sense
+
+Error page name: Using Xbox One Wireless Controllers on a PC
+Error url: https://support.microsoft.comhttp://support.xbox.com/xbox-one/accessories/using-xbox-one-wireless-controllers-on-pc-info
+
+Error page name: Connect to a network printer (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825668
+
+Error page name: Windows 10 and privacy
+Error url: https://support.microsoft.comhttps://privacy.microsoft.com/windows10privacy
+
+Error page name: Quick Start: Windows Defender (PDF)
+Error url: https://support.microsoft.comhttps://go.microsoft.com/fwlink/?linkid=825669
+
+Error page name: Malicious Software Removal Tool
+Error url: https://support.microsoft.comhttps://www.microsoft.com/en-us/download/malicious-software-removal-tool-details.aspx
+
+Error page name: Report a support scam
+Error url: https://support.microsoft.comhttps://www.microsoft.com/reportascam/
+
+Error page name: Disability Answer Desk
+Error url: https://support.microsoft.comhttps://support.microsoft.com/en-us/accessibility/disability-answer-desk
+
+Error page name: Locate Microsoft addresses worldwide
+Error url: https://support.microsoft.comhttps://www.microsoft.com/worldwide
+
+Error page name: Security update
+Error url: https://support.microsoft.com/en-us/help/20556
+

@@ -1,0 +1,146 @@
+If you re having problems getting connected to a network and can t connect to the Internet here are some things you can try in Windows 10
+Things to try firstTry these things first to help you fix or narrow down the connection problem
+Check out Why can t I get online
+and try some of the basic troubleshooting steps mentioned there
+Generate a wireless network report
+This report can help you diagnose the problem or at least provide you with more information to give to others who might be able to help
+In the search box on the taskbar type Command prompt press and hold or right click Command prompt and then select Run as administrator Yes
+At the command prompt type netsh wlan show wlanreport
+This creates an HTML file that you can open in your web browser from the location listed under the command prompt
+For more info about the network report and how to analyze it see Analyze the wireless network report in Fix Wi Fi problems in Windows 10
+Make sure it s not a problem with your cable modem or Internet service provider ISP If it is contact your ISP
+In the search box on the taskbar type Command prompt press and hold or right click Command prompt and then select Run as administrator Yes
+At the command prompt type ipconfig
+Look for the IP address listed next to Default gateway
+Write down that address if you need to
+For example
+192
+168
+1
+1At the prompt type ping DefaultGateway and press Enter
+For example type ping 192
+168
+1
+1 and press Enter
+The result should be something like this
+Reply from 192
+168
+1
+1
+bytes 32 time 5ms TTL 64Reply from 192
+168
+1
+1
+bytes 32 time 5ms TTL 64Reply from 192
+168
+1
+1
+bytes 32 time 5ms TTL 64Reply from 192
+168
+1
+1
+bytes 32 time 5ms TTL 64Ping statistics for 192
+168
+1
+1
+Packets
+Sent 4 Received 4 Lost 0 0 loss Approximate round trip times in milli seconds
+Minimum 4ms Maximum 5ms Average 4msIf the ping is successful and you see results similar to the results above but can t connect to the Internet on your PC there may be a problem with your modem or Internet service provider ISP Update the network adapter driverAn outdated or incompatible network adapter driver can cause connection problems
+If you recently upgraded to Windows 10 it s possible that the current driver was designed for a previous version of Windows
+Check to see if an updated driver is available
+In the search box on the taskbar type Device Manager and then select Device Manager from the list of results
+In Device Manager select Network adapters the network adapter name
+Press and hold or right click the network adapter and then select Update Driver Software Search automatically for updated driver software
+Follow the steps then select Close
+After installing the updated driver select the Start button Power Restart if you re asked to restart and see if that fixes the connection issue
+If Windows can t find a new driver for your network adapter visit the PC manufacturer s website and download the latest network adapter driver from there
+If your PC can t connect to the Internet you ll need to download a driver on a different PC and save it to a USB flash drive so you can manually install the driver on your PC
+You ll need to know the PC manufacturer and model name or number
+To manually install the network adapter driverDo one of the following depending on what kind of file you downloaded from the PC manufacturer s website
+If you downloaded an executable exe file just double click the file to run it and install the drivers
+That should be all you need to do
+If you downloaded individual files and at least one file has a inf file name extension and another has a sys extension do the following
+In the search box on the taskbar type Device Manager and then select Device Manager from the list of results
+In Device Manager select Network adapters the network adapter name
+If it s not listed there check in Other devices
+Press and hold or right click the network adapter and then select Update Driver Software Browse my computer for driver software
+Select Browse select the location where the driver files are stored OK
+Select Next follow the steps to install the driver Close
+After you ve updated the driver select the Start button Power Restart if you re asked to restart and see if that fixes the connection issue
+Roll back the network adapter driverIf you were connected before and recently installed a new network adapter driver rolling back your driver to a previous version might help
+In the search box on the taskbar type Device Manager and then select Device Manager from the list of results
+In Device Manager select Network adapters the network adapter name
+Press and hold or right click the network adapter and then select Properties
+In Properties select the Driver tab select Roll back driver then follow the steps
+If the button is unavailable that means there s no driver to roll back to
+After rolling back to the previous version of the driver select the Start button Power Restart if you re asked to restart and see if that fixes the connection issue
+If Windows can t find a new driver for your network adapter visit the PC manufacturer s website and download the latest network adapter driver from there
+If your PC can t connect to the Internet you ll need to download a driver on a different PC and save it to a USB flash drive so you can manually install the driver on your PC
+You ll need to know the PC manufacturer and model name or number
+Run the Network troubleshooter followed by networking commandsThe Network troubleshooter can help diagnose and fix common connection problems
+Using this troubleshooter then running some networking commands afterwards if needed can help get you connected
+To run the Network troubleshooterIn the search box on the taskbar type Network troubleshooter and then select Identify and repair network problems from the list of results
+Follow the steps in the troubleshooter and see if that fixes the problem
+If that doesn t fix your connection problem try these things
+Reset the TCP IP stackRelease the IP addressRenew the IP addressFlush and reset the DNS client resolver cacheTo run these networking commands in a command prompt windowIn the search box on the taskbar type Command prompt press and hold or right click Command prompt and then select Run as administrator Yes
+At the command prompt run the following commands in the listed order and then check to see if that fixes your connection problem
+Type netsh winsock reset and press Enter
+Type netsh int ip reset and press Enter
+Type ipconfig release and press Enter
+Type ipconfig renew and press Enter
+Type ipconfig flushdns and press Enter
+Temporarily turn off firewallsSometimes firewall software might prevent you from getting connected
+You can see if the connection issue is caused by a firewall by turning it off temporarily and then trying to visit a website you trust
+The steps to turn off a firewall depend on the firewall software you re using
+Check the documentation for your firewall software to learn how to turn it off
+Make sure you turn it back on as soon as you can
+Not having a firewall turned on makes your PC more vulnerable to hackers worms or viruses
+If you have trouble turning off your firewall do the following to turn off all firewall software that s running on your PC
+Again make sure you turn your firewall back on as soon as you can
+To turn off all firewallsIn the search box on the taskbar type Command prompt press and hold or right click Command prompt and then select Run as administrator Yes
+At the command prompt type netsh advfirewall set allprofiles state off and then press Enter
+Open your web browser and visit a website you trust and see if you can connect to it
+To turn on all firewalls you might have installed at the command prompt type netsh advfirewall set allprofiles state on and then press Enter
+If you find the firewall software is causing the connection issues contact the software manufacturer or visit their website to check and see if updated software is available
+Temporarily turn off any antivirus or malware prevention softwareSometimes antivirus or malware prevention software might prevent you from getting connected
+You can see if the connection issue is caused by antivirus and malware prevention software by turning it off temporarily and then trying to visit a website you trust
+If you find it is causing the connection issues contact the software manufacturer or visit their website to see if updated software is available
+The steps to turn off antivirus or malware prevention software depend on the software you re using
+Check the documentation for your software to learn how to turn it off
+Make sure you turn it back on as soon as possible
+Not having antivirus or malware prevention software turned on makes your PC more vulnerable to hackers worms or viruses
+If you re not sure what antivirus or malware prevention software program you have installed Windows might be able to tell you
+To find out what antivirus or malware prevention software is installedIn the search box on the taskbar type System and security and then select Review your computer s status and resolve issues
+Select the down arrow next to Security
+If Windows can detect your antivirus software it s listed under Virus protection
+For malware prevention software look under Spyware and unwanted software protection
+If the antivirus or malware prevention software is on check the documentation for that software to learn how to turn it off
+Make sure you turn your antivirus or malware prevention software back on as soon as you can to make sure your PC is better protected
+Uninstall the network adapter driver and restartIf the previous steps didn t work try to uninstall the network adapter driver and then restart your computer and have Windows automatically install the latest driver
+Consider this approach if your network connection stopped working properly after a recent update
+Before uninstalling make sure you have drivers available as a backup
+Visit the PC manufacturer s website and download the latest network adapter driver from there
+If your PC can t connect to the Internet you ll need to download a driver on a different PC and save it to a USB flash drive so you can install the driver on your PC
+You ll need to know the PC manufacturer and model name or number
+In the search box on the taskbar type Device Manager and then select Device Manager from the list of results
+In Device Manager select Network adapters the network adapter name
+Press and hold or right click the network adapter and then select Uninstall Delete the driver software for this device check box OK to confirm you want to uninstall it
+After uninstalling the driver select the Start button Power Restart
+After your PC restarts Windows will automatically look for and install the network adapter driver
+Check to see if that fixes your connection problem
+If Windows doesn t automatically install a driver try to install the backup driver you saved before uninstalling
+Use network reset to reinstall network devicesUsing network reset should be the last step you try
+Consider using it if the steps above don t help to get you connected
+This can help solve connection problems you might have after upgrading from a previous version of Windows to Windows 10 as well as fix problems where you can connect to the Internet but not to shared network drives
+It removes any network adapters you have installed and the settings for them
+After your PC restarts any network adapters are reinstalled and the settings for them are set to the defaults
+NoteTo use network reset your PC must be running Windows 10 Version 1607
+To see what version of Windows 10 your device is currently running select the Start button then select Settings System About
+Select the Start button then select Settings Network Internet Status Network reset
+On the Network reset screen select Reset now Yes to confirm
+Wait for your PC to restart and see if that fixes the problem
+NotesAfter using network reset you might need to reinstall and set up other networking software you might be using such as VPN client software or virtual switches from Hyper V if you re using that or other network virtualization software Network reset might set each one of your known network connections to a public network mode
+In a public network mode your PC is not discoverable to other PCs and devices on the network which can help make your PC more secure
+However if your PC is part of a homegroup or used for file or printer sharing you ll need to make your PC discoverable again
+To do this go to Settings Network Internet Wi Fi
+On the Wi Fi screen select Manage known networks the network connection you want to change Properties and then turn on the switch under Make this PC discoverable

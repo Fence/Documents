@@ -1,0 +1,18 @@
+Windows 10 helps you take screenshots and record clips of PC games with built in recording no extra gear to buy
+Capture your moment of glory then share it with your friends on social networks and Xbox Live
+Record what just happened To set up to capture moments during play launch your game then press the Windows logo key G on your keyboard to open Game bar
+Select Settings and then select Record game in the background
+With Game bar running in the background press the Windows logo key Alt G
+The last 30 seconds of gameplay will be saved as a game clip
+Record what s happening When something awesome happens in a game press the Windows logo key Alt R to start a recording then press it again to stop recording
+You ll see the screen flash when the recording starts and ends
+If these shortcuts don t work go to the game s settings and look for an option to run the game in a window
+Once it s running in a window press the Windows logo key G and select Yes this is a game
+You should be able to use the shortcuts when the game is full screen again
+Trim to the best parts After you record a clip highlight the best parts or focus on a particular moment by trimming it in the Xbox app
+Open the Xbox app and select Game DVR
+Everything you record using Game bar is listed under On this PC
+Share it with the world When your clip or screenshot is the way you want it in Game DVR select Share to upload it to Xbox Live so friends and other people can enjoy it based on your privacy settings You ll also see your shared stuff when you sign in to Xbox on other devices
+To share your clips and screenshots on other networks select Open folder to see all your captures
+Upload these files to your favorite social networks or send them directly to friends
+What s new Search and help Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox You ve got games Get achievements play anywhere Get more games Play and chat across devices Stream games and TV from your Xbox Record clips of PC games Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access 

@@ -1,0 +1,12 @@
+It s always good to have a backup
+Keep copies of your files on another drive in case something happens to the originals
+Set up your backup Select the Start button select Settings Update security Backup Add a drive and then choose an external drive or network location for your backups
+All set
+Every hour we ll back up everything in your user folder C
+Users username To change which files get backed up or how often backups happen go to More options
+Restore your files If you re missing an important file or folder here s how to get it back
+Type Restore files in the search box on the taskbar and then select Restore your files with File History
+Look for the file you need then use the arrows to see all its versions
+When you find the version you want select Restore to save it in its original location
+To save it in a different place press and hold or right click Restore select Restore to and then choose a new location
+What s new Search and help Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content OneDrive on your PC What s changed in File Explorer Sync across all your devices Back up and restore your files Apps and Store Maps Photos Windows Ink and touch Ease of Access 

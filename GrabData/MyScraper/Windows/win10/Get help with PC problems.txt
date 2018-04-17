@@ -1,0 +1,14 @@
+Get help with computer problems or help someone else with Quick Assist
+The Quick Assist app in Windows 10 enables two people to share a computer over a remote connection so that one person can help solve problems on the other person s computer
+Here s how it works
+The person who needs help gets a code from a designated helper and then uses that code to give permission to the helper
+The helper can then take control of that person s computer and help out
+Note Only give control of your computer to someone you trust
+To get help Select the Start button Windows Accessories Quick Assist
+Select Get assistance and then follow the instructions
+If User Account Control appears select Yes to continue
+Wait for the connection to complete
+To help someone else Select the Start button Windows Accessories Quick Assist
+Select Give assistance and then follow the instructions
+What s new Search and help Search for anything anywhere Search for help Get help with PC problems Send us feedback Protect your PC Why can t I get online
+Setting things up Get connected Start Cortana Windows Hello Microsoft Edge Gaming and Xbox Entertainment Office Settings and personalization Notifications and lock screen Saving and syncing content Apps and Store Maps Photos Windows Ink and touch Ease of Access 

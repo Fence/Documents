@@ -1,0 +1,34 @@
+Sometimes the easiest way to make a copy of something is to take a snapshot of your screen this is what Snipping Tool does
+Use it to save and share news stories movie reviews or recipes
+Capture part or all of your PC screen add notes save the snip or email it right from the Snipping Tool window
+You can capture any of the following types of snips
+Free form Snip
+Draw a free form shape around an object
+Rectangular Snip
+Drag the cursor around an object to form a rectangle
+Window Snip
+Select a window such as a browser window or dialog box that you want to capture
+Full screen Snip
+Capture the entire screen
+After you capture a snip it s automatically copied to the Snipping Tool window
+From there you can annotate save or share the snip
+The following procedures explain how to use Snipping Tool
+Open Snipping ToolFor Windows 10Type Snipping Tool in the search box on the taskbar and then select Snipping Tool
+For Windows 8
+1 Windows RT 8
+1 Swipe in from the right edge of the screen tap Search or if you re using a mouse point to the lower right corner of the screen move the mouse pointer up and then click Search enter Snipping Tool in the search box and then tap or click Snipping Tool
+For Windows 7Click the Start button
+In the search box type Snipping Tool and then in the list of results click Snipping Tool
+Capture a snipIn Snipping Tool select the arrow next to the New button choose the kind of snip you want and then pick the area of your screen that you want to capture
+Capture a snip of a menuAfter you open Snipping Tool open the menu that you want a picture of
+For Windows 7 press Esc before opening the menu
+Press Ctrl PrtScn
+Select the arrow next to the New button choose the kind of snip you want and then pick the area of the screen that you want to capture
+Annotate a snipAfter you capture a snip you can write or draw on or around the snip by selecting the Pen button
+Save a snipAfter you capture a snip select the Save Snip button
+In the Save As box enter a file name location and type and then select Save
+Remove the URLWhen you capture a snip from a browser window and save it as an HTML file the URL appears below the snip
+To prevent the URL from showing up
+In the Snipping Tool select the Options button
+In the Snipping Tools Options box clear the Include URL below snips HTML only check box and select OK
+Share a snipAfter you capture a snip select the arrow next to the Send Snip button and then select an option from the list
