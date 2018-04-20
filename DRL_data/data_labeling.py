@@ -335,11 +335,15 @@ class TextParsing(object):
 
 
 class DataLabeler(object):
-    """docstring for DataLabeler"""
+    """for wikihow dataset: 
+    1. find top 500 'or texts' of home and garden
+    2. text labeling, add annotations: action types, action indexes, object indexes
+    3. add object type, split object indexes by 'or, Or' 
+    """
     def __init__(self):
         self.num_texts = 154
         self.one_line_data = 1
-        self.home = 'win2k' #'ehow' #'cooking' #'win2k' #wikihow
+        self.home = 'wikihow' #'ehow' #'cooking' #'win2k' #wikihow
         self.source = '%s/raw_data/' % self.home
         self.out_path = '%s/out_data/' % self.home
         self.save_file = '%s/%s_data.pkl' % (self.home, self.home)
@@ -347,9 +351,9 @@ class DataLabeler(object):
         self.refined_data = '%s/refined_%s_data.pkl' % (self.home, self.home)
     
 
-    def find_to_or_text_by_category(self):
+    def find_top_or_text_by_category(self):
         print('Loading data...')
-        data = pickle.load(open('wikihow/wikihow_data.pkl', 'rb'))[-1]
+        data = pickle.load(open('wikihow/wikihow_data_100k.pkl', 'rb'))[-1]
         garden = data['Category:Home-and-Garden']
         print(len(garden))
         texts = []
@@ -359,10 +363,11 @@ class DataLabeler(object):
             for i, detail in enumerate(page['detail']):
                 sents = []
                 for step in detail:
-                    text = re.sub(r'\[.*\]|<.*>|/', '', step)
+                    text = re.sub(r'\[.*\]|/', '', step)
                     text = re.sub(r'[\n\r]', ' ', text)
                     tmp_sents = re.split(r'\. |\? |\! ', text)
                     for s in tmp_sents:
+                        s = re.sub(r'<.*>|<*', '', s)
                         if len(s.strip().split()) > 1:
                             sents.append(s.strip())
                 texts.append({'title': page['task'][i], 'sent': sents})
@@ -578,6 +583,10 @@ class DataLabeler(object):
             print('last_text: %d\t last_sent: %d\n' % (i, j))
 
 
+    def add_object_type(self):
+        pass
+
+
     def transfer(self, name):
         _, __, indata = pickle.load(open('%s/labeled_%s_data.pkl'%(name, name),'rb'))
 
@@ -784,7 +793,8 @@ class DataLabeler(object):
             with open(self.save_file, 'rb') as f:
                 texts = pickle.load(f)
                 if self.home == 'wikihow':
-                    _ = texts.pop(87)
+                    _ = texts.pop(87) # skip out of place texts
+                    _ = texts.pop(108)
 
         if os.path.exists(self.save_labeled_data):
             with open(self.save_labeled_data, 'rb') as f:
@@ -799,10 +809,10 @@ class DataLabeler(object):
                     start_text = int(init.split()[0])
                     start_sent = int(init.split()[1])
                     break
-            for i in range(len(data)):
-                for j in range(len(data[i])):
-                    if len(data[i][j]) == 0:
-                        print(i, j)
+            # for i in range(len(data)):
+            #     for j in range(len(data[i])):
+            #         if len(data[i][j]) == 0:
+            #             print(i, j)
             ipdb.set_trace()
         else:
             start_text = start_sent = 0
@@ -877,7 +887,7 @@ class DataLabeler(object):
                             related_acts = []
                         else:
                             act_type = nums[0]
-                            if act_type not in [1, 2, 3]:
+                            if act_type not in [1, 2, 3]: # essential, optional, exclusive
                                 print('Wrong act_type!')
                                 continue
                             if act_type == 3:
@@ -939,9 +949,10 @@ class DataLabeler(object):
 if __name__ == '__main__':
     start = time.time()
     model = DataLabeler()
-    #model.text_labeling()
-    for name in ['win2k', 'wikihow', 'cooking']:
-        model.transfer(name)
+    #model.find_top_or_text_by_category()
+    model.text_labeling()
+    #for name in ['win2k', 'wikihow', 'cooking']:
+    #    model.transfer(name)
     end = time.time()
     print('Total time cost: %.2fs\n' % (end - start))
 
