@@ -584,7 +584,96 @@ class DataLabeler(object):
 
 
     def add_object_type(self):
-        pass
+        with open(self.save_labeled_data, 'rb') as f:
+            data = pickle.load(f)[-1]
+
+        last_sent = last_text = 0
+        out_data = []
+        if os.path.exists(self.refined_data):
+            print('Load data from %s...\n' % self.refined_data)
+            last_text, last_sent, out_data = pickle.load(open(self.refined_data, 'rb'))
+            print('last_text: %d\t last_sent: %d\n' % (last_text, last_sent))
+            while True:
+                init = input('Input last text num and sent num\n')
+                if not init:
+                    print('No input, program exit!\n')
+                if len(init.split()) == 2:
+                    start_text = int(init.split()[0])
+                    start_sent = int(init.split()[1])
+                    break
+            ipdb.set_trace()
+        else:
+            start_text = start_sent = 0
+            out_data = [[] for _ in range(len(data))]
+        try:
+            for i in range(start_text, len(data)):
+                if i == start_text and len(out_data[i]) > 0:
+                    out_sents = out_data[i]
+                else:
+                    out_sents = [{} for _ in range(len(data[i]))] #[]#
+                if i != start_text:
+                    start_sent = 0
+                for j in range(start_sent, len(data[i])):
+                    sent = data[i][j]
+                    if len(sent) == 0: 
+                        #print('\nEmpty sentence: (i=%d, j=%d)\n' % (i, j))
+                        continue
+                    words = sent['last_sent'] + sent['this_sent']
+                    acts = []
+                    or_ind = []
+                    print_change = False
+                    for k, w in enumerate(sent['this_sent']):
+                        if w == 'or':
+                            or_ind.append(k + len(sent['last_sent']))
+
+                    if len(or_ind) == 0:
+                        for act in sent['acts']:
+                            act['obj_idxs'] = [act['obj_idxs'], []]
+                            acts.append(act)
+                    else:
+                        for act in sent['acts']:
+                            split = None
+                            for k in range(len(act['obj_idxs']) - 1):
+                                for oi in or_ind:
+                                    if act['obj_idxs'][k] < oi < act['obj_idxs'][k+1]:
+                                        split = k + 1
+                                        break
+                                if split != None:
+                                    break
+                            if split != None:
+                                print('\nT%d of %d, S%d of %d:' % (i, len(data), j, len(data[i])))
+                                for l, w in enumerate(words):
+                                    print('%s(%d)'%(w, l), end=' ')
+                                print('\n')
+                                print('or_ind: {}\n'.format(or_ind))
+                                print('{}({})'.format(act['act_idx'], act['obj_idxs']))
+                                confirm = input('Split or not? (y/n)\n')
+                                if confirm.lower() == 'y':
+                                    act['obj_idxs'] = [act['obj_idxs'][: split], act['obj_idxs'][split: ]]
+                                    print('{}({}; {})'.format(act['act_idx'], act['obj_idxs'][0], act['obj_idxs'][1]))
+                                    print_change = True
+                                else:
+                                    act['obj_idxs'] = [act['obj_idxs'], []]
+                            else:
+                                act['obj_idxs'] = [act['obj_idxs'], []]
+                            acts.append(act)
+                    if print_change:
+                        print('before: {}\n\nafter : {}\n'.format(sent['acts'], acts))
+                    sent['acts'] = acts
+                    out_sents[j] = sent
+                    #out_sents.append(sent)
+                out_data[i] = out_sents
+                # if(len(out_sents) != len(data[i])):
+                #     #ipdb.set_trace()
+                #     time.sleep(1)
+                #     print('\nlen(out_sents) != len(data[i]): (i=%d, j=%d)\n' % (i, j))
+        except Exception as e:
+            ipdb.set_trace()
+            print(e)
+
+        with open(self.refined_data, 'wb') as f:
+            pickle.dump([i, j, out_data], f, protocol=2)
+            print('last_text: %d\t last_sent: %d\n' % (i, j))
 
 
     def transfer(self, name):
@@ -795,6 +884,8 @@ class DataLabeler(object):
                 if self.home == 'wikihow':
                     _ = texts.pop(87) # skip out of place texts
                     _ = texts.pop(108)
+                    _ = texts.pop(118)
+                    _ = texts.pop(118)
 
         if os.path.exists(self.save_labeled_data):
             with open(self.save_labeled_data, 'rb') as f:
@@ -950,6 +1041,7 @@ if __name__ == '__main__':
     start = time.time()
     model = DataLabeler()
     #model.find_top_or_text_by_category()
+    #model.add_object_type()
     model.text_labeling()
     #for name in ['win2k', 'wikihow', 'cooking']:
     #    model.transfer(name)
