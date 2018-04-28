@@ -608,7 +608,10 @@ class DataLabeler(object):
         try:
             for i in range(start_text, len(data)):
                 if i == start_text and len(out_data[i]) > 0:
-                    out_sents = out_data[i]
+                    if len(out_data[i]) == len(data[i]):
+                        out_sents = out_data[i]
+                    else:
+                        out_sents = [{} for _ in range(len(data[i]))]
                 else:
                     out_sents = [{} for _ in range(len(data[i]))] #[]#
                 if i != start_text:
@@ -660,6 +663,8 @@ class DataLabeler(object):
                     if print_change:
                         print('before: {}\n\nafter : {}\n'.format(sent['acts'], acts))
                     sent['acts'] = acts
+                    if len(out_sents) < j + 1:
+                        out_sents.append({})
                     out_sents[j] = sent
                     #out_sents.append(sent)
                 out_data[i] = out_sents
@@ -677,7 +682,7 @@ class DataLabeler(object):
 
 
     def transfer(self, name):
-        _, __, indata = pickle.load(open('%s/labeled_%s_data.pkl'%(name, name),'rb'))
+        _, __, indata = pickle.load(open('%s/refined_%s_data.pkl'%(name, name),'rb'))
 
         data = []
         tmp_data = {}
@@ -711,15 +716,16 @@ class DataLabeler(object):
                         ai = acts[k]['act_idx']
                         new_act_type = acts[k]['act_type']
                         new_act_idx = ai - b1 + b2
-                        new_obj_idxs = []
-                        for oi in acts[k]['obj_idxs']:
-                            if oi == -1:
-                                new_obj_idxs.append(oi)
-                            else:
-                                new_obj_idxs.append(oi - b1 + b2)
-                        assert len(new_obj_idxs) == len(acts[k]['obj_idxs'])
-                        if len(acts['related_acts']) > 0:
-                            ipdb.set_trace()
+                        new_obj_idxs = [[],[]]
+                        for l in range(2):
+                            for oi in acts[k]['obj_idxs'][l]:
+                                if oi == -1:
+                                    new_obj_idxs[l].append(oi)
+                                else:
+                                    new_obj_idxs[l].append(oi - b1 + b2)
+                            assert len(new_obj_idxs[l]) == len(acts[k]['obj_idxs'][l])
+                        #if len(acts[k]['related_acts']) > 0:
+                        #    ipdb.set_trace()
                         new_related_acts = []
                         acts[k] = {'act_idx': new_act_idx, 'obj_idxs': new_obj_idxs,
                                 'act_type': new_act_type, 'related_acts': new_related_acts}
@@ -737,15 +743,16 @@ class DataLabeler(object):
                     if tmp_act_idx < 0:
                         log['act_reference_1'] += 1
                         #continue
-                    tmp_obj_idxs = []
-                    for oi in obj_idxs:
-                        if oi == -1:
-                            tmp_obj_idxs.append(oi)
-                        else:
-                            tmp_obj_idxs.append(oi - bias)
-                            if oi - bias < 0:
-                                reference_obj_flag = True
-                    assert len(tmp_obj_idxs) == len(obj_idxs)
+                    tmp_obj_idxs = [[],[]]
+                    for l in range(2):
+                        for oi in obj_idxs[l]:
+                            if oi == -1:
+                                tmp_obj_idxs[l].append(oi)
+                            else:
+                                tmp_obj_idxs[l].append(oi - bias)
+                                if oi - bias < 0:
+                                    reference_obj_flag = True
+                        assert len(tmp_obj_idxs[l]) == len(obj_idxs[l])
                     tmp_act_type = acts[k]['act_type']
                     tmp_related_acts = []
                     if len(acts[k]['related_acts']) > 0:
@@ -791,16 +798,17 @@ class DataLabeler(object):
                     if sent[act_idx + bias] != words[act_idx + add_bias]:
                         ipdb.set_trace()
                         print(sent[act_idx + bias], words[act_idx + add_bias])
-                    text_obj_idxs = []
-                    for oi in obj_idxs:
-                        if oi == -1:
-                            text_obj_idxs.append(-1)
-                        else:
-                            text_obj_idxs.append(oi + add_bias)
-                            if sent[oi + bias] != words[oi + add_bias]:
-                                ipdb.set_trace()
-                                print(sent[oi + bias], words[oi + add_bias])
-                    assert len(text_obj_idxs) == len(obj_idxs)
+                    text_obj_idxs = [[],[]]
+                    for l in range(2):
+                        for oi in obj_idxs[l]:
+                            if oi == -1:
+                                text_obj_idxs[l].append(-1)
+                            else:
+                                text_obj_idxs[l].append(oi + add_bias)
+                                if sent[oi + bias] != words[oi + add_bias]:
+                                    ipdb.set_trace()
+                                    print(sent[oi + bias], words[oi + add_bias])
+                        assert len(text_obj_idxs[l]) == len(obj_idxs[l])
                     text_act_type = tmp_acts[k]['act_type']
                     text_related_acts = []
                     if len(tmp_acts[k]['related_acts']) > 0:
@@ -825,15 +833,16 @@ class DataLabeler(object):
             for n in range(len(d['acts'])):
                 act = d['acts'][n]['act_idx']
                 objs = d['acts'][n]['obj_idxs']
-                for obj in objs:
-                    if obj == -1:
-                        continue
-                    if obj - act < lower_bound:
-                        lower_bound = obj - act
-                        print(act, obj)
-                    if obj - act > upper_bound:
-                        upper_bound = obj - act
-                        print(act, obj)
+                for l in range(2):
+                    for obj in objs[l]:
+                        if obj == -1:
+                            continue
+                        if obj - act < lower_bound:
+                            lower_bound = obj - act
+                            print(act, obj)
+                        if obj - act > upper_bound:
+                            upper_bound = obj - act
+                            print(act, obj)
         print('\nupper_bound: {}\tlower_bound: {}\nlog history: {}\n'.format(
             upper_bound, lower_bound, log))
 
@@ -886,6 +895,10 @@ class DataLabeler(object):
                     _ = texts.pop(108)
                     _ = texts.pop(118)
                     _ = texts.pop(118)
+                    _ = texts.pop(122)
+                    _ = texts.pop(123)
+                    _ = texts.pop(126)
+                    _ = texts.pop(126)
 
         if os.path.exists(self.save_labeled_data):
             with open(self.save_labeled_data, 'rb') as f:
@@ -1042,6 +1055,7 @@ if __name__ == '__main__':
     model = DataLabeler()
     #model.find_top_or_text_by_category()
     #model.add_object_type()
+    #model.transfer('wikihow')
     model.text_labeling()
     #for name in ['win2k', 'wikihow', 'cooking']:
     #    model.transfer(name)
